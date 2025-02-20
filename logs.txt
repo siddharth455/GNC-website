@@ -1,0 +1,5 @@
+User visited: /gncupdate/ from: Direct Visit
+User visited: /gncupdate/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php from: http://localhost/gncupdate/
+User visited: /gncupdate/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php from: http://localhost/gncupdate/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php
+User visited: /gncupdate/index.php from: http://localhost/gncupdate/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php
+User visited: /gncupdate/about-us.php from: http://localhost/gncupdate/index.php
