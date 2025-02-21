@@ -293,32 +293,32 @@ excellence in academics and holistic development." />
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <div class="card  shadow-sm">
-                                    <img src="upload/infra/placement-1.webp" class="card-img-top img-fluid" alt="Google Placement">
+                                    <img src="upload/infra/placement-1.webp" class="card-img-top img-fluid" alt="Placement">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-2.webp" class="card-img-top img-fluid" alt="Microsoft Placement">
+                                    <img src="upload/infra/placement-2.webp" class="card-img-top img-fluid" alt="Placement">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-3.webp" class="card-img-top img-fluid" alt="Amazon Placement">
+                                    <img src="upload/infra/placement-3.webp" class="card-img-top img-fluid" alt="Placement">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-4.webp" class="card-img-top img-fluid" alt="Amazon Placement">
+                                    <img src="upload/infra/placement-4.webp" class="card-img-top img-fluid" alt="Placement">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-5.webp" class="card-img-top img-fluid" alt="Amazon Placement">
+                                    <img src="upload/infra/placement-5.webp" class="card-img-top img-fluid" alt="Placement">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-6.webp" class="card-img-top img-fluid" alt="Amazon Placement">
+                                    <img src="upload/infra/placement-6.webp" class="card-img-top img-fluid" alt="Placement">
                                 </div>
                             </div>
                         </div>
@@ -336,41 +336,41 @@ excellence in academics and holistic development." />
                 <h3>Bridging The Gap By Aligning With The Industry</h3>
                 <div class="row text-center">
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/practice.webp" alt="" width="50"><br>
+                        <img src="upload/infra/practice.webp" alt="Training & Placements" width="50"><br>
                         Training & Placements
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/integration.webp" alt="" width="50"><br>
+                        <img src="upload/infra/integration.webp" alt="Work Integrated Programs" width="50"><br>
                         Work Integrated Programs
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/industrial.webp" alt="" width="50"><br>
+                        <img src="upload/infra/industrial.webp" alt="Industry Collaborations" width="50"><br>
                         Industry Collaborations
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/outstanding.webp" alt="" width="50"><br>
+                        <img src="upload/infra/outstanding.webp" alt="Centers of Excellence" width="50"><br>
                         Centers of Excellence
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/users.webp" alt="" width="50"><br>
+                        <img src="upload/infra/users.webp" alt="Executive Development Programs" width="50"><br>
                         Executive Development Programs
                     </div>
                 </div>
                 <div class="row text-center mt-3">
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/community_1.webp" alt="" width="50"><br>
+                        <img src="upload/infra/community_1.webp" alt="Industry Visits" width="50"><br>
                         Industry Visits
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/building_1.webp" alt="" width="50"><br>
+                        <img src="upload/infra/building_1.webp" alt="Industry Advisory Board" width="50"><br>
                         Industry Advisory Board
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/creative-team.webp" alt="" width="50"><br>
+                        <img src="upload/infra/creative-team.webp" alt="Career Competencies" width="50"><br>
                         Career Competencies
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/document.webp" alt="" width="50"><br>
+                        <img src="upload/infra/document.webp" alt="Skill Development" width="50"><br>
                         Skill Development
                     </div>
                 </div>

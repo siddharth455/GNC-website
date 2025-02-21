@@ -53,7 +53,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/hero/radio-4.webp" alt="" class="w-100">
+                                    <img src="upload/hero/radio-4.webp" alt="Paramedical" class="w-100">
                                     <h5>School of Paramedical</h5>
                                     <p>The School of Paramedical Sciences is committed to providing students with the essential knowledge and skills for a thriving career in healthcare. With cutting-edge labs and facilities, we prioritize hands-on training and experiential learning, ensuring our students are well-prepared for real-world challenges and opportunities in the healthcare industry.</p>
                                 </div>
@@ -69,7 +69,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/pharmacy.webp" alt="" class="w-100">
+                                    <img src="upload/pharmacy.webp" alt="Pharmacy" class="w-100">
                                     <h5>School of Pharmacy</h5>
                                     <p>The School of Pharmacy is dedicated to shaping skilled professionals who contribute significantly to the pharmaceutical industry. Through our comprehensive programs and expert faculty, we equip students with the knowledge and skills needed to excel in this competitive and rewarding field, preparing them for a successful career in pharmacy and related sectors.</p>
                                 </div>
@@ -85,7 +85,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/hero/nusrsing-03.webp" alt="" class="w-100">
+                                    <img src="upload/hero/nusrsing-03.webp" alt="Nursing" class="w-100">
                                     <h5>School of Nursing</h5>
                                     <p>The School of Nursing focuses on providing high-quality education and hands-on clinical training, ensuring students are well-prepared to thrive in the healthcare sector. We prioritize developing compassionate, skilled, and competent nursing professionals who are equipped to meet the challenges of the industry and deliver exceptional care to patients in various healthcare settings.</p>
                                 </div>
@@ -115,7 +115,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/hero/para-2.webp" alt="" class="w-100">
+                                    <img src="upload/hero/para-2.webp" alt="Health Science" class="w-100">
                                     <h5>School of Health Science</h5>
                                     <p>The School of Health Science Studies provides hands-on training for students pursuing careers in dynamic healthcare fields. Our programs emphasize real-world applications and industry-relevant skills, ensuring students are well-equipped to meet the demands of the ever-evolving healthcare sector. We focus on preparing graduates for success in various specialized health science professions.</p>
                                 </div>
@@ -131,7 +131,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/hero/food-02.webp" alt="" class="w-100">
+                                    <img src="upload/hero/food-02.webp" alt="Life and Allied Sciences" class="w-100">
                                     <h5>School of Life &amp; Allied Sciences</h5>
                                     <p>Welcome to the School of Life & Allied Sciences at Guru Nanak College, Dehradun. We are a distinguished institution dedicated to advancing education in life sciences and allied fields. Our innovative programs foster intellectual growth, research, and practical skills, preparing students for successful careers and contributions to the scientific community.</p>
                                 </div>
@@ -147,7 +147,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/hero/agri-6.webp" alt="" class="w-100">
+                                    <img src="upload/hero/agri-6.webp" alt="Agriculture Science" class="w-100">
                                     <h5>School of Agriculture Science</h5>
                                     <p>Welcome to the School of Agricultural Science at Guru Nanak College, Dehradun. Our esteemed institution offers diverse programs, including B.Sc. in Agriculture, B.Sc. in Forestry, and M.Sc. degrees in Agronomy, Seed Science and Technology, and Horticulture. We are committed to providing quality education and research opportunities in the field of agriculture.</p>
                                 </div>
@@ -163,7 +163,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/hero/cs-6.webp" alt="" class="w-100">
+                                    <img src="upload/hero/cs-6.webp" alt="Computer Science" class="w-100">
                                     <h5>School of Computer Science</h5>
                                     <p>Welcome to the School of Computer Science at Guru Nanak College, Dehradun. Our institution offers cutting-edge programs designed to equip students with advanced knowledge in computer science and technology. With a focus on innovation, research, and practical skills, we prepare students for successful careers in the rapidly evolving tech industry.</p>
                                 </div>
@@ -179,7 +179,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/hero/bs-4.webp" alt="" class="w-100">
+                                    <img src="upload/hero/bs-4.webp" alt="Business" class="w-100">
                                     <h5>School of Business</h5>
                                     <p>Welcome to the School of Business at Guru Nanak College, Dehradun. We offer a range of programs focused on business management, leadership, and entrepreneurship. Our curriculum blends theoretical knowledge with practical skills, empowering students to excel in the competitive business world and contribute meaningfully to the global economy.</p>
                                 </div>
@@ -195,7 +195,7 @@
                         <div class="card h-100">
                             <div class="card-body p-0">
                                 <div class="college-logo p-0">
-                                    <img src="upload/hero/h-2.webp" alt="" class="w-100">
+                                    <img src="upload/hero/h-2.webp" alt="Hotel Management" class="w-100">
                                     <h5>School of Hotel Management</h5>
                                     <p>Welcome to the School of Hotel Management at Guru Nanak College, Dehradun. Our programs are designed to provide students with a strong foundation in hospitality, management, and service excellence. Through hands-on training and industry exposure, we prepare students to thrive in the dynamic world of hotel management and hospitality services.</p>
                                 </div>

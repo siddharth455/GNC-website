@@ -96,7 +96,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/infra/pharmacy-image.webp" style="width: -webkit-fill-available;">
+                            <img src="upload/infra/pharmacy-image.webp" alt="pharmacy showcase" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

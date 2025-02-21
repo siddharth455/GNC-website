@@ -93,7 +93,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/hero/radio-4.webp" style="width: -webkit-fill-available;">
+                            <img src="upload/hero/radio-4.webp" alt="radiology showcase" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

@@ -148,7 +148,7 @@
   <section class="campus-sport container mt-5 mb-5">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-12 campus-sport-fac">
-        <img src="upload/extra/health.webp" alt="...">
+        <img src="upload/extra/health.webp" alt="health and wellness">
         <h5>Health &amp; Wellness</h5>
         <p>Health and wellness are integral to the student experience at Guru Nanak College, Dehradun, reflecting its commitment to holistic
           development. The college prioritizes physical fitness, mental health, and emotional well-being through various initiatives designed to support a balanced
@@ -159,7 +159,7 @@
           and lead fulfilling lives both during their studies and beyond.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-12 campus-sport-fac">
-        <img src="upload/extra/curricular.webp" alt="...">
+        <img src="upload/extra/curricular.webp" alt="co-curricular activity">
         <h5>Co-Curricular Activities</h5>
         <p>Guru Nanak College, Dehradun, places great emphasis on co-curricular activities, recognizing their vital role in shaping
           well-rounded individuals. The college offers a diverse range of opportunities for students to explore their passions and talents beyond
@@ -170,7 +170,7 @@
           success in all aspects of life.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-12 campus-sport-fac">
-        <img src="upload/extra/international.webp" alt="...">
+        <img src="upload/extra/international.webp" alt="national and international">
         <h5>National &amp; International</h5>
         <p>Guru Nanak College, Dehradun, is committed to providing education that meets both national and international standards, preparing
           students to thrive in a globalized world. The college offers a diverse curriculum that blends academic rigor with practical skills, fostering critical
@@ -181,7 +181,7 @@
           who excel in their chosen fields and contribute meaningfully to both local and international communities.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-12 campus-sport-fac">
-        <img src="upload/extra/ragging.webp" alt="...">
+        <img src="upload/extra/ragging.webp" alt="ragging free campus">
         <h5>Ragging Free Campus</h5>
         <p>Guru Nanak College, Dehradun, takes immense pride in maintaining a ragging-free campus, fostering an environment of respect, inclusivity, and safety for all students. The college strictly adheres to the guidelines of the University Grants Commission (UGC) and other regulatory bodies, ensuring that anti-ragging measures are implemented effectively. A zero-tolerance policy is in place, with strict disciplinary actions for violations, ensuring that every student feels secure and valued.
           The institution actively promotes awareness campaigns to educate students about the harmful effects of ragging and their rights. An Anti-Ragging Committee and a dedicated helpline are available round-the-clock to address any concerns. Senior students are encouraged to mentor and guide juniors, creating a bond of mutual respect and camaraderie.
@@ -194,7 +194,7 @@
       <h2 class="text-center">Our Service Available</h2>
       <div class="card-group" style="gap: 10px;">
         <div class="card">
-          <img src="upload/extra/hostel-1.webp" class="card-img-top" alt="...">
+          <img src="upload/extra/hostel-1.webp" class="card-img-top" alt="hostel">
           <div class="card-body">
             <h5 class="card-title">Hostel</h5>
             <p class="card-text">Guru Nanak College, Dehradun, provides excellent hostel facilities for students, ensuring a comfortable and secure
@@ -204,7 +204,7 @@
           </div>
         </div>
         <div class="card">
-          <img src="upload/extra/infrastructure.webp" class="card-img-top" alt="...">
+          <img src="upload/extra/infrastructure.webp" class="card-img-top" alt="Best Infrastructure">
           <div class="card-body">
             <h5 class="card-title">Best Infrastructure</h5>
             <p class="card-text">Guru Nanak College, Dehradun, boasts state-of-the-art infrastructure designed to enhance the student experience. The
@@ -214,7 +214,7 @@
           </div>
         </div>
         <div class="card">
-          <img src="upload/extra/placement-02.webp" class="card-img-top" alt="...">
+          <img src="upload/extra/placement-02.webp" class="card-img-top" alt="Best Placement">
           <hr style="margin-top: -1.8px;">
           <div class="card-body">
             <h5 class="card-title">Best Placement</h5>
