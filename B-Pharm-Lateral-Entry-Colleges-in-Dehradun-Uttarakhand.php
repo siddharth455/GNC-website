@@ -301,7 +301,7 @@
                         </div>
 
                         <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-2">
-                            <li>The students who have passed 10+2 or had given senior secondary examination with Maths/Biology/Agriculture from any recognized board.</li>
+                            <li>The students who have passed D.Pharm from any recognized university</li>
                             <li>The minimum percentage required is 45% for GENERAL/OBC and 40% for ST/SC.</li>
                         </ul>
 

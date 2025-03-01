@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<link rel="icon" type="image/webp" href="images/logog.webp">
+    <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College | Best Bachelor of Physiotherapy College in Dehradun, Uttarakhand.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join the top Bachelor of Physiotherapy (BPT) program at Guru Nanak College in Dehradun, Uttarakhand With expert faculty, hands-on clinical training, and a modern curriculum, GNC prepares students for successful careers in physiotherapy.">
@@ -62,9 +62,18 @@
                 <div class="col-lg-6">
                     <div class="aboutProgram-section__content">
                         <div class="page-heading">
-                        <h2>Guru Nanak College - Best BPT College in Dehradun, Uttarakhand</h2>
+                            <h2>Guru Nanak College - Best BPT College in Dehradun, Uttarakhand</h2>
                         </div>
-                        <p>The Bachelor of Physiotherapy is a four-year undergraduate degree designed for students interested in a career in physical therapy, a crucial branch of rehabilitative health science. This program provides comprehensive training in physical therapy techniques to treat and rehabilitate patients with movement dysfunctions, injuries, or disabilities.</p>
+                        <p>The Bachelor of Physiotherapy (BPT) is a four-year undergraduate program designed for students
+                            passionate about pursuing a career in physical therapy, a vital field in rehabilitative health sciences.
+                            This program offers in-depth knowledge and hands-on training in physiotherapy techniques,
+                            enabling students to treat and rehabilitate patients suffering from movement disorders, injuries, and
+                            disabilities.</p>
+                        <p>For those seeking the Best BPT College in Dehradun or the Best Physiotherapy College in Dehradun,
+                            it is essential to choose an institution that provides top-tier education, advanced clinical exposure,
+                            and experienced faculty. A well-structured BPT course ensures students gain expertise in anatomy,
+                            biomechanics, electrotherapy, exercise therapy, and physiotherapeutic techniques, preparing them
+                            for rewarding careers in hospitals, rehabilitation centers, and sports clinics.</p>
 
 
                         <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
@@ -352,8 +361,8 @@
                 <h4>Admission Procedure:</h4>
             </div>
             <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
-            <li>Admission to our program is determined by a merit-based selection process, which takes into account the marks obtained in the qualifying examination.</li>
-            <li>Additionally, the university conducts Counselling with all applicants to assess their eligibility for admission.</li>
+                <li>Admission to our program is determined by a merit-based selection process, which takes into account the marks obtained in the qualifying examination.</li>
+                <li>Additionally, the university conducts Counselling with all applicants to assess their eligibility for admission.</li>
             </ul>
         </div>
     </section>
@@ -368,14 +377,14 @@
                         </div>
                         <p>BPT, part of Guru Nanak College's School of Paramedical Sciences, Dehradun, specializes in excellence in health sciences education.</p>
                         <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
-                        <li>Our goal is to develop skilled professionals ready to face global healthcare challenges.</li>
+                            <li>Our goal is to develop skilled professionals ready to face global healthcare challenges.</li>
                             <li>The campus is designed with advanced educational facilities, ensuring a comprehensive learning experience.</li>
                             <li>Students benefit from :</li>
                             <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                            <li>A well-stocked, centrally managed library.</li>
-                                    <li>Modern laboratories equipped with the latest technology.</li>
-                                    <li>Highly qualified and experienced faculty.</li>
-                                    <li>Innovative teaching methods that combine traditional and modern techniques.</li>
+                                <li>A well-stocked, centrally managed library.</li>
+                                <li>Modern laboratories equipped with the latest technology.</li>
+                                <li>Highly qualified and experienced faculty.</li>
+                                <li>Innovative teaching methods that combine traditional and modern techniques.</li>
                             </ul>
                             <li>We emphasize value-based education, focusing on developing critical thinking, problem-solving skills, and a capacity for innovation and research.</li>
                             <li>Recognizing the importance of career readiness, we offer extensive placement training to prepare our students for successful careers in the healthcare sector.</li>
@@ -396,7 +405,7 @@
     <?php
     require "common/footer.php";
     ?>
-   
+
 </body>
 
 </html>
