@@ -328,7 +328,7 @@
             slidesToShow: 7, // Number of slides to show at a time
             slidesToScroll: 1, // Number of slides to scroll at a time
             autoplay: true, // Auto play enabled
-            autoplaySpeed: 250, // Auto play speed in milliseconds
+            autoplaySpeed: 350, // Auto play speed in milliseconds
             dots: false, // Show pagination dots
             arrows: true, // Show navigation arrows
             responsive: [{

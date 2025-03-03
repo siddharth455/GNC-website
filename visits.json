@@ -9,35 +9,9 @@
             "highlights": "Facility tour, presentations, Q&A session",
             "course_participants": "BBA Students",
             "coordinator": "Mr. Bhoopendra Singh Bharti",
-            "contact_person": "Mr. Bhoopendra Singh Bharti 9050204979",
+            "contact_person": "Mr. Bhoopendra Singh Bharti",
             "aim": "To help students witness industry best practices and innovations firsthand.",
             "description": "With the view of enriching the student learning experience. The industrial visit was organized by Department of Management Studies, Guru Nanak College, Dehradun to Tupperware India Pvt. Ltd located at Plot No.11 & 12, Central Hope Town, Selaqui,Uttarakhand-248197 on February 13 2025 for 31 students and a faculty member. The visit aimed to provide students practical experience of corporate operations. Students were given a presentation on Tupperware history and products. They observed manufacturing processes and learned about maintaining hygiene standards. The production unit focuses on Tupperware India Pvt. Ltd. Students gained knowledge about quality control and packaging. They were able to see production and product packaging lines. The visit helped students understand industry expectations for future managers."
-        },
-        {
-            "id": 2,
-            "title": "Industrial Visit to Premier Solar Power Tech Pvt. Ltd.",
-            "date": "04-Oct-2024, 10:00 am",
-            "location": "Premier Solar Power Tech Pvt Ltd., Vikas Nagar, Dehradun",
-            "images": ["upload/infra/industry-6.png","upload/infra/industry-3.png","upload/infra/industry-8.png"],
-            "description": "School of engineering department is organizing an industrial visit for students to experience real-world exposure and bridge the gap between theoretical and practical knowledge.",
-            "highlights": "Facility tour, presentations, Q&A session",
-            "course_participants": "Polytechnic EE and B.Tech (ECE, EE) students",
-            "coordinator": "Mr. Rajeev Kumar, Ms. Renu Yadav",
-            "contact_person": "Mr. Rajeev Kumar: 9050204979",
-            "aim": "To help students witness industry best practices and innovations firsthand."
-        },
-        {
-            "id": 3,
-            "title": "Industrial Visit to Premier Solar Power Tech Pvt. Ltd.",
-            "date": "04-Oct-2024, 10:00 am",
-            "location": "Premier Solar Power Tech Pvt Ltd., Vikas Nagar, Dehradun",
-            "images": ["upload/infra/industry-3.png","upload/infra/industry-1.png","upload/infra/industry-8.png"],
-            "description": "School of engineering department is organizing an industrial visit for students to experience real-world exposure and bridge the gap between theoretical and practical knowledge.",
-            "highlights": "Facility tour, presentations, Q&A session",
-            "course_participants": "Polytechnic EE and B.Tech (ECE, EE) students",
-            "coordinator": "Mr. Rajeev Kumar, Ms. Renu Yadav",
-            "contact_person": "Mr. Rajeev Kumar: 9050204979",
-            "aim": "To help students witness industry best practices and innovations firsthand."
         }
     ]
-}
+} 
