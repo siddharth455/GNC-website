@@ -1,17 +1,33 @@
 {
     "visits": [
         {
-            "id": 1,
+            "id": 2,
+            "banner": "upload/infra/visit-tupper.jpg",
             "title": "Department of Management studies Report on BBA Students Industrial Visit",
             "date": "13 Feb 2025, 10:00 am",
             "location": "Tupperware India Pvt. Ltd located at Plot No.11 & 12, Central Hope Town, Selaqui,Uttarakhand-248197",
             "images": ["upload/infra/industry-1.png","upload/infra/industry-2.png","upload/infra/industry-7.png"],
-            "highlights": "Facility tour, presentations, Q&A session",
+            "highlights": ["Facility tour.", "presentations.", "Q&A session"],
             "course_participants": "BBA Students",
             "coordinator": "Mr. Bhoopendra Singh Bharti",
             "contact_person": "Mr. Bhoopendra Singh Bharti",
             "aim": "To help students witness industry best practices and innovations firsthand.",
             "description": "With the view of enriching the student learning experience. The industrial visit was organized by Department of Management Studies, Guru Nanak College, Dehradun to Tupperware India Pvt. Ltd located at Plot No.11 & 12, Central Hope Town, Selaqui,Uttarakhand-248197 on February 13 2025 for 31 students and a faculty member. The visit aimed to provide students practical experience of corporate operations. Students were given a presentation on Tupperware history and products. They observed manufacturing processes and learned about maintaining hygiene standards. The production unit focuses on Tupperware India Pvt. Ltd. Students gained knowledge about quality control and packaging. They were able to see production and product packaging lines. The visit helped students understand industry expectations for future managers."
-        }
+        },
+        {
+            "id": 1,
+            "banner": "upload/infra/jiomart-banner.jpg",
+            "title": "Department of Management studies Report on BBA Students Industrial Visit",
+            "date": "24 September 2024, 10:00 am",
+            "location": "Jio Mart Store, GMS Road, Dehradun, Uttarakhand-248197",
+            "images": ["upload/infra/industry-6.png","upload/infra/industry-3.png","upload/infra/industry-5.png"],
+            "highlights": ["A guided industrial visit to Jio Mart Store, GMS Road, Dehradun.","Mr. Vikas Tyagi (HR, Jio Mart) provided insights into operations, logistics, retail management, product display, and customer relationship management.","Practical exposure to retail business strategies and store functioning.","Interactive session where students explored store management and customer handling techniques."],
+            "course_participants": "BBA Students",
+            "coordinator": "Mr. Sunil Kr Malik, Head T&P/Dr.Bhoopendra Bharti",
+            "contact_person": "Mr. Bhoopendra Singh Bharti",
+            "aim": "To provide students with real-world exposure to the retail industry and understand how a large retail store operates in terms of supply chain, inventory, and customer engagement.",
+            "description": "On 24th September 2024, BBA 1st-year students from Guru Nanak College visited Jio Mart Store, GMS Road, Dehradun. Mr. Vikas Tyagi (HR, Jio Mart) conducted an insightful session covering store operations, supply chain management, inventory control, retail strategies, and customer engagement. Students toured the store, observing practical applications of retail business management and interacting with staff to understand real-world challenges. BBA Students were able to see production and product packaging lines. The visit helped students understand industry expectations for future managers. The visit aimed to provide students practical experience of corporate operations. Students were given a presentation on Jio Mart history and products. Students gained knowledge about quality control and packaging."
+          }
+          
     ]
 } 

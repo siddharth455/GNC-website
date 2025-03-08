@@ -24,7 +24,7 @@ if (!$visit) {
 
     <div class="container">
         <!-- Top Banner Image -->
-        <img src="upload/infra/visit-tupper.jpg" alt="Event Banner" class="banner-img">
+        <!-- <img src="upload/infra/visit-tupper.jpg" alt="Event Banner" class="banner-img"> -->
         
         <!-- Event Details -->
         <!-- <div class="event-details">
@@ -35,6 +35,9 @@ if (!$visit) {
        
 
         <!-- Event Images -->
+        <?php if (!empty($visit['banner'])): ?>
+    <img src="<?php echo htmlspecialchars($visit['banner']); ?>" alt="Event Banner" class="banner-img">
+<?php endif; ?>
         <h3>Event Images:</h3>
         <div class="image-gallery">
             <?php foreach ($visit['images'] as $image): ?>
@@ -43,7 +46,12 @@ if (!$visit) {
         </div>
 
         <h3>Highlights of the Event:</h3>
-        <p><?php echo nl2br(htmlspecialchars($visit['highlights'])); ?></p>
+<ul>
+    <?php foreach ($visit['highlights'] as $highlight): ?>
+        <li><?php echo htmlspecialchars($highlight); ?></li>
+    <?php endforeach; ?>
+</ul>
+
         <!-- Additional Details -->
         <h3>Course Participants:</h3>
         <p><?php echo htmlspecialchars($visit['course_participants']); ?></p>

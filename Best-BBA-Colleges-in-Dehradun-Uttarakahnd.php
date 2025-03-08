@@ -64,8 +64,22 @@
                         <div class="page-heading">
                             <h2>Guru Nanak College - Best BBA College in Dehradun, Uttarakhand</h2>
                         </div>
-                        <p>The Bachelor of Business Administration (BBA) program at Guru Nanak College, Dehradun, is a comprehensive undergraduate course designed for students aspiring to excel in the field of business and management. This three-year program offers a broad understanding of the fundamental aspects of business administration, including management, finance, marketing, human resources, and entrepreneurship.</p>
-                        <p>The BBA curriculum is structured to provide a solid foundation in business principles, coupled with the development of practical skills essential for success in the business world. It covers a range of subjects such as business economics, accounting principles, organizational behavior, business law, and strategic management. The program also emphasizes the development of soft skills like communication, leadership, and decision-making.</p>
+                        <p>The Bachelor of Business Administration (BBA) program at Guru Nanak College, Dehradun, is a
+                            comprehensive undergraduate course designed for students aspiring to excel in the field of business
+                            and management. Recognized as one of the Best BBA Colleges in Dehradun and the Best BBA
+                            Colleges in Uttarakhand, this three-year program provides a strong foundation in business
+                            administration, equipping students with essential knowledge in management, finance, marketing,
+                            human resources, and entrepreneurship.</p>
+                        <p>The BBA curriculum is structured to deliver a deep understanding of business principles, while also
+                            focusing on the development of practical skills required for success in the corporate world. Students
+                            gain expertise in subjects like business economics, accounting principles, organizational behavior,
+                            business law, and strategic management. Additionally, the program emphasizes soft skills
+                            development, including communication, leadership, and decision-making, ensuring graduates are
+                            well-prepared for leadership roles in the business sector.
+                        </p>
+                        <p>If you are looking for the Best BBA College in Dehradun or the Best BBA College in Uttarakhand,
+                            Guru Nanak College offers an industry-focused curriculum, experienced faculty, and excellent career
+                            opportunities to help students achieve their professional goals.</p>
                         <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
@@ -407,8 +421,8 @@
 </body>
 
 </html>
-<style> 
-.gallery {
+<style>
+    .gallery {
         padding: 50px;
     }
 
@@ -430,4 +444,4 @@
         border-radius: 10px;
         box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
     }
-    </style>
+</style>
