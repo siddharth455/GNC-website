@@ -62,27 +62,38 @@
                 <div class="col-lg-6">
                     <div class="aboutProgram-section__content">
                         <div class="page-heading">
-                            <h2>Guru Nanak College - Best BPT College in Dehradun, Uttarakhand</h2>
+                            <h2><strong>Best BPT College in Dehradun, Uttarakhand- Guru Nanak College, Dehradun</strong></h2>
                         </div>
-                        <p>The Bachelor of Physiotherapy (BPT) is a four-year undergraduate program designed for students
-                            passionate about pursuing a career in physical therapy, a vital field in rehabilitative health sciences.
-                            This program offers in-depth knowledge and hands-on training in physiotherapy techniques,
-                            enabling students to treat and rehabilitate patients suffering from movement disorders, injuries, and
+                        <p>The <b>Bachelor of Physiotherapy (BPT)</b> is a four-year undergraduate program designed for students
+                            passionate about pursuing a career in <b>physical therapy</b>, a vital field in rehabilitative health sciences.
+                            This program offers in-depth knowledge and hands-on training in physiotherapy techniques, enabling
+                            students to treat and rehabilitate patients suffering from movement disorders, injuries, and
                             disabilities.</p>
-                        <p>For those seeking the Best BPT College in Dehradun or the Best Physiotherapy College in Dehradun,
-                            it is essential to choose an institution that provides top-tier education, advanced clinical exposure,
-                            and experienced faculty. A well-structured BPT course ensures students gain expertise in anatomy,
-                            biomechanics, electrotherapy, exercise therapy, and physiotherapeutic techniques, preparing them
-                            for rewarding careers in hospitals, rehabilitation centers, and sports clinics.</p>
+                        <p>For those seeking the <b>Best BPT College in Dehradun</b> or the <b>Best BPT College in Uttarakhand</b>, it is
+                            essential to choose an institution that provides top-tier education, advanced clinical exposure, and
+                            experienced faculty. A well-structured BPT course ensures students gain expertise in <b>anatomy,
+                            biomechanics, electrotherapy, exercise therapy, and physiotherapeutic techniques</b>, preparing them
+                            for rewarding careers in <b>hospitals, rehabilitation centers, and sports clinics.</b></p>
 
 
                         <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
 
                         <div class="page-sub-heading mt-5">
-                            <h3>Career Prospects:</h3>
+                            <h3>Career Prospects: After having a Bachelor of Physiotherapy (BPT) Degree</h3>
                         </div>
-                        <p>The Bachelor of Physiotherapy (BPT) degree equips graduates with a diverse range of career opportunities in the healthcare sector. These professionals are highly sought after in hospitals and clinics, especially in rehabilitation departments. Here, they play a pivotal role in helping patients recover from surgeries, injuries, or manage chronic conditions, focusing on improving mobility and alleviating pain.</p>
-                        <p>Private practice is another popular avenue for BPT graduates. In this setting, they have the opportunity to provide personalized care, addressing various musculoskeletal and neurological issues on an individual basis. This path allows for a more customized approach to physiotherapy, catering to the specific needs of each patient.</p>
+                        <p>The Bachelor of Physiotherapy (BPT) degree equips graduates with a diverse range of career
+                            opportunities in the healthcare sector. These professionals are highly sought after in hospitals and
+                            clinics, especially in rehabilitation departments. Here, they play a pivotal role in helping patients
+                            recover from surgeries, injuries, or manage chronic conditions, focusing on improving mobility and
+                            alleviating pain.</p>
+                        <p>For those looking to build a strong foundation in this field, choosing the Best BPT College in
+                            Dehradun or the Best BPT College in Uttarakhand is crucial. A top-tier institution ensures students
+                            receive comprehensive training, hands-on experience, and exposure to the latest physiotherapy
+                            techniques.</p>
+                        <p>Private practice is another popular avenue for BPT graduates. In this setting, they have the
+                            opportunity to provide personalized care, addressing various musculoskeletal and neurological
+                            issues on an individual basis. This path allows for a more customized approach to physiotherapy,
+                            catering to the specific needs of each patient and ensuring long-term career growth.</p>
 
                     </div>
                 </div>
