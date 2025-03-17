@@ -61,11 +61,11 @@
                         <h4>Paramedical Programs</h4>
                         <h6>Master Program</h6>
                         <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                            <li><a href="#" class="hover-effect">Master of Medical Radio Diagnosis And Imaging Technology</a></li>
+                            <!-- <li><a href="#" class="hover-effect">Master of Medical Radio Diagnosis And Imaging Technology</a></li> -->
                             <li><a href="#" class="hover-effect">Master of Medical Laboratory Technology</a></li>
                             <li><a href="#" class="hover-effect">Master of Physiotherapy</a></li>
-                            <li><a href="#" class="hover-effect">Master of Optometry</a></li>
-                            <li><a href="#" class="hover-effect">Master of Operation Theatre Technology</a></li>
+                            <!-- <li><a href="#" class="hover-effect">Master of Optometry</a></li>
+                            <li><a href="#" class="hover-effect">Master of Operation Theatre Technology</a></li> -->
 
                         </ul>
                     </div>

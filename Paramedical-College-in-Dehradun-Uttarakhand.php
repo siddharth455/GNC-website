@@ -113,10 +113,10 @@ to meet the demands of modern medicine." />
                     <h4>Post-Graduate Paramedical Course's</h4>
                     <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
                         <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun">Master of Medical Laboratory Technology</a></li>
-                        <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand">Master of Medical Radio Diagnosis And Imaging Technology</a></li>
-                        <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand">Master of Operation Theatre Technology</a></li>
+                        <!-- <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand">Master of Medical Radio Diagnosis And Imaging Technology</a></li> -->
+                        <!-- <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand">Master of Operation Theatre Technology</a></li> -->
                         <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand">Master of Physiotherapy</a></li>
-                        <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">Master of Optometry</a></li>
+                        <!-- <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">Master of Optometry</a></li> -->
 
                     </ul>
                 </div>

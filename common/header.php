@@ -312,20 +312,29 @@
                                                                             <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor
                                                                                     of Operation Theatre Technology</a>
                                                                             </li>
-                                                                            <li><a href="master-of-radiology.php">Master
+                                                                            <!-- <li><a href="master-of-radiology.php">Master
                                                                                     of Medical Radio Diagnosis And
-                                                                                    Imaging Technology</a></li>
+                                                                                    Imaging Technology</a></li> -->
                                                                             <li><a href="masters-in-lab-technician.php">Master
                                                                                     of Medical Laboratory Technology</a>
                                                                             </li>
                                                                             <li><a href="master-of-physiotherapy.php">Master
                                                                                     of Physiotherapy</a></li>
-                                                                            <li><a href="master-of-optometry.php">Master of
-                                                                                    Optometry</a></li>
-                                                                            <li><a href="master-of-operation-theatre-technology.php">Master
-                                                                                    of Operation Theatre Technology</a>
+                                                                            <!-- <li><a href="master-of-optometry.php">Master of
+                                                                                    Optometry</a></li> -->
+                                                                            <!-- <li><a href="master-of-operation-theatre-technology.php">Master
+                                                                                    of Operation Theatre Technology</a> -->
                                                                             </li>
                                                                         </ul>
+                                                                        <div class="col-12 mt-2">
+                                                                        <a href="Best-College-For-Computer-Science-in-Dehradun.php">
+                                                                            <h4>Computer Sciences</h4>
+                                                                        </a>
+                                                                        <ul class="list-unstyled p-0 m-0">
+                                                                            <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor
+                                                                                    of Computer Applications</a></li>
+                                                                        </ul>
+                                                                    </div>
                                                                     </div>
                                                                     <div class="col-12 mt-2">
                                                                         <a href="Nursing-College-in-Dehradun-Uttarakhand.php">
@@ -394,15 +403,7 @@
                                                                                     Horticulture</a></li>
                                                                         </ul>
                                                                     </div>
-                                                                    <div class="col-12 mt-2">
-                                                                        <a href="Best-College-For-Computer-Science-in-Dehradun.php">
-                                                                            <h4>Computer Sciences</h4>
-                                                                        </a>
-                                                                        <ul class="list-unstyled p-0 m-0">
-                                                                            <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor
-                                                                                    of Computer Applications</a></li>
-                                                                        </ul>
-                                                                    </div>
+                                                                    
 
                                                                 </div>
                                                             </div>
