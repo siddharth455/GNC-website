@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Science in Food Technology </small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -66,7 +66,7 @@
                         </div>
                         <p>The Bachelor of Science in Food Technology program at the School of Life & Allied Sciences, Guru Nanak College, Dehradun, is an undergraduate course tailored for students interested in the science of food processing and technology. This three-year program focuses on the application of food science and technology in the processing, preservation, packaging, distribution, and use of safe, nutritious, and wholesome food. The curriculum integrates various aspects of food science including food chemistry, food microbiology, food engineering, food safety and quality control, and nutrition.</p>
                         <p>Students enrolled in the B.Sc.Food Technology program will gain knowledge and skills in the techniques of processing, preserving, packaging, and enhancing the quality of food. They will learn about the principles of food processing, food laws and policies, sensory evaluation of food, and the development of new food products. The course also provides practical exposure through laboratory work, industrial visits, and internships in food processing and technology companies.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -375,7 +375,7 @@
                                 </ul>
                             </li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

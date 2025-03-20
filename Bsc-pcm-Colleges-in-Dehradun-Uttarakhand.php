@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Science in PCM </small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -84,7 +84,7 @@ analysis and breakthrough innovations.</p>
 computational physics, chemical informatics, and mathematical modeling, thereby broadening the
 professional vistas for graduates. Guru Nanak College in Dehradun, Uttarakhand, stands out as the
 premier institution for aspiring scientists to pursue their B.Sc. PCM degree.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -393,7 +393,7 @@ premier institution for aspiring scientists to pursue their B.Sc. PCM degree.</p
                             </ul>
                             </li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

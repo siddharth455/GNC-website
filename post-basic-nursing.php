@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Basic Nursing</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -66,7 +66,7 @@
                         </div>
                         <p>The Post Basic Bachelor of Science in Nursing (P.B.B.Sc. Nursing) is a two-year undergraduate degree designed for registered nurses to advance their knowledge and skills. This program provides in-depth education and training in advanced nursing practices, emphasizing patient care, health promotion, leadership, and community health, preparing graduates for diverse roles in the healthcare sector.</p>
                         <p>Throughout the program, students build advanced knowledge in subjects like human anatomy, physiology, microbiology, and psychology. The curriculum incorporates extensive clinical training, offering hands-on experience in diverse healthcare settings. This practical component is essential for enhancing skills in patient assessment, medication administration, care management, and effective collaboration with healthcare teams.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -380,7 +380,7 @@
                             </ul>
                             <li>We prioritize value-based education, emphasizing the development of critical thinking, problem-solving skills, and a flair for innovation and research. Understanding the significance of career preparedness, we provide comprehensive placement training, equipping our students for thriving careers in the nursing and healthcare sectors.</li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

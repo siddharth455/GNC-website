@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Medical Laboratory Technology</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -76,7 +76,7 @@ fulfilling career in medical laboratory technology.</p>
 <p>Choosing the best BMLT college in Dehradun ensures you get a high-quality education, while best
 BMLT college in Uttarakhand provides you with an opportunity to learn in a progressive academic
 environment with global standards.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -388,7 +388,7 @@ environment with global standards.</p>
                             <li>We emphasize value-based education, focusing on developing critical thinking, problem-solving skills, and a capacity for innovation and research.</li>
                             <li>Recognizing the importance of career readiness, we offer extensive placement training to prepare our students for successful careers in the healthcare sector.</li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

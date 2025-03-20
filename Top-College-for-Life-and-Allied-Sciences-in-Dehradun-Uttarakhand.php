@@ -41,7 +41,7 @@ environmental science." />
                                     <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Life &amp; Allied Sciences</span><br><big>Guru Nanak College</big></h2>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College promotes an inclusive environment, combining academic excellence, research opportunities, and extra-curricular activities. The School of Life & Allied Sciences offers a holistic approach to education and personal growth.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
-                                        <a href="https://admission.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
+                                        <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
                                     </div>
                                 </div>
                             </div>
@@ -88,7 +88,7 @@ environmental science." />
                                 <li><a href="https://www.facebook.com/gncmh" class="fab fa-facebook" target="_blank"></a></li>
 
                             </ul>
-                            <a href="https://admission.gnc.edu.in/" class="btn btn-md btn-primary" target="_blank">Apply Now <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary" target="_blank">Apply Now <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                         <!-- End Buttons Box -->
                         <!-- Social Box -->
@@ -141,7 +141,7 @@ environmental science." />
             <div class="row"> <!-- Adjusted: Added align-items-center class -->
                 <div class="col-lg-9 text-white">
                     <p>To download the brochure, simply click on the "Download" button. We recommend saving it on your device and referring it to whenever necessary. Our aim is to maintain transparency in all our processes, and we believe that providing clear information about our offerings is a step in that direction.</p>
-                    <a class="cu-btn cu-btn-100 text-center mt-2 mb-2" href="https://admission.gnc.edu.in/">Apply Online</a>
+                    <a class="cu-btn cu-btn-100 text-center mt-2 mb-2" href="https://application.gnc.edu.in/">Apply Online</a>
                     <a class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0" href="upload/gnc-brochure.pdf">Download</a>
                 </div>
                 <div class="col-lg-3">

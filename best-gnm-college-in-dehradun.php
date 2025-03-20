@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Nursing and Midwifery(GNM)</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -66,7 +66,7 @@
                         </div>
                         <p>General Nursing and Midwifery (GNM) is an essential healthcare course designed for individuals aspiring to enter the nursing and midwifery profession. This diploma program, which usually spans three and a half years, encompasses a comprehensive curriculum that combines theoretical knowledge with extensive practical training.</p>
                         <p>The GNM course aims to prepare students to deliver high-quality care in various healthcare settings. It covers a wide range of subjects, including human anatomy, physiology, nutrition, psychology, and principles of nursing. The program also focuses on maternal and child health, providing specialized training in midwifery.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -380,7 +380,7 @@
                             </ul>
                             <li>We prioritize value-based education, emphasizing the development of critical thinking, problem-solving skills, and a flair for innovation and research. Understanding the significance of career preparedness, we provide comprehensive placement training, equipping our students for thriving careers in the nursing and healthcare sectors.</li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Science in Botany</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -77,7 +77,7 @@ plants. The course also emphasizes practical skills and research methodologies, 
 conduct scientific experiments and field studies in botany.</p>
 <p>Guru Nanak College - Best M.Sc in Botany College in Dehradun, Uttarakhand provides an exceptional
 platform for aspiring botanists to advance their academic and professional careers.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -385,7 +385,7 @@ platform for aspiring botanists to advance their academic and professional caree
                             </ul>
                             <li>The program is designed to equip students with a thorough understanding of plant biology, preparing them for a wide range of professional roles in the botanical and environmental sciences. With a combination of academic rigor and practical experience, graduates are well-prepared for careers in research, academia, and various sectors where botanical expertise is valued.</li> 
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

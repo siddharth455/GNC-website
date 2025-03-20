@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Science in Physics</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -76,7 +76,7 @@ methodologies, enabling students to undertake significant research projects in v
 physics.</p>
 <p>Guru Nanak College - Best M.Sc in Physics College in Dehradun, Uttarakhand offers an excellent platform
 for aspiring physicists to advance their academic and professional careers</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -384,7 +384,7 @@ for aspiring physicists to advance their academic and professional careers</p>
                             </ul>
                             <li>The program is designed to provide students with a solid foundation in physics, preparing them for diverse professional roles or further academic pursuits. With its blend of rigorous theoretical learning and practical experimentation, the M.Sc. Physics program at Guru Nanak College is an excellent choice for students aspiring to become leaders in the field of physics.</li> 
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

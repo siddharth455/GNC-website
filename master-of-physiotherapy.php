@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Physiotherapy</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -65,7 +65,7 @@
                         <h2>Guru Nanak College - Best Master of Physiotherapy College in India</h2>
                         </div>
                         <p>The Master of Physiotherapy is a two-year postgraduate degree designed for students pursuing advanced expertise in physical therapy, a vital field of rehabilitative health science. This program offers specialized training in therapeutic techniques to assess, treat, and rehabilitate patients with movement disorders, injuries, or physical disabilities.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -376,7 +376,7 @@
                             <li>We emphasize value-based education, focusing on developing critical thinking, problem-solving skills, and a capacity for innovation and research.</li>
                             <li>Recognizing the importance of career readiness, we offer extensive placement training to prepare our students for successful careers in the healthcare sector. </li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

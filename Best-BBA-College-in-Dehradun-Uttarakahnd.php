@@ -3,16 +3,22 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best BBA College in Dehradun, Uttarakhand</title>
+    <title>>Best BBA Colleges in Dehradun| BBA Course| GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College in Dehradun, Uttarakhand, offers the best BBA program with top-notch faculty, state-of-the-art facilities, and a dynamic curriculum designed to prepare students for successful careers in business. Enroll now for a transformative educational experience!">
-    <link rel="canonical" href="https://gnc.edu.in/Best-BBA-Colleges-in-Dehradun-Uttarakahnd">
+    <meta name="description" content="Guru Nanak College is the best BBA College in Dehradun,
+Uttarakhand, offering BBA Course that enhances students' Management, entrepreneurial, and
+communication skills with its expert faculties.">
+    <link rel="canonical" href="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd">
     <meta property="og:locale" content="en_US" />
+    <meta name="keywords" content="BBA Colleges in Dehradun, BBA Colleges in Uttarakhand, Best
+BBA Colleges in Dehradun,Top BBA Colleges in Dehradun" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
-    <meta property="og:description" content="Guru Nanak College in Dehradun, Uttarakhand, offers the best BBA program with top-notch faculty, state-of-the-art facilities, and a dynamic curriculum designed to prepare students for successful careers in business. Enroll now for a transformative educational experience!" />
-    <meta property="og:url" content="https://gnc.edu.in/Best-BBA-Colleges-in-Dehradun-Uttarakahnd" />
-    <meta property="og:site_name" content="GNC Dehradun" />
+    <meta property="og:title" content="Best BBA Colleges in Dehradun| Guru Nanak College" />
+    <meta property="og:description" content="Guru Nanak College is the best BBA College in
+Dehradun, Uttarakhand, offering BBA Course that enhances students' Management,
+entrepreneurial, and communication skills." />
+    <meta property="og:url" content="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd" />
+    <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="383" />
@@ -37,7 +43,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Business Administration</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -80,7 +86,7 @@
                         <p>If you are looking for the <b>Best BBA College in Dehradun</b> or the <b>Best BBA College in Uttarakhand,
                             Guru Nanak College</b> offers an industry-focused curriculum, experienced faculty, and excellent career
                             opportunities to help students achieve their professional goals.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -401,7 +407,7 @@
                             </ul>
                             <li>The program is designed to equip students with a blend of theoretical knowledge and practical skills, preparing them for the dynamic world of business and opening doors to diverse career paths. With robust academic support and career counseling, students are well-prepared for their future professional endeavors in the field of business administration.</li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

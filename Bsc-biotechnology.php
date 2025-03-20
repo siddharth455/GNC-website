@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Science in Biotechnology </small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -66,7 +66,7 @@
                         </div>
                         <p>The Bachelor of Science in Biotechnology program at the School of Life & Allied Sciences, Guru Nanak College, Dehradun, is an innovative undergraduate course designed for students who are enthusiastic about the intersection of biology and technology. This three-year program offers a comprehensive study of the application of biological systems and organisms to develop new technologies and products that help improve our lives and the health of our planet. The curriculum encompasses a wide range of subjects including molecular biology, genetics, biochemistry, cell biology, and various biotechnological techniques.</p>
                         <p>Students in the B.Sc. Biotechnology programs are exposed to the theoretical and practical aspects of biotechnology, including DNA technology, bioinformatics, genetic engineering, and fermentation technology. The course aims to provide a deep understanding of how biotechnology can be applied in areas such as medicine, agriculture, environmental conservation, and pharmaceuticals.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -375,7 +375,7 @@
                             </ul>
                             </li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

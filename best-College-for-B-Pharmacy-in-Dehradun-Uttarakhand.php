@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Guru Nanak College <br> Best Bachelor of Pharmacy (B.Pharm) <br><small>College in Dehradun, Uttarakhand </small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -66,7 +66,7 @@
                         </div>
                         <p>The Bachelor of Pharmacy (B.Pharm) is a fundamental undergraduate degree for those interested in the pharmaceutical industry. This course, typically spanning four years, provides comprehensive education in the science and practice of pharmacy. It covers a range of subjects including pharmaceutical chemistry, pharmacology, pharmaceutics, and pharmacognosy.</p>
                         <p>Students in the B.Pharm program gain a deep understanding of drug therapy, medication management, and the ethical and legal aspects of pharmacy practice. The course emphasizes both theoretical knowledge and practical skills, preparing graduates for diverse roles in healthcare, research, drug development, and the pharmaceutical industry. The degree is a stepping stone for those aspiring to become licensed pharmacists or to pursue further studies and research in the field.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -377,7 +377,7 @@
                             </li>
                             <li>We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students. Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

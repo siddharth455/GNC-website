@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Computer Applications</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -66,7 +66,7 @@
                         </div>
                         <p>The Bachelor of Computer Applications (BCA) at Guru Nanak College, Dehradun, is an undergraduate program designed for students aiming to build a career in the field of computer applications and information technology. This three-year course offers an in-depth understanding of computer science, information technology, and various software applications. The curriculum is tailored to provide both theoretical knowledge and practical skills in programming languages, database management, software engineering, web development, and computer networks.</p>
                         <p>The BCA program covers a wide spectrum of topics including, but not limited to, fundamentals of computer systems, software development, programming languages (like C, C++, Java), web technologies, operating systems, and digital marketing. This course also introduces students to emerging areas in IT like mobile application development, cloud computing, and cyber security.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -375,7 +375,7 @@
                             </ul>
 
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

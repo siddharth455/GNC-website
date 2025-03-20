@@ -40,7 +40,7 @@ Offered: B.Sc Agriculture, B.Sc. Forestry, M.Sc Agronomy. " />
                                     <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Agriculture Sciences</span><br><big>Guru Nanak College</big></h2>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Agricultural Sciences emphasizes sustainable practices, innovative research, and holistic development for future agricultural professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
-                                        <a href="https://admission.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
+                                        <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
                                     </div>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@ Offered: B.Sc Agriculture, B.Sc. Forestry, M.Sc Agronomy. " />
                                 <li><a href="https://www.facebook.com/gncmh" class="fab fa-facebook" target="_blank"></a></li>
 
                             </ul>
-                            <a href="https://admission.gnc.edu.in/" class="btn btn-md btn-primary" target="_blank">Apply Now <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary" target="_blank">Apply Now <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                         <!-- End Buttons Box -->
                         <!-- Social Box -->
@@ -132,7 +132,7 @@ Offered: B.Sc Agriculture, B.Sc. Forestry, M.Sc Agronomy. " />
             <div class="row"> <!-- Adjusted: Added align-items-center class -->
                 <div class="col-lg-9 text-white">
                     <p>To download the brochure, simply click on the "Download" button. We recommend saving it on your device and referring it to whenever necessary. Our aim is to maintain transparency in all our processes, and we believe that providing clear information about our offerings is a step in that direction.</p>
-                    <a class="cu-btn cu-btn-100 text-center mt-2 mb-2" href="https://admission.gnc.edu.in/">Apply Online</a>
+                    <a class="cu-btn cu-btn-100 text-center mt-2 mb-2" href="https://application.gnc.edu.in/">Apply Online</a>
                     <a class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0" href="upload/gnc-brochure.pdf">Download</a>
                 </div>
                 <div class="col-lg-3">

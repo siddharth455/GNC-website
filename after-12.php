@@ -35,7 +35,7 @@
                                     <h2 class="animate__animated animate__fadeInUp animate__delay-1s">Occupation Focused<br><span>Educational Pathways</span><br><big>After 12th </big></h2>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Unleash your potential, build lifelong connections, and prepare for a future filled with possibilities in healthcare.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
-                                        <a href="https://admission.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
+                                        <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
                                     </div>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@
                         <h4>Business School</h4>
 
                         <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                            <li><a href="https://gnc.edu.in/Best-BBA-Colleges-in-Dehradun-Uttarakahnd">Bachelor of Business Administration (BBA) - 3 Year's</a></li>
+                            <li><a href="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd">Bachelor of Business Administration (BBA) - 3 Year's</a></li>
                             <!-- <li><a href="https://gnc.edu.in/Best-B.com-Colleges-in-Dehradun" >Bachelor of Commerce - 3 Year's</a></li> -->
                         </ul>
                     </div>

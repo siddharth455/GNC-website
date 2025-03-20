@@ -34,7 +34,7 @@
                                 <div class="upper-banner-content">
                                     <h3 class="mb-1 mt-3">Admissions Overview<br><small>Guru Nanak College, Dehradun offers diverse undergraduate and postgraduate programs. With a merit-based admission process, experienced faculty, and state-of-the-art facilities, we provide an excellent platform for academic and professional growth. </small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
                                 </a>
                             </div>

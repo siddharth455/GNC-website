@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Medical Radio Diagnosis And <br>Imaging Technology</small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -65,7 +65,7 @@
                         <h2>Guru Nanak College - Best Master of Medical Radio Diagnosis And Imaging Technology College in India</h2>
                         </div>
                         <p>A Master of Medical Radio Diagnosis and Imaging Technology (MMRIT) is a two-year postgraduate program aimed at preparing students for advanced roles in medical imaging. This program equips professionals to expertly operate and maintain medical imaging equipment while specializing in techniques used for diagnostic and therapeutic purposes. Medical imaging plays a crucial role in healthcare by utilizing advanced technology to create detailed images of the body for accurate diagnosis and treatment.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -377,7 +377,7 @@
                             <li>We emphasize value-based education, focusing on developing critical thinking, problem-solving skills, and a capacity for innovation and research.</li>
                             <li>Recognizing the importance of career readiness, we offer extensive placement training to prepare our students for successful careers in the healthcare sector. </li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

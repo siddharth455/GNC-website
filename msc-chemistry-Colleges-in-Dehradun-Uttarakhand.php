@@ -37,7 +37,7 @@
                                     </div>
                                     <h3 class="mb-1 mt-3">Science in Food Technology </small></h3>
                                 </div>
-                                <a href="https://admission.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
+                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
 
                                 </a>
@@ -66,7 +66,7 @@
                         </div>
                         <p>The Master of Science in Food Technology program at Guru Nanak College, Dehradun, is a postgraduate course designed for students aiming to specialize in the science of food processing and technology. This two-year program offers advanced knowledge and skills related to the processing, preservation, quality control, and safety of food products. The curriculum includes a comprehensive study of food chemistry, food microbiology, food engineering, food packaging, and nutrition.</p>
                         <p>The M.Sc. Food Technology course is structured to blend theoretical principles with practical applications in the field of food science. Students will learn about the latest technologies and methods used in food processing, techniques for ensuring food safety and quality, and the development of new food products. The program also covers important aspects such as sensory evaluation of food, food laws and regulations, and the impact of food technology on public health and nutrition.</p>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
@@ -374,7 +374,7 @@
                             </ul>
                             <li>The program is designed to equip students with a thorough understanding of food science principles and practical skills, preparing them for successful careers in the dynamic and growing field of food technology. With a combination of academic rigor and industry relevance, graduates are well-prepared to meet the challenges and opportunities in the global food industry.</li>
                         </ul>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">

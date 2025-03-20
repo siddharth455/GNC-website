@@ -291,7 +291,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-info btn-shadow mt-1" style="color:white">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-info btn-shadow mt-1" style="color:white">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
             </div>
         </div>
     </section>

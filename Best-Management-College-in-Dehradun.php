@@ -40,7 +40,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
                                     <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Management</span><br><big>Guru Nanak College</big></h2>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Management emphasizes leadership skills, strategic thinking, and holistic development for future business professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
-                                        <a href="https://admission.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
+                                        <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
                                     </div>
                                 </div>
                             </div>
@@ -86,7 +86,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
                                 <li><a href="https://www.facebook.com/gncmh" class="fab fa-facebook" target="_blank"></a></li>
 
                             </ul>
-                            <a href="https://admission.gnc.edu.in/" class="btn btn-md btn-primary" target="_blank">Apply Now <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary" target="_blank">Apply Now <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                         <!-- End Buttons Box -->
                         <!-- Social Box -->
@@ -101,7 +101,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
                 <div class="col-lg-6 col-md-6 col-12">
                     <h4>Under-Graduate Management Course's</h4>
                     <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/Best-BBA-Colleges-in-Dehradun-Uttarakahnd">Bachelor of Business Administration</a></li>
+                        <li><a href="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd">Bachelor of Business Administration</a></li>
                     </ul>
 
                 </div>
@@ -149,7 +149,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
             <div class="row"> <!-- Adjusted: Added align-items-center class -->
                 <div class="col-lg-9 text-white">
                     <p>To download the brochure, simply click on the "Download" button. We recommend saving it on your device and referring it to whenever necessary. Our aim is to maintain transparency in all our processes, and we believe that providing clear information about our offerings is a step in that direction.</p>
-                    <a class="cu-btn cu-btn-100 text-center mt-2 mb-2" href="https://admission.gnc.edu.in/">Apply Online</a>
+                    <a class="cu-btn cu-btn-100 text-center mt-2 mb-2" href="https://application.gnc.edu.in/">Apply Online</a>
                     <a class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0" href="upload/gnc-brochure.pdf">Download</a>
                 </div>
                 <div class="col-lg-3">

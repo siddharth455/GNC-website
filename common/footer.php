@@ -48,7 +48,7 @@
                     <h5>Live Here</h5>
                     <ul class="m-0 list-unstyled">
                         <li><a href="https://www.gnc.edu.in/contact">Contact Us</a></li>
-                        <li><a href="https://admission.gnc.edu.in/">Apply Now</a></li>
+                        <li><a href="https://application.gnc.edu.in/">Apply Now</a></li>
                         <li><a href="https://www.gnc.edu.in/campus-life">Campus Life Overview</a></li>
                         <li><a href="https://www.gnc.edu.in/about-us">About Us</a></li>
                         <li><a href="https://wa.me/917300900900?text=Hi GNC" target="_blank">Chat on WhatsApp</a></li>
@@ -100,7 +100,7 @@
 
 </footer>
 <div class="footer-fixed-bar d-lg-none">
-  <a href="https://admission.gnc.edu.in/" target="_blank"><button type="button"  class="page-scroll" aria-label="Guru Nanak College Home page">APPLY NOW -
+  <a href="https://application.gnc.edu.in/" target="_blank"><button type="button"  class="page-scroll" aria-label="Guru Nanak College Home page">APPLY NOW -
   2025-26</button></a>  
 </div>
 

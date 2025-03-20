@@ -46,7 +46,7 @@
             <div class="modal-content ">
                 <div class="modal-body " style="padding: 0;">
                     <button type="button" class="btn-close text-white" data-bs-dismiss="modal" aria-label="Close" style="position: absolute;right: 10px;top: 10px;"></button>
-                    <a href="https://admission.gnc.edu.in/?utm_source=Website&utm_medium=popup&utm_campaign=popup_2024-25"><img src="upload/gnc-popup-banner.webp" alt="gnc-banner" class="w-100 img-fluid" width="80%"></a>
+                    <a href="https://application.gnc.edu.in/?utm_source=Website&utm_medium=popup&utm_campaign=popup_2024-25"><img src="upload/gnc-popup-banner.webp" alt="gnc-banner" class="w-100 img-fluid" width="80%"></a>
                 </div>
             </div>
         </div>
@@ -173,7 +173,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="https://admission.gnc.edu.in/" class="btn btn-lg btn-info btn-shadow mt-5" style="color:white">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-info btn-shadow mt-5" style="color:white">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
             </div>
         </div>
     </section>

@@ -33,7 +33,7 @@
                                     <h2 class="animate__animated animate__fadeInUp animate__delay-1s">Master Program<br><span>After Graduation</span><br><big>Guru Nanak College</big></h2>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Unleash your potential, build lifelong connections, and prepare for a future filled with possibilities in healthcare.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
-                                        <a href="https://admission.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
+                                        <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
                                     </div>
                                 </div>
                             </div>

@@ -45,7 +45,7 @@
                             </a>
 
                         </div>
-                        <a href="https://admission.gnc.edu.in/" class="btn btn-md apply-now-btn">Apply Now
+                        <a href="https://application.gnc.edu.in/" class="btn btn-md apply-now-btn">Apply Now
                         </a>
                         <!-- <ul class="header__top-right w-auto d-flex list-unstyled mob-cl-search p-0 m-0">
                             <li><a href="https://wa.me/917300900900?text=Hi GNC" target="_blank" aria-label="Call on GNC's Whatsapp"><i
@@ -77,7 +77,7 @@
                                 <li><a href="https://www.youtube.com/@gncdehradun" target="_blank" aria-label="Go to Guru Nanak College's Youtube Page" style="color: #333;"><i class="fa-brands fa-youtube"></i></a></li>
                             </ul>
 
-                            <a href="https://admission.gnc.edu.in/" class="btn btn-md apply-now-btn" target="_blank"> Apply Now</a>
+                            <a href="https://application.gnc.edu.in/" class="btn btn-md apply-now-btn" target="_blank"> Apply Now</a>
                             <div class="d-flex header_btn blue-gradient">
                                 <a href="tel:+917300900900" class="d-flex align-items-center text-white">
                                     <img src="images/phone-icon.webp" alt="" width="30">
@@ -384,7 +384,7 @@
                                                                             <h4>Business School</h4>
                                                                         </a>
                                                                         <ul class="list-unstyled p-0 m-0">
-                                                                            <li><a href="Best-BBA-Colleges-in-Dehradun-Uttarakahnd.php">Bachelor
+                                                                            <li><a href="Best-BBA-College-in-Dehradun-Uttarakahnd.php">Bachelor
                                                                                     of Business Administration</a></li>
                                                                     </div>
 
@@ -790,7 +790,7 @@
                                                                     Interface</a>
                                                             </li>
                                                             <li>
-                                                                <a href="https://admission.gnc.edu.in/">How to Apply</a>
+                                                                <a href="https://application.gnc.edu.in/">How to Apply</a>
                                                             </li>
                                                             <!-- <li>
                                                                 <a href="https://www.gnc.edu.in/scholarships">Scholarships</a>
