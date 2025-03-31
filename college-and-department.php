@@ -96,20 +96,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-4 col-12">
-                    <div class="card h-100 text-center">
-                        <div class="card-body p-0">
-                            <div class="college-logo p-0">
-                                <img src="upload/hero/h-3.webp" alt="" class="w-100">
-                                <h5 class="mt-3">School of Vocational Studies</h5>
-                                <p style="color: black;">The School of Vocational Studies offers practical skills training for students aspiring to pursue careers in the dynamic fields of hospitality and event management. Our programs focus on real-world applications and industry-relevant skills.</p>
-                            </div>
-                        </div>
-                        <div class="card-footer bg-transparent border-0 p-4">
-                            <a href="https://gnc.edu.in/College-For-Vocational-Studies" class="stretched-link text-link">Explore School of Vocational</a>
-                        </div>
-                    </div>
-                </div> -->
+            
                 <div class="col-lg-4 col-12">
                     <div class="college-and-d-card">
                         <div class="card h-100">

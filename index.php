@@ -502,17 +502,17 @@ excellence in academics and holistic development." />
                                 <div class="accordion-body" style="padding: 20px;">
                                     <div class="menu-programs-list__graduates">
                                         <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                                            <li><a href="https://gnc.edu.in/bsc-microbiology" class="program-link">Bachelor of Science in Microbiology</a></li>
+                                            <li><a href="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Science in Microbiology</a></li>
                                             <li><a href="https://gnc.edu.in/bsc-biotechnology" class="program-link">Bachelor of Science in Biotechnology</a></li>
                                             <li><a href="https://gnc.edu.in/bsc-food-technology" class="program-link">Bachelor of Science in Food Technology</a></li>
-                                            <li><a href="https://gnc.edu.in/bsc-pcm" class="program-link">Bachelor of Science in PCM</a></li>
+                                            <li><a href="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Science in PCM</a></li>
                                             <li><a href="https://gnc.edu.in/bsc-cbz" class="program-link">Bachelor of Science in CBZ</a></li>
                                             <li><a href="https://gnc.edu.in/bsc-geology" class="program-link">Bachelor of Science in Geology</a></li>
-                                            <li><a href="https://gnc.edu.in/msc-micro" class="program-link">Master of Science in Microbiology</a></li>
-                                            <li><a href="https://gnc.edu.in/msc-food-tech" class="program-link">Master of Science in Food Technology</a></li>
-                                            <li><a href="https://gnc.edu.in/msc-zoology" class="program-link">Master of Science in Zoology</a></li>
-                                            <li><a href="https://gnc.edu.in/msc-chemistry" class="program-link">Master of Science in Chemistry</a></li>
-                                            <li><a href="https://gnc.edu.in/msc-physics" class="program-link">Master of Science in Physics</a></li>
+                                            <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun" class="program-link">Master of Science in Microbiology</a></li>
+                                            <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Food Technology</a></li>
+                                            <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Zoology</a></li>
+                                            <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Chemistry</a></li>
+                                            <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Physics</a></li>
                                             <li><a href="https://gnc.edu.in/msc-botany" class="program-link">Master of Science in Botany</a></li>
                                         </ul>
                                     </div>
@@ -529,9 +529,9 @@ excellence in academics and holistic development." />
                                 <div class="accordion-body" style="padding: 20px;">
                                     <div class="menu-programs-list__graduates">
                                         <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                                            <li><a href="https://gnc.edu.in/Best-College-for-Bsc-Agriculture-in-DehradunUttarakhand" class="program-link">Bachelor of Science in Agriculture</a></li>
-                                            <li><a href="https://gnc.edu.in/bsc-forestry" class="program-link">Bachelor of Science in Forestry</a></li>
-                                            <li><a href="https://gnc.edu.in/msc-agronomy" class="program-link">Master of Science in Agronomy</a></li>
+                                            <li><a href="https://gnc.edu.in/agriculture-science" class="program-link">Bachelor of Science in Agriculture</a></li>
+                                            <li><a href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun" class="program-link">Bachelor of Science in Forestry</a></li>
+                                            <li><a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun" class="program-link">Master of Science in Agronomy</a></li>
                                             <li><a href="https://gnc.edu.in/msc-horticulture" class="program-link">Master of Science in Horticulture</a></li>
                                         </ul>
                                     </div>
@@ -580,7 +580,7 @@ excellence in academics and holistic development." />
                                 <div class="accordion-body" style="padding: 20px;">
                                     <div class="menu-programs-list__graduates">
                                         <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                                            <li><a href="https://www.gnc.edu.in/hotel-management" class="program-link">Diploma in Hotel Management (DHM)</a></li>
+                                            <li><a href="https://www.gnc.edu.in/Best-DHM-Colleges-in-Dehradun" class="program-link">Diploma in Hotel Management (DHM)</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -780,17 +780,17 @@ excellence in academics and holistic development." />
                             <div class="accordion-body" style="padding: 20px;">
                                 <div class="menu-programs-list__graduates">
                                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                                        <li><a href="https://gnc.edu.in/bsc-microbiology" class="program-link">Bachelor of Science in Microbiology</a></li>
+                                        <li><a href="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Science in Microbiology</a></li>
                                         <li><a href="https://gnc.edu.in/bsc-biotechnology" class="program-link">Bachelor of Science in Biotechnology</a></li>
                                         <li><a href="https://gnc.edu.in/bsc-food-technology" class="program-link">Bachelor of Science in Food Technology</a></li>
-                                        <li><a href="https://gnc.edu.in/bsc-pcm" class="program-link">Bachelor of Science in PCM</a></li>
+                                        <li><a href="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Science in PCM</a></li>
                                         <li><a href="https://gnc.edu.in/bsc-cbz" class="program-link">Bachelor of Science in CBZ</a></li>
                                         <li><a href="https://gnc.edu.in/bsc-geology" class="program-link">Bachelor of Science in Geology</a></li>
-                                        <li><a href="https://gnc.edu.in/msc-micro" class="program-link">Master of Science in Microbiology</a></li>
-                                        <li><a href="https://gnc.edu.in/msc-food-tech" class="program-link">Master of Science in Food Technology</a></li>
-                                        <li><a href="https://gnc.edu.in/msc-zoology" class="program-link">Master of Science in Zoology</a></li>
-                                        <li><a href="https://gnc.edu.in/msc-chemistry" class="program-link">Master of Science in Chemistry</a></li>
-                                        <li><a href="https://gnc.edu.in/msc-physics" class="program-link">Master of Science in Physics</a></li>
+                                        <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun" class="program-link">Master of Science in Microbiology</a></li>
+                                        <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Food Technology</a></li>
+                                        <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Zoology</a></li>
+                                        <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Chemistry</a></li>
+                                        <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Physics</a></li>
                                         <li><a href="https://gnc.edu.in/msc-botany" class="program-link">Master of Science in Botany</a></li>
                                     </ul>
                                 </div>
@@ -800,9 +800,9 @@ excellence in academics and holistic development." />
                             <div class="accordion-body" style="padding: 20px;">
                                 <div class="menu-programs-list__graduates">
                                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                                        <li><a href="https://gnc.edu.in/Best-College-for-Bsc-Agriculture-in-DehradunUttarakhand" class="program-link">Bachelor of Science in Agriculture</a></li>
-                                        <li><a href="https://gnc.edu.in/bsc-forestry" class="program-link">Bachelor of Science in Forestry</a></li>
-                                        <li><a href="https://gnc.edu.in/msc-agronomy" class="program-link">Master of Science in Agronomy</a></li>
+                                        <li><a href="https://gnc.edu.in/agriculture-science" class="program-link">Bachelor of Science in Agriculture</a></li>
+                                        <li><a href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun" class="program-link">Bachelor of Science in Forestry</a></li>
+                                        <li><a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun" class="program-link">Master of Science in Agronomy</a></li>
                                         <li><a href="https://gnc.edu.in/msc-horticulture" class="program-link">Master of Science in Horticulture</a></li>
                                     </ul>
                                 </div>
@@ -830,7 +830,7 @@ excellence in academics and holistic development." />
                             <div class="accordion-body" style="padding: 20px;">
                                 <div class="menu-programs-list__graduates">
                                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                                        <li><a href="https://www.gnc.edu.in/hotel-management" class="program-link">Diploma in Hotel Management (DHM)</a></li>
+                                        <li><a href="https://www.gnc.edu.in/Best-DHM-Colleges-in-Dehradun" class="program-link">Diploma in Hotel Management (DHM)</a></li>
                                     </ul>
                                 </div>
                             </div>

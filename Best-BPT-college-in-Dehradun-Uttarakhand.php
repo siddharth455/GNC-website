@@ -3,14 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Bachelor of Physiotherapy College in Dehradun, Uttarakhand.</title>
+    <title>BPT Course, Details, Admission, Fees, Eligibility, Career | Guru Nanak College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Join the top Bachelor of Physiotherapy (BPT) program at Guru Nanak College in Dehradun, Uttarakhand With expert faculty, hands-on clinical training, and a modern curriculum, GNC prepares students for successful careers in physiotherapy.">
+    <meta name="description" content="Enrol in a BPT program at one of Dehradun's top physiotherapy colleges and build expertise in rehabilitation, manual therapy, and clinical practice.">
     <link rel="canonical" href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand">
+    <meta name="keywords" content="BPT Course, Bachelor of Physiotherapy, best bpt colleges in dehradun, best physiotherapy colleges in dehradun, best physiotherapy colleges in dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
-    <meta property="og:description" content="Join the top Bachelor of Physiotherapy (BPT) program at Guru Nanak College in Dehradun, Uttarakhand With expert faculty, hands-on clinical training, and a modern curriculum, GNC prepares students for successful careers in physiotherapy." />
+    <meta property="og:title" content="BPT Course, Details, Admission, Fees, Eligibility, Career|Guru Nanak College " />
+    <meta property="og:description" content="Enrol in a BPT program at one of Dehradun's top physiotherapy colleges and build expertise in rehabilitation, manual therapy, and clinical practice." />
     <meta property="og:url" content="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />

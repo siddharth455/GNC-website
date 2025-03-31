@@ -3,16 +3,17 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>BCA Degree at Guru Nanak College Dehradun - Tech Innovations</title>
+    <title>Best BCA Colleges in Dehradun| BCA Course,Eligibility| GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Master technology with the BCA program at Guru Nanak College, Dehradun, offering comprehensive training in computer applications and IT skills.">
+    <meta name="description" content="Guru Nanak College is the best BCA College in Dehradun, Uttarakhand, offering BCA Course Check BCA Course fees, eligibility, admission process, syllabus etc to build your careers in Computers.">
     <link rel="canonical" href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
+    <meta name="keywords" content="BCA Colleges in Dehradun, BCA Colleges in Uttarakhand, Best BCA Colleges in Dehradun,Top BCA Colleges in Dehradun" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
-    <meta property="og:description" content="Master technology with the BCA program at Guru Nanak College, Dehradun, offering comprehensive training in computer applications and IT skills." />
+    <meta property="og:title" content="Best BCA College in Dehradun| Guru Nanak College " />
+    <meta property="og:description" content="Guru Nanak College is the best BCACollege in Dehradun, Uttarakhand, offering BCA Course Check BCA Course fees, eligibility, admission process, syllabus etc to build your careers in Computers" />
     <meta property="og:url" content="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" />
-    <meta property="og:site_name" content="GNC Dehradun" />
+    <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="383" />

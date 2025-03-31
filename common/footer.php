@@ -26,7 +26,6 @@
                         <li><a href="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">Paramedical</a></li>
                         <li><a href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">Pharmacy</a></li>
                         <li><a href="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand">Nursing</a></li>
-                        <li><a href="https://gnc.edu.in/College-For-Vocational-Studies">Vocational</a></li>
                         <li><a href="https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand">Health Science</a></li>
                         <li><a href="https://www.gnc.edu.in/approvals-accreditation-memberships">Approvals &amp; Accreditation</a></li>
                         <li><a href="https://www.gnc.edu.in/admissions">Admission Overview</a></li>

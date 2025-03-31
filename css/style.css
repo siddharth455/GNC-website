@@ -15,7 +15,37 @@
 .carousel .slider div {
     justify-content: center;
 }
+#chart-container {
+    width: 50%;
+    height: 50%;
+    margin: auto 40%;
+}
 
+@media (max-width: 768px) {
+    #chart-container {
+        max-width: 600px;
+        /* Adjust as needed */
+    }
+}
+
+/* Styles for Mobile */
+@media (max-width: 400px) {
+    #chart-container {
+        max-width: 250px;
+        /* Add some padding to prevent the chart from touching the edges */
+        margin: 5px 20px;
+
+    }
+
+    canvas {
+        height: 350px !important;
+        width: 350px !important;
+    }
+
+    .mobile-font-size .datalabels {
+        font-size: 10px !important;
+    }
+}
 .carousel .slider img {
     width: 100%;
     height: auto;

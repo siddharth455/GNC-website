@@ -155,7 +155,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="card shadow programList-links p-4 br-20 mb-4">
-                        <h4>Computer Science</h4>
+                            <h4>Computer Science</h4>
                         <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                             <!-- <li><a href="https://gnc.edu.in/bsc-it-cs" >Bachelor of Science in IT/CS - 3 Year's</a></li> -->
                             <li><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">Bachelor of Computer Applications (BCA) – 3 Year's</a></li>

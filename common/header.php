@@ -1189,54 +1189,51 @@
                                         </div>
                                     </div>
                                 </li>
-                                <!-- <li class="nav-item">
-                                    <a class="nav-link" href="https://gnc.edu.in/unfold-cbc">Unfold CBC</a>
-                                </li> -->
-                                <li class="nav-item ">
+                                <li class="nav-item dd-menu-lg">
                                     <a href="#">Research &amp; Innovation</a>
-                                <li></li>
+                                    
                                 <div class="step-second-menu st-research">
                                     <div class="row g-0 h-100">
                                         <div class="col-lg-6 d-none d-lg-block lazybg"
-                                            style="margin: -20px 20px -20px -20px; background-size: cover;">
+                                            style="margin: 15px 0px -10px -20px; background-size: cover;">
                                             <div
-                                                class="program-drop-down-graphic position-relative h-100 text-center d-flex align-items-end flex-column">
+                                                class="program-drop-down-graphic position-relative h-100 text-center d-flex align-items-center flex-column">
                                                 <h3
-                                                    style="margin-bottom: auto !important;width: 100%;text-align: left;">
-                                                    Our<br> Intellectual <br>Pursuits</h3>
-                                                <div class="placement--ddNumbers mt-3">
+                                                    style="width: 100%;text-align: center;">
+                                                    Our Intellectual <br><span>Pursuits</span></h3>
+                                                <div class=" mt-3">
                                                     <div class="row g-3">
                                                         <div class="col-6">
-                                                            <div class="card h-100 p-3">
-                                                                <span>
-                                                                    <h4>10K+</h4>
+                                                            <div class="dd-graphic-cont h-100 p-3">
+                                                                <span style="color:#FFFFFF;">
+                                                                    <h4>100+</h4>
                                                                     <small>Research<br>Publications</small>
                                                                 </span>
                                                             </div>
                                                         </div>
                                                         <div class="col-6">
-                                                            <div class="card h-100 p-3">
-                                                                <span>
-                                                                    <h4 id="patent-no"><span class="d-none"></span>2400+
+                                                            <div class="dd-graphic-cont h-100 p-3">
+                                                                <span style="color:#FFFFFF;">
+                                                                    <h4 id="patent-no"><span class="d-none"></span>15+
                                                                     </h4>
-                                                                    <small>Patents<br>Filed</small>
+                                                                    <small>Research<br>Projects</small>
                                                                 </span>
                                                             </div>
                                                         </div>
                                                         <div class="col-6">
-                                                            <div class="card h-100 p-3">
-                                                                <span>
-                                                                    <h4>30</h4>
-                                                                    <small>Industry Sponsored<br>Advanced
-                                                                        Labs</small>
+                                                            <div class="dd-graphic-cont h-100 p-3">
+                                                                <span style="color:#FFFFFF;">
+                                                                    <h4>250+</h4>
+                                                                    <small>Book<br>Chapters
+                                                                        </small>
                                                                 </span>
                                                             </div>
                                                         </div>
                                                         <div class="col-6">
-                                                            <div class="card h-100 p-3">
-                                                                <span>
-                                                                    <h4>75</h4>
-                                                                    <small>Departmental<br>Research Groups</small>
+                                                            <div class="dd-graphic-cont h-100 p-3">
+                                                                <span style="color:#FFFFFF;">
+                                                                    <h4>6 Lac+</h4>
+                                                                    <small>Industry<br>Funded</small>
                                                                 </span>
                                                             </div>
                                                         </div>
@@ -1245,51 +1242,12 @@
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
-                                            <h4>Research Intensive College</h4>
+                                            <h4 class="text-primary">Research Intensive College</h4>
                                             <div class="row">
                                                 <div class="col-md-12">
                                                     <ul class="list-unstyled p-0 m-0">
-                                                        <li><a href="research/">Research</a></li>
-                                                        <li><a href="research/patents.php">Patents</a></li>
-                                                        <li><a href="research/center-of-research.php">Centers
-                                                                Of Research</a>
-                                                        </li>
-                                                        <li><a href="research/centers-of-excellence.php">Centers
-                                                                of Excellence</a>
-                                                        </li>
-                                                        <li><a href="research/scholars.php">Visiting
-                                                                Scholars</a>
-                                                        </li>
-                                                        <li><a href="usb/business-management/research-journal.php">CU
-                                                                Global Management Review</a>
-                                                        </li>
-                                                        <li><a href="ignite/" target="_blank">IGNITE-2024
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <h4 class="mt-lg-4">Entrepreneurship Cells</h4>
-                                            <div class="row">
-                                                <div class="col-md-12">
-                                                    <ul class="list-unstyled p-0 m-0">
-                                                        <li><a href="technology-business-incubator/index.php"
-                                                                target="_blank">Technology Business
-                                                                Incubator (TBI)</a>
-                                                        </li>
-                                                        <li><a href="research/entrepreneurship.php">Innovation
-                                                                &amp; Entrepreneurship Development Cell (IEDC)</a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <h4 class="mt-lg-4">Sustainable Development Goals (SDG's)</h4>
-                                            <div class="row">
-                                                <div class="col-md-12">
-                                                    <ul class="list-unstyled p-0 m-0">
-                                                        <li><a href="research/sdg">Policies &amp;
-                                                                Strategies</a>
-                                                        </li>
+                                                        <li><a href="research.php">Research Papers</a></li>
+                                                        <li><a href="research-committee.php">R & D Cell And Code of Ethics</a></li>
                                                     </ul>
                                                 </div>
                                             </div>

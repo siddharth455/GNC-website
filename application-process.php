@@ -308,8 +308,8 @@
 							<h2 style="color:white;">Aspire to Inspire:<br> Master Your Field <br>at Guru Nanak College!</h2>
 							<p>Take the first step towards a bright future at Guru Nanak <br>College Dehradun. Apply Now and join a community <br>dedicated to academic excellence and personal growth!</p>
 						</div>
-						<a href="#" class="bfit-btn red-bg mb-4">Apply Today</a>
-						<a href="# " class="bfit-btn red-bg mb-4">Download Brochure</a>
+						<a href="https://application.gnc.edu.in/" class="bfit-btn red-bg mb-4">Apply Today</a>
+						<a href="upload/Brochure_.pdf" class="bfit-btn red-bg mb-4">Download Brochure</a>
 					</div>
 				</div>
 			</div>
