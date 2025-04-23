@@ -29,6 +29,9 @@
                         <li><a href="https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand">Health Science</a></li>
                         <li><a href="https://www.gnc.edu.in/approvals-accreditation-memberships">Approvals &amp; Accreditation</a></li>
                         <li><a href="https://www.gnc.edu.in/admissions">Admission Overview</a></li>
+                        <li><a href="grievance.php">Grievance & Redressal Cell</a></li>
+                        <li><a href="AICTE-documents.php">AICTE Documents</a></li>
+                        <li><a href="https://www.aicte-india.org/feedback/index.php">AICTE Feedback</a></li>
 
                     </ul>
                 </div>

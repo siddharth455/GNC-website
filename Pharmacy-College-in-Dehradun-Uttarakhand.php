@@ -5,16 +5,13 @@
 <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Best Pharmacy College in Dehradun, Uttarakhand | Guru Nanak College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College of Pharmacy—the best pharmacy college in Dehradun,
-Uttarakhand. Our comprehensive programs blend theoretical knowledge with practical skills, preparing
-students for successful careers in the pharmaceutical industry.">
+    <meta name="description" content="GNC Dehradun—the best pharmacy college in Dehradun, Uttarakhand. Our comprehensive programs blend theoretical knowledge with practical skills, preparing students for successful careers in the pharmaceutical industry.">
     <link rel="canonical" href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
+    <meta name="keywords" content="Best Pharmacy College in Dehradun,Best pharmacy in Uttarakhand," />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Pharmacy College in Dehradun, Uttarakhand | Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College of Pharmacy—the best pharmacy college in Dehradun,
-Uttarakhand. Our comprehensive programs blend theoretical knowledge with practical skills, preparing
-students for successful careers in the pharmaceutical industry." />
+    <meta property="og:description" content="GNC Dehradun—the best pharmacy college in Dehradun, Uttarakhand. Our comprehensive programs blend theoretical knowledge with practical skills, preparing students for successful careers in the pharmaceutical industry." />
     <meta property="og:url" content="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
