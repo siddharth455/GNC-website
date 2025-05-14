@@ -65,19 +65,19 @@
                             <h2>Guru Nanak College - Best B.Sc Microbiology College in Dehradun, Uttarakhand</h2>
                         </div>
                         <p>The Bachelor of Science in Microbiology program at the School of Life & Allied Sciences,
-Guru Nanak College, Dehradun, is an undergraduate course designed for students fascinated by the
-world of microorganisms and their impact on humans, animals, plants, and the environment. This threeyear program offers a comprehensive understanding of the biology of bacteria, viruses, fungi, and other
-microorganisms. It covers various branches of microbiology, including immunology, virology,
-bacteriology, mycology, and molecular biology.
-</p>
+                            Guru Nanak College, Dehradun, is an undergraduate course designed for students fascinated by the
+                            world of microorganisms and their impact on humans, animals, plants, and the environment. This threeyear program offers a comprehensive understanding of the biology of bacteria, viruses, fungi, and other
+                            microorganisms. It covers various branches of microbiology, including immunology, virology,
+                            bacteriology, mycology, and molecular biology.
+                        </p>
                         <p>The curriculum provides both theoretical knowledge and practical insights into the microscopic world.
-Students delve into subjects like microbial genetics, bioinformatics, pathogenic microbiology, and
-environmental microbiology. The program also emphasizes laboratory work, allowing students to gain
-hands-on experience in microbiological techniques and experiments, equipping them for real-world
-applications.</p>
-<p>Guru Nanak College - Best B.Sc Microbiology College in Dehradun, Uttarakhand, offers an excellent
-platform for aspiring microbiologists to thrive and succeed in their academic and professional
-endeavors.</p>
+                            Students delve into subjects like microbial genetics, bioinformatics, pathogenic microbiology, and
+                            environmental microbiology. The program also emphasizes laboratory work, allowing students to gain
+                            hands-on experience in microbiological techniques and experiments, equipping them for real-world
+                            applications.</p>
+                        <p>Guru Nanak College - Best B.Sc Microbiology College in Dehradun, Uttarakhand, offers an excellent
+                            platform for aspiring microbiologists to thrive and succeed in their academic and professional
+                            endeavors.</p>
                         <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
@@ -377,14 +377,14 @@ endeavors.</p>
                         </div>
                         <p>The B.Sc. Microbiology program at the School of Life & Allied Sciences offers several unique advantages:</p>
                         <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
-                        <li>A comprehensive curriculum that encompasses various branches of microbiology.</li>
+                            <li>A comprehensive curriculum that encompasses various branches of microbiology.</li>
                             <li>State-of-the-art laboratory facilities for practical training and research.</li>
                             <li>A faculty team of experienced academicians and professionals in microbiology.</li>
-                                <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
+                            <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
                                 <li>Opportunities for student-led research projects and internships in relevant industries.</li>
-                            <li>Interactive learning through seminars, workshops, and guest lectures by experts in the field.</li>
-                            <li>We prioritize value-based education, emphasizing the development of critical thinking, problem-solving skills, and a flair for innovation and research. Understanding the significance of career preparedness, we provide comprehensive placement training, equipping our students for thriving careers in the Microbiology and healthcare sectors.</li>
-                                </ul>
+                                <li>Interactive learning through seminars, workshops, and guest lectures by experts in the field.</li>
+                                <li>We prioritize value-based education, emphasizing the development of critical thinking, problem-solving skills, and a flair for innovation and research. Understanding the significance of career preparedness, we provide comprehensive placement training, equipping our students for thriving careers in the Microbiology and healthcare sectors.</li>
+                            </ul>
                             </li>
                         </ul>
                         <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
@@ -403,7 +403,7 @@ endeavors.</p>
     <?php
     require "common/footer.php";
     ?>
-   
+
 </body>
 
 </html>

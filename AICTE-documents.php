@@ -1,4 +1,12 @@
 <?php require "common/header.php" ?>
+<?php require "common/header.php" ?>
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AICTE || Guru Nanak College Dehradun</title>
+ </head>
 <section class="heroBanner">
         <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
             <div class="carousel-inner">
@@ -91,6 +99,7 @@
     </div>
 </section>
 <?php require "common/footer.php" ?>
+ </html>
 <style>
     .nav-pills {
         border: 1px solid #ddd;

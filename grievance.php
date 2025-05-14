@@ -1,4 +1,12 @@
 <?php require "common/header.php" ?>
+<?php require "common/header.php" ?>
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grievance || Guru Nanak College Dehradun</title>
+ </head>
 <style>
     .nav-pills {
         background-color: #cfd3d9;
@@ -110,3 +118,4 @@
     </div>
 </div>
     <?php require "common/footer.php" ?>
+ </html>

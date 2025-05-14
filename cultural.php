@@ -239,7 +239,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <!-- <div class="col-lg-4 col-md-6">
                     <div class="card h-100 p-0 position-relative">
                         <img src="upload/gncmh-3.webp" alt="" class="w-100 no-filter">
                         <div class="card-body">
@@ -279,7 +279,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

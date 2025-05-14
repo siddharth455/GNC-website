@@ -1,4 +1,12 @@
 <?php require "common/header.php" ?>
+<?php require "common/header.php" ?>
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Committee || Guru Nanak College Dehradun</title>
+ </head>
 <section class="pageBanner-inner">
         <div style="background-image: url('upload/infra/34.webp'); background-repeat: no-repeat; background-size: cover;">
             <div class="pageBanner-inner_in">
@@ -89,3 +97,4 @@
     </div>
 </div>
 <?php require "common/footer.php" ?>
+ </html>
