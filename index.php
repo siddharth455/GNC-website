@@ -430,7 +430,7 @@ excellence in academics and holistic development." />
                                             <li><a href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun" class="program-link">B.Sc. Optometry</a></li>
                                             <!-- <li><a href="https://gnc.edu.in/master-of-radiology" class="program-link">Master of Medical Radio Diagnosis And Imaging Technology</a></li> -->
                                             <li><a href="https://gnc.edu.in/masters-in-lab-technician" class="program-link">Master of Medical Laboratory Technology</a></li>
-                                            <li><a href="https://gnc.edu.in/master-of-physiotherapy" class="program-link">Master of Physiotherapy</a></li>
+                                            <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php" class="program-link">Master of Physiotherapy</a></li>
                                             <!-- <li><a href="https://gnc.edu.in/master-of-optometry" class="program-link">Master of Optometry</a></li>
                                             <li><a href="https://gnc.edu.in/master-of-operation-theatre-technology" class="program-link">Master of Operation Theatre Technology</a></li> -->
                                         </ul>
@@ -737,7 +737,7 @@ excellence in academics and holistic development." />
                                         <li><a href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun" class="program-link">B.Sc. Optometry</a></li>
                                         <!-- <li><a href="https://gnc.edu.in/master-of-radiology" class="program-link">Master of Medical Radio Diagnosis And Imaging Technology</a></li> -->
                                         <li><a href="https://gnc.edu.in/masters-in-lab-technician" class="program-link">Master of Medical Laboratory Technology</a></li>
-                                        <li><a href="https://gnc.edu.in/master-of-physiotherapy" class="program-link">Master of Physiotherapy</a></li>
+                                        <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php" class="program-link">Master of Physiotherapy</a></li>
                                         <!-- <li><a href="https://gnc.edu.in/master-of-optometry" class="program-link">Master of Optometry</a></li>
                                         <li><a href="https://gnc.edu.in/master-of-operation-theatre-technology" class="program-link">Master of Operation Theatre Technology</a></li> -->
                                     </ul>

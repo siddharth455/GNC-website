@@ -1,41 +1,28 @@
 <?php
 session_start();
 
-// Set session timeout duration (10 minutes)
-define('SESSION_TIMEOUT', 600); // 10 minutes in seconds
-
-// Check if the session has expired
+define('SESSION_TIMEOUT', 600);
 if (isset($_SESSION['last_activity']) && (time() - $_SESSION['last_activity']) > SESSION_TIMEOUT) {
     session_unset();
     session_destroy();
     header('Location: login.php');
     exit();
 }
-$_SESSION['last_activity'] = time(); // Update last activity time
+$_SESSION['last_activity'] = time();
 
-$servername = "localhost";
-$username = "blog";   
-$password = "Alumni#2024#";
-$dbname = "blog_admin"; 
-
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-// Check connection
+$conn = new mysqli("localhost", "root", "", "blog_admin");
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-// Token generation function
-function generateToken()
-{
-    return bin2hex(openssl_random_pseudo_bytes(16)); // Generates a random 32-character token
+function generateToken() {
+    return bin2hex(openssl_random_pseudo_bytes(16));
 }
 
-// Process User Login
+// User login
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['user_login'])) {
-    $user_username = htmlspecialchars($_POST['user_username']);
-    $user_password = htmlspecialchars($_POST['user_password']);
+    $user_username = $_POST['user_username'];
+    $user_password = $_POST['user_password'];
 
     $stmt = $conn->prepare("SELECT password FROM users WHERE username = ? AND role = 'user'");
     $stmt->bind_param("s", $user_username);
@@ -47,11 +34,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['user_login'])) {
         $stmt->fetch();
 
         if (password_verify($user_password, $hashed_password)) {
-            // User successfully logged in
             $_SESSION['loggedin'] = true;
             $_SESSION['username'] = $user_username;
-            $_SESSION['role'] = 'user';  // Store user role in session
-            header('Location: user.php'); // Redirect to User Page
+            $_SESSION['role'] = 'user';
+            header('Location: user_dashboard.php');
             exit();
         } else {
             $error_message = 'Invalid User username or password.';
@@ -62,10 +48,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['user_login'])) {
     $stmt->close();
 }
 
-// Process Admin Login
+// Admin login
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['admin_login'])) {
-    $admin_username = htmlspecialchars($_POST['admin_username']);
-    $admin_password = htmlspecialchars($_POST['admin_password']);
+    $admin_username = $_POST['admin_username'];
+    $admin_password = $_POST['admin_password'];
 
     $stmt = $conn->prepare("SELECT password FROM users WHERE username = ? AND role = 'admin'");
     $stmt->bind_param("s", $admin_username);
@@ -77,11 +63,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['admin_login'])) {
         $stmt->fetch();
 
         if (password_verify($admin_password, $hashed_password)) {
-            // Admin successfully logged in
-            $_SESSION['loggedin'] = true;
             $_SESSION['username'] = $admin_username;
-            $_SESSION['role'] = 'admin';  // Store admin role in session
-            header('Location: admin.php'); // Redirect to Admin Page
+            $_SESSION['role'] = 'admin';
+            $_SESSION['2fa_verified'] = false;
+            header('Location: two_factor.php');
             exit();
         } else {
             $error_message = 'Invalid Admin username or password.';
@@ -92,30 +77,19 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['admin_login'])) {
     $stmt->close();
 }
 
-
-// Process Admin Registration
+// Admin registration
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['register_admin'])) {
-    // Sanitize user input
-    $new_admin_username = htmlspecialchars(trim($_POST['new_admin_username']));
-    $new_admin_password = htmlspecialchars(trim($_POST['new_admin_password']));
-    $verification_key = htmlspecialchars(trim($_POST['verification_key']));
+    $new_admin_username = $_POST['new_admin_username'];
+    $new_admin_password = $_POST['new_admin_password'];
+    $verification_key = $_POST['verification_key'];
 
-    // Define the correct verification key
-    $correct_verification_key = "7079554814"; // Replace with your actual verification key
-
-    // Check the verification key
+    $correct_verification_key = "7079554814";
     if ($verification_key !== $correct_verification_key) {
         $error_message = 'Invalid verification key. Registration failed.';
     } else {
-        // Hash the password
         $hashed_password = password_hash($new_admin_password, PASSWORD_DEFAULT);
 
-        // Check if the username already exists
         $stmt = $conn->prepare("SELECT id FROM users WHERE username = ?");
-        if (!$stmt) {
-            die("Prepare failed: " . $conn->error);
-        }
-
         $stmt->bind_param("s", $new_admin_username);
         $stmt->execute();
         $stmt->store_result();
@@ -123,17 +97,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['register_admin'])) {
         if ($stmt->num_rows > 0) {
             $error_message = 'Admin username already exists.';
         } else {
-            // Generate a unique token
             $token = generateToken();
-
-            // Insert the new admin user
             $stmt = $conn->prepare("INSERT INTO users (username, password, role, token) VALUES (?, ?, 'admin', ?)");
-            if (!$stmt) {
-                die("Prepare failed: " . $conn->error);
-            }
-
             $stmt->bind_param("sss", $new_admin_username, $hashed_password, $token);
-
             if ($stmt->execute()) {
                 $success_message = 'Admin registered successfully!';
             } else {
@@ -143,10 +109,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['register_admin'])) {
         $stmt->close();
     }
 }
-    
 
 $conn->close();
 ?>
+
 
 
 <!DOCTYPE html>
@@ -158,7 +124,7 @@ $conn->close();
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
     <link rel="icon" type="image/webp" href="../images/logog.webp">
 
-    <title>Login</title>
+    <title>Admin Login</title>
     <style>
         body {
             display: flex;

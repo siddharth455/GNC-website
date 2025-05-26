@@ -348,7 +348,7 @@
                                                                             <li><a href="masters-in-lab-technician.php">Master
                                                                                     of Medical Laboratory Technology</a>
                                                                             </li>
-                                                                            <li><a href="master-of-physiotherapy.php">Master
+                                                                            <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php">Master
                                                                                     of Physiotherapy</a></li>
                                                                             <!-- <li><a href="master-of-optometry.php">Master of
                                                                                     Optometry</a></li> -->

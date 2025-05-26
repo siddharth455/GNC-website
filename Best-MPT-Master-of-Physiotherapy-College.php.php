@@ -6,12 +6,12 @@
     <title>Guru Nanak College | Best Master of Physiotherapy College in Dehradun, Uttarakhand.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join the top Master of Physiotherapy (MPT) program at Guru Nanak College in Dehradun, Uttarakhand With expert faculty, hands-on clinical training, and a modern curriculum, GNC prepares students for successful careers in physiotherapy.">
-    <link rel="canonical" href="https://gnc.edu.in/master-of-physiotherapy">
+    <link rel="canonical" href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
     <meta property="og:description" content="Join the top Master of Physiotherapy (MPT) program at Guru Nanak College in Dehradun, Uttarakhand With expert faculty, hands-on clinical training, and a modern curriculum, GNC prepares students for successful careers in physiotherapy." />
-    <meta property="og:url" content="https://gnc.edu.in/master-of-physiotherapy " />
+    <meta property="og:url" content="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php " />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
@@ -33,9 +33,9 @@
                             <div class="pageBanner-inner__content inner-content head-sm text-md-start">
                                 <div class="upper-banner-content">
                                     <div class="pb-flex d-flex align-items-center justify-content-center justify-content-lg-start mt-3">
-                                        <h5 class=" text-white border-right me-3 pe-3 mb-0">Master of</h5>
+                                        <h5 class=" text-white border-right me-3 pe-3 mb-0">Best MPT (Master of Physiotherapy)</h5>
                                     </div>
-                                    <h3 class="mb-1 mt-3">Physiotherapy</small></h3>
+                                    <h3 class="mb-1 mt-3">College in Dehradun</small></h3>
                                 </div>
                                 <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
@@ -62,9 +62,36 @@
                 <div class="col-lg-6">
                     <div class="aboutProgram-section__content">
                         <div class="page-heading">
-                        <h2>Guru Nanak College - Best Master of Physiotherapy College in India</h2>
+                        <h2>Guru Nanak College -Best MPH (Master of Physiotherapy ) College in Dehradun, Uttarakhand</h2>
                         </div>
-                        <p>The Master of Physiotherapy is a two-year postgraduate degree designed for students pursuing advanced expertise in physical therapy, a vital field of rehabilitative health science. This program offers specialized training in therapeutic techniques to assess, treat, and rehabilitate patients with movement disorders, injuries, or physical disabilities.</p>
+                        <p>The Master of Physiotherapy (MPT) is a comprehensive two-year postgraduate
+degree program aimed at developing advanced clinical knowledge and practical
+skills in the field of physical therapy. This specialized course is ideal for students
+and professionals who wish to deepen their understanding of human
+movement science and gain expertise in diagnosing and managing a wide range
+of physical impairments and functional limitations.
+</p>
+<p>Physiotherapy plays a pivotal role in rehabilitative health care by promoting
+mobility, functional ability, and quality of life through evidence-based
+therapeutic interventions. The MPT curriculum integrates advanced theoretical
+knowledge with intensive hands-on clinical training, allowing students to
+master various techniques such as manual therapy, electrotherapy, therapeutic
+exercise, and neurodevelopmental treatments.</p>
+<p>Throughout the program, students are introduced to diverse specialties
+including Orthopedic Physiotherapy, Neurological Physiotherapy,
+Cardiopulmonary Physiotherapy, Sports Physiotherapy, Pediatrics, and
+Geriatrics, enabling them to choose a focused area of practice based on their
+career interests.</p>
+<p>In addition to clinical proficiency, the course also emphasizes research
+methodology, biomechanics, health promotion, and patient education—
+equipping graduates to work in multidisciplinary teams across hospitals,
+rehabilitation centers, sports organizations, academic institutions, and private
+clinics. Many also pursue roles in teaching, research, or even independent
+practice.</p>
+<p>By the end of the program, graduates are prepared to assess, plan, and execute
+individualized treatment strategies for patients of all ages and health
+conditions, contributing meaningfully to their recovery, mobility, and overall
+well-being</p>
                         <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>

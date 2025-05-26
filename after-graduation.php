@@ -62,8 +62,8 @@
                         <h6>Master Program</h6>
                         <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                             <!-- <li><a href="#" class="hover-effect">Master of Medical Radio Diagnosis And Imaging Technology</a></li> -->
-                            <li><a href="#" class="hover-effect">Master of Medical Laboratory Technology</a></li>
-                            <li><a href="#" class="hover-effect">Master of Physiotherapy</a></li>
+                            <li><a href="masters-in-lab-technician.php" class="hover-effect">Master of Medical Laboratory Technology</a></li>
+                            <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php" class="hover-effect">Master of Physiotherapy</a></li>
                             <!-- <li><a href="#" class="hover-effect">Master of Optometry</a></li>
                             <li><a href="#" class="hover-effect">Master of Operation Theatre Technology</a></li> -->
 
@@ -140,8 +140,6 @@
     <?php require "application-process.php" ?>
     <?php require "testimoni.php" ?>
     <?php require "common/footer.php" ?>
-
-
 
 </body>
 
