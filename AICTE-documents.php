@@ -25,18 +25,18 @@
             <div class="row card-body">
                 <div class="col-md-4 col-12 ">
                     <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                        <button class="nav-link approvals-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                        <!-- <button class="nav-link approvals-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">
                         Mandatory Disclosure
-                        </button>
-                        <button class="nav-link approvals-link" id="v-pills-UGC-tab" data-bs-toggle="pill" data-bs-target="#v-pills-UGC" type="button" role="tab" aria-controls="v-pills-UGC" aria-selected="false">
+                        </button> -->
+                        <button class="nav-link approvals-link active" id="v-pills-UGC-tab" data-bs-toggle="pill" data-bs-target="#v-pills-UGC" type="button" role="tab" aria-controls="v-pills-UGC" aria-selected="false">
                         Letter of Approval (L.O.A.) (2024-25)
                         </button>
                         <button class="nav-link approvals-link" id="v-pills-MSME-tab" data-bs-toggle="pill" data-bs-target="#v-pills-MSME" type="button" role="tab" aria-controls="v-pills-MSME" aria-selected="false">
                             Extension of Approval (E.O.A.) 1. 2025-26
                         </button>
-                        <button class="nav-link approvals-link" id="v-pills-HNBGMU-tab" data-bs-toggle="pill" data-bs-target="#v-pills-HNBGMU" type="button" role="tab" aria-controls="v-pills-HNBGMU" aria-selected="false">
+                        <!-- <button class="nav-link approvals-link" id="v-pills-HNBGMU-tab" data-bs-toggle="pill" data-bs-target="#v-pills-HNBGMU" type="button" role="tab" aria-controls="v-pills-HNBGMU" aria-selected="false">
                             AICTE Essential Documents
-                        </button>
+                        </button> -->
                         <!-- <button class="nav-link approvals-link" id="v-pills-PCI-tab" data-bs-toggle="pill" data-bs-target="#v-pills-PCI" type="button" role="tab" aria-controls="v-pills-PCI" aria-selected="false">
                             <img src="images/Pharmacy_Council_of_India Logo.webp" alt="PCI Icon" class="button-icon"> Pharmacy Council of India
                         </button>
