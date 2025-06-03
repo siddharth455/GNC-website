@@ -44,6 +44,7 @@
                         <li><a href="https://www.gnc.edu.in/iai">Industry-Academia Interface</a></li>
                         <li><a href="https://www.gnc.edu.in/scholarships">Scholarships</a></li>
                         <li><a href="https://www.gnc.edu.in/cultural">Cultural Activities</a></li>
+                        <li><a href="https://www.gnc.edu.in/upload/GNC-fee-structure-2025-26.pdf">Fee Structure</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-sm-4 col-lg-3">
