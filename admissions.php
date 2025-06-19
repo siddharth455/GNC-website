@@ -238,7 +238,7 @@
                                 <h4>Business School</h4>
                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <li><a href="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd" class="hover-effect">Bachelor of Business Administration (BBA) - 3 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/best-bba-college-in-dehradun" class="hover-effect">Bachelor of Business Administration (BBA) - 3 Year's</a></li>
                                     <!-- <li><a href="https://gnc.edu.in/Best-B.com-Colleges-in-Dehradun" class="hover-effect">Bachelor of Commerce - 3 Year's</a></li>
                                 </ul>
                                 <h6>Postgraduate Program</h6>

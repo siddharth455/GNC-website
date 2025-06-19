@@ -564,7 +564,7 @@ excellence in academics and holistic development." />
                                 <div class="accordion-body" style="padding: 20px;">
                                     <div class="menu-programs-list__graduates">
                                         <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                                            <li><a href="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd" class="program-link">Bachelor of Business Administration (BBA)</a></li>
+                                            <li><a href="https://gnc.edu.in/best-bba-college-in-dehradun" class="program-link">Bachelor of Business Administration (BBA)</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -821,7 +821,7 @@ excellence in academics and holistic development." />
                             <div class="accordion-body" style="padding: 20px;">
                                 <div class="menu-programs-list__graduates">
                                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                                        <li><a href="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd" class="program-link">Bachelor of Business Administration (BBA)</a></li>
+                                        <li><a href="https://gnc.edu.in/best-bba-college-in-dehradun" class="program-link">Bachelor of Business Administration (BBA)</a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -8,7 +8,7 @@
     <meta name="description" content="Guru Nanak College is the best BBA College in Dehradun,
 Uttarakhand, offering BBA Course that enhances students' Management, entrepreneurial, and
 communication skills with its expert faculties.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd">
+    <link rel="canonical" href="https://gnc.edu.in/best-bba-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords" content="BBA Colleges in Dehradun, BBA Colleges in Uttarakhand, Best
 BBA Colleges in Dehradun,Top BBA Colleges in Dehradun" />
@@ -17,7 +17,7 @@ BBA Colleges in Dehradun,Top BBA Colleges in Dehradun" />
     <meta property="og:description" content="Guru Nanak College is the best BBA College in
 Dehradun, Uttarakhand, offering BBA Course that enhances students' Management,
 entrepreneurial, and communication skills." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd" />
+    <meta property="og:url" content="https://gnc.edu.in/best-bba-college-in-dehradun" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
@@ -68,7 +68,7 @@ entrepreneurial, and communication skills." />
                 <div class="col-lg-6">
                     <div class="aboutProgram-section__content">
                         <div class="page-heading">
-                            <h2><strong>Guru Nanak College - Best BBA College in Dehradun, Uttarakhand</strong></h2>
+                            <h2><strong>Best BBA College in Dehradun | Guru Nanak College (GNC)</strong></h2>
                         </div>
                         <p>The <b>Bachelor of Business Administration (BBA)</b> program at <b>Guru Nanak College, Dehradun</b>, is a
                             comprehensive undergraduate course designed for students aspiring to excel in the field of<b> business
@@ -108,6 +108,98 @@ entrepreneurial, and communication skills." />
                     <div class="col-lg-12 about-program-image">
                         <img src="upload/infra/bca.webp" alt="bba showcase" style="width: -webkit-fill-available;">
                     </div>
+                    <style>
+    .faq-section {
+      max-width: 800px;
+      margin: auto;
+    }
+    .faq-title {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .faq-item {
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 10px;
+    }
+    .faq-question {
+      background: #f4f4f4;
+      padding: 15px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    .faq-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.4s ease;
+      background: #fff;
+      padding: 0 15px;
+    }
+    .faq-answer.open {
+      padding: 15px;
+      max-height: 500px; /* Enough to fit answer */
+    }
+  </style>
+</head>
+<body>
+
+<div class="faq-section">
+  <h2 class="faq-title">Frequently Asked Questions (FAQs)</h2>
+
+  <div class="faq-item">
+    <div class="faq-question">1. Why is Guru Nanak College considered the best BBA college in Dehradun?</div>
+    <div class="faq-answer">Guru Nanak College is widely recognized as one of the best BBA colleges in Dehradun due to its industry-oriented curriculum, experienced faculty, and strong placement record. The college emphasizes practical learning, internships, and soft skill development.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">2. What is the eligibility for the BBA program at Guru Nanak College Dehradun?</div>
+    <div class="faq-answer">To apply for the BBA program, candidates must have completed 10+2 (any stream) from a recognized board with at least 50% marks. Students appearing in the final exam can also apply.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">3. What career opportunities are available after completing BBA from GNC?</div>
+    <div class="faq-answer">Graduates from GNC’s BBA program are recruited by top companies in sectors like banking, FMCG, IT, consulting, and startups. Career roles include Business Analyst, Marketing Executive, HR Associate, and Operations Manager.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">4. What is the fee structure for the BBA course at GNC Dehradun?</div>
+    <div class="faq-answer">Guru Nanak College offers an affordable BBA program with flexible fee plans. Scholarships and financial aid are also available for meritorious and deserving students. Contact the admission office for the latest fee details.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">5. Does GNC Dehradun offer placements for BBA students?</div>
+    <div class="faq-answer">Yes, GNC has a dedicated Training & Placement Cell. Over 100+ companies visit the campus every year, and students have secured packages up to ₹1 CR.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">6. Is the BBA course at Guru Nanak College affiliated and approved?</div>
+    <div class="faq-answer">Yes, the BBA program at GNC Dehradun is affiliated with a recognized university and approved by AICTE, ensuring academic credibility and career value.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">7. How can I apply to the BBA course at Guru Nanak College Dehradun?</div>
+    <div class="faq-answer">You can apply online through <a href="https://admission.gnc.edu.in/" target="_blank">https://admission.gnc.edu.in/</a> or visit the campus for offline admissions. Early applicants may also be eligible for scholarship benefits.</div>
+  </div>
+</div>
+
+<script>
+  const questions = document.querySelectorAll('.faq-question');
+
+  questions.forEach(q => {
+    q.addEventListener('click', () => {
+      const answer = q.nextElementSibling;
+
+      // Collapse all others
+      document.querySelectorAll('.faq-answer').forEach(a => {
+        if (a !== answer) {
+          a.classList.remove('open');
+        }
+      });
+
+      // Toggle the clicked one
+      answer.classList.toggle('open');
+    });
+  });
+</script>
                 </div>
 
             </div>
@@ -418,6 +510,82 @@ entrepreneurial, and communication skills." />
             </div>
         </div>
     </section>
+    <!-- FAQ Schema Markup -->
+ <script type="application/ld+json">
+ {
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "Why is Guru Nanak College considered the best BBA college in Dehradun?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Guru Nanak College is widely recognized as one of the best BBA colleges in Dehradun
+due to its industry-oriented curriculum, experienced faculty, and strong placement record. The
+college emphasizes practical learning, internships, and soft skill development."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the eligibility for the BBA program at Guru Nanak College Dehradun?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "To apply for the BBA program, candidates must have completed 10+2 (any stream)
+from a recognized board with at least 50% marks. Students appearing in the final exam can also
+apply."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What career opportunities are available after completing BBA from GNC?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Graduates from GNC’s BBA program are recruited by top companies in sectors like
+banking, FMCG, IT, consulting, and startups. Career roles include Business Analyst, Marketing
+Executive, HR Associate, and Operations Manager."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "What is the fee structure for the BBA course at GNC Dehradun?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Guru Nanak College offers an affordable BBA program with flexible fee plans.
+Scholarships and financial aid are also available for meritorious and deserving students. Contact the
+admission office for the latest fee details."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Does GNC Dehradun offer placements for BBA students?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes, GNC has a dedicated Training & Placement Cell. Over 100+ companies visit the
+campus every year, and students have secured packages up to ₹10 LPA."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "Is the BBA course at Guru Nanak College affiliated and approved?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "Yes, the BBA program at GNC Dehradun is affiliated with a recognized university and
+approved by UGC, ensuring academic credibility and career value."
+ }
+ },
+ {
+ "@type": "Question",
+ "name": "How can I apply to the BBA course at Guru Nanak College Dehradun?",
+ "acceptedAnswer": {
+ "@type": "Answer",
+ "text": "You can apply online through https://admission.gnc.edu.in/ or visit the campus for
+offline admissions. Early applicants may also be eligible for scholarship benefits."
+ }
+ }
+ ]
+ }
+ </script>
     <?php require "application-process.php"; ?>
     <?php require "testimoni.php"; ?>
     <?php

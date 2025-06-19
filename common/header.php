@@ -414,7 +414,7 @@
                                 <h4>Business School</h4>
                             </a>
                             <ul class="list-unstyled p-0 m-0">
-                                <li><a href="Best-BBA-College-in-Dehradun-Uttarakahnd.php">Bachelor
+                                <li><a href="best-bba-college-in-dehradun.php">Bachelor
                                         of Business Administration</a></li>
                         </div>
 

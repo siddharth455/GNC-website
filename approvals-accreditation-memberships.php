@@ -361,6 +361,37 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class="mb-4 animated fadeInUpShort go" data-id="1">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
+                                        <img src="upload/infra/iap-logo.jpeg" class="img-fluid" alt="Sri Dev Suman Uttarakhand University">
+                                        <div class="row pictureContainer_text mx-0">
+                                            <div class="col-12 align-self-center">
+                                                <h3 class="h5 mt-4 text-center">The Indian Association of Physiotherapists (IAP)</h3>
+                                                <div class="pictureContainer_content text-center">
+                                                    <p>Guru Nanak College is affiliated with the Indian Association of Physiotherapists (IAP), a government-recognized national body established in 1962 and registered under the Societies Registration Act. This affiliation ensures our physiotherapy program meets the professional standards set by IAP and is recognized nationally and internationally.The IAP is a registered organization under the Societies Registration Act XXI of 1860 (Registration No. S-2339), established in 1962, and is officially recognized by the Government of India.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                           
+                            <div class="col-md-4  p-2">
+                                <div class="mb-4 animated fadeInUpShort go" data-id="1">
+                                    <div class="pictureContainer d-flex flex-column align-items-center">
+                                        <img src="upload/infra/inc-logo.png" class="img-fluid" alt="Sri Dev Suman Uttarakhand University">
+                                        <div class="row pictureContainer_text mx-0">
+                                            <div class="col-12 align-self-center">
+                                                <h3 class="h5 mt-4 text-center">The Indian Nursing Council (INC)</h3>
+                                                <div class="pictureContainer_content text-center">
+                                                    <p>Guru Nanak College is recognized by the Indian Nursing Council (INC), New Delhi, a statutory body constituted under the Indian Nursing Council Act, 1947 (Act No. XLVIII of 1947), for the regulation and maintenance of standards of nursing education and training in India. The college’s nursing programs are approved in accordance with the guidelines and norms laid down by INC, ensuring compliance with national standards of professional education and practice. The recognition grants our students eligibility for registration and practice across India and abroad.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4  p-2">
+                                <div class="mb-4 animated fadeInUpShort go" data-id="1">
+                                    <div class="pictureContainer d-flex flex-column align-items-center">
                                         <img src="images/sdsuu.webp" class="img-fluid" alt="Sri Dev Suman Uttarakhand University">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
@@ -373,6 +404,7 @@ academic programs" />
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>

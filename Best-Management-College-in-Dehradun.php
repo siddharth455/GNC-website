@@ -101,7 +101,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
                 <div class="col-lg-6 col-md-6 col-12">
                     <h4>Under-Graduate Management Course's</h4>
                     <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/Best-BBA-College-in-Dehradun-Uttarakahnd">Bachelor of Business Administration</a></li>
+                        <li><a href="https://gnc.edu.in/best-bba-college-in-dehradun">Bachelor of Business Administration</a></li>
                     </ul>
 
                 </div>
