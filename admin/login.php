@@ -20,101 +20,63 @@ function clean_input($data) {
     return trim(htmlspecialchars($data));
 }
 
-// Use the same secret key and site key pair here
-$recaptcha_secret = '6LcuJE0rAAAAAPdxQgSH7cTFyEyww7XjmsmLZ_IN'; // Your secret key
-$recaptcha_sitekey = '6LcuJE0rAAAAAGEhhdjO4ZM6uCsQqapmxTfiNUAV'; // Your site key (used in HTML)
-
 $error_message = '';
 $success_message = '';
 
-function verifyRecaptchaV2($secret, $response) {
-    if (empty($response)) {
-        return false;
-    }
-    $url = 'https://www.google.com/recaptcha/api/siteverify';
-    $data = [
-        'secret' => $secret,
-        'response' => $response
-    ];
-    $options = [
-        'http' => [
-            'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
-            'method'  => 'POST',
-            'content' => http_build_query($data),
-        ]
-    ];
-    $context  = stream_context_create($options);
-    $result = file_get_contents($url, false, $context);
-    if ($result === FALSE) return false;
-
-    $resultData = json_decode($result);
-    return $resultData->success;
-}
-
 // User Login
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['user_login'])) {
-    $recaptcha_response = $_POST['g-recaptcha-response'] ?? '';
-    if (!verifyRecaptchaV2($recaptcha_secret, $recaptcha_response)) {
-        $error_message = 'reCAPTCHA verification failed. Please try again.';
-    } else {
-        $user_username = clean_input($_POST['user_username']);
-        $user_password = $_POST['user_password'];
+    $user_username = clean_input($_POST['user_username']);
+    $user_password = $_POST['user_password'];
 
-        $stmt = $conn->prepare("SELECT password FROM users WHERE username = ? AND role = 'user'");
-        $stmt->bind_param("s", $user_username);
-        $stmt->execute();
-        $stmt->store_result();
+    $stmt = $conn->prepare("SELECT password FROM users WHERE username = ? AND role = 'user'");
+    $stmt->bind_param("s", $user_username);
+    $stmt->execute();
+    $stmt->store_result();
 
-        if ($stmt->num_rows > 0) {
-            $stmt->bind_result($hashed_password);
-            $stmt->fetch();
-            if (password_verify($user_password, $hashed_password)) {
-                $_SESSION['loggedin'] = true;
-                $_SESSION['username'] = $user_username;
-                $_SESSION['role'] = 'user';
-                header('Location: user_dashboard.php');
-                exit();
-            } else {
-                $error_message = 'Invalid username or password.';
-            }
+    if ($stmt->num_rows > 0) {
+        $stmt->bind_result($hashed_password);
+        $stmt->fetch();
+        if (password_verify($user_password, $hashed_password)) {
+            $_SESSION['loggedin'] = true;
+            $_SESSION['username'] = $user_username;
+            $_SESSION['role'] = 'user';
+            header('Location: user_dashboard.php');
+            exit();
         } else {
             $error_message = 'Invalid username or password.';
         }
-        $stmt->close();
+    } else {
+        $error_message = 'Invalid username or password.';
     }
+    $stmt->close();
 }
 
 // Admin Login
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['admin_login'])) {
-    $recaptcha_response = $_POST['g-recaptcha-response'] ?? '';
-    if (!verifyRecaptchaV2($recaptcha_secret, $recaptcha_response)) {
-        $error_message = 'reCAPTCHA verification failed. Please try again.';
-    } else {
-        $admin_username = clean_input($_POST['admin_username']);
-        $admin_password = $_POST['admin_password'];
+    $admin_username = clean_input($_POST['admin_username']);
+    $admin_password = $_POST['admin_password'];
 
-        $stmt = $conn->prepare("SELECT password FROM users WHERE username = ? AND role = 'admin'");
-        $stmt->bind_param("s", $admin_username);
-        $stmt->execute();
-        $stmt->store_result();
+    $stmt = $conn->prepare("SELECT password FROM users WHERE username = ? AND role = 'admin'");
+    $stmt->bind_param("s", $admin_username);
+    $stmt->execute();
+    $stmt->store_result();
 
-        if ($stmt->num_rows > 0) {
-            $stmt->bind_result($hashed_password);
-            $stmt->fetch();
-            if (password_verify($admin_password, $hashed_password)) {
-                $_SESSION['username'] = $admin_username;
-                $_SESSION['role'] = 'admin';
-                $_SESSION['2fa_verified'] = false; // mark 2FA pending
-                header('Location: two_factor.php');
-                exit();
-            } else {
-                $error_message = 'Invalid admin credentials.';
-            }
+    if ($stmt->num_rows > 0) {
+        $stmt->bind_result($hashed_password);
+        $stmt->fetch();
+        if (password_verify($admin_password, $hashed_password)) {
+            $_SESSION['username'] = $admin_username;
+            $_SESSION['role'] = 'admin';
+            $_SESSION['2fa_verified'] = false;
+            header('Location: two_factor.php');
+            exit();
         } else {
             $error_message = 'Invalid admin credentials.';
         }
-        $stmt->close();
+    } else {
+        $error_message = 'Invalid admin credentials.';
     }
+    $stmt->close();
 }
 
 $conn->close();
@@ -219,11 +181,6 @@ $conn->close();
                     <input type="password" class="form-control" id="user_password" name="user_password" required />
                 </div>
 
-                <!-- Google reCAPTCHA widget -->
-                <div class="mb-3">
-                    <div class="g-recaptcha" data-sitekey="<?= htmlspecialchars($recaptcha_sitekey) ?>"></div>
-                </div>
-
                 <button type="submit" name="user_login" class="btn btn-primary mt-2">Login as User</button>
             </form>
             <hr>
@@ -246,11 +203,6 @@ $conn->close();
                     <input type="password" class="form-control" id="admin_password" name="admin_password" required />
                 </div>
 
-                <!-- Google reCAPTCHA widget -->
-                <div class="mb-3">
-                    <div class="g-recaptcha" data-sitekey="<?= htmlspecialchars($recaptcha_sitekey) ?>"></div>
-                </div>
-
                 <button type="submit" name="admin_login" class="btn btn-primary mt-2">Login as Admin</button>
             </form>
             <hr>
@@ -259,8 +211,6 @@ $conn->close();
             </p>
         </div>
     </div>
-
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
     <script>
         const userLoginSection = document.getElementById('user-login');
