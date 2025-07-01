@@ -43,7 +43,7 @@
                     </div>
                     <div class="internal-form">
                         <span id="ee-form-6">
-                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
+                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
                         </span>
                     </div>
                 </div>
@@ -239,7 +239,7 @@
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <div class="bigInfo-section__content">
-                        <div style="background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/gncmh-scaled.webp" class="img-fluid"></div>
+                        <div style="background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/gncmh-scaled.webp" loading="lazy" class="img-fluid"></div>
                     </div>
                 </div>
             </div>

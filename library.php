@@ -51,7 +51,7 @@
             <div class="row ">
                 <div class="col-sm-12 col-md-6 ">
                     <div class="chancellor-top-row">
-                        <img src="upload/infra/lib-image.webp">
+                        <img src="upload/infra/lib-image.webp" loading="lazy">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 text-white">
@@ -72,7 +72,7 @@
             </div>
             <div class="col-sm-12 col-md-6 ">
                 <div class="chancellor-top-row">
-                    <img src="upload/e-library.webp">
+                    <img src="upload/e-library.webp" loading="lazy">
                 </div>
             </div>
         </div>

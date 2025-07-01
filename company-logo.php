@@ -28,104 +28,104 @@
         </div>
         <div class="placementLogos-section__slider">
             <div class="pl-item">
-                <img src="upload/31.webp" alt="Recruiters Logo">
+                <img src="upload/31.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <!-- Add other slides here in the same format as above -->
             <div class="pl-item">
-                <img src="upload/32.webp" alt="Recruiters Logo">
+                <img src="upload/32.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/33.webp" alt="Recruiters Logo">
+                <img src="upload/33.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/34.webp" alt="Recruiters Logo">
+                <img src="upload/34.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/35.webp" alt="Recruiters Logo">
+                <img src="upload/35.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/36.webp" alt="Recruiters Logo">
+                <img src="upload/36.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/37.webp" alt="Recruiters Logo">
+                <img src="upload/37.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/38.webp" alt="Recruiters Logo">
+                <img src="upload/38.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/39.webp" alt="Recruiters Logo">
+                <img src="upload/39.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/40.webp" alt="Recruiters Logo">
+                <img src="upload/40.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/41.webp" alt="Recruiters Logo">
+                <img src="upload/41.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/42.webp" alt="Recruiters Logo">
+                <img src="upload/42.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/43.webp" alt="Recruiters Logo">
+                <img src="upload/43.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/44.webp" alt="Recruiters Logo">
+                <img src="upload/44.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/45.webp" alt="Recruiters Logo">
+                <img src="upload/45.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/46.webp" alt="Recruiters Logo">
+                <img src="upload/46.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/47.webp" alt="Recruiters Logo">
+                <img src="upload/47.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/48.webp" alt="Recruiters Logo">
+                <img src="upload/48.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/49.webp" alt="Recruiters Logo">
+                <img src="upload/49.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/50.webp" alt="Recruiters Logo">
+                <img src="upload/50.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/51.webp" alt="Recruiters Logo">
+                <img src="upload/51.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/52.webp" alt="Recruiters Logo">
+                <img src="upload/52.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/32.webp" alt="Recruiters Logo">
+                <img src="upload/32.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/54.webp" alt="Recruiters Logo">
+                <img src="upload/54.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/55.webp" alt="Recruiters Logo">
+                <img src="upload/55.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/56.webp" alt="Recruiters Logo">
+                <img src="upload/56.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/57.webp" alt="Recruiters Logo">
+                <img src="upload/57.webp" alt="Recruiters Logo" loading="lazy"> 
             </div>
             <div class="pl-item">
-                <img src="upload/58.webp" alt="Recruiters Logo">
+                <img src="upload/58.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/59.webp" alt="Recruiters Logo">
+                <img src="upload/59.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/60.webp" alt="Recruiters Logo">
+                <img src="upload/60.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/61.webp" alt="Recruiters Logo">
+                <img src="upload/61.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/62.webp" alt="Recruiters Logo">
+                <img src="upload/62.webp" alt="Recruiters Logo" loading="lazy">
             </div>
             <div class="pl-item">
-                <img src="upload/63.webp" alt="Recruiters Logo">
+                <img src="upload/63.webp" alt="Recruiters Logo" loading="lazy">
             </div>
 
         </div>

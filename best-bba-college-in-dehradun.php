@@ -55,7 +55,7 @@ entrepreneurial, and communication skills." />
                     </div>
                     <div class="internal-form">
                         <span id="ee-form-6">
-                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
+                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
                         </span>
                     </div>
                 </div>
@@ -106,7 +106,7 @@ entrepreneurial, and communication skills." />
                             </div> -->
                     </div>
                     <div class="col-lg-12 about-program-image">
-                        <img src="upload/infra/bca.webp" alt="bba showcase" style="width: -webkit-fill-available;">
+                        <img src="upload/infra/bca.webp" alt="bba showcase" loading="lazy" style="width: -webkit-fill-available;">
                     </div>
                     <style>
     .faq-section {
@@ -469,14 +469,14 @@ entrepreneurial, and communication skills." />
     <section class="gallery">
         <h2>Industrial Visit</h2>
         <div class="gallery-grid">
-            <img src="upload/infra/industry-2.png" alt="Industry 1">
-            <img src="upload/infra/industry-1.png" alt="Industry 2">
-            <img src="upload/infra/industry-3.png" alt="Industry 3">
-            <img src="upload/infra/industry-4.png" alt="Industry 4">
-            <img src="upload/infra/industry-5.png" alt="Industry 5">
-            <img src="upload/infra/industry-6.png" alt="Industry 6">
-            <img src="upload/infra/industry-7.png" alt="Industry 7">
-            <img src="upload/infra/industry-8.png" alt="Industry 8">
+            <img src="upload/infra/industry-2.png" alt="Industry 1" loading="lazy">
+            <img src="upload/infra/industry-1.png" alt="Industry 2" loading="lazy">
+            <img src="upload/infra/industry-3.png" alt="Industry 3" loading="lazy">
+            <img src="upload/infra/industry-4.png" alt="Industry 4" loading="lazy">
+            <img src="upload/infra/industry-5.png" alt="Industry 5" loading="lazy">
+            <img src="upload/infra/industry-6.png" alt="Industry 6" loading="lazy">
+            <img src="upload/infra/industry-7.png" alt="Industry 7" loading="lazy">
+            <img src="upload/infra/industry-8.png" alt="Industry 8" loading="lazy">
         </div>
     </section>
     <?php require "company-logo.php" ?>

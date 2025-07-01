@@ -46,7 +46,7 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6">
                     <div class="card h-100 p-0 position-relative">
-                        <img src="upload/RANGREZZA-TICKET.webp" alt="Rangrezza 2024" class="w-100 no-filter">
+                        <img src="upload/RANGREZZA-TICKET.webp" alt="Rangrezza 2024" loading="lazy" class="w-100 no-filter">
                         <div class="card-body">
                             <h5 class="card-title">Rangrezza 2024</h5>
                             <p class="text-black">Rangrezza 2024 at GNC bursts with color and energy as freshers are welcomed through lively cultural performances, music, and dance, marking an unforgettable start for new students.</p>
@@ -59,31 +59,31 @@
                                                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                                                     <div class="carousel-inner">
                                                         <div class="carousel-item active">
-                                                            <img src="upload/rangrezza-2024/7.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/7.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/rangrezza-2024/2.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/2.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/rangrezza-2024/3.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/3.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/rangrezza-2024/4.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/4.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/rangrezza-2024/5.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/5.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/rangrezza-2024/6.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/6.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/rangrezza-2024/8.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/8.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/rangrezza-2024/9.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/9.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/rangrezza-2024/10.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/rangrezza-2024/10.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                     </div>
                                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -105,7 +105,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="card h-100 p-0 position-relative">
-                        <img src="upload/rangrezza.webp" alt="Rangrezza 2023" class="w-100 no-filter">
+                        <img src="upload/rangrezza.webp" alt="Rangrezza 2023" loading="lazy" class="w-100 no-filter">
                         <div class="card-body">
                             <h5 class="card-title">Rangrezza 2023</h5>
                             <p class="text-black">GNC kicks off with 'Rangrezza' - a vibrant freshers' party featuring cultural dances and songs, welcoming our new students with rhythm and melody.</p>
@@ -118,46 +118,46 @@
                                                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                                                     <div class="carousel-inner">
                                                         <div class="carousel-item active">
-                                                            <img src="upload/cultural/rangrezza-23/01.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/01.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <!-- <div class="carousel-item ">
                                                             <img src="upload/cultural/rangrezza-23/02.webp" alt="" class="w-100 no-filter">
                                                         </div> -->
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/03.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/03.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/04.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/04.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/05.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/05.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/06.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/06.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
+                                                        </div>
+                                                        <div class="carousel-item "> 
+                                                            <img src="upload/cultural/rangrezza-23/07.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/07.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/08.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/08.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/09.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/09.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/10.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/10.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/11.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/11.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/12.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/12.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/13.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/13.webp" alt="rangrezza" class="w-100 no-filter">
-                                                        </div>
-                                                        <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/14.webp" alt="rangrezza" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/14.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                     </div>
                                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="card h-100 p-0 position-relative">
-                        <img src="upload/cultural/helloween/02.webp" alt="Halloween 2023" class="w-100 no-filter">
+                        <img src="upload/cultural/helloween/02.webp" alt="Halloween 2023" loading="lazy" class="w-100 no-filter">
                         <div class="card-body">
                             <h5 class="card-title">Halloween 2023</h5>
                             <p class="text-black">GNC brings a spooky twist with our Halloween Theme Party - don your costumes and join us for a night of frights, fun, and unforgettable memories!</p>
@@ -192,34 +192,34 @@
                                                 <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
                                                     <div class="carousel-inner">
                                                         <div class="carousel-item active">
-                                                            <img src="upload/cultural/helloween/01.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/01.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/02.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/02.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/03.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/03.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/04.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/04.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/05.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/05.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/06.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/06.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/07.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/07.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/08.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/08.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/09.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/09.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/cultural/helloween/10.webp" alt="helloween" class="w-100 no-filter">
+                                                            <img src="upload/cultural/helloween/10.webp" alt="helloween" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                     </div>
                                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
@@ -288,7 +288,7 @@
             <h2>A Reflection of India</h2>
             <p>GNC's Student Demographic Represents Every State</p>
         </div>
-        <img src="upload/cultural/reflaction-of-india.webp" alt="" class="img-fluid">
+        <img src="upload/cultural/reflaction-of-india.webp" alt="cultural" loading="lazy" class="img-fluid">
     </section>
     <?php require "testimoni.php"; ?>
     <?php

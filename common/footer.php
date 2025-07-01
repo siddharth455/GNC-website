@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row g-4">
                 <div class="col-6 col-sm-4 col-lg-3">
-                    <img src="./images/logo.webp" alt="" style="max-width: 50%;" />
+                    <img src="./images/logo.webp" alt="" loading="lazy" style="max-width: 50%;" />
                     <br>
                     <br>
                     <p>Guru Nanak College<br>Jhajhra,
@@ -157,10 +157,10 @@
     <button type="button" class="gotoTop__icon"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i></button>
 </div>
 
-<script src="js/jquery-3.7.1.min.js"></script>
+<script src="js/jquery-3.7.1.min.js" ></script>
 <script src="js/jquery-migrate-3.4.0.min.js" defer=""></script>
 <script src="js/bootstrap.min.js" defer=""></script>
-<script src="js/plugins-purged-landing.js"></script>
+<script src="js/plugins-purged-landing.js" ></script>
 <script>
     $(".hover-header-list li").on('mouseover', function() {
         $(".hover-header-list li").removeClass('active');

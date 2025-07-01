@@ -230,7 +230,7 @@
 <body>
     <?php require "common/header.php" ?>
     <div class="kingster-page-title-wrap">
-        <img src="upload/join-wirh-us.webp" id="shakableImage" alt="Shakable Image">
+        <img src="upload/join-wirh-us.webp" id="shakableImage" alt="Shakable Image" loading="lazy">
     </div>
     <section style="background: url('upload/office.webp'); background-repeat: no-repeat; background-size: cover;">
         <div class="vison-sec text-white pt-5 pb-5">
@@ -292,7 +292,7 @@
                 <div class="col-md-4">
                     <div class="job-thumb">
                         <div class="in-center">
-                            <img src="upload/user-icon.webp" alt="user">
+                            <img src="upload/user-icon.webp" alt="user" loading="lazy">
                             <h5>Academic Job Opportunities</h5>
                         </div>
                     </div>
@@ -300,7 +300,7 @@
                 <div class="col-md-4">
                     <div class="job-thumb">
                         <div class="in-center">
-                            <img src="upload/user-icon2.webp" alt="user">
+                            <img src="upload/user-icon2.webp" alt="user" loading="lazy">
                             <h5>Administrative<br>Jobs Opening</h5>
                         </div>
                     </div>
@@ -308,7 +308,7 @@
                 <div class="col-md-4">
                     <div class="job-thumb">
                         <div class="in-center">
-                            <img src="upload/user-icon3.webp" alt="user">
+                            <img src="upload/user-icon3.webp" alt="user" loading="lazy">
                             <h5>Career Paths in Leadership</h5>
                         </div>
                     </div>

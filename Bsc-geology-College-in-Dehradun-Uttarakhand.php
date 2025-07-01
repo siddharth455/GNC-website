@@ -97,7 +97,7 @@ geology.</p>
                             </div>
                         </div>
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/infra/life-allied.webp" alt="geology showcasing" style="width: -webkit-fill-available;">
+                            <img src="upload/infra/life-allied.webp" alt="geology showcasing" loading="lazy" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

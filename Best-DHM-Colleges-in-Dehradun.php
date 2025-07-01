@@ -86,7 +86,7 @@
                             </div> -->
                     </div>
                     <div class="col-lg-12 about-program-image">
-                        <img src="upload/Diploma in Hotel Management.webp" alt="hotel management showcase" style="width: -webkit-fill-available;">
+                        <img src="upload/Diploma in Hotel Management.webp" alt="hotel management showcase" loading="lazy" style="width: -webkit-fill-available;">
                     </div>
                 </div>
 

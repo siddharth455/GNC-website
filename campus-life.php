@@ -80,13 +80,13 @@
 
               <!-- Carousel Item 1 -->
               <div class="carousel-item active">
-                <img src="upload/hardy.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Hardy Sandhu">
+                <img src="upload/hardy.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Hardy Sandhu" loading="lazy">
                
               </div>
 
               <!-- Carousel Item 2 -->
               <div class="carousel-item">
-                <img src="upload/gulnazar.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Gurnazar Chattha">
+                <img src="upload/gulnazar.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Gurnazar Chattha" loading="lazy">
                 <div class="carousel-caption">
                   Gurnazar Chattha
                 </div>
@@ -94,14 +94,14 @@
 
               <!-- Carousel Item 3 -->
               <div class="carousel-item">
-                <img src="upload/milind.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Milind Gabba">
+                <img src="upload/milind.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Milind Gabba" loading="lazy">
                 <div class="carousel-caption">
                   Milind Gabba
                 </div>
               </div>
               <!-- Carousel Item 4 -->
               <div class="carousel-item">
-                <img src="upload/amrit.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Amrit Maan">
+                <img src="upload/amrit.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Amrit Maan" loading="lazy">
                 <div class="carousel-caption">
                   Amrit Maan
                 </div>
@@ -120,19 +120,19 @@
           <div id="imageSlider" class="carousel slide h-100" data-bs-ride="carousel">
             <div class="carousel-inner h-100" style="margin-top: 25px;">
               <div class="carousel-item active" style="height:400px">
-                <img src="upload/sport/1.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 1">
+                <img src="upload/sport/1.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 1" loading="lazy">
               </div>
               <div class="carousel-item" style="height:400px">
-                <img src="upload/sport/2.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 2">
+                <img src="upload/sport/2.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 2" loading="lazy">
               </div>
               <div class="carousel-item" style="height:400px">
-                <img src="upload/sport/3.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 2">
+                <img src="upload/sport/3.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 2" loading="lazy">
               </div>
               <div class="carousel-item" style="height:400px">
-                <img src="upload/sport/4.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 2">
+                <img src="upload/sport/4.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 2" loading="lazy">
               </div>
               <div class="carousel-item" style="height:400px">
-                <img src="upload/sport/5.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 3">
+                <img src="upload/sport/5.webp" class="img-fluid rounded-start h-100" style="width: 100%;" alt="Image 3" loading="lazy">
               </div>
             </div>
           </div>
@@ -148,7 +148,7 @@
   <section class="campus-sport container mt-5 mb-5">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-12 campus-sport-fac">
-        <img src="upload/extra/health.webp" alt="health and wellness">
+        <img src="upload/extra/health.webp" alt="health and wellness" loading="lazy">
         <h5>Health &amp; Wellness</h5>
         <p>Health and wellness are integral to the student experience at Guru Nanak College, Dehradun, reflecting its commitment to holistic
           development. The college prioritizes physical fitness, mental health, and emotional well-being through various initiatives designed to support a balanced
@@ -159,7 +159,7 @@
           and lead fulfilling lives both during their studies and beyond.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-12 campus-sport-fac">
-        <img src="upload/extra/curricular.webp" alt="co-curricular activity">
+        <img src="upload/extra/curricular.webp" alt="co-curricular activity" loading="lazy">
         <h5>Co-Curricular Activities</h5>
         <p>Guru Nanak College, Dehradun, places great emphasis on co-curricular activities, recognizing their vital role in shaping
           well-rounded individuals. The college offers a diverse range of opportunities for students to explore their passions and talents beyond
@@ -170,7 +170,7 @@
           success in all aspects of life.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-12 campus-sport-fac">
-        <img src="upload/extra/international.webp" alt="national and international">
+        <img src="upload/extra/international.webp" alt="national and international" loading="lazy">
         <h5>National &amp; International</h5>
         <p>Guru Nanak College, Dehradun, is committed to providing education that meets both national and international standards, preparing
           students to thrive in a globalized world. The college offers a diverse curriculum that blends academic rigor with practical skills, fostering critical
@@ -181,7 +181,7 @@
           who excel in their chosen fields and contribute meaningfully to both local and international communities.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-12 campus-sport-fac">
-        <img src="upload/extra/ragging.webp" alt="ragging free campus">
+        <img src="upload/extra/ragging.webp" alt="ragging free campus" loading="lazy">
         <h5>Ragging Free Campus</h5>
         <p>Guru Nanak College, Dehradun, takes immense pride in maintaining a ragging-free campus, fostering an environment of respect, inclusivity, and safety for all students. The college strictly adheres to the guidelines of the University Grants Commission (UGC) and other regulatory bodies, ensuring that anti-ragging measures are implemented effectively. A zero-tolerance policy is in place, with strict disciplinary actions for violations, ensuring that every student feels secure and valued.
           The institution actively promotes awareness campaigns to educate students about the harmful effects of ragging and their rights. An Anti-Ragging Committee and a dedicated helpline are available round-the-clock to address any concerns. Senior students are encouraged to mentor and guide juniors, creating a bond of mutual respect and camaraderie.
@@ -194,7 +194,7 @@
       <h2 class="text-center">Our Service Available</h2>
       <div class="card-group" style="gap: 10px;">
         <div class="card">
-          <img src="upload/extra/hostel-1.webp" class="card-img-top" alt="hostel">
+          <img src="upload/extra/hostel-1.webp" class="card-img-top" alt="hostel" loading="lazy">
           <div class="card-body">
             <h5 class="card-title">Hostel</h5>
             <p class="card-text">Guru Nanak College, Dehradun, provides excellent hostel facilities for students, ensuring a comfortable and secure
@@ -204,7 +204,7 @@
           </div>
         </div>
         <div class="card">
-          <img src="upload/extra/infrastructure.webp" class="card-img-top" alt="Best Infrastructure">
+          <img src="upload/extra/infrastructure.webp" class="card-img-top" alt="Best Infrastructure" loading="lazy">
           <div class="card-body">
             <h5 class="card-title">Best Infrastructure</h5>
             <p class="card-text">Guru Nanak College, Dehradun, boasts state-of-the-art infrastructure designed to enhance the student experience. The
@@ -214,7 +214,7 @@
           </div>
         </div>
         <div class="card">
-          <img src="upload/extra/placement-02.webp" class="card-img-top" alt="Best Placement">
+          <img src="upload/extra/placement-02.webp" class="card-img-top" alt="Best Placement" loading="lazy">
           <hr style="margin-top: -1.8px;">
           <div class="card-body">
             <h5 class="card-title">Best Placement</h5>
@@ -235,7 +235,7 @@
           <div class="position-relative">
             <!-- Responsive image -->
             <div class="image-container">
-              <img src="upload/cultural-1.webp" class="img-fluid" alt="Campus Events">
+              <img src="upload/cultural-1.webp" class="img-fluid" alt="Campus Events" loading="lazy">
             </div>
             <!-- Overlay Text -->
             <div class="position-absolute bottom-0 start-0 w-100 h-20-percent d-flex align-items-center justify-content-center overlay">
@@ -250,7 +250,7 @@
           <div class="position-relative">
             <!-- Responsive image -->
             <div class="image-container">
-              <img src="upload/sports-1.webp" class="img-fluid" alt="Campus Events">
+              <img src="upload/sports-1.webp" class="img-fluid" alt="Campus Events" loading="lazy">
             </div>
             <!-- Overlay Text -->
             <div class="position-absolute bottom-0 start-0 w-100 h-20-percent d-flex align-items-center justify-content-center overlay">
@@ -264,7 +264,7 @@
           <div class="position-relative">
             <!-- Responsive image -->
             <div class="image-container">
-              <img src="upload/conferences-1.webp" class="img-fluid" alt="Campus Events">
+              <img src="upload/conferences-1.webp" class="img-fluid" alt="Campus Events" loading="lazy">
             </div>
             <!-- Overlay Text -->
             <div class="position-absolute bottom-0 start-0 w-100 h-20-percent d-flex align-items-center justify-content-center overlay">

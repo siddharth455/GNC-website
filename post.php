@@ -12,52 +12,150 @@ $shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
 <html>
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Blog - Guru Nanak College Dehradun</title>
+    <title><?= $post ? htmlspecialchars($post['title']) : 'Post Not Found' ?> - Guru Nanak College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .blog-post,
-        .comment-form,
-        .suggested-posts {
-            padding: 15px;
-            background-color: #fff;
-            border-radius: 5px;
-            border: 1px solid #000;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    <style> 
+        .post-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
         }
-        .blog-post h2, h3 {
-            margin-top: 0;
-            font-weight: bolder;
+        
+        .pageBanner-inner {
+            margin-bottom: 30px;
         }
-        .meta { color: #777; font-size: 0.9em; }
-        .blog-post img, .suggested-posts img {
-            max-width: 100%; height: auto; border-radius: 5px;
+        
+        .blog-content {
+            background: #F1F1E9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
         }
-        .navigation-buttons {
-            display: flex; justify-content: space-between; margin-top: 20px;
+        
+        .post-image {
+            width: 100%;
+            max-height: 100%;
+            object-fit: cover;
+            border-radius: 6px;
+            margin-bottom: 15px;
         }
+        
+        .post-meta {
+            color: #6c757d;
+            margin-bottom: 15px;
+            font-size: 0.95rem;
+        }
+        
+        .post-body {
+            font-size: 1.05rem;
+            line-height: 1.7;
+        }
+        
+        .post-body p {
+            margin-bottom: 1rem;
+        }
+        
+        .post-body img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 6px;
+            margin: 15px 0;
+        }
+        
         #toc {
-            background: #f9f9f9;
+            background: #f1f8ff;
             padding: 15px;
+            border-radius: 6px;
             margin-bottom: 20px;
-            border-left: 4px solid #007bff;
-            border-radius: 5px;
+            border-left: 4px solid #0066cc;
         }
-        #toc h4 { margin-top: 0; font-weight: bold; }
-        #toc ul { list-style: none; padding-left: 0; }
-        #toc li a {
-            text-decoration: none;
-            color: #007bff;
-            display: block;
+        
+        /* UPDATED SUGGESTED POSTS STYLE */
+        .suggested-posts {
+            background: #F1F1E9;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        
+        .suggested-posts h4 {
+            font-weight: 600;
+            margin-bottom: 20px;
+            font-size: 1.25rem;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+            color: #333;
+        }
+        
+        .suggested-post {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            padding: 15px;
+            margin-bottom: 15px;
+            background: #fff;
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+            border: 1px solid #e9ecef;
+            transition: all 0.3s ease;
+        }
+        
+        .suggested-post:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border-color: #0066cc;
+        }
+        
+        .suggested-post:last-child {
+            margin-bottom: 0;
+        }
+        
+        .suggested-post-img {
+            width: 100%;
+            height: 300px;
+            object-fit: fill;
+            border-radius: 4px;
+        }
+        
+        .suggested-post-content h5 {
+            font-size: 1rem;
             margin-bottom: 5px;
+            line-height: 1.4;
         }
-        #toc li a:hover { text-decoration: underline; }
-
-        [id^="heading-"]::before {
-            content: "";
-            display: block;
-            height: 100px;
-            margin-top: -100px;
-            visibility: hidden;
+        
+        .suggested-post-content h5 a {
+            color: #333;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        .suggested-post-content h5 a:hover {
+            color: #0066cc;
+        }
+        
+        .suggested-post-date {
+            font-size: 0.85rem;
+            color: #6c757d;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .post-navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 25px;
+        }
+        
+        @media (max-width: 768px) {
+            .suggested-post {
+                flex-direction: column;
+            }
+            
+            .suggested-post-img {
+                width: 100%;
+                height: 300px;
+            }
         }
     </style>
 </head>
@@ -80,94 +178,106 @@ $shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
     </div>
 </section>
 
-<div class="container mt-5 mb-5">
+<div class="post-container">
     <div class="row">
-        <div class="col-lg-8 col-sm-12">
+        <div class="col-lg-8">
             <?php if ($post): ?>
-                <div class="blog-post">
+                <div class="blog-content">
                     <?php if (isset($post['image'])): ?>
-                        <img src="<?= htmlspecialchars($post['image']); ?>" alt="<?= htmlspecialchars($post['title']); ?>">
+                        <img src="<?= htmlspecialchars($post['image']) ?>" class="post-image" alt="<?= htmlspecialchars($post['title']) ?>">
                     <?php endif; ?>
-
-                    <h2><?= htmlspecialchars($post['title']); ?></h2>
-                    <p class="meta">By <?= htmlspecialchars($post['author']); ?> on <?= htmlspecialchars($post['date']); ?></p>
-
-                    <?php if ($showTOC): ?><div id="toc"></div><?php endif; ?>
-
-                    <div class="post-content" id="post-content">
-                        <?= htmlspecialchars_decode($post['content']); ?>
+                    
+                    <div class="post-meta">
+                        <span><i class="fas fa-user"></i> <?= htmlspecialchars($post['author']) ?></span>
+                        <span><i class="fas fa-calendar-alt"></i> <?= htmlspecialchars($post['date']) ?></span>
+                    </div>
+                    
+                    <?php if ($showTOC): ?>
+                        <div id="toc"></div>
+                    <?php endif; ?>
+                    
+                    <div class="post-body" id="post-content">
+                        <?= htmlspecialchars_decode($post['content']) ?>
+                    </div>
+                    
+                    <div class="post-navigation">
+                        <?php if ($id > 0): ?>
+                            <a href="post.php?id=<?= $id - 1 ?>" class="btn btn-primary">
+                                <i class="fas fa-arrow-left"></i> Previous Post
+                            </a>
+                        <?php else: ?>
+                            <div></div>
+                        <?php endif; ?>
+                        
+                        <?php if ($id < count($posts) - 1): ?>
+                            <a href="post.php?id=<?= $id + 1 ?>" class="btn btn-primary">
+                                Next Post <i class="fas fa-arrow-right"></i>
+                            </a>
+                        <?php endif; ?>
+                    </div>
+                    
+                    <div class="text-center mt-3">
+                        <a href="blog.php" class="btn btn-outline-secondary">
+                            <i class="fas fa-arrow-left"></i> Back to All Posts
+                        </a>
                     </div>
                 </div>
             <?php else: ?>
-                <p>Post not found.</p>
+                <div class="alert alert-danger">Post not found.</div>
             <?php endif; ?>
-
-            <div class="navigation-buttons">
-                <?php if ($id > 0): ?>
-                    <a href="post.php?id=<?= $id - 1; ?>" class="btn btn-primary">Previous Post</a>
-                <?php endif; ?>
-                <?php if ($id < count($posts) - 1): ?>
-                    <a href="post.php?id=<?= $id + 1; ?>" class="btn btn-primary ms-auto">Next Post</a>
-                <?php endif; ?>
-            </div>
-            <div class="d-flex justify-content-center mt-2 mb-2">
-                <a href="blog.php" class="btn btn-secondary">Back to Blog</a>
-            </div>
         </div>
-
-        <div class="col-lg-4 col-sm-12 mt-4 mt-md-0">
+        
+        <div class="col-lg-4">
             <div class="suggested-posts">
-                <h3>Suggested Posts</h3>
-                <hr>
-                <ul class="list-unstyled">
-                    <?php
-                    $counter = 0;
-                    foreach ($posts as $key => $suggestedPost) {
-                        if ($key != $id) {
-                            echo '<li>';
-                            if (isset($suggestedPost['image'])) {
-                                echo '<img src="' . htmlspecialchars($suggestedPost['image']) . '" alt="' . htmlspecialchars($suggestedPost['title']) . '">';
-                            }
-                            echo '<h4><a href="post.php?id=' . $key . '">' . htmlspecialchars($suggestedPost['title']) . '</a></h4>';
-                            echo '<p class="meta">By ' . htmlspecialchars($suggestedPost['author']) . ' on ' . htmlspecialchars($suggestedPost['date']) . '</p>';
-                            echo '</li><hr>';
-                            if (++$counter >= 5) break;
+                <h4>You May Also Like</h4>
+                
+                <?php
+                $counter = 0;
+                foreach ($posts as $key => $suggestedPost) {
+                    if ($key != $id && $counter < 5) {
+                        echo '<div class="suggested-post">';
+                        if (isset($suggestedPost['image'])) {
+                            echo '<img src="' . htmlspecialchars($suggestedPost['image']) . '" class="suggested-post-img" alt="' . htmlspecialchars($suggestedPost['title']) . '">';
                         }
+                        echo '<div class="suggested-post-content">';
+                        echo '<h5><a href="post.php?id=' . $key . '">' . htmlspecialchars($suggestedPost['title']) . '</a></h5>';
+                        echo '<div class="suggested-post-date"><i class="far fa-calendar-alt"></i> ' . htmlspecialchars($suggestedPost['date']) . '</div>';
+                        echo '</div></div>';
+                        $counter++;
                     }
-                    ?>
-                </ul>
+                }
+                ?>
             </div>
         </div>
     </div>
 </div>
 
 <?php if ($showTOC): ?>
-<script>
-document.addEventListener('DOMContentLoaded', function () {
+    <script>
+document.addEventListener('DOMContentLoaded', function() {
     const content = document.getElementById('post-content');
     const toc = document.getElementById('toc');
-    const headings = content.querySelectorAll('h1, h2, h3');
-
-    if (headings.length && toc.children.length === 0) {
-        const ul = document.createElement('ul');
-        toc.innerHTML = '<h4>Table of Contents</h4>';
-
+    const headings = content.querySelectorAll('h2, h3');
+    
+    if (headings.length && toc) {
+        const tocContainer = document.createElement('div');
+        tocContainer.className = 'toc-container'; // Add a class for styling
+        
         headings.forEach((heading, i) => {
             if (!heading.id) heading.id = 'heading-' + i;
-            const li = document.createElement('li');
-            li.style.marginLeft = `${(parseInt(heading.tagName[1]) - 1) * 20}px`;
-            const a = document.createElement('a');
-            a.href = `#${heading.id}`;
-            a.textContent = heading.textContent;
-            a.addEventListener('click', function (e) {
-                e.preventDefault();
-                const y = document.getElementById(heading.id).getBoundingClientRect().top + window.pageYOffset - 100;
-                window.scrollTo({ top: y, behavior: 'smooth' });
-            });
-            li.appendChild(a);
-            ul.appendChild(li);
+            const tocItem = document.createElement('div');
+            tocItem.className = 'toc-item';
+            
+            const tocLink = document.createElement('a');
+            tocLink.href = '#' + heading.id;
+            tocLink.textContent = heading.textContent;
+            tocLink.className = 'toc-link';
+            
+            tocItem.appendChild(tocLink);
+            tocContainer.appendChild(tocItem);
         });
-        toc.appendChild(ul);
+        
+        toc.appendChild(tocContainer);
     }
 });
 </script>

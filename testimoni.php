@@ -15,7 +15,7 @@
                                 <div class="testimonial-content">
                                     <p>Guru Nanak College has been a transformative experience for me. The faculty is incredibly supportive, always ready to help us excel academically and personally. Their guidance has inspired me to pursue my dreams with confidence and determination.</p>
                                     <div class="user-info">
-                                        <img src="upload/infra/ansar.webp" alt="User 1">
+                                        <img src="upload/infra/ansar.webp" alt="User 1" loading="lazy">
                                         <h5>Md. Ansar Alam</h5>
                                     </div>
                                 </div>
@@ -26,7 +26,7 @@
                                 <div class="testimonial-content">
                                     <p>The placement cell at GNC is outstanding! They provide excellent guidance and opportunities that helped me secure my dream internship. Their workshops and mock interviews prepared me well for the competitive job market, boosting my confidence.</p>
                                     <div class="user-info">
-                                        <img src="upload/infra/Testimonials images-03.webp" alt="User 2">
+                                        <img src="upload/infra/Testimonials images-03.webp" alt="User 2" loading="lazy">
                                         <h5>Kritika Raj</h5>
                                     </div>
                                 </div>
@@ -43,7 +43,7 @@
                                 <div class="testimonial-content">
                                         <p>The library is my second home! It’s a quiet space that encourages focused study and research. With a vast collection of books and digital resources, I can easily find the materials I need for my coursework and projects</p>
                                         <div class="user-info">
-                                            <img src="upload/infra/Testimonials images-05.webp" alt="User 5">
+                                            <img src="upload/infra/Testimonials images-05.webp" alt="User 5" loading="lazy">
                                             <h5>Nikita Rai</h5>
                                         </div>
                                     </div>
@@ -54,7 +54,7 @@
                                 <div class="testimonial-content">
                                         <p>The campus is beautiful and vibrant! I love spending time in the library, which is well-stocked with resources that aid my studies. The serene environment allows me to focus and immerse myself in my academic pursuits.</p>
                                         <div class="user-info">
-                                            <img src="upload/infra/Testimonials images-02.webp" alt="User 3">
+                                            <img src="upload/infra/Testimonials images-02.webp" alt="User 3" loading="lazy">
                                             <h5>Rishikesh Kumar</h5>
                                         </div>
                                     </div>
@@ -73,7 +73,7 @@
                                 <div class="testimonial-content">
                                         <p>The annual fests are a highlight of my college life! They are well-organized and filled with fun activities that bring everyone together. Participating in these events has allowed me to express my creativity and enjoy memorable moments.</p>
                                         <div class="user-info">
-                                            <img src="upload/infra/Testimonials images-09.webp" alt="User 6">
+                                            <img src="upload/infra/Testimonials images-09.webp" alt="User 6" loading="lazy">
                                             <h5>Amit Verma</h5>
                                         </div>
                                     </div>
@@ -84,7 +84,7 @@
                                 <div class="testimonial-content">
                                         <p>The faculty here genuinely cares about our success. Their mentorship has been invaluable in shaping my career path. They encourage us to think critically and creatively, fostering an environment where we can thrive academically and personally.</p>
                                         <div class="user-info">
-                                            <img src="upload/infra/Testimonials images-01.webp" alt="User 4">
+                                            <img src="upload/infra/Testimonials images-01.webp" alt="User 4" loading="lazy">
                                             <h5>Aditya Anand</h5>
                                         </div>
                                     </div>
@@ -100,7 +100,7 @@
                                     <div class="testimonial-content">
                                         <p>The campus is spacious and well-maintained. I enjoy the various facilities available, especially the sports complex. Engaging in sports has helped me stay active and build camaraderie with my classmates, enhancing my overall college experience.</p>
                                         <div class="user-info">
-                                            <img src="upload/infra/Testimonials images-07.webp" alt="User 5">
+                                            <img src="upload/infra/Testimonials images-07.webp" alt="User 5" loading="lazy">
                                             <h5>Rudraksh</h5>
                                         </div>
                                     </div>
@@ -111,7 +111,7 @@
                                     <div class="testimonial-content">
                                         <p>The library is extensive and offers a peaceful environment for studying. It’s equipped with all the resources I need, making it easy to conduct research and complete assignments efficiently. I often find myself lost in a good book and Peace environment.</p>
                                         <div class="user-info">
-                                            <img src="upload/infra/Testimonials images-08.webp" alt="User 6">
+                                            <img src="upload/infra/Testimonials images-08.webp" alt="User 6" loading="lazy">
                                             <h5>Seema Bhujel</h5>
                                         </div>
                                     </div>

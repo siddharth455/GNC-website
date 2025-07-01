@@ -51,7 +51,7 @@
                 <div class="row ">
                     <div class="col-sm-12 col-md-6">
                         <div class="chancellor-top-row">
-                            <img src="upload/immersive-learning.webp" alt="academic-overview-image">
+                            <img src="upload/immersive-learning.webp" alt="academic-overview-image" loading="lazy">
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6">
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-sm-12 col-md-6">
                     <div class="chancellor-top-row">
-                        <img src="upload/innovative-teaching.webp" alt="innovative teching">
+                        <img src="upload/innovative-teaching.webp" alt="innovative teching" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -79,7 +79,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-6">
                         <div class="chancellor-top-row">
-                            <img src="upload/mentoring-advising.webp" alt="mentor image">
+                            <img src="upload/mentoring-advising.webp" alt="mentor image"> loading="lazy"
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6">
@@ -97,7 +97,7 @@
                 </div>
                 <div class="col-sm-12 col-md-6">
                     <div class="chancellor-top-row">
-                        <img src="upload/career-development.webp" alt="career-image">
+                        <img src="upload/career-development.webp" alt="career-image" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@
                 <div class="row ">
                     <div class="col-sm-12 col-md-6 ">
                         <div class="chancellor-top-row">
-                            <img src="upload/learning-experience.webp" alt="learning experience">
+                            <img src="upload/learning-experience.webp" alt="learning experience" loading="lazy">
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6">

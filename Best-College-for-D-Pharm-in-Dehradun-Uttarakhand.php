@@ -94,7 +94,7 @@ preparation and dispensing of medications.</p>
                             </div>
                         </div>
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/infra/pharmacy-image.webp" alt="dpharma showcase" style="width: -webkit-fill-available;">
+                            <img src="upload/infra/pharmacy-image.webp" alt="dpharma showcase" loading="lazy" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

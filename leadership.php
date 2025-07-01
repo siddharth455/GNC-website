@@ -85,7 +85,7 @@ fostering visionary guidance and academic excellence" />
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="position-relative text-white mb-4">
-                            <img src="upload/infra/joginder.webp" alt="leader image" class="w-100">
+                            <img src="upload/infra/joginder.webp" alt="leader image" loading="lazy" class="w-100">
                             <div class="stu-info__name">
                                 <b>JOGINDER SINGH ARORA</b>
                                 <small>Chairman, Guru Nanak College</small>
@@ -109,7 +109,7 @@ fostering visionary guidance and academic excellence" />
                 <div class="row">
                     <div class="col-lg-5 order-md-2">
                         <div class="position-relative text-white mb-4">
-                            <img src="upload/infra/rajendra.webp" alt="leader image" class="w-100">
+                            <img src="upload/infra/rajendra.webp" alt="leader image" loading="lazy" class="w-100">
                             <div class="stu-info__name">
                                 <b>RAJENDRA KAUR ARORA</b>
                                 <small>Vice-Chairman, Guru Nanak College</small>
@@ -133,7 +133,7 @@ fostering visionary guidance and academic excellence" />
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="position-relative text-white mb-4">
-                            <img src="upload/infra/bhupinder.webp" alt="leader image" class="w-100">
+                            <img src="upload/infra/bhupinder.webp" alt="leader image" loading="lazy" class="w-100">
                             <div class="stu-info__name">
                                 <b>BHUPINDER SINGH ARORA</b>
                                 <small>CEO, Guru Nanak College</small>
@@ -157,7 +157,7 @@ fostering visionary guidance and academic excellence" />
                 <div class="row">
                     <div class="col-lg-5 order-md-2">
                         <div class="position-relative text-white mb-4">
-                            <img src="upload/infra/vineet.webp" alt="leader image" class="w-100">
+                            <img src="upload/infra/vineet.webp" alt="leader image" loading="lazy" class="w-100">
                             <div class="stu-info__name">
                                 <b>VINEET ARORA</b>
                                 <small>COO, Guru Nanak College</small>
@@ -182,7 +182,7 @@ fostering visionary guidance and academic excellence" />
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="position-relative text-white mb-4">
-                            <img src="upload/infra/saithjeet.webp" alt="leader image" class="w-100">
+                            <img src="upload/infra/saithjeet.webp" alt="leader image" loading="lazy" class="w-100">
                             <div class="stu-info__name">
                                 <b>SAITHJEET SINGH ARORA</b>
                                 <small>CFO, Guru Nanak College</small>
@@ -207,7 +207,7 @@ fostering visionary guidance and academic excellence" />
                 <div class="row">
                     <div class="col-lg-5 order-md-2">
                         <div class="position-relative text-white mb-4">
-                            <img src="upload/infra/lalit.webp" alt="leader image" class="w-100">
+                            <img src="upload/infra/lalit.webp" alt="leader image" loading="lazy" class="w-100">
                             <div class="stu-info__name">
                                 <b>Dr. LALIT KUMAR</b>
                                 <small>REGISTRAR, Guru Nanak College</small>

@@ -103,7 +103,7 @@
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="position-sticky border" style="top: 150px">
-                                        <img src="upload/infra/grievance-redressal.webp" alt="" class="w-100">
+                                        <img src="upload/infra/grievance-redressal.webp" alt="grievance" loading="lazy" class="w-100">
                                     </div>
                                 </div>
                             </div>

@@ -141,7 +141,7 @@ to meet the demands of modern medicine." />
                     <a class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0" href="upload/gnc-brochure.pdf">Download</a>
                 </div>
                 <div class="col-lg-3">
-                    <img src="upload/paramedical.webp" style="width:-webkit-fill-available;border-radius: 10px;"> <!-- Adjusted: Added display: block; margin: 0 auto; to center the image -->
+                    <img src="upload/paramedical.webp" loading="lazy" style="width:-webkit-fill-available;border-radius: 10px;"> <!-- Adjusted: Added display: block; margin: 0 auto; to center the image -->
                 </div>
             </div>
         </div>

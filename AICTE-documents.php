@@ -47,7 +47,7 @@
   <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="upload/infra/AICTE.jpg" class="d-block w-100 img-fluid" alt="Slide 1">
+        <img src="upload/infra/AICTE.jpg" class="d-block w-100 img-fluid" alt="Slide 1" loading="lazy">
       </div>
     </div>
   </div>
@@ -486,7 +486,7 @@
   </div>
 </section>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
 
 <script>
   const buttons = document.querySelectorAll(".toggle-btn");

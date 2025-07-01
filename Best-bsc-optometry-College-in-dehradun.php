@@ -116,7 +116,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/infra/opto-image.webp" alt="optometry showcase" style="width: -webkit-fill-available;">
+                            <img src="upload/infra/opto-image.webp" alt="optometry showcase" loading="lazy" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

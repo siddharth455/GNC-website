@@ -5,331 +5,260 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <title>Professional Blog Page</title>
     <style>
-        /* Banner Section */
-        .banner {
-            background-image: url('images/blog.webp');
-            background-size: cover;
-            background-position: center;
-            height: 550px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-            color: #fff;
+        :root {
+            --primary: #0066cc;
+            --primary-dark: #004c99;
+            --light: #f8f9fa;
+            --dark: #212529;
+            --gray: #6c757d;
+            --light-gray: #e9ecef;
+            --border-radius: 12px;
+            --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            --transition: all 0.3s ease;
+            --page-bg: #f5f7fa;
+            --card-bg: #ffffff;
+        }
+        /* Main Content Wrapper */
+        .content-wrapper {
+            flex: 1;
+            padding-bottom: 60px;
+            background: #F1F1E9;;
         }
 
-        .banner::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
+        /* Main Blog Container */
+        .main-blog-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Featured Posts Section */
+        .featured-posts {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+
+        .featured-post {
+            background: var(--card-bg);
+            border-radius: var(--border-radius);
+            overflow: hidden;
+            box-shadow: var(--box-shadow);
+            transition: var(--transition);
+            border: 1px solid rgba(0, 0, 0, 0.05);
+        }
+
+        .featured-post:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .featured-post-img-container {
+            overflow: hidden;
+            height: 220px;
+        }
+
+        .featured-post-img {
             width: 100%;
             height: 100%;
-            z-index: 1;
-        }
-
-
-
-        /* Featured Blog Card */
-        .featured-blog {
-            background-color: #fff;
-            border-radius: 15px;
-            position: relative;
-            display: flex;
-            height: auto;
-            margin: 0;
-            flex-direction: column;
-            align-items: center;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-
-        .featured-blog img {
-            width: 600px;
-            height: 250px;
             object-fit: cover;
+            transition: var(--transition);
         }
 
-        .featured-blog-content {
-            padding: 20px;
-            align-items: center;
-            align-self: center;
-            align-content: center;
+        .featured-post:hover .featured-post-img {
+            transform: scale(1.05);
         }
 
-        .featured-blog h3 {
-            font-size: 1.35rem;
-            color: #343a40;
+        .featured-post-content {
+            padding: 25px;
         }
 
-        .featured-blog p {
-            font-size: 1rem;
-            color: #6c757d;
+        .featured-post h3 {
+            font-size: 1.4rem;
+            font-weight: 700;
             margin-bottom: 15px;
+            color: var(--dark);
+            transition: var(--transition);
         }
 
-        .btn-read-more {
-            display: inline-block;
-            padding: 10px 20px;
-            font-size: 0.9rem;
-            font-weight: bold;
-            color: #fff;
-            background-color: #0066cc;
-            border-radius: 30px;
-            text-decoration: none;
-            transition: background-color 0.3s ease, transform 0.2s ease;
+        .featured-post:hover h3 {
+            color: var(--primary);
         }
 
-        .btn-read-more:hover {
-            background-color: #004c99;
-            transform: translateY(-2px);
+        .featured-post p {
+            color: var(--gray);
+            margin-bottom: 20px;
         }
 
-        /* Blog Cards */
-        .blog-card {
-            background-color: #fff;
-            border: none;
-            width: 400px;
+        .post-meta {
             display: flex;
-            flex-direction: column;
-            border-radius: 15px;
-            box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            align-items: center;
+            font-size: 0.9rem;
+            color: var(--gray);
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid var(--light-gray);
+        }
+
+        .post-meta span {
+            display: flex;
+            align-items: center;
+            margin-right: 20px;
+        }
+
+        .post-meta i {
+            margin-right: 5px;
+            color: var(--primary);
+        }
+
+        /* Blog Grid Section */
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+
+        .blog-card {
+            background: var(--card-bg);
+            border-radius: var(--border-radius);
             overflow: hidden;
+            box-shadow: var(--box-shadow);
+            transition: var(--transition);
+            border: 1px solid rgba(0, 0, 0, 0.05);
         }
 
         .blog-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.15);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
         }
 
-        .blog-card img {
+        .blog-card-img-container {
+            overflow: hidden;
+            height: 180px;
+        }
+
+        .blog-card-img {
             width: 100%;
-            height: 200px;
+            height: 100%;
             object-fit: cover;
+            transition: var(--transition);
         }
 
-        .blog-card .card-body {
+        .blog-card:hover .blog-card-img {
+            transform: scale(1.05);
+        }
+
+        .blog-card-content {
             padding: 20px;
         }
 
         .blog-card h5 {
-            font-size: 1.25rem;
-            color: #343a40;
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--dark);
+            transition: var(--transition);
+        }
+
+        .blog-card:hover h5 {
+            color: var(--primary);
         }
 
         .blog-card p {
             font-size: 0.9rem;
-            color: #6c757d;
+            color: var(--gray);
             margin-bottom: 15px;
         }
 
-        .blog-card .meta {
-            font-size: 0.85rem;
-            color: #6c757d;
-            margin-bottom: 10px;
-        }
-
-        /* Blog Container with Grid Layout */
-        .blog-container {
-            display: grid;
-            grid-template-columns: 2fr 1fr;
-            /* 2fr for featured blog, 1fr for smaller blog cards */
-            gap: 30px;
-            max-width: 1200px;
-            margin: 30px auto;
-            padding: 0 15px;
-        }
-
-        .blog-main-content {
-            display: flex;
-            flex-direction: row;
-            border-radius: 15px;
-            /* Rounded corners */
-            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-            /* Light shadow for separation */
-            margin-bottom: 30px;
-            /* Space between blogs */
-            overflow: hidden;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            /* Apply transition to both properties */
-        }
-
-        .blog-main-content:hover {
-            transform: translateY(-10px);
-            /* Move the blog up on hover */
-            box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.15);
-            /* Increase shadow on hover */
-        }
-
-        /* Smaller Blog Cards */
-        .smaller-blog-container {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            height: auto;
-        }
-
-        /* code for custome blog part */
-        /* Blog container styling */
-        .unique-blog-container {
-            display: flex;
-            flex-wrap: wrap;
-            /* Wrap to the next row if not enough space */
-            gap: 20px;
-            /* Space between cards */
-            justify-content: flex-start;
-            /* Align items to the left */
-            padding: 10px;
-            /* Optional padding around the container */
-
-        }
-
-        /* Blog card styling */
-        .unique-blog-card {
-            display: flex;
-            flex-direction: column;
-            /* Stack content vertically inside the card */
-            width: 280px;
-            /* Fixed width for each card */
-            border: 1px solid #ddd;
-            /* Light border around the card */
-            border-radius: 8px;
-            /* Rounded corners */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            /* Add subtle shadow */
-            background-color: #fff;
-            /* White background */
-            overflow: hidden;
-            /* Ensure content stays inside the card */
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            /* Apply transition to both properties */
-        }
-
-        .unique-blog-card:hover {
-            transform: translateY(-10px);
-            /* Move the blog up on hover */
-            box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.15);
-            /* Increase shadow on hover */
-        }
-
-        /* Image styling */
-        .unique-blog-image {
-            width: 100%;
-            /* Full width of the card */
-            height: auto;
-            /* Fixed height for images */
-            object-fit: cover;
-            /* Cover the area without distortion */
-        }
-
-        /* Content area styling */
-        .unique-blog-content {
-            padding: 15px;
-            display: flex;
-            flex-direction: column;
-            /* Stack content vertically */
-            gap: 10px;
-            /* Space between elements */
-
-        }
-
-        .unique-blog-card h6 {
-            font-size: 1.15rem;
-            color: #343a40;
-        }
-
-        /* Title styling */
-        .unique-blog-title {
-            font-size: 1.2em;
-            font-weight: bold;
-            margin: 0;
-            color: #333;
-        }
-
-        /* Meta information styling */
-        .unique-blog-meta {
-            font-size: 0.9em;
-            color: #777;
-            /* Subtle grey */
-        }
-
-        /* Excerpt styling */
-        .unique-blog-excerpt {
-            flex-grow: 1;
-            /* Allow this to take up remaining space */
-            font-size: 0.95em;
-            color: #555;
-        }
-
-        /* Read more button styling */
-        .unique-blog-read-more {
-            align-self: flex-start;
-            /* Align button to the left */
-            padding: 10px 15px;
-            background-color: #007bff;
-            /* Primary blue */
-            color: #fff;
+        /* Read More Button */
+        .btn-read-more {
+            display: inline-flex;
+            align-items: center;
+            padding: 10px 20px;
+            margin: 15px 0px;
+            background-color: var(--primary);
+            color: white;
+            border-radius: 30px;
             text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
+            font-weight: 600;
+            transition: var(--transition);
         }
 
-        .unique-blog-read-more:hover {
-            background-color: #0056b3;
-            /* Darker blue on hover */
+        .btn-read-more:hover {
+            background-color: var(--primary-dark);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 102, 204, 0.2);
         }
 
+        .btn-read-more i {
+            margin-left: 5px;
+            transition: var(--transition);
+        }
 
+        .btn-read-more:hover i {
+            transform: translateX(3px);
+        }
 
+        /* Section Title */
+        .section-title {
+            position: relative;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+
+        .section-title h2 {
+            font-weight: 700;
+            color: var(--dark);
+            display: inline-block;
+            margin-bottom: 0;
+            padding-bottom: 15px;
+            position: relative;
+        }
+
+        .section-title h2:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 3px;
+            background: var(--primary);
+            border-radius: 3px;
+        }
 
         /* Responsive Adjustments */
+        @media (max-width: 992px) {
+            .banner h1 {
+                font-size: 2.4rem;
+            }
+            
+            .banner p {
+                font-size: 1.1rem;
+            }
+        }
+
         @media (max-width: 768px) {
-            .blog-container {
-                grid-template-columns: 1fr;
-                /* Stack both sections in one column for mobile devices */
-            }
-
-            .blog-main-content {
-                display: flex;
-                flex-direction: column;
-                border-radius: 15px;
-                /* Rounded corners */
-                box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-                /* Light shadow for separation */
-                margin-bottom: 30px;
-                /* Space between blogs */
-                overflow: hidden;
-                transition: transform 0.3s ease, box-shadow 0.3s ease;
-                /* Apply transition to both properties */
-            }
-
             .banner {
-                background-image: url('images/blog.webp');
-                background-size: cover;
-                background-position: center;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                position: relative;
-                color: #fff;
-                height: 200px;
+                height: 300px;
             }
-
-            .unique-blog-card {
-                width: 100%;
+            
+            .banner h1 {
+                font-size: 2rem;
             }
+        }
 
-            .blog-card {
-                width: auto;
-                height: auto;
+        @media (max-width: 576px) {
+            .banner h1 {
+                font-size: 1.8rem;
             }
-
-            .blog-main-content {
-                height: auto;
+            
+            .featured-posts, .blog-grid {
+                grid-template-columns: 1fr;
             }
         }
     </style>
@@ -338,129 +267,106 @@
 <body>
     <?php require "common/header.php"; ?>
 
-    <!-- Banner Section -->
-    <div class="banner">
-
-    </div>
-
-    <!-- Blog Section -->
-    <section>
-    <div class="blog-container">
-        <!-- Featured Blog -->
-        <div class="featured-blog">
-            <?php
-            // Fetch blog posts from the JSON file
-            $json = file_get_contents('blog.json');
-            $posts = json_decode($json, true);
-            $posts = array_reverse($posts); // Reverse the posts to show the most recent first
-
-            // Display the Featured Blog (first post)
-            if (!empty($posts[0])) {
-                $featured = $posts[0];
-                $slug = strtolower(trim($featured['title']));
-                $slug = preg_replace('/[^a-z0-9]+/', '-', $slug); // Replace spaces & special chars with hyphens
-                $slug = trim($slug, '-'); // Generate slug
-
-                echo '
-                <div class="blog-main-content">
-                    <div class="featured-blog-image">
-                        <img src="' . htmlspecialchars($featured['image']) . '" alt="' . htmlspecialchars($featured['title']) . '" class="img-fluid">
-                    </div>
-                    <div class="featured-blog-content">
-                        <h3>' . htmlspecialchars($featured['title']) . '</h3>
-                        <p>' . strip_tags(substr($featured['content'], 0, 200)) . '...</p>
-                        <a href="post.php?id=0&title=' . urlencode($slug) . '" class="btn-read-more">Read More</a>
-                    </div>
-                </div>';
-            }
-
-            // Loop through the next 4 blog posts and display them
-            $blogCount = 4;
-            for ($i = 1; $i <= $blogCount; $i++) {
-                if (!empty($posts[$i])) {
-                    $blog = $posts[$i];
-                    $slug = strtolower(trim($blog['title']));
-                    $slug = preg_replace('/[^a-z0-9]+/', '-', $slug);
-                    $slug = trim($slug, '-');
-
-                    echo '
-                    <div class="blog-main-content">
-                        <div class="featured-blog-image">
-                            <img src="' . htmlspecialchars($blog['image']) . '" alt="' . htmlspecialchars($blog['title']) . '" class="img-fluid">
-                        </div>
-                        <div class="featured-blog-content">
-                            <h3>' . htmlspecialchars($blog['title']) . '</h3>
-                            <p>' . strip_tags(substr($blog['content'], 0, 200)) . '...</p>
-                            <a href="post.php?id=' . $i . '&title=' . urlencode($slug) . '" class="btn-read-more">Read More</a>
-                        </div>
-                    </div>';
-                }
-            }
-            ?>
+    <div class="content-wrapper">
+        <!-- Banner Section -->
+        <section class="heroBanner">
+        <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="images/blog.webp" class="d-block w-100 img-fluid" alt="Slide 1" loading="lazy">
+                </div> 
+            </div>
         </div>
+    </section>
+        <!-- Main Blog Container -->
+        <div class="main-blog-container">
+            <!-- Featured Posts Section -->
+            <section>
+                <div class="section-title">
+                    <h2>Featured Posts</h2>
+                </div>
+                
+                <div class="featured-posts">
+                    <?php
+                    // Fetch blog posts from the JSON file
+                    $json = file_get_contents('blog.json');
+                    $posts = json_decode($json, true);
+                    $posts = array_reverse($posts); // Reverse the posts to show the most recent first
 
-        <!-- Smaller Blog Cards (Right side) -->
-        <div class="smaller-blog-container">
-            <?php
-            // Loop through posts from index 5 to 9
-            for ($i = 5; $i < min(8, count($posts)); $i++) {
-                $title = strtolower(trim($posts[$i]['title']));
-                $slug = preg_replace('/[^a-z0-9]+/', '-', $title);
-                $slug = trim($slug, '-');
+                    // Display the first 3 posts as featured
+                    for ($i = 0; $i < min(3, count($posts)); $i++) {
+                        $post = $posts[$i];
+                        $slug = strtolower(trim($post['title']));
+                        $slug = preg_replace('/[^a-z0-9]+/', '-', $slug);
+                        $slug = trim($slug, '-');
 
-                echo '
-                <div class="blog-card">
-                    <img src="' . htmlspecialchars($posts[$i]['image']) . '" alt="' . htmlspecialchars($posts[$i]['title']) . '" class="img-fluid">
-                    <div class="card-body">
-                        <h5>' . htmlspecialchars($posts[$i]['title']) . '</h5>
-                        <p class="meta">By ' . htmlspecialchars($posts[$i]['author']) . ' on ' . htmlspecialchars($posts[$i]['date']) . '</p>
-                        <p>' . strip_tags(substr($posts[$i]['content'], 0, 100)) . '...</p>
-                        <a href="post.php?id=' . $i . '&title=' . urlencode($slug) . '" class="btn-read-more">Read More</a>
-                    </div>
-                </div>';
-            }
-            ?>
+                        echo '
+                        <div class="featured-post animate__animated animate__fadeInUp">
+                            <div class="featured-post-img-container">
+                                <img src="' . htmlspecialchars($post['image']) . '" alt="' . htmlspecialchars($post['title']) . '" class="featured-post-img">
+                            </div>
+                            <div class="featured-post-content">
+                                <h3>' . htmlspecialchars($post['title']) . '</h3>
+                                <p>' . strip_tags(substr($post['content'], 0, 150)) . '...</p>
+                                <div class="post-meta">
+                                    <span><i class="far fa-user"></i> ' . htmlspecialchars($post['author']) . '</span>
+                                    <span><i class="far fa-calendar"></i> ' . htmlspecialchars($post['date']) . '</span>
+                                </div>
+                                <a href="post.php?id=' . $i . '&title=' . urlencode($slug) . '" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>';
+                    }
+                    ?>
+                </div>
+            </section>
+
+            <!-- All Blog Posts Section -->
+            <section>
+                <div class="section-title">
+                    <h2>Latest Articles</h2>
+                </div>
+                
+                <div class="blog-grid">
+                    <?php
+                    // Display remaining posts in the grid
+                    for ($i = 3; $i < count($posts); $i++) {
+                        $post = $posts[$i];
+                        $slug = strtolower(trim($post['title']));
+                        $slug = preg_replace('/[^a-z0-9]+/', '-', $slug);
+                        $slug = trim($slug, '-');
+
+                        echo '
+                        <div class="blog-card animate__animated animate__fadeIn">
+                            <div class="blog-card-img-container">
+                                <img src="' . htmlspecialchars($post['image']) . '" alt="' . htmlspecialchars($post['title']) . '" class="blog-card-img">
+                            </div>
+                            <div class="blog-card-content">
+                                <h5>' . htmlspecialchars($post['title']) . '</h5>
+                                <p>' . strip_tags(substr($post['content'], 0, 100)) . '...</p>
+                                <div class="post-meta">
+                                    <span><i class="far fa-user"></i> ' . htmlspecialchars($post['author']) . '</span>
+                                </div>
+                                <a href="post.php?id=' . $i . '&title=' . urlencode($slug) . '" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>';
+                    }
+                    ?>
+                </div>
+            </section>
         </div>
     </div>
-</section>
 
-<section>
-    <div class="unique-blog-container blog-container">
-        <?php
-        // Ensure $posts is an array and contains data
-        if (!empty($posts) && is_array($posts)) {
-            // Loop through posts starting from index 9
-            for ($i = 8; $i < count($posts); $i++) {
-                $slug = strtolower(trim($posts[$i]['title']));
-                $slug = preg_replace('/[^a-z0-9]+/', '-', $slug);
-                $slug = trim($slug, '-');
-
-                echo '
-                <div class="unique-blog-card">
-                    <img src="' . htmlspecialchars($posts[$i]['image']) . '" alt="' . htmlspecialchars($posts[$i]['title']) . '" class="unique-blog-image">
-                    <div class="unique-blog-content">
-                        <h6 class="unique-blog-title">' . htmlspecialchars($posts[$i]['title']) . '</h6>
-                        <p class="unique-blog-meta">By ' . htmlspecialchars($posts[$i]['author']) . ' on ' . htmlspecialchars($posts[$i]['date']) . '</p>
-                        <p class="unique-blog-excerpt">' . strip_tags(substr($posts[$i]['content'], 0, 100)) . '...</p>
-                        <a href="post.php?id=' . $i . '&title=' . urlencode($slug) . '" class="unique-blog-read-more">Read More</a>
-                    </div>
-                </div>';
-            }
-        } else {
-            echo '<p>No blog posts available.</p>';
-        }
-        ?>
-    </div>
-</section>
-
-
-
-
-
-    <!-- Footer -->
     <?php require "common/footer.php"; ?>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Add animation delays to blog cards
+        document.addEventListener('DOMContentLoaded', function() {
+            const cards = document.querySelectorAll('.animate__fadeIn');
+            cards.forEach((card, index) => {
+                card.style.animationDelay = `${index * 0.1}s`;
+            });
+        });
+    </script>
 </body>
-
 </html>

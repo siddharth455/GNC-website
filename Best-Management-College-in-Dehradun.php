@@ -132,14 +132,14 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
     <section class="gallery">
         <h2>Industrial Visit</h2>
         <div class="gallery-grid">
-            <img src="upload/infra/industry-2.png" alt="Industry 1">
-            <img src="upload/infra/industry-1.png" alt="Industry 2">
-            <img src="upload/infra/industry-3.png" alt="Industry 3">
-            <img src="upload/infra/industry-4.png" alt="Industry 4">
-            <img src="upload/infra/industry-5.png" alt="Industry 5">
-            <img src="upload/infra/industry-6.png" alt="Industry 6">
-            <img src="upload/infra/industry-7.png" alt="Industry 7">
-            <img src="upload/infra/industry-8.png" alt="Industry 8">
+            <img src="upload/infra/industry-2.png" alt="Industry 1" loading="lazy">
+            <img src="upload/infra/industry-1.png" alt="Industry 2" loading="lazy">
+            <img src="upload/infra/industry-3.png" alt="Industry 3" loading="lazy">
+            <img src="upload/infra/industry-4.png" alt="Industry 4" loading="lazy">
+            <img src="upload/infra/industry-5.png" alt="Industry 5" loading="lazy">
+            <img src="upload/infra/industry-6.png" alt="Industry 6" loading="lazy">
+            <img src="upload/infra/industry-7.png" alt="Industry 7" loading="lazy">
+            <img src="upload/infra/industry-8.png" alt="Industry 8" loading="lazy">
         </div>
     </section>
     <?php require "company-logo.php" ?>
@@ -153,7 +153,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
                     <a class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0" href="upload/gnc-brochure.pdf">Download</a>
                 </div>
                 <div class="col-lg-3">
-                    <img src="upload/hero/bs-4.webp" alt="apply online" style="width:-webkit-fill-available;border-radius: 10px;"> <!-- Adjusted: Added display: block; margin: 0 auto; to center the image -->
+                    <img src="upload/hero/bs-4.webp" alt="apply online" loading="lazy" style="width:-webkit-fill-available;border-radius: 10px;"> <!-- Adjusted: Added display: block; margin: 0 auto; to center the image -->
                 </div>
             </div>
         </div>

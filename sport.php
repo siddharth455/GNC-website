@@ -45,7 +45,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5 sport-infrastructure">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/sport/cricket.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/sport/cricket.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Cricket: Smash Boundaries & Chase Dreams</h2>
@@ -64,7 +64,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/sport/basketball.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/sport/basketball.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -72,7 +72,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5 sport-infrastructure">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/sport/badminton.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/sport/badminton.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Badminton: Fly High & Hit Hard</h2>
@@ -92,7 +92,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/sport/chess.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/sport/chess.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -100,7 +100,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5 sport-infrastructure">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/sport/high jump.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/sport/high jump.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>High Jump:Sky's The Limit</h2>
@@ -120,7 +120,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/sport/futsal.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/sport/futsal.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -129,7 +129,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5 sport-infrastructure">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/sport/discus throw.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/sport/discus throw.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Discus Throw:Spin, Launch & Conquer</h2>
@@ -149,7 +149,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/sport/marathon.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/sport/marathon.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -158,7 +158,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5 sport-infrastructure">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/sport/shot put.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/sport/shot put.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Shot Put: Launch to Victory</h2>
@@ -179,7 +179,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/sport/kabaddi.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/sport/kabaddi.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>

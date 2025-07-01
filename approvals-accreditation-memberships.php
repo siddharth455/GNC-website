@@ -255,7 +255,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class="mb-4 animated fadeInUpShort go" data-id="0">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="images/AICTE logo.webp" class="img-fluid" alt="All India Council for Technical Education">
+                                        <img src="images/AICTE logo.webp" class="img-fluid" alt="All India Council for Technical Education" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">All India Council for Technical Education</h3>
@@ -270,7 +270,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class="mb-4 animated fadeInUpShort go" data-id="1">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="images/ugc.webp" class="img-fluid" alt="University Grants Commission">
+                                        <img src="images/ugc.webp" class="img-fluid" alt="University Grants Commission" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">University Grants Commission</h3>
@@ -285,7 +285,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class="mb-4 animated fadeInUpShort go" data-id="0">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="images/msme.webp" class="img-fluid" alt="National Dairy Research Institute">
+                                        <img src="images/msme.webp" class="img-fluid" alt="National Dairy Research Institute" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">Ministry of Micro, Small and Medium Enterprises</h3>
@@ -300,7 +300,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class=" mb-4  animated fadeInUpShort go" data-id="2">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="images/HNBGMU.webp" class="img-fluid" alt="Hemvati Nandan Bahuguna Garhwal University">
+                                        <img src="images/HNBGMU.webp" class="img-fluid" alt="Hemvati Nandan Bahuguna Garhwal University" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">Hemvati Nandan Bahuguna Garhwal University</h3>
@@ -315,7 +315,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class=" mb-4  animated fadeInUpShort go" data-id="2">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="images/Pharmacy_Council_of_India Logo.webp" class="img-fluid" alt="Ministry of Human Resource Development">
+                                        <img src="images/Pharmacy_Council_of_India Logo.webp" class="img-fluid" alt="Ministry of Human Resource Development" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">Pharmacy Council of India</h3>
@@ -330,7 +330,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class=" mb-4  animated fadeInUpShort go" data-id="2">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="images/UBTER.webp" class="img-fluid" alt="Uttarakhand Board of Technical Education Roorkee">
+                                        <img src="images/UBTER.webp" class="img-fluid" alt="Uttarakhand Board of Technical Education Roorkee" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">Uttarakhand Board of Technical Education Roorkee</h3>
@@ -346,7 +346,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class="mb-4 animated fadeInUpShort go" data-id="1">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="images/Uttarakhand_Technical_University_logo.webp" class="img-fluid" alt="Uttarakhand Technical University">
+                                        <img src="images/Uttarakhand_Technical_University_logo.webp" class="img-fluid" alt="Uttarakhand Technical University" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">Uttarakhand Technical University</h3>
@@ -361,7 +361,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class="mb-4 animated fadeInUpShort go" data-id="1">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="upload/infra/iap-logo.jpeg" class="img-fluid" alt="Sri Dev Suman Uttarakhand University">
+                                        <img src="upload/infra/iap-logo.jpeg" class="img-fluid" alt="Sri Dev Suman Uttarakhand University" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">The Indian Association of Physiotherapists (IAP)</h3>
@@ -377,7 +377,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class="mb-4 animated fadeInUpShort go" data-id="1">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="upload/infra/inc-logo.png" class="img-fluid" alt="Sri Dev Suman Uttarakhand University">
+                                        <img src="upload/infra/inc-logo.png" class="img-fluid" alt="Sri Dev Suman Uttarakhand University" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">The Indian Nursing Council (INC)</h3>
@@ -392,7 +392,7 @@ academic programs" />
                             <div class="col-md-4  p-2">
                                 <div class="mb-4 animated fadeInUpShort go" data-id="1">
                                     <div class="pictureContainer d-flex flex-column align-items-center">
-                                        <img src="images/sdsuu.webp" class="img-fluid" alt="Sri Dev Suman Uttarakhand University">
+                                        <img src="images/sdsuu.webp" class="img-fluid" alt="Sri Dev Suman Uttarakhand University" loading="lazy">
                                         <div class="row pictureContainer_text mx-0">
                                             <div class="col-12 align-self-center">
                                                 <h3 class="h5 mt-4 text-center">Sri Dev Suman Uttarakhand University</h3>

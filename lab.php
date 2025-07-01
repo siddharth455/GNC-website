@@ -40,7 +40,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/ph-1.webp" alt="Student in Library"class="img-fluid">
+                    <img src="upload/ph-1.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Pharmaceutics-I</h2>
@@ -61,7 +61,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/pharmaceutics-1.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/pharmaceutics-1.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -69,7 +69,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/pharmaceautics chemistry-3.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/pharmaceautics chemistry-3.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Pharmaceutics-III</h2>
@@ -89,7 +89,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/pharmaceutics.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/pharmaceutics.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -97,7 +97,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/machine.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/machine.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Pharmaceutical Chemistry-I</h2>
@@ -117,7 +117,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/pharmaceautics-3.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/pharmaceautics-3.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -125,7 +125,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/phc-3.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/phc-3.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Pharmaceutical Chemistry-III</h2>
@@ -145,7 +145,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/pharmacology-1.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/pharmacology-1.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -153,7 +153,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/phcology-2.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/phcology-2.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Pharmacology-II</h2>
@@ -173,7 +173,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/anatomy.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/anatomy.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -181,7 +181,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/pharmaceautics chemistry-2.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/pharmaceautics chemistry-2.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Machine Room</h2>
@@ -201,7 +201,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/computer-lab.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/computer-lab.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -209,7 +209,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/pediatric-lab.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/pediatric-lab.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>Pediatric Lab</h2>
@@ -229,7 +229,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="upload/nutrition-lab.webp" alt="E-Library" class="img-fluid">
+                <img src="upload/nutrition-lab.webp" alt="E-Library" loading="lazy" class="img-fluid">
             </div>
         </div>
     </section>
@@ -237,7 +237,7 @@
         <div class="container">
             <div class="row d-flex align-items-center pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
-                    <img src="upload/fundamental-nursing.webp" alt="Student in Library" class="img-fluid">
+                    <img src="upload/fundamental-nursing.webp" alt="Student in Library" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-md-6 col-sm-12 text-white">
                     <h2>fundamental of Nursing Lab</h2>

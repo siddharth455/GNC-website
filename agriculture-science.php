@@ -49,7 +49,7 @@
                     </div>
                     <div class="internal-form">
                         <span id="ee-form-6">
-                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
+                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
                         </span>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/infra/agri-image.webp" alt="agriculture image" style="width: -webkit-fill-available;">
+                            <img src="upload/infra/agri-image.webp" alt="agriculture image" loading="lazy" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

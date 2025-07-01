@@ -141,7 +141,7 @@ session_start();
 
 <body>
     <div class="card-header logo-images">
-        <img src="images/logo.webp" alt="alumni logo">
+        <img src="images/logo.webp" alt="alumni logo" loading="lazy">
     </div>
 
     <form action="alumni_backend.php" method="post">

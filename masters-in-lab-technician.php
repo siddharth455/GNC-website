@@ -89,7 +89,7 @@
                             </div>
                         </div> -->
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/infra/bmlt-image.webp" style="width: -webkit-fill-available;">
+                            <img src="upload/infra/bmlt-image.webp" loading="lazy" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

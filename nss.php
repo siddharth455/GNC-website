@@ -51,7 +51,7 @@
                     <p>NSS activities are carried out through regular camps and ongoing projects. During these programs, student volunteers work actively to bring about social change and development.</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
-                    <img src="upload/nss.webp" alt="NSS Event Image" class="img-fluid">
+                    <img src="upload/nss.webp" alt="NSS Event Image" loading="lazy" class="img-fluid">
                     <h2>Objectives:</h2>
                     <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
                         <li>To understand in-depth, the social, economic, geographic, and cultural diverse elements of the nation at large and of one's own community specifically.</li>

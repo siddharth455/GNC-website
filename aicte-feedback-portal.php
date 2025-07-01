@@ -54,7 +54,7 @@
         <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="upload/infra/aicte-banner.jpg" class="d-block w-100 img-fluid" alt="Slide 1">
+                    <img src="upload/infra/aicte-banner.jpg" class="d-block w-100 img-fluid" alt="Slide 1" loading="lazy">
                 </div>
             </div>
     </section>

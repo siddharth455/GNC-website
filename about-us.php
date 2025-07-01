@@ -46,7 +46,7 @@
             <div class="modal-content ">
                 <div class="modal-body " style="padding: 0;">
                     <button type="button" class="btn-close text-white" data-bs-dismiss="modal" aria-label="Close" style="position: absolute;right: 10px;top: 10px;"></button>
-                    <a href="https://application.gnc.edu.in/?utm_source=Website&utm_medium=popup&utm_campaign=popup_2024-25"><img src="upload/gnc-popup-banner.webp" alt="gnc-banner" class="w-100 img-fluid" width="80%"></a>
+                    <a href="https://application.gnc.edu.in/?utm_source=Website&utm_medium=popup&utm_campaign=popup_2024-25"><img src="upload/gnc-popup-banner.webp" alt="gnc-banner" loading="lazy" class="w-100 img-fluid" width="80%"></a>
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@
                 <div class="row pt-3 pb-3 text-white">
                     <h2 style="text-align: center; ">Guru Nanak College, Dehradun: Your Gateway to a Career in Pharmacy, Paramedical, Nursing, Management & Technology</h2>
                     <div class="col-lg-4 col-md-4 col-sm-none">
-                        <img src="upload/infra/about-us-page.webp" alt="About GNC" style="border-radius: 10px; width: -webkit-fill-available;">
+                        <img src="upload/infra/about-us-page.webp" alt="About GNC" loading="lazy" style="border-radius: 10px; width: -webkit-fill-available;">
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-12">
                         <p>Guru Nanak College, situated in the serene and academically vibrant city of Dehradun, has established itself as a prestigious center of higher education since its inception under the aegis of NIMS, Dehradun in 2009. The college has become a top Pharmaceutical and Paramedical College in the region because of its expertise in pharmacy education and paramedical studies. It has gained recognition as one of the most prestigious Pharmacy Colleges in Dehradun despite its short history.</p>
@@ -74,18 +74,18 @@
             <div class="container">
                 <div class="row pt-5 pb-5 ">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-12">
-                        <img src="upload/icon-3.webp" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                        <img src="upload/icon-3.webp" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                         <h3>Our Philosophy</h3>
                         <p>Education at GNC is a collaborative journey, transforming students into life-long learners and proactive contributors to society.</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-12">
-                        <img src="upload/icon-4.webp" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                        <img src="upload/icon-4.webp" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                         <h3>GNC Principle</h3>
                         <p>GNC embodies holistic growth, nurturing individuality amidst the vitality of communal learning and personal discovery.</p>
 
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-12">
-                        <img src="upload/icon-2.webp" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                        <img src="upload/icon-2.webp" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                         <h3>Key Of Success</h3>
                         <p>Our success formula blends academic rigor with character development, creating well-rounded individuals poised for lifelong achievement.</p>
                     </div>
@@ -99,7 +99,7 @@
             <div class="row">
                 <div class="col-lg-5 d-none d-sm-block">
                     <div class="about-girl pt-8  mt-2 position-relative" style=" width: 710px !important;">
-                        <img src="upload/young-student.webp" alt="Guru Nanak College, Dehradun" class="w-100">
+                        <img src="upload/young-student.webp" alt="Guru Nanak College, Dehradun" loading="lazy" class="w-100">
                     </div>
                     <div class="line"></div>
                 </div>
@@ -116,7 +116,7 @@
                                         <h4>Experience a <br>vibrant student life</h4>
                                     </div>
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-1.webp" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-1.webp" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                                         <h4 style="color:white">Gain a global <br>perspective</h4>
                                     </div>
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-2.webp" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-2.webp" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -136,7 +136,7 @@
                                         <h4>Explore a range <br>of flexible academic <br>opportunities</h4>
                                     </div>
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-3.webp" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-3.webp" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -146,7 +146,7 @@
                                         <h4 style="color:white">Catalyse your <br>career growth</h4>
                                     </div>
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-55.png" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-55.png" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +156,7 @@
                                         <h4>Access world-class <br>student support <br>for a lifetime</h4>
                                     </div>
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-4.webp" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-4.webp" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -166,7 +166,7 @@
                                         <h4>Partner with<br>100+ Companies<br></h4>
                                     </div>  
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-66.png" alt="Guru Nanak College" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-66.png" alt="Guru Nanak College" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>

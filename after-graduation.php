@@ -41,7 +41,7 @@
                     </div>
                     <div class="internal-form">
                         <span id="ee-form-6">
-                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
+                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
                         </span>
                     </div>
                 </div>

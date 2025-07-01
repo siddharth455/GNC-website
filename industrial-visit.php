@@ -95,7 +95,7 @@
 
                 visitCard.innerHTML = `
                     <div class="visit-profile-image">
-                        <img src="${profileImage}" alt="${visit.title} Profile Image">
+                        <img src="${profileImage}" alt="${visit.title}  Profile Image">
                     </div>
                     <h3>${visit.title}</h3>
                     <a href="details.php?id=${visit.id}" class="arrow">→</a>

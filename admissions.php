@@ -42,7 +42,7 @@
                     </div>
                     <div class="internal-form">
                         <span id="ee-form-6">
-                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
+                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
                         </span>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                     </div>
                 </div>
                 <div class=" col-lg-5">
-                    <img src="https://gncdehradun.com/assets/images/gncmh-scaled.webp" alt="Best college in dehradun" style="border-radius: 10px; width:-webkit-fill-available;">
+                    <img src="https://gncdehradun.com/assets/images/gncmh-scaled.webp" alt="Best college in dehradun" loading="lazy" style="border-radius: 10px; width:-webkit-fill-available;">
                 </div>
             </div>
         </div>

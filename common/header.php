@@ -56,7 +56,7 @@
                     <div class="navbar-brand p-0 mt-0">
                         <div class="d-flex align-items-center">
                             <a href="index.php" aria-label="Go to Guru Nanak College's Home Page">
-                                <img src="images/logo.webp" alt="" width="196" class="me-2 cu-logo">
+                                <img src="images/logo.webp" alt="" loading="lazy" width="196" class="me-2 cu-logo">
                             </a>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                     <div class="mob-lower align-items-center d-lg-none">
                         <div class="header_btn blue-gradient mob-cl-btn">
                             <a href="tel:+917300900900" class="d-flex align-items-center text-white">
-                                <img src="images/phone-icon.webp" alt="" width="30">
+                                <img src="images/phone-icon.webp" alt="" loading="lazy" width="30">
                                 <span class="d-block ms-2">
                                     <small class="d-block text-capitalize">Admission Helpline</small>7300900900
                                 </span>
@@ -110,7 +110,7 @@
                             <a href="https://application.gnc.edu.in/" class="btn btn-md apply-now-btn" target="_blank"> Apply Now</a>
                             <div class="d-flex header_btn blue-gradient">
                                 <a href="tel:+917300900900" class="d-flex align-items-center text-white">
-                                    <img src="images/phone-icon.webp" alt="" width="30">
+                                    <img src="images/phone-icon.webp" alt="" loading="lazy" width="30">
                                     <span class="d-block ms-2">
                                         <small class="d-block text-capitalize">Admission Helpline</small>7300900900
                                     </span>
@@ -1168,7 +1168,7 @@
                                     <div class="col-6 p-2 py-3 d-flex">
                                         <div class="dd--title align-self-center mx-auto">
                                             <span>
-                                                <img src="upload/icon/1.png" alt="" class="img-fluid">
+                                                <img src="upload/icon/1.png" alt="" loading="lazy" class="img-fluid">
                                             </span>
 
                                         </div>
@@ -1176,7 +1176,7 @@
                                     <div class="col-6 p-2 py-3 d-flex">
                                         <div class="dd--title align-self-center mx-auto">
                                             <span>
-                                                <img src="upload/icon/2.png" alt="" class="img-fluid">
+                                                <img src="upload/icon/2.png" alt="" loading="lazy" class="img-fluid">
                                             </span>
 
                                         </div>
@@ -1184,7 +1184,7 @@
                                     <div class="col-6 p-2 py-3 d-flex">
                                         <div class="dd--title align-self-center mx-auto">
                                             <span>
-                                                <img src="upload/icon/3.png" alt="" class="img-fluid">
+                                                <img src="upload/icon/3.png" alt="" loading="lazy" class="img-fluid">
                                             </span>
 
                                         </div>
@@ -1192,7 +1192,7 @@
                                     <div class="col-6 p-2 py-3 d-flex">
                                         <div class="dd--title align-self-center mx-auto">
                                             <span>
-                                                <img src="upload/icon/4.png" alt="" class="img-fluid">
+                                                <img src="upload/icon/4.png" alt="" loading="lazy" class="img-fluid">
 
                                         </div>
                                     </div>

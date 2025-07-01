@@ -33,22 +33,22 @@ excellence in academics and holistic development." />
         <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="upload/infra/placement-banner.webp" class="d-block w-100 img-fluid" alt="Slide 1">
+                    <img src="upload/infra/placement-banner.webp" class="d-block w-100 img-fluid" alt="Slide 1" loading="lazy">
                 </div>
                 <div class="carousel-item">
-                    <img src="upload/infra/convocation-banner.webp" class="d-block w-100 img-fluid" alt="Slide 2">
+                    <img src="upload/infra/convocation-banner.webp" class="d-block w-100 img-fluid" alt="Slide 2" loading="lazy">
                 </div>
                 <div class="carousel-item">
-                    <img src="upload/infra/Banner-3.webp" class="d-block w-100 img-fluid" alt="Slide 3">
+                    <img src="upload/infra/Banner-3.webp" class="d-block w-100 img-fluid" alt="Slide 3" loading="lazy">
                 </div>
                 <div class="carousel-item">
-                    <img src="upload/infra/gnc-home-banner.webp" class="d-block w-100 img-fluid" alt="Slide 4">
+                    <img src="upload/infra/gnc-home-banner.webp" class="d-block w-100 img-fluid" alt="Slide 4" loading="lazy">
                 </div>
                 <div class="carousel-item">
-                    <img src="upload/infra/Banner-4.webp" class="d-block w-100 img-fluid" alt="Slide 5">
+                    <img src="upload/infra/Banner-4.webp" class="d-block w-100 img-fluid" alt="Slide 5" loading="lazy">
                 </div>
                 <div class="carousel-item">
-                    <img src="upload/infra/rangrezza-banner.webp" class="d-block w-100 img-fluid" alt="Slide 6">
+                    <img src="upload/infra/rangrezza-banner.webp" class="d-block w-100 img-fluid" alt="Slide 6" loading="lazy">
                 </div>
                 <!-- <div class="container h-100 pos-abs">
                     <div class="row h-100 align-items-center justify-content-between">
@@ -197,11 +197,11 @@ excellence in academics and holistic development." />
                     <h2>Approvals &amp; Accreditation</h2>
                     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                         <div class="slider">
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/HNBGMU.webp" alt="HNBGMU" /></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/Pharmacy_Council_of_India Logo.webp" alt="PCI" /></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/AICTE logo.webp" alt="AICTE" /></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/UBTER.webp" alt="UBTER" /></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/Uttarakhand_Technical_University_logo.webp" alt="UTU" /></a></div>
+                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/HNBGMU.webp" alt="HNBGMU"  /></a></div>
+                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/Pharmacy_Council_of_India Logo.webp" alt="PCI"/></a></div>
+                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/AICTE logo.webp" alt="AICTE"/></a></div>
+                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/UBTER.webp" alt="UBTER"  /></a></div>
+                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/Uttarakhand_Technical_University_logo.webp" alt="UTU"  /></a></div>
                             <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/ugc.webp" alt="UGC" /></a></div>
                             <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/msme.webp" alt="MSME" /></a></div>
                         </div>
@@ -293,32 +293,32 @@ excellence in academics and holistic development." />
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <div class="card  shadow-sm">
-                                    <img src="upload/infra/placement-1.webp" class="card-img-top img-fluid" alt="Placement">
+                                    <img src="upload/infra/placement-1.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-2.webp" class="card-img-top img-fluid" alt="Placement">
+                                    <img src="upload/infra/placement-2.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-3.webp" class="card-img-top img-fluid" alt="Placement">
+                                    <img src="upload/infra/placement-3.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-4.webp" class="card-img-top img-fluid" alt="Placement">
+                                    <img src="upload/infra/placement-4.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-5.webp" class="card-img-top img-fluid" alt="Placement">
+                                    <img src="upload/infra/placement-5.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy">
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-6.webp" class="card-img-top img-fluid" alt="Placement">
+                                    <img src="upload/infra/placement-6.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -336,41 +336,41 @@ excellence in academics and holistic development." />
                 <h3>Bridging The Gap By Aligning With The Industry</h3>
                 <div class="row text-center">
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/practice.webp" alt="Training & Placements" width="50"><br>
+                        <img src="upload/infra/practice.webp" alt="Training & Placements" loading="lazy" width="50"><br>
                         Training & Placements
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/integration.webp" alt="Work Integrated Programs" width="50"><br>
+                        <img src="upload/infra/integration.webp" alt="Work Integrated Programs" loading="lazy" width="50"><br>
                         Work Integrated Programs
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/industrial.webp" alt="Industry Collaborations" width="50"><br>
+                        <img src="upload/infra/industrial.webp" alt="Industry Collaborations" loading="lazy" width="50"><br>
                         Industry Collaborations
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/outstanding.webp" alt="Centers of Excellence" width="50"><br>
+                        <img src="upload/infra/outstanding.webp" alt="Centers of Excellence" loading="lazy" width="50"><br>
                         Centers of Excellence
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/users.webp" alt="Executive Development Programs" width="50"><br>
+                        <img src="upload/infra/users.webp" alt="Executive Development Programs" loading="lazy" width="50"><br>
                         Executive Development Programs
                     </div>
                 </div>
                 <div class="row text-center mt-3">
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/community_1.webp" alt="Industry Visits" width="50"><br>
+                        <img src="upload/infra/community_1.webp" alt="Industry Visits" loading="lazy" width="50"><br>
                         Industry Visits
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/building_1.webp" alt="Industry Advisory Board" width="50"><br>
+                        <img src="upload/infra/building_1.webp" alt="Industry Advisory Board" loading="lazy" width="50"><br>
                         Industry Advisory Board
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/creative-team.webp" alt="Career Competencies" width="50"><br>
+                        <img src="upload/infra/creative-team.webp" alt="Career Competencies" loading="lazy" width="50"><br>
                         Career Competencies
                     </div>
                     <div class="col-md-2 mt-3">
-                        <img src="upload/infra/document.webp" alt="Skill Development" width="50"><br>
+                        <img src="upload/infra/document.webp" alt="Skill Development" loading="lazy" width="50"><br>
                         Skill Development
                     </div>
                 </div>
@@ -868,7 +868,7 @@ excellence in academics and holistic development." />
             <div class="row pt-5 pb-5">
                 <div class="col-lg-3 col-md-3 col-sm-6 col-12">
                     <div class="media-image-icon-imag ">
-                        <img src="upload/icon-1.webp" alt="Guru Nanak College" width="41" height="41" title="col-icon-1" loading="lazy" />
+                        <img src="upload/icon-1.webp" alt="Guru Nanak College" loading="lazy" width="41" height="41" title="col-icon-1" loading="lazy" />
                         <h3>Higher Education Courses</h3>
                         <p>Join GNC for diplomas and bachelor's in nursing, pharmacy, and paramedical, blending theory with practical expertise.</p>
                         <a href="https://www.gnc.edu.in/admissions">Learn More</a>
@@ -876,7 +876,7 @@ excellence in academics and holistic development." />
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-12">
                     <div class="media-image-icon-imag">
-                        <img src="upload/icon-2.webp" alt="Guru Nanak College" width="43" height="45" title="col-icon-2" />
+                        <img src="upload/icon-2.webp" alt="Guru Nanak College" loading="lazy" width="43" height="45" title="col-icon-2" />
                         <h3>Global Opportunities</h3>
                         <p>Find your path with GNC and Career Buddy Club, offering national and international placements in nursing, pharmacy, and paramedical fields.</p>
                         <a href="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">Learn More</a>
@@ -885,7 +885,7 @@ excellence in academics and holistic development." />
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-12">
                     <div class="media-image-icon-imag">
-                        <img src="upload/icon-3.webp" alt="Guru Nanak College" width="40" height="43" title="col-icon-3" />
+                        <img src="upload/icon-3.webp" alt="Guru Nanak College" loading="lazy" width="40" height="43" title="col-icon-3" />
                         <h3>Student Academic Services</h3>
                         <p>Boost success in paramedical & pharmacy studies at GNC with tailored tutoring, lab support, drug research aids.</p>
                         <a href="https://www.gnc.edu.in/academic-overview">Learn More</a>
@@ -894,7 +894,7 @@ excellence in academics and holistic development." />
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-12">
                     <div class="media-image-icon-imag">
-                        <img src="upload/icon-4.webp" alt="Guru Nanak College" width="47" height="47" title="col-icon-4" />
+                        <img src="upload/icon-4.webp" alt="Guru Nanak College" loading="lazy" width="47" height="47" title="col-icon-4" />
 
                         <h3>Campus Life</h3>
                         <p>Discover GNC's campus life: modern labs, active student clubs, and a vibrant community tailored for paramedical & pharmacy studies!</p>
@@ -922,7 +922,7 @@ excellence in academics and holistic development." />
                         <div class="row">
                             <div class="col-md-6 text-end">
                                 <div class="facDp br-20 d-inline-block me-3">
-                                    <img src="upload/infra/leaderships-1.webp" alt="MR. JOGINDER SINGH ARORA">
+                                    <img src="upload/infra/leaderships-1.webp" alt="MR. JOGINDER SINGH ARORA" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -944,7 +944,7 @@ excellence in academics and holistic development." />
                         <div class="row">
                             <div class="col-md-6 text-end">
                                 <div class="facDp br-20 d-inline-block me-3">
-                                    <img src="upload/infra/leaderships-2.webp" alt="RAJENDRA KAUR ARORA">
+                                    <img src="upload/infra/leaderships-2.webp" alt="RAJENDRA KAUR ARORA" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -966,7 +966,7 @@ excellence in academics and holistic development." />
                         <div class="row">
                             <div class="col-md-6 text-end">
                                 <div class="facDp br-20 d-inline-block me-3">
-                                    <img src="upload/infra/leaderships-3.webp" alt="MR. BHUPINDER SINGH ARORA">
+                                    <img src="upload/infra/leaderships-3.webp" alt="MR. BHUPINDER SINGH ARORA" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -988,7 +988,7 @@ excellence in academics and holistic development." />
                         <div class="row">
                             <div class="col-md-6 text-end">
                                 <div class="facDp br-20 d-inline-block me-3">
-                                    <img src="upload/infra/leaderships-4.webp" alt="MRs. VINEET ARORA">
+                                    <img src="upload/infra/leaderships-4.webp" alt="MRs. VINEET ARORA" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -1010,7 +1010,7 @@ excellence in academics and holistic development." />
                         <div class="row">
                             <div class="col-md-6 text-end">
                                 <div class="facDp br-20 d-inline-block me-3">
-                                    <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA">
+                                    <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -1032,7 +1032,7 @@ excellence in academics and holistic development." />
                         <div class="row">
                             <div class="col-md-6 text-end">
                                 <div class="facDp br-20 d-inline-block me-3">
-                                    <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR">
+                                    <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR" loading="lazy">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -1052,22 +1052,22 @@ excellence in academics and holistic development." />
             </div>
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">
-                    <img src="upload/infra/leaderships-1.webp" alt="MR. JOGINDER SINGH ARORA">
+                    <img src="upload/infra/leaderships-1.webp" alt="MR. JOGINDER SINGH ARORA" loading="lazy">
                 </button>
                 <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="1" aria-label="Slide 2">
-                    <img src="upload/infra/leaderships-2.webp" alt="Mrs. RAJENDRA KAUR ARORA">
+                    <img src="upload/infra/leaderships-2.webp" alt="Mrs. RAJENDRA KAUR ARORA" loading="lazy">
                 </button>
                 <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="2" aria-label="Slide 3">
-                    <img src="upload/infra/leaderships-3.webp" alt="MR. BHUPINDER SINGH ARORA">
+                    <img src="upload/infra/leaderships-3.webp" alt="MR. BHUPINDER SINGH ARORA" loading="lazy">
                 </button>
                 <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="3" aria-label="Slide 4">
-                    <img src="upload/infra/leaderships-4.webp" alt="Mrs. VINEET ARORA">
+                    <img src="upload/infra/leaderships-4.webp" alt="Mrs. VINEET ARORA" loading="lazy">
                 </button>
                 <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="4" aria-label="Slide 5">
-                    <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA">
+                    <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA" loading="lazy">
                 </button>
                 <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="5" aria-label="Slide 6">
-                    <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR">
+                    <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR" loading="lazy">
                 </button>
             </div>
         </div>

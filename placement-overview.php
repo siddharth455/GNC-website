@@ -28,16 +28,16 @@
         <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item h-100 overflow-hidden active">
-                    <img src="upload/infra/place-banner.webp" alt="India Today Ranking" class="w-100">
+                    <img src="upload/infra/place-banner.webp" alt="India Today Ranking" loading="lazy" class="w-100">
                 </div>
                 <!-- <div class="carousel-item h-100 overflow-hidden ">
                     <img src="upload/placement-01.webp" alt="India Today Ranking" class="w-100">
                 </div> -->
                 <div class="carousel-item h-100 overflow-hidden">
-                    <img src="upload/placement-02.webp" alt="India Today Ranking" class="w-100">
+                    <img src="upload/placement-02.webp" alt="India Today Ranking" loading="lazy" class="w-100">
                 </div>
                 <div class="carousel-item h-100 overflow-hidden">
-                    <img src="upload/placement-03.webp" alt="India Today Ranking" class="w-100" loading="lazy">
+                    <img src="upload/placement-03.webp" alt="India Today Ranking" loading="lazy" class="w-100" loading="lazy">
                 </div>
             </div>
             <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">

@@ -86,7 +86,7 @@
                             </div> -->
                         </div>
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/infra/gnm.webp" style="width: -webkit-fill-available;">
+                            <img src="upload/infra/gnm.webp" loading="lazy" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

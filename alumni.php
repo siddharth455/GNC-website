@@ -78,8 +78,8 @@
 
 <body>
     <div class="image-container">
-        <a href="alumni_registration.php"><img src="upload/alumni_desktop.webp" alt="Desktop Image" class="desktop-image"></a>
-        <a href="alumni_registration.php"> <img src="upload/alumni_phone.webp" alt="Phone Image" class="phone-image"></a>
+        <a href="alumni_registration.php"><img src="upload/alumni_desktop.webp" alt="Desktop Image" loading="lazy" class="desktop-image"></a>
+        <a href="alumni_registration.php"> <img src="upload/alumni_phone.webp" alt="Phone Image" loading="lazy" class="phone-image"></a>
     </div>
     <section class="container mt-5 mb-5">
         <div class="alumni_content">
