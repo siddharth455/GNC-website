@@ -19,6 +19,20 @@
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
+    <script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Course",
+ "name": "Bachelor of Physiotherapy (BPT)",
+ "description": "The Bachelor of Physiotherapy (BPT) program at Guru Nanak College, Dehradun, is a
+4-year degree with clinical training. Recognized as one of the best BPT colleges in Uttarakhand.",
+ "provider": {
+ "@type": "CollegeOrUniversity",
+ "name": "Guru Nanak College, Dehradun",
+ "url": "https://gnc.edu.in"
+ }
+}
+</script>
 </head>
 
 <body>
@@ -63,39 +77,38 @@
                 <div class="col-lg-6">
                     <div class="aboutProgram-section__content">
                         <div class="page-heading">
-                            <h2><strong>Best BPT College in Dehradun, Uttarakhand- Guru Nanak College, Dehradun</strong></h2>
+                            <h2><strong>Best BPT College in Dehradun, Uttarakhand – Guru Nanak College</strong></h2>
                         </div>
-                        <p>The <b>Bachelor of Physiotherapy (BPT)</b> is a four-year undergraduate program designed for students
-                            passionate about pursuing a career in <b>physical therapy</b>, a vital field in rehabilitative health sciences.
-                            This program offers in-depth knowledge and hands-on training in physiotherapy techniques, enabling
-                            students to treat and rehabilitate patients suffering from movement disorders, injuries, and
-                            disabilities.</p>
-                        <p>For those seeking the <b>Best BPT College in Dehradun</b> or the <b>Best BPT College in Uttarakhand</b>, it is
-                            essential to choose an institution that provides top-tier education, advanced clinical exposure, and
-                            experienced faculty. A well-structured BPT course ensures students gain expertise in <b>anatomy,
-                            biomechanics, electrotherapy, exercise therapy, and physiotherapeutic techniques</b>, preparing them
-                            for rewarding careers in <b>hospitals, rehabilitation centers, and sports clinics.</b></p>
+                        <p>If you are searching for the<b> Best BPT College in Dehradun</b> or the<b> Best BPT College in Uttarakhand,
+Guru Nanak College (GNC)</b> stands out as a top choice for aspiring physiotherapists. Known for its
+strong academic foundation, hands-on clinical training, and placement-focused approach, GNC
+Dehradun offers one of the most comprehensive and career-oriented <b>Bachelor of Physiotherapy
+(BPT)</b> programs in the region.</p>
+<h2>About the BPT Program</h2>
+                        <p>The <b>Bachelor of Physiotherapy (BPT)</b> is a <b>4-year undergraduate degree</b> followed by a<b>6-month
+compulsory internship</b>, focused on rehabilitative healthcare and movement science. This program
+trains students to assess, diagnose, and treat individuals with movement disorders, physical injuries,
+neurological issues, and chronic pain.</p>
+At <b>Guru Nanak College Dehradun</b>, the BPT program combines academic excellence with advanced
+clinical exposure, ensuring students are equipped to provide evidence-based and compassionate
+care.
 
 
                         <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
 
                         <div class="page-sub-heading mt-5">
-                            <h3>Career Prospects: After having a Bachelor of Physiotherapy (BPT) Degree</h3>
+                            <h3>Career Prospects After BPT</h3>
                         </div>
-                        <p>The Bachelor of Physiotherapy (BPT) degree equips graduates with a diverse range of career
-                            opportunities in the healthcare sector. These professionals are highly sought after in hospitals and
-                            clinics, especially in rehabilitation departments. Here, they play a pivotal role in helping patients
-                            recover from surgeries, injuries, or manage chronic conditions, focusing on improving mobility and
-                            alleviating pain.</p>
-                        <p>For those looking to build a strong foundation in this field, choosing the Best BPT College in
-                            Dehradun or the Best BPT College in Uttarakhand is crucial. A top-tier institution ensures students
-                            receive comprehensive training, hands-on experience, and exposure to the latest physiotherapy
-                            techniques.</p>
-                        <p>Private practice is another popular avenue for BPT graduates. In this setting, they have the
-                            opportunity to provide personalized care, addressing various musculoskeletal and neurological
-                            issues on an individual basis. This path allows for a more customized approach to physiotherapy,
-                            catering to the specific needs of each patient and ensuring long-term career growth.</p>
-
+                        <p>A BPT degree from Guru Nanak College Dehradun opens doors to multiple career paths in the
+growing healthcare sector:</p>
+<h2>Employment Opportunities:</h2>
+                       <ul>
+                        <li>Government and private hospitals</li>
+                        <li>Rehabilitation centers and trauma units</li>
+                        <li>Sports injury clinics and wellness centers</li>
+                        <li>Geriatric care and home physiotherapy services</li>
+                        <li>NGOs, research institutes, and fitness consultancies</li>
+                       </ul>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -313,10 +326,16 @@
                         <div class="page-sub-heading">
                             <h3>Eligibility</h3>
                         </div>
-
+<p>To apply for the BPT program at Guru Nanak College:</p>
                         <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-2">
-                            <li>The students who have passed 10+2 or had given senior secondary examination with Maths/Biology/Agriculture from any recognized board.</li>
-                            <li>The minimum percentage required is 45% for GENERAL/OBC and 40% for ST/SC.</li>
+                            <li>Must have passed 10+2 (or equivalent) examination</li>
+                            <li>Stream: Biology/Mathematics/Agriculture</li>
+                            <li>Minimum marks:</li>
+                            <ol>
+                                <li>General/OBC: 45%</li>
+                                <li>SC/ST: 40%</li>
+                            </ol>
+                            <li>Candidates must have studied from a recognized education board</li>
                         </ul>
 
                         <!--<h6 class="mb-2 mt-4"><b>For Lateral Entry</b> </h6>
@@ -378,6 +397,37 @@
             </ul>
         </div>
     </section>
+    <section class=" pb-5 admissionProcess">
+        <div class="container">
+            <div class="page-sub-heading mb-4">
+                <h4>BPT Course Highlights</h4>
+            </div>
+            <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
+                <p>The curriculum includes in-depth training in:</p>
+                <li>Human Anatomy & Physiology</li>
+                <li>Biomechanics & Kinesiology</li>
+                <li>Exercise Therapy & Electrotherapy</li>
+                <li>Neurological & Musculoskeletal Rehabilitation</li>
+                <li>Research Methodology & Evidence-Based Practice</li>
+                <li>Clinical Internship in Multispecialty Hospitals</li>
+            </ul>
+        </div>
+    </section>
+    <section class=" pb-5 admissionProcess">
+        <div class="container">
+            <div class="page-sub-heading mb-4">
+                <h4>What Makes GNC the Best BPT College in Uttarakhand?</h4>
+            </div>
+            <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
+                <li>Strong academic foundation rooted in<b> value-based education</b></li>
+                <li>Blended learning approach combining traditional methods with modern technology</li>
+                <li>Focus on developing <b>critical thinking, problem-solving,</b> and <b>clinical decision-making</b></li>
+                <li>Emphasis on<b> soft skills, ethics,</b> and <b>communication</b> to prepare job-ready professionals</li>
+                <li><b>100% placement training</b> support including resume workshops, mock interviews, and
+                hospital tie-ups</li>
+            </ul>
+        </div>
+    </section>
     <?php require "company-logo.php" ?>
     <section class="bigInfo-section">
         <div class="container">
@@ -385,22 +435,31 @@
                 <div class="col-lg-6 col-md-8 col-sm-10 mt-5">
                     <div class="bigInfo-section__content pb-5">
                         <div class="page-heading">
-                            <h3>Why Join Guru Nank College For Bachelor of Physiotherapy (BPT) in Dehradun?</h3>
+                            <h3>Why Choose Guru Nanak College for BPT in Dehradun?</h3>
                         </div>
-                        <p>BPT, part of Guru Nanak College's School of Paramedical Sciences, Dehradun, specializes in excellence in health sciences education.</p>
-                        <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
-                            <li>Our goal is to develop skilled professionals ready to face global healthcare challenges.</li>
-                            <li>The campus is designed with advanced educational facilities, ensuring a comprehensive learning experience.</li>
-                            <li>Students benefit from :</li>
-                            <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                                <li>A well-stocked, centrally managed library.</li>
-                                <li>Modern laboratories equipped with the latest technology.</li>
-                                <li>Highly qualified and experienced faculty.</li>
-                                <li>Innovative teaching methods that combine traditional and modern techniques.</li>
+                        <p>Guru Nanak College’s School of Paramedical Sciences is committed to producing skilled healthcare
+                        professionals ready for global challenges. Here’s what sets us apart:</p>
+                        <ol>
+                            <li><b>Recognized & Approved Curriculum</b></li>
+                            <p>Affiliated with regulatory councils and recognized by state authorities, ensuring industryrelevant education.</p>
+                            <li><b>Highly Qualified Faculty</b></li>
+                            <p>Learn from experienced professors and clinical experts with a background in both teaching
+                            and professional practice.</p>
+                            <li><b>State-of-the-Art Facilities</b></li>
+                            <ul>
+                                <li>Modern physiotherapy labs with latest equipment</li>
+                                <li>Smart classrooms for interactive learning</li>
+                                <li>Centrally-managed digital & physical library</li>
+                                <li>Dedicated research and innovation support</li>
                             </ul>
-                            <li>We emphasize value-based education, focusing on developing critical thinking, problem-solving skills, and a capacity for innovation and research.</li>
-                            <li>Recognizing the importance of career readiness, we offer extensive placement training to prepare our students for successful careers in the healthcare sector.</li>
-                        </ul>
+                            <li><b>Career-Ready Training & Internships</b></li>
+                            <p>Regular hospital postings, clinical case studies, and mock interview training sessions for
+                            successful career placements.</p>
+                            <li><b>Affordable Fee Structure</b></li>
+                            <p>GNC offers one of the most affordable BPT programs in Uttarakhand without compromising
+                            on quality.</p>
+                        </ol>
+                        
                         <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>
                 </div>
@@ -411,6 +470,78 @@
                 </div>
             </div>
         </div>
+    </section>
+    <section>
+        <div class="container">
+        <h2>FAQs – BPT at Guru Nanak College, Dehradun</h2>
+    <div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+      <strong>Q1. What is the duration of the BPT course at Guru Nanak College?</strong>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        The Bachelor of Physiotherapy (BPT) at Guru Nanak College, Dehradun, is a 4-year undergraduate
+program followed by a 6-month compulsory internship.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      <strong>Q2. What are the eligibility criteria for BPT in Dehradun?</strong>
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        Applicants must have passed 10+2 with Biology, Agriculture, or Mathematics from a recognized
+        board. A minimum of 45% is required for General/OBC and 40% for SC/ST candidates.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+      <strong> Q3. Is Guru Nanak College approved for BPT?</strong>
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        Yes, Guru Nanak College is affiliated and approved by relevant health and education bodies, offering
+        a recognized BPT degree in Uttarakhand.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+      <strong>Q4. What are the career options after completing BPT from GNC Dehradun?</strong>
+      </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        Graduates can work in hospitals, rehabilitation centers, sports injury clinics, or start their own
+        physiotherapy practice. They are also eligible for master's degrees (MPT) or international licensing.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+      <strong>Q5. Does GNC Dehradun offer placement support for BPT students?</strong>
+      </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        Yes, the college offers full placement training, hospital tie-ups, and internship opportunities for BPT
+        students.
+      </div>
+    </div>
+  </div>
+</div>
+</div>
     </section>
     <?php require "application-process.php"; ?>
     <?php require "testimoni.php"; ?>

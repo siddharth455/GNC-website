@@ -3,20 +3,16 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best BBA Colleges in Dehradun| BBA Course| GNC</title>
+    <title>Best BBA College in Dehradun 2025 | Guru Nanak College (GNC), Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best BBA College in Dehradun,
-Uttarakhand, offering BBA Course that enhances students' Management, entrepreneurial, and
-communication skills with its expert faculties.">
+    <meta name="description" content="Join Guru Nanak College, the Best BBA College in Dehradun & Uttarakhand. Industry-focused curriculum, expert faculty & strong placements. Apply for BBA 2025.">
     <link rel="canonical" href="https://gnc.edu.in/best-bba-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords" content="BBA Colleges in Dehradun, BBA Colleges in Uttarakhand, Best
 BBA Colleges in Dehradun,Top BBA Colleges in Dehradun" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best BBA Colleges in Dehradun| Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College is the best BBA College in
-Dehradun, Uttarakhand, offering BBA Course that enhances students' Management,
-entrepreneurial, and communication skills." />
+    <meta property="og:title" content="Best BBA College in Dehradun 2025 | Guru Nanak College (GNC), Uttarakhand" />
+    <meta property="og:description" content="Join Guru Nanak College, the Best BBA College in Dehradun & Uttarakhand. Industry-focused curriculum, expert faculty & strong placements. Apply for BBA 2025." />
     <meta property="og:url" content="https://gnc.edu.in/best-bba-college-in-dehradun" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -70,22 +66,11 @@ entrepreneurial, and communication skills." />
                         <div class="page-heading">
                             <h2><strong>Best BBA College in Dehradun | Guru Nanak College (GNC)</strong></h2>
                         </div>
-                        <p>The <b>Bachelor of Business Administration (BBA)</b> program at <b>Guru Nanak College, Dehradun</b>, is a
-                            comprehensive undergraduate course designed for students aspiring to excel in the field of<b> business
-                                and management</b>. Recognized as one of the <b>Best BBA Colleges in Dehradun</b> and the <b>Best BBA
-                                Colleges in Uttarakhand</b>, this three-year program provides a strong foundation in <b>business
-                                administration</b>, equipping students with essential knowledge in management, finance, marketing,
-                            human resources, and entrepreneurship.</p>
-                        <p>The BBA curriculum is structured to deliver a deep understanding of business principles, while also
-                            focusing on the development of practical skills required for success in the corporate world. Students
-                            gain expertise in subjects like business economics, accounting principles, organizational behavior,
-                            business law, and strategic management. Additionally, the program emphasizes soft skills
-                            development, including communication, leadership, and decision-making, ensuring graduates are
-                            well-prepared for leadership roles in the business sector.
+                        <p>The <b>BBA program at Guru Nanak College (GNC), Dehradun</b>, is one of the most trusted choices for students who want to build a career in business and management. Known as one of the <b>best BBA colleges in Dehradun and Uttarakhand</b>, the program is spread over three years and focuses on giving students a solid understanding of management, finance, marketing, human resources, and entrepreneurship.</p>
+                        <p>What sets GNC apart is its balanced approach to learning. Along with classroom teaching, students get practical exposure through<b> industry visits, workshops, and training sessions</b>. The college also places a strong emphasis on developing soft skills like communication, leadership, and decision-making, which are essential for success in the corporate world.
                         </p>
-                        <p>If you are looking for the <b>Best BBA College in Dehradun</b> or the <b>Best BBA College in Uttarakhand,
-                                Guru Nanak College</b> offers an industry-focused curriculum, experienced faculty, and excellent career
-                            opportunities to help students achieve their professional goals.</p>
+                        <p>Backed by <b>experienced faculty, modern infrastructure, and strong placement opportunities</b>, GNC ensures that students are prepared not only for jobs but also for entrepreneurial ventures.</p>
+                        <p>If you are exploring <b>BBA admission in Dehradun for 2025</b>, Guru Nanak College is a great choice for quality education, career guidance, and all-around growth.</p>
                         <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>

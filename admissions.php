@@ -63,7 +63,7 @@
                     </div>
                 </div>
                 <div class=" col-lg-5">
-                    <img src="https://gncdehradun.com/assets/images/gncmh-scaled.webp" alt="Best college in dehradun" loading="lazy" style="border-radius: 10px; width:-webkit-fill-available;">
+                    <img src="https://gncdehradun.com/assets/images/gncmh-scaled.webp" alt="Best college in dehradun" loading="lazy" decoding="async" style="border-radius: 10px; width:-webkit-fill-available;">
                 </div>
             </div>
         </div>

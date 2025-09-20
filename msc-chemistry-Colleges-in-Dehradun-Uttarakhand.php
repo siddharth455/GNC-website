@@ -3,14 +3,14 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best M.Sc Food Technology College in Dehradun Uttarakhand</title>
+    <title>Guru Nanak College | Best M.Sc Chemistry College in Dehradun Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, Dehradun's bestt M.Sc. Food Technology college. With a groundbreaking curriculum, top-notch faculty, and cuttingedge research opportunities, Guru Nanak College cultivates the future leaders of food technology.">
+    <meta name="description" content="Guru Nanak College, Dehradun’s best M.Sc. Chemistry college. With an innovative curriculum, expert faculty, and advanced research opportunities, the college shapes future leaders in chemistry.">
     <link rel="canonical" href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
-    <meta property="og:description" content="Guru Nanak College, Dehradun's bestt M.Sc. Food Technology college. With a groundbreaking curriculum, top-notch faculty, and cuttingedge research opportunities, Guru Nanak College cultivates the future leaders of food technology." />
+    <meta property="og:description" content="Guru Nanak College, Dehradun’s best M.Sc. Chemistry college. With an innovative curriculum, expert faculty, and advanced research opportunities, the college shapes future leaders in chemistry." />
     <meta property="og:url" content="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -19,13 +19,13 @@
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
 </head>
-
+  
 <body>
     <?php
     require "common/header.php";
     ?>
     <section class="pageBanner-inner">
-        <div style="background-image: url('upload/hero/food-03.webp'); background-repeat: no-repeat; background-size: cover;">
+        <div style="background-image: url('upload/infra/7l.webp'); background-repeat: no-repeat; background-size: cover;">
             <div class="pageBanner-inner_in">
                 <div class="container">
                     <div class="row align-items-center">
@@ -35,7 +35,7 @@
                                     <div class="pb-flex d-flex align-items-center justify-content-center justify-content-lg-start mt-3">
                                         <h5 class=" text-white border-right me-3 pe-3 mb-0">Master of</h5>
                                     </div>
-                                    <h3 class="mb-1 mt-3">Science in Food Technology </small></h3>
+                                    <h3 class="mb-1 mt-3">Science in Chemistry </small></h3>
                                 </div>
                                 <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
                                     Apply Now
@@ -62,15 +62,15 @@
                 <div class="col-lg-6">
                     <div class="aboutProgram-section__content">
                         <div class="page-heading">
-                            <h2>Guru Nanak College - Best M.Sc in Food Technology College in Dehradun, Uttarakhand</h2>
+                            <h2>Guru Nanak College - Best M.Sc in Chemistry College in Dehradun, Uttarakhand</h2>
                         </div>
-                        <p>The Master of Science in Food Technology program at Guru Nanak College, Dehradun, is a postgraduate course designed for students aiming to specialize in the science of food processing and technology. This two-year program offers advanced knowledge and skills related to the processing, preservation, quality control, and safety of food products. The curriculum includes a comprehensive study of food chemistry, food microbiology, food engineering, food packaging, and nutrition.</p>
-                        <p>The M.Sc. Food Technology course is structured to blend theoretical principles with practical applications in the field of food science. Students will learn about the latest technologies and methods used in food processing, techniques for ensuring food safety and quality, and the development of new food products. The program also covers important aspects such as sensory evaluation of food, food laws and regulations, and the impact of food technology on public health and nutrition.</p>
+                        <p>The Master of Science in Chemistry program at Guru Nanak College, Dehradun, is a postgraduate course designed for students aiming to specialize in the field of chemical sciences. This two-year program provides advanced knowledge and practical skills in organic, inorganic, physical, and analytical chemistry. The curriculum covers topics such as spectroscopy, reaction mechanisms, chemical kinetics, materials chemistry, and environmental chemistry, preparing students for research, industry, and academic careers.</p>
+                        <p>The M.Sc. Chemistry course is structured to blend theoretical principles with practical applications in the field of chemical sciences. Students will gain expertise in advanced concepts of organic, inorganic, physical, and analytical chemistry. The program emphasizes modern laboratory techniques, spectroscopy, reaction mechanisms, and research methodologies. It also covers applications of chemistry in pharmaceuticals, materials, environment, and industrial processes, preparing students for diverse professional and research opportunities.</p>
                         <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                         <div class="page-sub-heading mt-5">
                             <h3>Career Prospects:</h3>
                         </div>
-                        <p>Graduates of the M.Sc. Food Technology program can pursue a wide range of career opportunities in the food industry, which is one of the largest and most essential industries globally. They can work in food manufacturing and processing companies, quality assurance, research and development, and food safety management. There are also opportunities in government agencies for food regulation and inspection. Graduates can become food technologists, quality control managers, food safety auditors, or product development specialists. Entrepreneurial avenues include starting a food processing or consulting business. Further academic pursuits, such as a Ph.D. in Food Technology or related fields, can lead to careers in research and academia.</p>
+                        <p>Graduates of the M.Sc. Chemistry program can explore diverse career opportunities across industries and research sectors. They can work in pharmaceuticals, chemical manufacturing, environmental testing, materials science, and quality control laboratories. Opportunities also exist in government organizations, research institutes, and regulatory agencies. Graduates may pursue roles such as analytical chemists, research scientists, laboratory managers, or chemical analysts. Entrepreneurial paths include establishing testing labs, chemical consultancies, or product-based ventures. Further academic pursuits, such as a Ph.D. in Chemistry or related fields, can lead to advanced research roles and careers in teaching and academia.</p>
 
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                         </ul>
                         <div id="printableArea">
                             <div class="course-heading">
-                                <h2 style="text-align: center;">Master of Science in Food Technology</h2>
+                                <h2 style="text-align: center;">Master of Science in Chemistry</h2>
                             </div>
                             <div class="tab-content mt-3" id="myTabContent">
                                 <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab">
@@ -138,7 +138,7 @@
                                                     <tr>
                                                         <td rowspan="4" valign="middle">1st Year</td>
                                                         <td>Fee</td>
-                                                        <td>60,000 </td>
+                                                        <td>40,000 </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Students Diversity Scholarship</td>
@@ -150,7 +150,7 @@
                                                     </tr>
                                                     <tr>
                                                         <td><b>Net Academic Fee</b></td>
-                                                        <td><b>60,000 </b></td>
+                                                        <td><b>40,000 </b></td>
                                                     </tr>
                                                 </tbody>
                                                 <tfoot>
@@ -349,8 +349,8 @@
                 <h4>Admission Procedure:</h4>
             </div>
             <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
-                <li>Admission to the M.Sc. Food Technology program at Guru Nanak College, Dehradun, typically involves a merit-based selection process. Candidates are evaluated based on their academic performance in their undergraduate degree, preferably in food technology, nutrition, microbiology, or related disciplines.</li>
-                <li>The college may also conduct counseling sessions to assess the candidates' understanding of food technology and their aptitude for advanced studies in this field.</li>
+                <li>Admission to the M.Sc. Chemistry program at Guru Nanak College, Dehradun, is generally merit-based. Candidates are evaluated on their academic performance in their undergraduate degree, preferably in chemistry or related disciplines.</li>
+                <li>The college may also conduct counseling sessions to assess candidates’ understanding of chemistry and their aptitude for advanced studies in the subject.</li>
             </ul>
         </div>
     </section>
@@ -361,18 +361,18 @@
                 <div class="col-lg-6 col-md-8 col-sm-10 mt-5">
                     <div class="bigInfo-section__content pb-5">
                         <div class="page-heading">
-                            <h3>Why Join Guru Nank College For Master of Science in Food Technology in Dehradun?</h3>
+                            <h3>Why Join Guru Nank College For Master of Science in Chemistry in Dehradun?</h3>
                         </div>
-                        <p>The M.Sc. Food Technology program at Guru Nanak College offers several key benefits:</p>
+                        <p>The M.Sc. Chemistry program at Guru Nanak College offers several key benefits:</p>
                         <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
-                            <li>A comprehensive and up-to-date curriculum that covers all essential aspects of food technology.</li>
-                            <li>Access to modern laboratories and facilities for practical training in food processing and analysis.</li>
-                            <li>Experienced faculty with expertise in various domains of food science and technology.</li>
+                            <li>A comprehensive and up-to-date curriculum that covers all essential aspects of Chemistry.</li>
+                            <li>Access to advanced laboratories and facilities for hands-on training in chemical analysis and research.</li>
+                            <li>Experienced faculty with expertise in various domains of chemistry.</li>
                             <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
                                 <li>Opportunities for internships and industry projects, providing real-world experience and professional networking.</li>
-                                <li>A focus on innovative approaches to food technology and problem-solving skills.</li>
+                                <li>A focus on innovative approaches to chemistry and problem-solving skills.</li>
                             </ul>
-                            <li>The program is designed to equip students with a thorough understanding of food science principles and practical skills, preparing them for successful careers in the dynamic and growing field of food technology. With a combination of academic rigor and industry relevance, graduates are well-prepared to meet the challenges and opportunities in the global food industry.</li>
+                            <li>The program is designed to equip students with a strong foundation in chemical sciences and practical laboratory skills, preparing them for successful careers in research, industry, and academia. With a blend of academic rigor and real-world relevance, graduates are ready to meet the challenges and opportunities in the diverse field of chemistry.</li>
                         </ul>
                         <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-primary btn-shadow mt-4">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                     </div>

@@ -1332,7 +1332,7 @@
 /* Form Styling - Aligning it to the Right */
 .internal-form {
     position: absolute;
-    top: 18%;
+    top: 28%;
     right: 20px;
     /* Align the form to the right */
     transform: translateY(-50%);

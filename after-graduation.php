@@ -22,7 +22,7 @@
 
 <body>
     <?php require "common/header.php" ?>
-    <section class="pageBanner-inner">
+    <section class="pageBanner-inner mt-5">
         <div style="background-image: url('upload/After-Graduation-head.webp'); background-repeat: no-repeat; background-size: cover;">
             <div class="pageBanner-inner_in">
                 <div class="container">

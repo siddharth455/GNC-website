@@ -96,7 +96,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 about-program-image">
-                            <img src="upload/infra/agri-image.webp" alt="agriculture image" loading="lazy" style="width: -webkit-fill-available;">
+                            <img src="upload/infra/agri-image.webp" alt="agriculture image" loading="lazy" decoding="async" style="width: -webkit-fill-available;">
                         </div>
                     </div>
 

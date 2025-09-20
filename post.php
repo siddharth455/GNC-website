@@ -105,7 +105,24 @@ $shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
             border-color: #0066cc;
         }
-        
+        #toc h4 {
+  font-size: 1.1rem;
+  color: #0052a5;
+  margin-bottom: 8px;
+}
+
+.toc-link {
+  text-decoration: none;
+  color: #333;
+  font-size: 0.95rem;
+  display: block;
+  padding: 4px 0;
+}
+
+.toc-link:hover {
+  color: #0066cc;
+}
+
         .suggested-post:last-child {
             margin-bottom: 0;
         }
@@ -258,29 +275,36 @@ document.addEventListener('DOMContentLoaded', function() {
     const content = document.getElementById('post-content');
     const toc = document.getElementById('toc');
     const headings = content.querySelectorAll('h2, h3');
-    
+
     if (headings.length && toc) {
+        const tocTitle = document.createElement('h4');
+        tocTitle.textContent = 'Table of Contents';
+        tocTitle.style.marginBottom = '10px';
+        toc.appendChild(tocTitle);
+
         const tocContainer = document.createElement('div');
-        tocContainer.className = 'toc-container'; // Add a class for styling
-        
+        tocContainer.className = 'toc-container';
+
         headings.forEach((heading, i) => {
             if (!heading.id) heading.id = 'heading-' + i;
+
             const tocItem = document.createElement('div');
             tocItem.className = 'toc-item';
-            
+
             const tocLink = document.createElement('a');
             tocLink.href = '#' + heading.id;
             tocLink.textContent = heading.textContent;
             tocLink.className = 'toc-link';
-            
+
             tocItem.appendChild(tocLink);
             tocContainer.appendChild(tocItem);
         });
-        
+
         toc.appendChild(tocContainer);
     }
 });
 </script>
+
 <?php endif; ?>
 
 <?php require "common/footer.php"; ?>

@@ -6,6 +6,22 @@
     <title></title>
     <meta name="robots" content="INDEX, FOLLOW">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- ✅ Preload critical CSS -->
+<link rel="preload" as="style" href="assets/css/bootstrap.min.css">
+<link rel="preload" as="style" href="assets/css/slick.css">
+<link rel="preload" as="style" href="assets/css/style.css">
+
+<!-- ✅ Preload hero image (LCP) -->
+<link rel="preload" as="image" href="upload/infra/placement-banner.webp" fetchpriority="high">
+
+<!-- ✅ Preload Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
+
+<!-- ✅ Preload FontAwesome (woff2 font file, adjust path if different) -->
+<link rel="preload" as="font" href="assets/fonts/fontawesome-webfont.woff2" type="font/woff2" crossorigin>
+
     <link href="./css/main-purged-2024.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/addtohomescreen.css">
@@ -16,6 +32,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="preload" as="image"
+      href="upload/infra/placement-banner.webp"
+      fetchpriority="high">
+
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -49,7 +69,12 @@
 </head>
 
 <body>
+
     <header class="header fixed-top">
+    <marquee behavior="scroll" direction="left" scrollamount="6" style="background-color:#ff9c5a; color:rgb(0, 0, 0); padding: 10px; font-weight: bold;">
+   Disclaimer: This is our official website. There is no other website for any admission to Guru Nanak College, Jhajra, Dehradun. Please do not send any amount to any account other than the official one. 
+    <a href="bank-details.php" style="color:rgb(255, 255, 255); text-decoration: underline;">Click here</a> for account details.
+</marquee>
         <div class="header__main">
             <nav class="navbar navbar-expand-xl">
                 <div class="container-fluid align-items-start">
@@ -60,6 +85,7 @@
                             </a>
                         </div>
                     </div>
+                    
                     <button id="main-toggler" class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
                         aria-label="Toggle navigation">
