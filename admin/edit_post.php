@@ -25,11 +25,73 @@ if (!isset($_GET['id']) || !isset($posts[$_GET['id']])) {
     die('Post not found.');
 }
 
-$post = $posts[$_GET['id']];
+$post_id = $_GET['id'];
+$post = $posts[$post_id];
 $imagePath = $post['image'];
+
+// --- SLUG GENERATION FUNCTIONS (Copied from add_blog.php) ---
+function slugify($text, array $posts = [], $current_post_id = null)
+{
+    // Replace non-alphanumeric characters (except spaces and hyphens) with nothing
+    $text = preg_replace('~[^\pL\d]+~u', '-', $text);
+    // Transliterate non-Latin characters to Latin
+    $text = iconv('utf-8', 'us-ascii//TRANSLIT', $text);
+    // Remove characters that are not a-z, 0-9, or hyphen
+    $text = preg_replace('~[^-\w]+~', '', $text);
+    // Trim hyphens from start/end
+    $text = trim($text, '-');
+    // Convert to lowercase
+    $text = strtolower($text);
+    
+    if (empty($text)) {
+        return 'n-a';
+    }
+
+    $originalSlug = $text;
+    $counter = 1;
+
+    // Check for slug uniqueness, excluding the current post
+    while (isSlugExists($text, $posts, $current_post_id)) {
+        $text = $originalSlug . '-' . $counter;
+        $counter++;
+    }
+
+    return $text;
+}
+
+// Function to check if the generated slug already exists
+function isSlugExists($slug, array $posts, $current_post_id = null)
+{
+    foreach ($posts as $id => $post) {
+        // Skip the current post being edited
+        if ($id == $current_post_id) {
+            continue;
+        }
+        if (isset($post['slug']) && $post['slug'] === $slug) {
+            return true;
+        }
+    }
+    return false;
+}
+// -------------------------------------------------------------
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $updatedDate = !empty($_POST['manual_date']) ? $_POST['manual_date'] : $post['date'];
+    $newTitle = trim($_POST['title']);
+    $currentSlug = isset($post['slug']) ? $post['slug'] : '';
+    
+    // --- SLUG UPDATE LOGIC ---
+    if ($newTitle !== $post['title']) {
+        // Title has changed: Regenerate the slug
+        $updatedSlug = slugify($newTitle, $posts, $post_id);
+    } elseif (!empty($currentSlug)) {
+        // Title hasn't changed, and slug already exists: Keep the current slug
+        $updatedSlug = $currentSlug;
+    } else {
+        // Title hasn't changed, but slug is missing (legacy post): Generate a slug
+        $updatedSlug = slugify($newTitle, $posts, $post_id);
+    }
+    // -------------------------
 
     if (isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
         $target_dir = "uploads/";
@@ -51,15 +113,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             }
         }
     }
-
-    $posts[$_GET['id']] = [
-        'title' => htmlspecialchars($_POST['title']),
-        'author' => htmlspecialchars($_POST['author']),
-        'date' => $updatedDate,
-        'content' => $_POST['content'],
-        'image' => $imagePath,
+    
+    // Preserve existing fields that are not part of the form, but ensure the new slug is saved
+    $posts[$post_id] = array_merge($post, [
+        'title'    => htmlspecialchars($newTitle),
+        'slug'     => $updatedSlug, // <-- UPDATED SLUG FIELD
+        'author'   => htmlspecialchars($_POST['author']),
+        'date'     => $updatedDate,
+        'content'  => $_POST['content'],
+        'image'    => $imagePath,
         'show_toc' => isset($_POST['show_toc']) ? true : false
-    ];
+    ]);
 
     file_put_contents($jsonFile, json_encode($posts, JSON_PRETTY_PRINT));
     header('Location: index.php');
@@ -75,7 +139,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <link rel="icon" type="image/webp" href="../images/logog.webp">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-    <!-- TinyMCE from jsDelivr CDN (No API Key Needed) -->
     <script src="https://cdn.jsdelivr.net/npm/tinymce@6.8.3/tinymce.min.js"></script>
     <script>
         tinymce.init({
@@ -136,4 +199,3 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </div>
 </body>
 </html>
-

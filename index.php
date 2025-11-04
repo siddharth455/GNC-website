@@ -29,322 +29,1671 @@ excellence in academics and holistic development." />
     <?php
     require "common/header.php";
     ?>
-    <section class="heroBanner mt-4">
-  <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
-    <div class="carousel-inner">
+    <section class="heroBanner">
+        <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
+            <div class="carousel-inner">
 
-      <!-- ✅ First slide: LCP optimized -->
-      <div class="carousel-item active">
-      <picture>
-    <source type="image/webp" srcset="upload/infra/placement-banner.webp">
-    <img src="upload/infra/placement-banner.webp"
-         class="d-block w-100 img-fluid"
-         alt="Placement Banner"
-         width="1200" height="600"
-         loading="eager"
-         decoding="async"
-         fetchpriority="high">
-  </picture>
-      </div>
+                <!-- ✅ First slide: LCP optimized -->
+                <div class="carousel-item active">
+                    <picture>
+                        <source type="image/webp" srcset="upload/infra/accredition-banner.webp">
+                        <img src="upload/infra/accredition-banner.webp"
+                            class="d-block w-100 img-fluid"
+                            alt="Placement Banner"
+                            width="1200" height="600"
+                            loading="eager"
+                            decoding="async"
+                            fetchpriority="high">
+                    </picture>
+                </div>
+                <div class="carousel-item">
+                    <img src="upload/infra/convocation-banner.webp"
+                        class="d-block w-100 img-fluid"
+                        alt="Convocation Banner"
+                        width="1200" height="600"
+                        loading="eager" decoding="async">
+                </div>
+                <!-- ✅ Other slides (lazy + dimensions added for CLS fix) -->
+                <div class="carousel-item">
+                    <img src="upload/infra/rangrezza-banner.webp"
+                        class="d-block w-100 img-fluid"
+                        alt="Convocation Banner"
+                        width="1200" height="600"
+                        loading="eager" decoding="async">
+                </div>
 
-      <!-- ✅ Other slides (lazy + dimensions added for CLS fix) -->
-      <div class="carousel-item">
-        <img src="upload/infra/convocation-banner.webp"
-             class="d-block w-100 img-fluid"
-             alt="Convocation Banner"
-             width="1200" height="600"
-             loading="eager" decoding="async">
-      </div>
+                <div class="carousel-item">
+                    <img src="upload/infra/placement-banner.webp"
+                        class="d-block w-100 img-fluid"
+                        alt="Banner 3"
+                        width="1200" height="600"
+                        loading="eager" decoding="async">
+                </div>
 
-      <div class="carousel-item">
-        <img src="upload/infra/Banner-3.webp"
-             class="d-block w-100 img-fluid"
-             alt="Banner 3"
-             width="1200" height="600"
-             loading="eager" decoding="async">
-      </div>
+                <div class="carousel-item">
+                    <img src="upload/infra/gnc-home-banner.webp"
+                        class="d-block w-100 img-fluid"
+                        alt="Home Banner"
+                        width="1200" height="600"
+                        loading="eager" decoding="async">
+                </div>
 
-      <div class="carousel-item">
-        <img src="upload/infra/gnc-home-banner.webp"
-             class="d-block w-100 img-fluid"
-             alt="Home Banner"
-             width="1200" height="600"
-             loading="eager" decoding="async">
-      </div>
+                <div class="carousel-item">
+                    <img src="upload/infra/Banner-4.webp"
+                        class="d-block w-100 img-fluid"
+                        alt="Banner 4"
+                        width="1200" height="600"
+                        loading="eager" decoding="async">
+                </div>
 
-      <div class="carousel-item">
-        <img src="upload/infra/Banner-4.webp"
-             class="d-block w-100 img-fluid"
-             alt="Banner 4"
-             width="1200" height="600"
-             loading="eager" decoding="async">
-      </div>
+                <div class="carousel-item">
+                    <img src="upload/infra/Banner-3.webp"
+                        class="d-block w-100 img-fluid"
+                        alt="Rangrezza Banner"
+                        width="1200" height="600"
+                        loading="eager" decoding="async">
+                </div>
 
-      <div class="carousel-item">
-        <img src="upload/infra/rangrezza-banner.webp"
-             class="d-block w-100 img-fluid"
-             alt="Rangrezza Banner"
-             width="1200" height="600"
-             loading="eager" decoding="async">
-      </div>
+            </div>
 
+            <!-- Carousel Controls -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </section>
+
+
+ <!-- ================== ABOUT GURU NANAK COLLEGE SECTION ================== -->
+<section id="about-gnc" class="about-section">
+  <div class="container">
+    <div class="about-content" data-aos="fade-up" data-aos-duration="1000">
+      <h2 class="about-title">About <span>Guru Nanak College</span></h2>
+      <h3 class="about-subtitle">Best College in Uttarakhand, India</h3>
+      <p class="about-text">
+        Guru Nanak College, situated in the serene and academically vibrant city of Dehradun, has established itself 
+        as a prestigious center of higher education since its inception under the aegis of NIMS, Dehradun in 2009. 
+        Renowned for its specialization in pharmacy education and paramedical studies, the college has rapidly 
+        emerged as a top Pharmaceutical and Paramedical College in the region. Despite its relatively short history, 
+        it has gained a reputation as one of the most prestigious Pharmacy Colleges in Dehradun.
+      </p>
+      <p class="about-text">
+        At Guru Nanak College, the ethos is deeply rooted in fostering the growth of the next generation of 
+        pharmaceutical professionals, paramedics, and nurses. This commitment extends beyond mere academic 
+        instruction; the college prides itself on instilling values of innovation, ethical practice, and academic 
+        excellence. It operates with a belief that education is a pivotal force in personal and societal advancement, 
+        a philosophy that resonates through its diverse course offerings.
+      </p>
     </div>
 
-    <!-- Carousel Controls -->
-    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
+    <div class="stats" data-aos="zoom-in" data-aos-duration="1000">
+      <div class="stat-box">
+        <h3 class="counter" data-target="100">0</h3>
+        <p>Companies<br>visited for Placements</p>
+      </div>
+      <div class="stat-box">
+        <h3 class="counter" data-target="300">0</h3>
+        <p>Professionals successfully<br>working across the globe</p>
+      </div>
+      <div class="stat-box">
+        <h3 class="counter" data-target="1.01">0</h3>
+        <p>Highest<br>Package Offered (CR)</p>
+      </div>
+      <div class="stat-box">
+        <h3 class="counter" data-target="14">0</h3>
+        <p>Years of<br>Excellence</p>
+      </div>
+    </div>
   </div>
 </section>
 
+<!-- AOS Animation Library -->
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 
-    <section style="background: linear-gradient(to right, rgba(0, 159, 233, 0.90) 30%, rgba(0, 159, 233, 0.90) 60%), url('upload/about-background-image.webp'); background-size: cover; background-position: center;">
-        <div class="container">
-            <div class="row pt-5 pb-2 ">
-                <div class="welcome-section__bottom--content text-center mt-2 mb-5" style="max-width: 928px;margin: auto;">
-                    <div class="main-heading text-white" style="font-weight:bold;">
-                        <h2><span style="color: white; font-weight:40">Guru Nanak College</span><br>Best College in Uttarakhand, India</h2>
-                    </div>
-                    <p style="color: white;">Guru Nanak College, situated in the serene and academically vibrant city of Dehradun, has established itself as a prestigious center of higher education since its inception under the aegis of NIMS, Dehradun in 2009. Renowned for its specialization in pharmacy education and paramedical studies, the college has rapidly emerged as a top Pharmaceutical and Paramedical College in the region. Despite its relatively short history, it has gained a reputation as one of the most prestigious Pharmacy Colleges in Dehradun.</p>
-                    <p style="color: white;">At Guru Nanak College, the ethos is deeply rooted in fostering the growth of the next generation of pharmaceutical professionals, paramedics, and nurses. This commitment extends beyond mere academic instruction; the college prides itself on instilling values of innovation, ethical practice, and academic excellence. It operates with a belief that education is a pivotal force in personal and societal advancement, a philosophy that resonates through its diverse course offerings.</p>
-                    <a href="https://www.gnc.edu.in/about-us" class="btn btn-lg btn-primary btn-shadow mt-3">Know More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
-                </div>
-                <hr style="color: #fff;">
-                <div class="col-lg-6 col-md-6 col-sm-12" style="border-right: 1px solid #ddd;">
-                    <div class="aboutNumber-section__nos text-center p-5">
-                        <div class="row about-gnc-placement-container">
-                            <div class="col-sm-6  about-gnc-placement">
-                                <a href="https://www.gnc.edu.in/placement-overview">
-                                    <span data-count="100" data-extra="+">100+</span>
-                                    <small>Companies <br>visited for Placements</small>
-                                </a>
-                            </div>
-                            <div class="col-sm-6 about-gnc-placement">
-                                <a href="https://www.gnc.edu.in/placement-overview">
-                                    <span data-count="300" data-extra="+">300+</span>
-                                    <small>Professionals successfully<br> working across the globe </small>
-                                </a>
-                            </div>
-                            <div class="col-sm-6 about-gnc-placement">
-                                <a href="https://www.gnc.edu.in/placement-overview">
-                                    <span>1.01 CR</span> <!-- Removed data-count attribute here -->
-                                    <small>Highest <br>Package Offered</small>
-                                </a>
-                            </div>
-                            <div class="col-sm-6 about-gnc-placement">
-                                <a href="https://www.gnc.edu.in/placement-overview">
-                                    <span data-count="14" data-extra="+">15+</span>
-                                    <small>Year of Excellence</small>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 ">
-                    <h4 style="color: #fff; font-size: 20px; font-weight: bold; margin-bottom: 10px; color:#fff">Blog and Updates</h4>
-                    <a style="color: #ddd; " href="https://www.gnc.edu.in/blog">Read all</a>
-                    <hr style="color: #fff;">
-                    <div class="slide-container-blog ">
-                        <?php
-                        $jsonFilePath = 'blog.json';
-                        // Check if the file exists
-                        if (!file_exists($jsonFilePath)) {
-                            echo 'JSON file not found.';
-                        } else {
-                            // Read the JSON file
-                            $jsonData = file_get_contents($jsonFilePath);
+<!-- ================== COUNT-UP ANIMATION SCRIPT ================== -->
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const counters = document.querySelectorAll(".counter");
+  let triggered = false;
 
-                            if ($jsonData === false) {
-                                echo 'Error reading JSON file.';
-                            } else {
-                                // Decode JSON data
-                                $data = json_decode($jsonData, true);
+  const animateCount = (counter) => {
+    const target = +counter.getAttribute("data-target");
+    const speed = 50; // smaller = faster
+    const isDecimal = target % 1 !== 0;
+    const updateCount = () => {
+      const current = +counter.innerText;
+      const increment = target / 100;
+      if (current < target) {
+        counter.innerText = isDecimal
+          ? (current + increment).toFixed(2)
+          : Math.ceil(current + increment);
+        setTimeout(updateCount, speed);
+      } else {
+        counter.innerText = isDecimal ? target.toFixed(2) : target;
+      }
+    };
+    updateCount();
+  };
 
-                                if ($data === null) {
-                                    echo 'Error decoding JSON data.';
-                                } else {
-                                    // Check if the data is an array
-                                    if (is_array($data)) {
-                                        // Store the original indices
-                                        foreach ($data as $index => &$item) {
-                                            $item['original_index'] = $index; // Store the original index
-                                        }
-                                        // Reverse the data array
-                                        $data = array_reverse($data);
+  const section = document.querySelector("#about-gnc");
+  const observer = new IntersectionObserver(
+    (entries) => {
+      if (entries[0].isIntersecting && !triggered) {
+        counters.forEach((counter) => animateCount(counter));
+        triggered = true;
+      }
+    },
+    { threshold: 0.5 }
+  );
+  observer.observe(section);
+});
+</script>
 
-                                        // Loop through the reversed data
-                                        for ($i = 0; $i < count($data); $i++) {
-                                            if (isset($data[$i])) {  // Ensure the post exists
-                                                $item = $data[$i];
-                                                // Escape HTML entities for security
-                                                $title = htmlspecialchars(substr($item['title'], 0, 50)) . '...';
-                                                $date = htmlspecialchars($item['date']);
-                                                $content = htmlspecialchars(substr($item['content'], 0, 150)) . '...';  // Show a snippet of content
-                                                $image = htmlspecialchars($item['image']);
-                                                $author = htmlspecialchars($item['author']);
+<style>
+/* ================== ABOUT SECTION STYLING ================== */
+.about-section {
+  padding: 80px 0;
+  font-family: "Poppins", sans-serif;
+  color: #222;
+  overflow: hidden;
+}
 
-                                                echo '<div class="slick-slide">';
-                                                echo '<div class="blog-post" style="position: relative; background-image: url(' . $image . '); background-size: cover; background-position: center; height: 250px; border-radius: 10px; overflow: hidden; transition: transform 0.3s ease;">';
-                                                echo '<div class="content-overlay" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.4); padding: 20px; display: flex; flex-direction: column; justify-content: flex-end;">';
-                                                echo '<h4 style="color: #fff; font-size: 16px; font-weight: bold; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">' . $title . '</h4>';
-                                                echo '<p class="meta" style="color: #fff; font-size: 11px; margin-bottom: 15px; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);">By ' . $author . ' on ' . $date . '</p>';
-                                                // echo '<p style="color: #fff; font-size: 16px; margin-bottom: 20px; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);">' . $content . '</p>'; // Excerpt
-                                                echo '<a href="post.php?id=' . $i . '" class="btn btn-primary">Read More</a>';
-                                                echo '</div>';  // Close content-overlay
-                                                echo '</div>';  // Close blog-post
-                                                echo '</div>';  // Close slick-slide
+.about-section .container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
 
+.about-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1b1b1b;
+  margin-bottom: 10px;
+}
 
+.about-title span {
+  color: #0f9af1;
+}
 
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                        ?>
-                    </div>
-                </div>
-                <hr style="color: #fff;">
-                <div class="slider-container " style="max-width: 828px;margin: auto;">
-                    <h2>Approvals &amp; Accreditation</h2>
-                    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                        <div class="slider">
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/HNBGMU.webp" alt="HNBGMU"  /></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/Pharmacy_Council_of_India Logo.webp" alt="PCI"/></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/AICTE logo.webp" alt="AICTE"/></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/UBTER.webp" alt="UBTER"  /></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/Uttarakhand_Technical_University_logo.webp" alt="UTU"  /></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/ugc.webp" alt="UGC" /></a></div>
-                            <div><a href="https://www.gnc.edu.in/approvals-accreditation-memberships"><img src="images/msme.webp" alt="MSME" /></a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+.about-subtitle {
+  font-size: 1.3rem;
+  color: #555;
+  margin-bottom: 25px;
+  font-weight: 500;
+}
+
+.about-text {
+  color: #444;
+  line-height: 1.8;
+  font-size: 1rem;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+/* Stats Section */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  margin-top: 60px;
+}
+
+.stat-box {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  padding: 30px 15px;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-box::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, #0066cc, #00bcd4);
+  transition: left 0.5s ease;
+}
+
+.stat-box:hover::before {
+  left: 0;
+}
+
+.stat-box:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
+.stat-box h3 {
+  font-size: 2.2rem;
+  color: #fc8435;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.stat-box p {
+  color: #333;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  .about-title {
+    font-size: 2rem;
+  }
+  .about-text {
+    font-size: 0.95rem;
+  }
+  .stat-box h3 {
+    font-size: 1.8rem;
+  }
+}
+</style>
+
+    <section id="accreditations">
+  <div class="container">
+    <div class="row align-items-center">
+
+      <!-- Left: Circle with logos -->
+      <div class="col-md-6 text-center mb-4 mb-md-0">
+        <div class="accreditation-circle" id="accreditationCircle">
+          <!-- Central College Logo -->
+          <img src="images/logo.webp" class="center-logo" alt="College Logo" />
+
+          <!-- Accreditation logos (dummy placeholders) -->
+          <img src="images/HNBGMU.webp" class="circle-logo" />
+          <img src="images/msme.webp" class="circle-logo" />
+          <img src="images/Pharmacy_Council_of_India logo.webp" class="circle-logo" />
+          <img src="images/sdsuu.webp" class="circle-logo" />
+          <img src="images/UBTER.webp" class="circle-logo" />
+          <img src="images/ugc.webp" class="circle-logo" />
+          <img src="images/Uttarakhand_Technical_University_logo.webp" class="circle-logo" />
+          <img src="images/Aicte logo.webp" class="circle-logo" />
+          <img src="upload/infra/iap-logo.jpeg" class="circle-logo" />
+          <img src="upload/infra/inc-logo.png" class="circle-logo" />
         </div>
-    </section>
-    <section class="whyUU-section pt-5 pb-8">
-        <div class="container">
-            <div class="main-heading text-center">
-                <h2 class="mb-3"><span>Why</span> Guru Nanak College?</h2>
-                <p>Guru Nanak College, Dehradun, a leading private institution in Uttarakhand, India, has earned a strong reputation for providing quality education. With a team of experienced faculty members and modern infrastructure, the college is committed to academic excellence and holistic development. Focused on research, innovation, and evolving teaching methodologies, we prepare students to excel in their careers and confidently face future challenges.</p>
+      </div>
+
+      <!-- Right: Content -->
+      <div class="col-md-6">
+  <h2 class="mb-3 mt-5">Approvals, Accreditation & Memberships</h2>
+  <p>
+    The college proudly holds multiple approvals, accreditations, and memberships from renowned national bodies, reflecting its unwavering commitment to academic excellence, innovation, and holistic development. These recognitions validate the quality of our programs and ensure that they meet rigorous educational and professional standards.
+  </p>
+  <ul>
+    <li>All India Council for Technical Education (AICTE)</li>
+    <li>University Grants Commission (UGC)</li>
+    <li>Ministry of Micro, Small and Medium Enterprises (MSME)</li>
+    <li>Hemvati Nandan Bahuguna Garhwal University (HNBGU)</li>
+    <li>Pharmacy Council of India (PCI)</li>
+    <li>Uttarakhand Board of Technical Education, Roorkee (UBTER)</li>
+    <li>Uttarakhand Technical University (UTU)</li>
+    <li>The Indian Association of Physiotherapists (IAP)</li>
+    <li>The Indian Nursing Council (INC)</li>
+    <li>Sri Dev Suman Uttarakhand University (SDSUU)</li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</section>
+<style>
+  .accreditation-circle {
+  position: relative;
+  width: 400px;  /* bigger wrapper */
+  height: 400px;
+  margin: auto;
+}
+
+/* Central logo always visible */
+.center-logo {
+  position: absolute;
+  width: 150px;   /* bigger center logo */
+  height: 150px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  object-fit: contain; /* ensures it fits inside */
+  z-index: 2;
+}
+
+/* Accreditation logos initially on top of center logo */
+.circle-logo {
+  position: absolute;
+  width: 80px;  /* bigger surrounding logos */
+  height: 80px;
+  border-radius: 50%;
+  object-fit: contain; /* ensures the logo fits fully */
+  transition: all 0.8s ease;
+  opacity: 0;
+}
+
+/* Expanded state */
+.accreditation-circle.expanded .circle-logo {
+  opacity: 1;
+}
+
+/* Mobile adjustments */
+@media(max-width:768px){
+  .accreditation-circle { 
+    width: 320px;  /* increased from 280px */
+    height: 320px; 
+  }
+  .center-logo { 
+    width: 120px;  /* increased from 100px */
+    height: 120px; 
+  }
+  .circle-logo { 
+    width: 70px;   /* increased from 60px */
+    height: 70px; 
+  }
+}
+
+  </style>
+<script>
+document.addEventListener("DOMContentLoaded", function(){
+  const wrapper = document.getElementById("accreditationCircle");
+  const logos = wrapper.querySelectorAll(".circle-logo");
+  const total = logos.length;
+
+  function positionLogos(){
+    const centerX = wrapper.offsetWidth / 2;
+    const centerY = wrapper.offsetHeight / 2;
+
+    // Calculate radius dynamically based on wrapper and logo size
+    const radius = (wrapper.offsetWidth - 80) / 2; // 80 = surrounding logo size
+
+    logos.forEach((logo, i) => {
+      const angle = (i / total) * 2 * Math.PI;
+      const x = centerX + radius * Math.cos(angle) - logo.offsetWidth / 2;
+      const y = centerY + radius * Math.sin(angle) - logo.offsetHeight / 2;
+      logo.style.left = x + "px";
+      logo.style.top = y + "px";
+    });
+  }
+
+  function collapseLogos(){
+    const centerX = wrapper.offsetWidth / 2;
+    const centerY = wrapper.offsetHeight / 2;
+
+    logos.forEach(logo => {
+      logo.style.left = centerX - logo.offsetWidth / 2 + "px";
+      logo.style.top = centerY - logo.offsetHeight / 2 + "px";
+    });
+  }
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if(entry.isIntersecting){
+        wrapper.classList.add("expanded");
+        positionLogos();
+      } else {
+        wrapper.classList.remove("expanded");
+        collapseLogos();
+      }
+    });
+  }, { threshold: 0.5 });
+
+  observer.observe(wrapper);
+  collapseLogos();
+});
+</script>
+<!-- EVENTS SHOWCASE SECTION -->
+<section class="events-showcase" aria-label="Events showcase">
+  <div class="swiper events-slider">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide events-slide">
+        <img src="upload/infra/awards.webp" alt="Cultural Event" class="events-image">
+        <div class="events-overlay">
+          <div class="events-overlay-inner">
+            <div class="events-logo">
+              <img src="images/logo.webp" alt="Event Logo" class="events-logo-img">
             </div>
-            <div class="row g-0">
-                <div class="col-lg-4">
-                    <div class="card h-50 border-0 position-relative" style="background: url('upload/infra/8L.webp'); background-size: cover;">
-                        <div class="card-body p-4">
-                            <div class="c-n">01</div>
-                        </div>
-                        <div class="card-footer border-0 bg-transparent p-4">
-                            <h3 style="color: white;">Connecting Minds,<br> Building Friendships</h3>
-                            <p class="mb-0 text-white">GNC students engage in discussions, sharing ideas and forming lasting friendships through meaningful conversations.</p>
-                        </div>
-                    </div>
-                    <div class="card h-50 border-0" style="background: url('upload/infra/13L.webp'); background-size: cover;">
-                        <div class="card-body p-4">
-                            <div class="c-n">02</div>
-                        </div>
-                        <div class="card-footer border-0 bg-transparent p-4">
-                            <h3 style="color:white">Industry-<br>Collaborated <br>Academic Curriculum</h3>
-                            <p class="mb-0 text-white">Collaboration between industry and academia is the key to catalyse the success of students in the professional world with hands-on experience.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4">
-                    <div class="card h-100 border-0 position-relative" style="background: url('upload/infra/12L.webp'); background-size: cover;">
-                        <div class="card-body p-4 position-relative">
-                            <div class="c-n">03</div>
-                        </div>
-                        <div class="card-footer border-0 bg-transparent p-4 position-relative">
-                            <h3 style="color:white;">A Global Hub<br> for Learning and Growth</h3>
-                            <p class="mb-0 text-white">GNC celebrates diversity, welcoming students from across states and countries to pursue excellence together.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="card h-50 border-0" style="background: url('upload/infra/10L.webp'); background-size: cover;">
-                        <div class="card-body p-4">
-                            <div class="c-n">04</div>
-                        </div>
-                        <div class="card-footer border-0 bg-transparent text-white p-4">
-                            <h3 style="color: var(--text-white)">Empowering Growth<br> through Action: Learn, Develop, Achieve!</h3>
-
-                            <p class="mb-0 text-white">At GNC, we focus on hands-on learning, enhancing personality development and career advancement through practical experiences.</p>
-                        </div>
-                    </div>
-                    <div class="card h-50 border-0" style="background: url('upload/infra/11L.webp'); background-size: cover;">
-                        <div class="card-body p-4">
-                            <div class="c-n">05</div>
-                        </div>
-                        <div class="card-footer border-0 bg-transparent p-4">
-                            <h3 style="color:white">Exploring nature,<br> advancing knowledge.</h3>
-
-                            <p class="mb-0 text-white">GNC students collaborate with faculty, researching forests to deepen environmental understanding and drive innovation.</p>
-                        </div>
-                    </div>
-                </div>
+            <div class="events-text">
+              <h2>Save the Himalayas Awards</h2>
+              <p>Honoring the heroes protecting the crown<br> of India — our majestic Himalayas.</p>
             </div>
+          </div>
         </div>
-    </section>
+      </div>
 
+      <div class="swiper-slide events-slide">
+        <img src="upload/infra/dandiya-nights.webp" alt="Sports Meet" class="events-image">
+        <div class="events-overlay">
+          <div class="events-overlay-inner">
+            <div class="events-logo">
+              <img src="images/logo.webp" alt="Event Logo" class="events-logo-img">
+            </div>
+            <div class="events-text">
+              <h2>Garba & Dandiya Night</h2>
+              <p>Twirl into the rhythm of festivity!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-slide events-slide">
+        <img src="upload/infra/blood-donation.webp" alt="Tech Fest" class="events-image">
+        <div class="events-overlay">
+          <div class="events-overlay-inner">
+            <div class="events-logo">
+              <img src="images/logo.webp" alt="Event Logo" class="events-logo-img">
+            </div>
+            <div class="events-text">
+              <h2>Blood Donation Camp</h2>
+              <p>Be a hero in someone’s story.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="swiper-slide events-slide">
+        <img src="upload/infra/plantation.webp" alt="Music Night" class="events-image">
+        <div class="events-overlay">
+          <div class="events-overlay-inner">
+            <div class="events-logo">
+              <img src="images/logo.webp" alt="Event Logo" class="events-logo-img">
+            </div>
+            <div class="events-text">
+              <h2>Go Green Initiative</h2>
+              <p>One tree today, a better tomorrow.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section> 
+
+<!-- CSS (paste into your CSS file or inside a <style> in head) -->
+ <style>
+/* EVENTS SHOWCASE STYLING */
+.events-showcase {
+  max-width: 1200px;
+  width: 100%;
+  margin: 24px auto;
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  background: #000;
+}
+
+/* each slide + gradient overlay pseudo element */
+.events-slide {
+  position: relative;
+  overflow: hidden;
+  height: 550px;
+}
+
+/* gradient overlay */
+.events-slide::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0.85) 0%,
+    rgba(0,0,0,0.45) 12%,
+    rgba(0,0,0,0) 30%,
+    rgba(0,0,0,0) 70%,
+    rgba(0,0,0,0.45) 88%,
+    rgba(0,0,0,0.85) 100%
+  );
+  pointer-events: none;
+}
+
+/* image */
+.events-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scale(1);
+  transition: transform 6s ease;
+}
+
+/* active slide zoom */
+.events-slide.swiper-slide-active .events-image {
+  transform: scale(1.06);
+}
+
+/* overlay content (bottom-left) */
+.events-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 5;
+  width: 100%;
+  pointer-events: none;
+}
+
+.events-overlay-inner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.events-logo-img {
+  display: block;
+  width: 152px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 6px;
+  padding: 6px;
+  background: rgba(255,255,255,0.02);
+}
+
+.events-text h2 {
+  color: #fff;
+  font-size: 1.6rem;
+  margin: 0 0 6px 0;
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+.events-text p {
+  color: #fff;
+  margin: 0;
+  font-size: 0.95rem;
+  display: inline-block;
+  border: 1px solid rgba(255,255,255,0.35);
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+  .events-slide { height: 380px; }
+  .events-logo-img { width: 56px; }
+  .events-text h2 { font-size: 1.25rem; }
+  .events-text p { font-size: 0.9rem; padding: 3px 6px; }
+}
+
+/* MOBILE FIX */
+@media (max-width: 768px) {
+  /* Scope everything under .events-showcase */
+  .events-showcase {
+    width: calc(100% - 20px);
+    margin: 0 auto;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .events-showcase .events-slide {
+    height: 300px;
+  }
+
+  .events-showcase .events-image {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .events-showcase .events-logo-img {
+    width: 88px;
+  }
+
+  .events-showcase .events-overlay-inner {
+    padding: 12px;
+    gap: 8px;
+  }
+
+  .events-showcase .events-text h2 {
+    font-size: 1.05rem;
+  }
+
+  .events-showcase .events-text p {
+    font-size: 0.85rem;
+  }
+}
+
+
+</style> 
+
+<!-- INIT (run after Swiper loads) -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  if (typeof Swiper === 'undefined') {
+    console.error('Swiper not loaded. Make sure swiper-bundle.min.js is included.');
+    return;
+  }
+
+  const eventsSwiper = new Swiper('.events-slider', {
+    loop: true,
+    autoplay: {
+      delay: 4200,
+      disableOnInteraction: false,
+    },
+    effect: 'fade',
+    fadeEffect: { crossFade: true },
+    speed: 500,
+    slidesPerView: 1,
+    // accessibility
+    a11y: true,
+    keyboard: { enabled: true },
+  });
+});
+</script>
+<section class="side-accordion">
+<h2 class="my-stats-title text-center">
+      An <span class="my-highlight">Illustrious</span> <strong>Legacy</strong> we <br>
+      continue to <strong>Shape</strong>
+    </h2>
+  <div class="accordion-container">
+    
+    <div class="accordion-menu accordion-menu-left"></div>
+
+    <div class="accordion-content-area">
+      <div class="accordion-panel active from-left" id="panel5">
+        <img src="upload/infra/gobal.webp" alt="Students in a multicultural setting">
+        <div class="accordion-overlay">
+        <h2>Connecting Minds, Creating Futures</h2>
+        <p>Empowering students through global partnerships, cultural exchange, and collaborative learning beyond boundaries.</p>
+        </div>
+      </div>
+      <div class="accordion-panel from-right" id="panel4">
+        <img src="upload/infra/sports.webp" alt="Business professionals collaborating">
+        <div class="accordion-overlay">
+          <h2>Fueling Champions, On and Off the Field</h2>
+          <p>Encouraging teamwork, discipline, and excellence through vibrant sports and fitness activities.</p>
+        </div>
+      </div>
+      <div class="accordion-panel from-left" id="panel3">
+        <img src="upload/infra/placement.webp" alt="Two students looking at notes">
+        <div class="accordion-overlay">
+          <h2>Your Pathway to Professional Success</h2>
+          <p>Empowering students with skills, confidence, and connections to excel in the professional world.</p>
+        </div>
+      </div>
+      <div class="accordion-panel from-right" id="panel2">
+        <img src="Upload/infra/innovative.webp" alt="Student using a computer in a modern lab">
+        <div class="accordion-overlay">
+          <h2>Think. Create. Innovate.</h2>
+          <p>Fostering a culture of creativity and critical thinking through modern, experiential learning.</p>
+        </div>
+      </div>
+      <div class="accordion-panel from-left" id="panel1">
+        <img src="upload/infra/convocation.webp" alt="Group of diverse students">
+        <div class="accordion-overlay">
+          <h2>Moments Turned Milestones</h2>
+          <p>Celebrating achievements, memories, and the spirit that defines every Guru Nanak College journey.</p>
+        </div>
+      </div>
+      </div>
+
+    <div class="accordion-menu accordion-menu-right">
+      <div class="accordion-tab active" data-target="panel5">Global Collaborations</div>
+      <div class="accordion-tab" data-target="panel4">Centre for Sports Excellence</div>
+      <div class="accordion-tab" data-target="panel3">Career Excellence Centre</div>
+      <div class="accordion-tab" data-target="panel2">Innovative Learning</div>
+      <div class="accordion-tab" data-target="panel1">Annual Convocation Ceremony</div>
+    </div>
+  </div>
+</section>
+<style>
+.side-accordion {
+  width: 100%;
+  max-width: 1200px;
+  margin: 50px auto;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Base layout: Flex container for Menu Left, Content Area, and Menu Right */
+.accordion-container {
+  display: flex;
+  flex-direction: row; 
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+/* Image area - remains flexible in the center */
+.accordion-content-area {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  height: 400px;
+}
+
+/* Menu containers */
+.accordion-menu {
+  display: flex;
+  flex-direction: row; /* Tabs are horizontal rows when vertical */
+  background: #f9fafb;
+  gap: 8px;
+  padding: 8px;
+  transition: all 0.5s ease;
+}
+
+/* Left Menu Styling */
+.accordion-menu-left {
+  /* No default border needed */
+  border-right: 1px solid #ddd; /* Separator for left menu */
+  /* We use order: -1 to ensure it always stays on the left */
+  order: -1; 
+  /* Shrink to minimum size when empty */
+  min-width: 0; 
+  transition: min-width 0.5s ease;
+}
+
+/* Right Menu Styling */
+.accordion-menu-right {
+  border-left: 1px solid #ddd; /* Separator for right menu */
+}
+
+/* Ensure empty menu containers don't take up space */
+.accordion-menu-left:empty, .accordion-menu-right:empty {
+    padding: 0;
+    border: none;
+    /* Important for left menu to collapse entirely */
+    min-width: 0; 
+}
+
+
+/* Tab Styling remains mostly the same */
+.accordion-tab {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  text-align: center;
+  font-weight: 600;
+  color: #333;
+  background: #fff;
+  padding: 20px 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 10px;
+  min-width: 70px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+}
+
+.accordion-tab:hover {
+  background: #f0f0f0;
+}
+
+.accordion-tab.active {
+  background: #0f9af1;
+  color: #fff;
+  box-shadow: inset 0 0 5px rgba(0,0,0,0.15);
+}
+
+/* ... (The rest of your existing styles for panels and keyframes remain the same) ... */
+
+.accordion-content-area {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  height: 400px;
+}
+
+.accordion-panel {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.accordion-panel img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.accordion-overlay {
+  position: absolute;
+  bottom: 1px;
+  left: 1px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.45);
+  padding: 20px 25px;
+  border-radius: 10px;
+  max-width: 65%;
+}
+
+.accordion-overlay h2 {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.accordion-overlay p {
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+/* Animations */
+.accordion-panel.active {
+  opacity: 1;
+  pointer-events: auto;
+  animation: fadeSlideIn 0.8s ease forwards;
+  z-index: 2;
+}
+
+.accordion-panel.exiting {
+  animation: slideOutLeft 0.6s ease forwards;
+  z-index: 1;
+}
+
+/* Entry directions */
+.accordion-panel.from-left.active {
+  animation: slideInFromLeft 0.8s ease forwards;
+}
+
+.accordion-panel.from-right.active {
+  animation: slideInFromRight 0.8s ease forwards;
+}
+
+/* Keyframes */
+@keyframes slideInFromLeft {
+  from {opacity: 0; transform: translateX(-60px);}
+  to {opacity: 1; transform: translateX(0);}
+}
+
+@keyframes slideInFromRight {
+  from {opacity: 0; transform: translateX(60px);}
+  to {opacity: 1; transform: translateX(0);}
+}
+
+@keyframes slideOutLeft {
+  from {opacity: 1; transform: translateX(0);}
+  to {opacity: 0; transform: translateX(-100%);}
+}
+/* === FINAL FIXED MOBILE-ONLY ACCORDION STYLES === */
+@media (max-width: 768px) {
+  /* Isolate mobile behavior */
+  .accordion-container {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  /* Hide desktop menus safely */
+  .accordion-menu-left,
+  .accordion-menu-right {
+    display: none !important;
+  }
+
+  /* Mobile panels */
+  .accordion-panel {
+    display: none !important;
+    position: relative;
+    width: 100%;
+    height: 320px; /* fixed height for image */
+    overflow: hidden;
+    border-radius: 10px;
+  }
+
+  .accordion-panel.active {
+    display: block !important;
+  }
+
+  .accordion-panel img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Full-width overlay text on image */
+  .accordion-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%; /* match image width */
+    background: linear-gradient(0deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.3) 100%);
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .accordion-overlay h2 {
+    font-size: 18px;
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+
+  .accordion-overlay p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  /* Mobile navigation buttons below image */
+  .accordion-menu-mobile {
+    display: flex !important;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+    width: 100%;
+  }
+
+  .accordion-menu-mobile button {
+    background: #f0f0f0;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .accordion-menu-mobile button.active {
+    background: #0f9af1;
+    color: #fff;
+  }
+}
+
+</style>
+<script>
+const tabs = document.querySelectorAll('.accordion-tab');
+const panels = document.querySelectorAll('.accordion-panel');
+const menuLeft = document.querySelector('.accordion-menu-left');
+const menuRight = document.querySelector('.accordion-menu-right');
+let activePanel = document.querySelector('.accordion-panel.active');
+const allTabs = Array.from(tabs); // Convert NodeList to Array for easier iteration and finding index
+
+// Function to move tabs between the left and right containers
+function updateMenuLayout(activeIndex) {
+    allTabs.forEach((tab, index) => {
+        if (index < activeIndex) {
+            // Tabs BEFORE the active tab move to the left menu
+            if (tab.parentNode !== menuLeft) {
+                menuLeft.appendChild(tab);
+            }
+        } else {
+            // Tabs AT or AFTER the active tab stay in the right menu
+            if (tab.parentNode !== menuRight) {
+                menuRight.appendChild(tab);
+            }
+        }
+    });
+}
+
+// Initialize the layout for the default active tab (index 0)
+updateMenuLayout(0);
+
+
+tabs.forEach((tab, index) => { 
+    tab.addEventListener('click', () => {
+        const targetId = tab.getAttribute('data-target');
+        const newPanel = document.getElementById(targetId);
+
+        if (newPanel === activePanel) return;
+
+        // --- NEW LOGIC FOR SPLIT TAB MOVEMENT ---
+        // Dynamically move tabs based on the clicked index
+        updateMenuLayout(index);
+        // ------------------------------------
+
+        // Animate old panel out
+        activePanel.classList.remove('active');
+        activePanel.classList.add('exiting');
+
+        // After animation, hide it completely
+        setTimeout(() => {
+            activePanel.classList.remove('exiting');
+            activePanel.style.opacity = '0';
+        }, 600);
+
+        // Activate new panel
+        newPanel.classList.add('active');
+        activePanel = newPanel;
+
+        // Update tab states
+        tabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+    });
+});
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  // Run only on mobile
+  if (window.innerWidth <= 768) {
+    const container = document.querySelector('.accordion-container');
+    const panels = document.querySelectorAll('.accordion-panel');
+
+    // Create mobile button menu
+    const mobileMenu = document.createElement('div');
+    mobileMenu.className = 'accordion-menu-mobile';
+
+    panels.forEach((panel, index) => {
+      const btn = document.createElement('button');
+      const title = panel.querySelector('.accordion-overlay h2')?.textContent || `Panel ${index + 1}`;
+      btn.textContent = title;
+
+      if (panel.classList.contains('active')) btn.classList.add('active');
+
+      btn.addEventListener('click', () => {
+        panels.forEach(p => p.classList.remove('active'));
+        document.querySelectorAll('.accordion-menu-mobile button').forEach(b => b.classList.remove('active'));
+        panel.classList.add('active');
+        btn.classList.add('active');
+      });
+
+      mobileMenu.appendChild(btn);
+    });
+
+    // Append below image section (not affecting desktop layout)
+    container.appendChild(mobileMenu);
+  }
+});
+</script>
+
+<section class="campus pb-5">
+<div class="acc-container">
+        <div class="main-heading text-center">
+            <h2 class="text-custom">Modern Campus</h2>
+            <h3 class="mb-3">Facilities & Convenient Transport</h3>
+        </div>
+        <ul class="acc-list">
+            <li class="acc-item" tabindex="1">
+                <div class="acc-box">
+                    <a class="acc-link" href="#">
+                        <h2 class="acc-heading">World-class Computer Centre</h2>
+                        <p class="acc-text">Guru Nanak College provides modern computer education with hands-on training and industry-ready skills for successful IT careers.</p>
+                    </a>
+                </div>
+            </li>
+            <li class="acc-item" tabindex="2">
+                <div class="acc-box">
+                    <a class="acc-link" href="#">
+                        <h2 class="acc-heading">Grand Libraries</h2>
+                        <p class="acc-text">Guru Nanak College offers a well-equipped library with physical and digital<br> resources supporting academic excellence.</p>
+                    </a>
+                </div>
+            </li>
+            <li class="acc-item" tabindex="3">
+                <div class="acc-box">
+                    <a class="acc-link" href="#">
+                        <h2 class="acc-heading">Medical Facilities</h2>
+                        <p class="acc-text">Guru Nanak College provides prompt and reliable healthcare for students <br>through partnerships with top local hospitals.</p>
+                    </a>
+                </div>
+            </li>
+            <li class="acc-item" tabindex="4">
+                <div class="acc-box">
+                    <a class="acc-link" href="#">
+                        <h2 class="acc-heading">Auditorium</h2>
+                        <p class="acc-text">Guru Nanak College has a modern 500-seat auditorium with advanced audio-visual<br> facilities, ideal for academic, cultural, and professional events.</p>
+                    </a>
+                </div>
+            </li>
+            <li class="acc-item" tabindex="5">
+                <div class="acc-box">
+                    <a class="acc-link" href="#">
+                        <h2 class="acc-heading">Home-like Hostels</h2>
+                        <p class="acc-text">Guru Nanak College offers safe and comfortable on-campus hostels for boys <br>and girls, with single to four-bed occupancy options.</p>
+                    </a>
+                </div>
+            </li>
+            <li class="acc-item" tabindex="6">
+                <div class="acc-box">
+                    <a class="acc-link" href="#">
+                        <h2 class="acc-heading">Transport</h2>
+                        <p class="acc-text">Guru Nanak College provides safe and comfortable transport for day scholars<br> with a fleet of well-maintained buses covering multiple city routes.</p>
+                    </a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <style>
+        /* Backgrounds */
+.acc-item:nth-child(1) {
+    background-image: url('upload/computer-lab.webp');
+}
+
+.acc-item:nth-child(2) {
+    background-image: url('upload/lib.webp');
+}
+
+.acc-item:nth-child(3) {
+    background-image: url('upload/infra/3l.webp');
+}
+
+.acc-item:nth-child(4) {
+    background-image: url('upload/infra/4l.webp');
+}
+
+.acc-item:nth-child(5) {
+    background-image: url('upload/infra/5l.webp');
+}
+
+.acc-item:nth-child(6) {
+    background-image: url('upload/infra/6l.webp');
+}
+
+        </style>
+</section>
+
+<!-- Stats Section -->
+<section class="my-stats-section">
+  <div class="my-stats-container">
+    <h2 class="my-stats-title">
+      An <span class="my-highlight">Illustrious</span> <strong>Legacy</strong> we <br>
+      continue to <strong>Shape</strong>
+    </h2>
+
+    <div class="my-stats-grid">
+      <!-- Stat 1 -->
+      <div class="my-stat-item left-slide">
+        <h3 class="my-stat-number" data-target="40">0</h3>
+        <h4 class="my-stat-label">PROGRAMS</h4>
+        <span class="my-stat-line"></span>
+        <p class="my-stat-desc">Industry-Oriented Academic Programs</p>
+      </div>
+
+      <!-- Stat 2 -->
+      <div class="my-stat-item left-slide">
+        <h3 class="my-stat-number" data-target="100">0</h3>
+        <h4 class="my-stat-label">STALWARTS</h4>
+        <span class="my-stat-line"></span>
+        <p class="my-stat-desc">Industry Stalwarts for Top-Tier Mentorship</p>
+      </div>
+
+      <!-- Stat 3 (Center) -->
+      <div class="my-stat-item top-slide">
+        <h3 class="my-stat-number" data-target="55">0</h3>
+        <h4 class="my-stat-label">FACULTY</h4>
+        <span class="my-stat-line"></span>
+        <p class="my-stat-desc">Doctoral Faculty</p>
+      </div>
+
+      <!-- Stat 4 -->
+      <div class="my-stat-item right-slide">
+        <h3 class="my-stat-number" data-target="10">0</h3>
+        <h4 class="my-stat-label">FACULTY</h4>
+        <span class="my-stat-line"></span>
+        <p class="my-stat-desc">International Faculty</p>
+      </div>
+
+      <!-- Stat 5 -->
+      <div class="my-stat-item right-slide">
+        <h3 class="my-stat-number" data-target="900">0</h3>
+        <h4 class="my-stat-label">ALUMNI</h4>
+        <span class="my-stat-line"></span>
+        <p class="my-stat-desc">Accomplished Alumni Across the Globe</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CSS -->
+<style>
+.my-stats-section {
+    max-width: 1350px;
+    margin: 10px auto;
+  text-align: center;
+  padding: 10px 20px;
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+}
+
+.my-stats-title {
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 50px;
+  line-height: 1.4;
+}
+
+.my-stats-title strong {
+  font-weight: 700;
+}
+
+.my-highlight {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.my-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 30px;
+  justify-items: center;
+}
+
+.my-stat-item {
+  text-align: center;
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 0.8s ease-out;
+}
+
+.my-stat-number {
+  font-size: 38px;
+  font-weight: 700;
+  color:rgb(252, 132, 53);
+}
+
+.my-stat-number::after {
+  content: "+";
+}
+
+.my-stat-label {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 8px 0;
+  color: #000;
+}
+
+.my-stat-line {
+  display: block;
+  width: 30px;
+  height: 2px;
+  background: #000;
+  margin: 8px auto;
+}
+
+.my-stat-desc {
+  font-size: 14px;
+  color: #333;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+/* Slide Animations */
+.left-slide.animate { transform: translateX(0); opacity: 1; }
+.right-slide.animate { transform: translateX(0); opacity: 1; }
+.top-slide.animate { transform: translateY(0); opacity: 1; }
+
+.left-slide { transform: translateX(-100px); }
+.right-slide { transform: translateX(100px); }
+.top-slide { transform: translateY(-100px); }
+
+/* Responsive */
+@media (max-width: 768px) {
+  .my-stats-title { font-size: 24px; }
+  .my-stat-number { font-size: 28px; }
+}
+</style>
+
+<!-- JS -->
+<script>
+function animateCountUp(el, target) {
+  let start = 0;
+  const duration = 2000;
+  const stepTime = Math.max(Math.floor(duration / target), 1);
+  const timer = setInterval(() => {
+    start += 1;
+    el.textContent = start.toLocaleString();
+    if (start >= target) clearInterval(timer);
+  }, stepTime);
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  const counters = document.querySelectorAll(".my-stat-number");
+  const statsItems = document.querySelectorAll(".my-stat-item");
+
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const el = entry.target;
+        el.classList.add('animate');
+
+        // Animate number
+        const numberEl = el.querySelector(".my-stat-number");
+        const target = +numberEl.getAttribute("data-target");
+        animateCountUp(numberEl, target);
+
+        observer.unobserve(el);
+      }
+    });
+  }, { threshold: 0.5 });
+
+  statsItems.forEach(item => observer.observe(item));
+});
+</script>
 
     <section class="gncPlacement-section container mb-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <div class="main-heading text-left">
-                        <h2 class="text-custom">About GNC Placements</h2>
-                        <h3 class="mb-3">Getting You Industry Ready With The Most Leading Careers</h3>
-                        <p>After securing admission to Guru Nanak College, students step into a world of academic excellence, professional growth, and unmatched career opportunities. The college is dedicated to bridging the gap between education and industry by providing students with exposure to top-tier placement prospects and career development programs. With a strong focus on industry collaborations, hands-on training, and strategically designed academic initiatives, Guru Nanak College ensures that every student is well-equipped with the skills, knowledge, and confidence required to excel in their chosen fields.</p>
-                        <p>The institution’s dedicated placement cell actively engages with leading companies, conducts career counseling sessions, and organizes skill enhancement workshops, ensuring students are well-prepared for the dynamic job market. From internships with reputed organizations to full-time placements with milestone salary packages, Guru Nanak College empowers its students to achieve remarkable career success. With a commitment to holistic development, the college not only fosters technical expertise but also nurtures leadership qualities, problem-solving skills, and a professional mindset, making its graduates highly sought after by top employers worldwide.</p>
-                        <p>Guru Nanak College's consistent track record of successful placements speaks volumes about its commitment to student success. Year after year, graduates secure coveted positions in a diverse range of industries, from IT and finance to consulting and manufacturing. The college boasts strong relationships with industry giants, resulting in a steady stream of recruitment drives and placement opportunities. Beyond simply facilitating placements, the college focuses on matching students with roles that align with their individual skills and career aspirations.</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div id="placementCarousel" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                           
-                            <div class="carousel-item active">
-                                <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-2.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy" decoding="async">
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-3.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy" decoding="async">
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-4.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy" decoding="async">
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-5.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy" decoding="async">
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="card shadow-sm">
-                                    <img src="upload/infra/placement-6.webp" class="card-img-top img-fluid" alt="Placement" loading="lazy" decoding="async">
-                                </div>
-                            </div>
-                        </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#placementCarousel" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon"></span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#placementCarousel" data-bs-slide="next">
-                            <span class="carousel-control-next-icon"></span>
-                        </button>
-                    </div>
-                </div>
-            </div>
+    <section class="placement-section">
+  <div class="placement-container">
+
+    <!-- Left Cards Slider -->
+    <div class="placement-slider slide-left">
+      <div class="placement-slide">
+        <!-- Slide 1 -->
+        <div class="placement-group">
+          <div class="placement-card">
+            <img src="upload/infra/placement-1.webp" alt="Harsh Vardhan">
+          </div>
+          <div class="placement-card">
+            <img src="upload/infra/placement-2.webp" alt="Shanya Trehan">
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="placement-group">
+          <div class="placement-card">
+            <img src="upload/infra/placement-3.webp" alt="Another Student">
+          </div>
+          <div class="placement-card">
+            <img src="upload/infra/placement-4.webp" alt="Shanya Trehan">
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="placement-group">
+          <div class="placement-card">
+            <img src="upload/infra/placement-5.webp" alt="Shanya Trehan">
+          </div>
+          <div class="placement-card">
+            <img src="upload/infra/placement-6.webp" alt="Shanya Trehan">
+          </div>
+        </div>
+      </div>
+
+      <!-- Slider Navigation -->
+      <div class="slider-nav">
+        <span class="prev">‹</span>
+        <span class="next">›</span>
+      </div>
+    </div>
+
+    <!-- Right Content -->
+    <div class="placement-content slide-right">
+      <p class="placement-overview">Placements Overview</p>
+      <h2 class="placement-title">The World's <strong>Leading Companies Hire Our Talent</strong></h2>
+      <div class="placement-buttons">
+      <a href="https://application.gnc.edu.in/" class="btn-apply">APPLY NOW →</a>
+      <a href="placement-overview.php" class="btn-view">VIEW PLACEMENTS →</a>
+      </div>
+
+      <!-- Big Stats -->
+      <div class="placement-stats">
+        <div class="placement-stat">
+          <h3>900+</h3>
+          <p>Placement Offers</p>
+        </div>
+        <div class="placement-stat">
+          <h3>100+</h3>
+          <p>Companies Visited</p>
+        </div>
+        <div class="placement-stat highlight">
+          <h3>54.75 LPA</h3>
+          <p>Highest National Package</p>
+        </div>
+        <div class="placement-stat">
+          <h3>12</h3>
+          <p>Average Placement Package</p>
+        </div>
+      </div>
+
+      <!-- Mini Stats -->
+      <div class="placement-mini-stats">
+        <div><strong>6 LPA</strong><p>Offered by 20+ Companies</p></div>
+        <div><strong>8 LPA</strong><p>Offered by 30+ Companies</p></div>
+        <div><strong>12 LPA</strong><p>Offered by 70+ Companies</p></div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<style>
+.placement-section {
+  display: flex;
+  justify-content: center;
+  padding: 60px 20px;
+  font-family: 'Poppins', sans-serif;
+}
+.placement-container {
+  display: flex;
+  max-width: 1350px;
+  width: 100%;
+  gap: 40px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+/* Scroll animations */
+.slide-left, .slide-right {
+  opacity: 0;
+  transform: translateX(100px);
+  transition: all 1s ease-out;
+}
+.slide-left { transform: translateX(-100px); }
+.show { opacity: 1; transform: translateX(0); }
+
+/* Left Slider */
+.placement-slider {
+  flex: 1 1 500px;
+  position: relative;
+  overflow: hidden;
+}
+.placement-slide {
+  display: flex;
+  transition: transform 0.6s ease-in-out;
+  width: 100%;
+}
+.placement-group {
+  min-width: 100%;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.placement-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  text-align: center;
+  flex: 0 0 45%;
+  overflow: hidden;
+}
+.placement-card img { 
+  width: 100%; 
+  border-radius: 12px; 
+  display: block; 
+  margin: 0; 
+}
+.package { font-weight: 700; color: #e30613; margin-top: 5px; }
+
+.slider-nav {
+  text-align: center;
+  margin-top: 20px;
+}
+.slider-nav span {
+  display: inline-block;
+  margin: 0 5px;
+  font-size: 24px;
+  cursor: pointer;
+  user-select: none;
+}
+
+/* Right Content */
+.placement-content { flex: 1 1 400px; }
+.placement-overview { font-size: 16px; font-weight: 500; }
+.placement-title { font-size: 32px; margin: 10px 0 20px; line-height: 1.3; }
+
+/* Buttons */
+.placement-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.btn-apply, .btn-view {
+  padding: 14px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+  text-align: center;
+}
+.btn-apply { background-color: #0f9af1 !important; color: #fff; }
+.btn-view { background-color: #fff; color: #000; border: 1px solid #000; }
+
+/* Stats Boxes */
+.placement-stats {
+  display: flex;
+  gap: 15px;
+  margin: 30px 0 15px;
+  flex-wrap: wrap;
+}
+.placement-stat {
+  flex: 1 1 200px;
+  padding: 20px;
+  background: rgb(231, 230, 230);
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+.placement-stat.highlight { background: #000; color: #fff; }
+.placement-stat h3 { margin: 0; font-size: 22px; color: inherit; }
+.placement-stat p { margin: 5px 0 0; font-size: 14px; }
+
+/* Mini Stats */
+.placement-mini-stats {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.placement-mini-stats div {
+  flex: 1 1 150px;
+  padding: 10px;
+  background: #f4f4f4;
+  border-radius: 6px;
+  text-align: center;
+}
+.placement-mini-stats strong { font-size: 16px; color: #000; display: block; }
+.placement-mini-stats p { font-size: 12px; color: #555; margin: 0; }
+/* ✅ MOBILE FIXES */
+@media (max-width: 992px) {
+  .placement-container { 
+    flex-direction: column; 
+    align-items: center;
+  }
+
+  /* Make slider full width and hide overflow */
+  .placement-slider {
+    width: 100%;
+    overflow: hidden; /* hide other slides */
+  }
+
+  .placement-slider {
+    overflow: hidden;
+  }
+  .placement-slide {
+    display: flex;
+    transition: transform 0.6s ease-in-out;
+    width: 100%;
+  }
+  .placement-group {
+    flex: 0 0 100%;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+  }
+  .placement-card {
+    width: 100%;
+    flex: none;
+  }
+  .placement-card img {
+    width: 100%;
+    height: 485px; /* smaller height for mobile */
+    object-fit: cover;
+  }
+  .placement-content {
+    width: 100%;
+    text-align: center;
+  }
+
+  .placement-buttons {
+    justify-content: center;
+    gap: 12px;
+  }
+
+  .btn-apply, .btn-view {
+    width: 80%;
+    padding: 14px 0;
+  }
+
+  .placement-stats, .placement-mini-stats {
+    justify-content: center;
+  }
+
+  .placement-stats .placement-stat,
+  .placement-mini-stats div {
+    flex: 1 1 45%;
+    max-width: 45%;
+  }
+
+  .slider-nav {
+    margin-top: 10px;
+  }
+}
+
+</style>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  // Slider
+  const slideContainer = document.querySelector(".placement-slide");
+  const slides = document.querySelectorAll(".placement-group");
+  const prev = document.querySelector(".prev");
+  const next = document.querySelector(".next");
+  const total = slides.length;
+  let index = 0;
+  let interval;
+
+  function showSlide() {
+    slideContainer.style.transform = `translateX(-${index * 100}%)`;
+  }
+  function nextSlide() {
+    index = (index + 1) % total;
+    showSlide();
+  }
+  function prevSlide() {
+    index = (index - 1 + total) % total;
+    showSlide();
+  }
+
+  next.addEventListener("click", () => { nextSlide(); resetInterval(); });
+  prev.addEventListener("click", () => { prevSlide(); resetInterval(); });
+
+  function startAuto() { interval = setInterval(nextSlide, 6000); }
+  function resetInterval() { clearInterval(interval); startAuto(); }
+  startAuto();
+
+  // Scroll Animations
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("show");
+      }
+    });
+  }, { threshold: 0.3 });
+
+  document.querySelectorAll(".slide-left, .slide-right").forEach(el => {
+    observer.observe(el);
+  });
+});
+</script>
+
             <div class="mt-3">
                 <h2 class="text-custom">Placement Verticals</h2>
                 <h3>Bridging The Gap By Aligning With The Industry</h3>
@@ -918,8 +2267,357 @@ excellence in academics and holistic development." />
             </div>
         </div>
     </section>
+    <section class="why-choose" id="why-choose">
+  <div class="container">
+    <div class="why-header-title">
+      <h2>Why Should You Choose <br><span>Guru Nanak College?</span></h2>
+    </div>
+
+    <div class="why-content">
+      <!-- Item 1 -->
+      <div class="why-item active">
+        <button class="why-question">
+          <span class="why-number">01</span>
+          <span class="why-text">Excellence in Every Endeavour 🌟</span>
+          <span class="arrow">→</span>
+        </button>
+        <div class="why-answer">
+          <div class="why-answer-inner">
+            <div class="why-text-content">
+              <p>
+              Guru Nanak College strives to cultivate excellence in academics, innovation, and personal growth. Through dedicated faculty, modern infrastructure, and value-based education, students are inspired to achieve their highest potential and contribute meaningfully to society.
+              </p>
+            </div>
+            <div class="why-img">
+              <img src="upload/infra/faq-1.webp" alt="Networking">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Item 2 -->
+      <div class="why-item">
+        <button class="why-question">
+          <span class="why-number">02</span>
+          <span class="why-text">Your Career, Our Commitment🎯</span>
+          <span class="arrow">→</span>
+        </button>
+        <div class="why-answer">
+          <div class="why-answer-inner">
+            <div class="why-text-content">
+              <p>
+              We focus on guiding students toward fulfilling careers through structured training, expert mentorship, and industry-integrated programs. Our dedicated Career Development Cell ensures every student gains the skills, confidence, and exposure needed to excel in the professional world.
+              </p>
+            </div>
+            <div class="why-img">
+              <img src="upload/infra/faq-2.webp" alt="Learning">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Item 3 -->
+      <div class="why-item">
+        <button class="why-question">
+          <span class="why-number">03</span>
+          <span class="why-text">Learning Beyond Classrooms💡</span>
+          <span class="arrow">→</span>
+        </button>
+        <div class="why-answer">
+          <div class="why-answer-inner">
+            <div class="why-text-content">
+              <p>
+              At Guru Nanak College, education extends far beyond textbooks. Students engage in experiential learning, research, internships, and creative projects that build critical thinking, problem-solving abilities, and a passion for continuous growth and discovery.
+              </p>
+            </div>
+            <div class="why-img">
+              <img src="upload/infra/faq-3.webp" alt="Industry Partnership">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="why-item">
+        <button class="why-question">
+          <span class="why-number">04</span>
+          <span class="why-text">Global Outlook, Local Roots🌏</span>
+          <span class="arrow">→</span>
+        </button>
+        <div class="why-answer">
+          <div class="why-answer-inner">
+            <div class="why-text-content">
+              <p>
+              We prepare students to thrive in an interconnected world while staying grounded in strong cultural and ethical values. Our global collaborations and exchange programs offer exposure to diverse perspectives and international learning experiences.
+              </p>
+            </div>
+            <div class="why-img">
+              <img src="upload/infra/faq-4.webp" alt="Learning">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="why-item">
+        <button class="why-question">
+          <span class="why-number">05</span>
+          <span class="why-text">Where Potential Meets Opportunity🎓</span>
+          <span class="arrow">→</span>
+        </button>
+        <div class="why-answer">
+          <div class="why-answer-inner">
+            <div class="why-text-content">
+              <p>
+              Guru Nanak College provides a nurturing environment where talent, determination, and opportunity come together. With comprehensive academic support, skill development programs, and real-world exposure, students are empowered to turn aspirations into lifelong achievements.
+              </p>
+            </div>
+            <div class="why-img">
+              <img src="upload/infra/faq-5.webp" alt="Learning">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ===== Base Section ===== */
+/* .why-choose {
+  background-color: #fafafa;
+  padding: 100px 0;
+  font-family: "Poppins", sans-serif;
+  color: #222;
+  opacity: 0;
+  transform: translateY(80px);
+  transition: all 1s ease-out;
+} */
+.why-choose.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ===== Title ===== */
+.why-header-title {
+  text-align: left;
+  margin-bottom: 60px;
+  padding-left: 20px;
+}
+.why-header-title h2 {
+  font-size: 2.8rem;
+  font-weight: 200;
+  line-height: 1.3;
+}
+.why-header-title span {
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+}
+
+/* ===== Accordion Wrapper ===== */
+.why-content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 200px;
+}
+
+/* ===== Accordion Item ===== */
+/* .why-item {
+  background: #fff;
+  border-bottom: 1px solid #000; 
+  transition: all 0.4s ease;
+} */
+
+/* ===== Accordion Header (Button) ===== */
+.why-question {
+  width: 100%;
+  background: none;
+  border: none;
+  outline: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 0;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: left;
+  transition: all 0.3s ease;
+}
+.why-question:hover {
+  background-color: #f3f3f3;
+}
+/* Default number */
+.why-number {
+  font-size: 2rem;
+  color: rgba(181, 181, 181);
+  font-weight: 800;
+  width: 80px;
+  text-align: left;
+  transition: all 0.5s ease;
+  align-self: flex-start;
+}
+
+/* When accordion is active — number moves to full vertical center */
+.why-item.active .why-number {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: rgba(181, 181, 181);
+  font-size: 3.5rem;
+  opacity: 0.15;
+}
+
+/* Parent relative to position number properly */
+.why-item {
+  position: relative;
+  transition: all 0.4s ease;
+  border-bottom: 1px solid #222;
+}
+
+/* Add space so text doesn't overlap number when active */
+.why-item.active .why-answer-inner,
+.why-item.active .why-question {
+  padding-left: 100px;
+}
+
+.arrow {
+  margin-left: auto;
+  font-size: 2.2rem;
+  color: rgb(0, 0, 0);
+  transition: transform 0.3s ease;
+}
+
+/* ===== Accordion Body ===== */
+.why-answer {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: all 0.5s ease;
+}
+
+/* Inner Content (Text + Image side by side) */
+.why-answer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  padding: 0 0 20px 80px;
+}
+
+.why-text-content {
+  flex: 1;
+}
+
+.why-text-content p {
+  line-height: 1.6;
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0;
+}
+
+.why-img img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* ===== Active Accordion ===== */
+.why-item.active .why-answer {
+  max-height: 400px;
+  opacity: 1;
+  transform: translateY(0);
+  padding-bottom: 25px;
+}
+.why-item.active .arrow {
+  transform: rotate(90deg);
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  .why-header-title h2 {
+    font-size: 2rem;
+  }
+  .why-content {
+    margin-left: 0;
+  }
+  .why-answer-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 0;
+  }
+  .why-img img {
+    width: 100%;
+    height: auto;
+  }
+}
+/* Remove the section-level animation */
+.why-choose {
+  background-color: #fafafa;
+  padding: 100px 0;
+  font-family: "Poppins", sans-serif;
+  color: #222;
+}
+
+/* ===== Item-level animation ===== */
+.why-item {
+  background: #fff;
+  border-bottom: 1px solid #000;
+  transition: all 0.4s ease;
+  opacity: 0;
+  transform: translateY(60px);
+  transition: all 0.8s ease-out;
+}
+
+/* When visible (via JS) */
+.why-item.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Optional: small stagger for nice effect */
+.why-item.visible:nth-child(1) { transition-delay: 0.1s; }
+.why-item.visible:nth-child(2) { transition-delay: 0.2s; }
+.why-item.visible:nth-child(3) { transition-delay: 0.3s; }
+.why-item.visible:nth-child(4) { transition-delay: 0.4s; }
+.why-item.visible:nth-child(5) { transition-delay: 0.5s; }
+
+</style>
+<script>
+/* Accordion functionality */
+document.addEventListener("DOMContentLoaded", () => {
+  const accordions = document.querySelectorAll(".why-item");
+  accordions.forEach(item => {
+    const btn = item.querySelector(".why-question");
+    btn.addEventListener("click", () => {
+      const isActive = item.classList.contains("active");
+      accordions.forEach(i => i.classList.remove("active"));
+      if (!isActive) item.classList.add("active");
+    });
+  });
+
+  /* Animate each item individually when in view */
+  const items = document.querySelectorAll(".why-item");
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("visible");
+      } else {
+        entry.target.classList.remove("visible"); // remove when scrolled away
+      }
+    });
+  }, {
+    threshold: 0.3,
+    rootMargin: "0px 0px -50px 0px"
+  });
+
+  items.forEach(item => observer.observe(item));
+});
+</script>
+
     <section class="facSpeaks-section pb-5 mt-5 ">
-        <div class="container"  id="intellectual-assets">
+        <div class="container" id="intellectual-assets">
             <div class="row justify-content-center">
                 <div class="col-11">
                     <div class="main-heading text-center">
@@ -1089,50 +2787,266 @@ excellence in academics and holistic development." />
             <a href="/about/leadership.php" class="btn btn-lg btn-primary btn-shadow">View All <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
         </div>
     </section>
+    <?php require "research-sample.php"; ?>
+    <?php
+// Put this where you need the section on index.php
+$blogs = json_decode(file_get_contents('blog.json'), true);
+if (!$blogs) $blogs = [];
 
+// Show latest first
+$blogs = array_reverse($blogs);
+$latestBlogs = array_slice($blogs, 0, 5);
+?>
 
-    <?php require "facilities.php"; ?>
+<section class="mdublog-section">
+  <div class="mdublog-container">
+    <h2 class="mdublog-title">Latest <span>Blogs</span></h2>
 
-    <section class="research-section-two py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <h1 class="main-heading fw-bold">
-                        Empowering<br>
-                        Ideas, Transforming<br>
-                        Tomorrow.
-                    </h1>
+    <div class="mdublog-wrapper">
 
-                    <div class="stats-container mt-5">
-                        <div class="stat-item">
-                            <p class="stat-number">100+</p>
-                            <p class="stat-label">Research Publications</p>
-                        </div>
-                        <div class="stat-item">
-                            <p class="stat-number">250+</p>
-                            <p class="stat-label">Book Chapters</p>
-                        </div>
+      <!-- LEFT (2 small) -->
+      <div class="mdublog-side mdublog-left">
+        <?php for ($i = 0; $i < 2; $i++):
+          if (!isset($latestBlogs[$i])) break;
+          $b = $latestBlogs[$i];
 
-                    </div>
-                    <div class="stats-container my-5">
-                        <div class="stat-item">
-                            <p class="stat-number">15+</p>
-                            <p class="stat-label">Research Projects</p>
-                        </div>
-                        <div class="stat-item">
-                            <p class="stat-number">6 lac+</p>
-                            <p class="stat-label">Industry Funded</p>
-                        </div>
-                        <!-- <div class="stat-item">
-                            <p class="stat-number">160+</p>
-                            <p class="stat-label">IPR Grants</p>
-                        </div> -->
-                    </div>
-                </div>
+          $img = (!empty($b['image']) && file_exists(str_replace('./', '', $b['image'])))
+            ? str_replace('./', '', $b['image'])
+            : 'admin/uploads/placeholder.jpg';
+
+          $blogId = isset($b['id']) ? $b['id'] : $i;
+        ?>
+          <a class="mdublog-card mdublog-small" href="post.php?id=<?= htmlspecialchars($blogId) ?>">
+            <div class="mdublog-img" style="background-image:url('<?= htmlspecialchars($img) ?>')"></div>
+            <div class="mdublog-content">
+              <h3><?= htmlspecialchars($b['title']) ?></h3>
+              <p class="mdublog-date"><?= htmlspecialchars($b['date']) ?></p>
             </div>
-        </div>
-    </section>
-    <?php require "testimoni.php"; ?>
+          </a>
+        <?php endfor; ?>
+      </div>
+
+      <!-- CENTER (featured) -->
+      <?php if (isset($latestBlogs[2])):
+        $featured = $latestBlogs[2];
+        $fimg = (!empty($featured['image']) && file_exists(str_replace('./', '', $featured['image'])))
+          ? str_replace('./', '', $featured['image'])
+          : 'admin/uploads/placeholder-large.jpg';
+
+        $featuredId = isset($featured['id']) ? $featured['id'] : 2;
+      ?>
+        <a class="mdublog-featured" href="post.php?id=<?= htmlspecialchars($featuredId) ?>">
+          <div class="mdublog-featured-img" style="background-image:url('<?= htmlspecialchars($fimg) ?>')"></div>
+          <div class="mdublog-featured-content">
+            <h2><?= htmlspecialchars($featured['title']) ?></h2>
+            <p class="mdublog-meta"><?= htmlspecialchars($featured['author']) ?> — <?= htmlspecialchars($featured['date']) ?></p>
+          </div>
+        </a>
+      <?php endif; ?>
+
+      <!-- RIGHT (2 small) -->
+      <div class="mdublog-side mdublog-right">
+        <?php for ($i = 3; $i < 5; $i++):
+          if (!isset($latestBlogs[$i])) break;
+          $b = $latestBlogs[$i];
+
+          $img = (!empty($b['image']) && file_exists(str_replace('./', '', $b['image'])))
+            ? str_replace('./', '', $b['image'])
+            : 'admin/uploads/placeholder.jpg';
+
+          $blogId = isset($b['id']) ? $b['id'] : $i;
+        ?>
+          <a class="mdublog-card mdublog-small" href="post.php?id=<?= htmlspecialchars($blogId) ?>">
+            <div class="mdublog-img" style="background-image:url('<?= htmlspecialchars($img) ?>')"></div>
+            <div class="mdublog-content">
+              <h3><?= htmlspecialchars($b['title']) ?></h3>
+              <p class="mdublog-date"><?= htmlspecialchars($b['date']) ?></p>
+            </div>
+          </a>
+        <?php endfor; ?>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<style>
+.mdublog-section {
+  padding: 60px 0;
+  background: #f9fafc;
+  overflow: hidden;
+  margin: auto 5px;
+}
+
+.mdublog-title {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.mdublog-title span {
+  color: #0078ff;
+}
+
+/* Layout */
+.mdublog-wrapper {
+  max-width: 1300px;
+  margin: 0 auto;
+  display: flex;
+  gap: 10px;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.mdublog-side {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+}
+
+.mdublog-featured {
+  flex: 1 1 520px;
+  max-width: 520px;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  height: 510px;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.mdublog-featured:hover {
+  transform: scale(1.03);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Small cards */
+.mdublog-card {
+  display: block;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.07);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+  height: 250px;
+}
+.mdublog-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+}
+.mdublog-img {
+  height: 160px;
+  background-size: cover;
+  background-position: center;
+}
+.mdublog-content {
+  padding: 12px;
+}
+.mdublog-content h3 {
+  font-size: 1rem;
+  margin: 0 0 5px;
+  font-weight: 600;
+}
+.mdublog-date {
+  font-size: 0.8rem;
+  color: #777;
+  margin: 0;
+}
+
+/* Featured styles */
+.mdublog-featured-img {
+  height: 380px;
+  background-size: cover;
+  background-position: center;
+}
+.mdublog-featured-content {
+  padding: 20px;
+}
+.mdublog-featured-content h2 {
+  font-size: 1.3rem;
+  margin: 0 0 10px;
+}
+.mdublog-meta {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Scroll Animation Base */
+.mdublog-left, .mdublog-right, .mdublog-featured {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 0.8s ease-out;
+}
+.mdublog-left.mdublog-visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+.mdublog-right.mdublog-visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+.mdublog-featured.mdublog-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Initial directions */
+.mdublog-left {
+  transform: translateX(-80px);
+}
+.mdublog-right {
+  transform: translateX(80px);
+}
+.mdublog-featured {
+  transform: translateY(80px);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .mdublog-wrapper {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .mdublog-side {
+    flex-direction: row;
+    width: 100%;
+    gap: 15px;
+  }
+  .mdublog-card {
+    width: 48%;
+    height: auto;
+  }
+  .mdublog-featured {
+    max-width: none;
+    height: auto;
+  }
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      const el = entry.target;
+      if (entry.isIntersecting) {
+        el.classList.add('mdublog-visible');
+      } else {
+        el.classList.remove('mdublog-visible');
+      }
+    });
+  }, { threshold: 0.2 });
+
+  document.querySelectorAll('.mdublog-left, .mdublog-right, .mdublog-featured').forEach(el => {
+    observer.observe(el);
+  });
+});
+</script>
+    <?php require "testimoni-2.php"; ?>
     <?php require "application-process.php"; ?>
     <?php require "common/footer.php"; ?>
     <script>
@@ -1172,7 +3086,7 @@ excellence in academics and holistic development." />
             $('.slider').slick({
                 slidesToShow: 5,
                 slidesToScroll: 1,
-                autoplay:true,
+                autoplay: true,
                 autoplaySpeed: 1000,
                 arrows: true,
                 dots: false,

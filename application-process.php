@@ -303,7 +303,7 @@
 			</div>
 			<div class="offset-lg-1 col-lg-5" style="background-image: url(upload/infra/apply.webp);">
 				<div class="row">
-					<div class="col-12">
+					<div class="col-12" style="margin-top: 100px;vertical-align: bottom;">
 						<div class="aboutProgram text-white">
 							<h2 style="color:white;">Aspire to Inspire:<br> Master Your Field <br>at Guru Nanak College!</h2>
 							<p>Take the first step towards a bright future at Guru Nanak <br>College Dehradun. Apply Now and join a community <br>dedicated to academic excellence and personal growth!</p>

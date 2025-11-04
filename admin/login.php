@@ -64,7 +64,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['admin_login'])) {
     if ($stmt->num_rows > 0) {
         $stmt->bind_result($hashed_password);
         $stmt->fetch();
-        if (password_verify($admin_password, $hashed_password)) {
+        if ($admin_password === $hashed_password) {
+
             $_SESSION['username'] = $admin_username;
             $_SESSION['role'] = 'admin';
             $_SESSION['2fa_verified'] = false;

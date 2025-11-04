@@ -97,36 +97,326 @@ environmental science." />
             </div>
         </div>
     </section>
-    <section class="about-cources-gnc mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Under-Graduate Life & Allied Sciences Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand">Bachelor of Science in Microbiology</a></li>
-                        <li><a href="https://gnc.edu.in/bsc-biotechnology">Bachelor of Science in Biotechnology</a></li>
-                        <li><a href="https://gnc.edu.in/Bsc-food-technology">Bachelor of Science in Food Technology</a></li>
-                        <li><a href="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand">Bachelor of Science in PCM</a></li>
-                        <li><a href="https://gnc.edu.in/Bsc-cbz">Bachelor of Science in CBZ</a></li>
-                        <li><a href="https://gnc.edu.in/Bsc-geology-College-in-Dehradun-Uttarakhand">Bachelor of Science in Geology</a></li>
-                    </ul>
+    <section class="life-allied-section py-5 bg-light">
+  <div class="container">
 
-                </div>
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Post-Graduate Life & Allied Sciences Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun">Master of Science in Microbiology</a></li>
-                        <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand">Master of Science in Food Technology</a></li>
-                        <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand">Master of Science in Zoology</a></li>
-                        <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand">Master of Science in Chemistry</a></li>
-                        <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">Master of Science in Physics</a></li>
-                        <li><a href="https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand">Master of Science in Botany</a></li>
+    <!-- Section Heading -->
+    <div class="text-start mb-5">
+      <h2 class="fw-bold text-dark">School of Life & Allied Sciences – Courses Offered at Guru Nanak College, Dehradun</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
 
-                    </ul>
-                </div>
-            </div>
+    <!-- UG COURSES -->
+    <div class="text-start mb-4">
+      <h3 class="fw-bold text-primary">Under-Graduate Life & Allied Sciences Courses</h3>
+    </div>
+
+    <div class="row g-4">
+
+      <!-- B.Sc Microbiology -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in Microbiology</h3>
+            <p class="text-muted">Explore the microscopic world of bacteria, viruses, and fungi, and their applications in health, food, and environment.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years</li>
+              <li><strong>Eligibility:</strong> 10+2 in Science with Biology</li>
+              <li><strong>Career Scope:</strong> Microbiologist, Lab Technician, Research Analyst, Food Quality Officer</li>
+            </ul>
+            <a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
         </div>
-    </section>
+      </div>
+
+      <!-- B.Sc Biotechnology -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in Biotechnology</h3>
+            <p class="text-muted">Study genetic engineering, molecular biology, and bioinformatics to innovate in healthcare, agriculture, and environment.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB/PCM</li>
+              <li><strong>Career Scope:</strong> Biotechnologist, Research Associate, Clinical Researcher, Biotech Product Analyst</li>
+            </ul>
+            <a href="bsc-biotechnology.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc Food Technology -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in Food Technology</h3>
+            <p class="text-muted">Learn about food processing, preservation, and safety to contribute to the food and beverage industry.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years</li>
+              <li><strong>Eligibility:</strong> 10+2 in Science</li>
+              <li><strong>Career Scope:</strong> Food Analyst, Quality Assurance Officer, Nutrition Consultant</li>
+            </ul>
+            <a href="bsc-food-technology.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc PCM -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in PCM (Physics, Chemistry, Mathematics)</h3>
+            <p class="text-muted">Build a strong foundation in core sciences and analytical thinking for careers in research and technology.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCM</li>
+              <li><strong>Career Scope:</strong> Research Assistant, Data Analyst, Technical Consultant, Educator</li>
+            </ul>
+            <a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc CBZ -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in CBZ (Chemistry, Botany, Zoology)</h3>
+            <p class="text-muted">Understand life at molecular and organismal levels through chemical and biological sciences.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB</li>
+              <li><strong>Career Scope:</strong> Environmental Scientist, Biochemist, Educator, Researcher</li>
+            </ul>
+            <a href="bsc-cbz.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc Geology -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in Geology</h3>
+            <p class="text-muted">Study Earth’s structure, minerals, and processes to pursue a career in environmental or exploration sciences.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years</li>
+              <li><strong>Eligibility:</strong> 10+2 with Science</li>
+              <li><strong>Career Scope:</strong> Geologist, Environmental Consultant, Mining Analyst</li>
+            </ul>
+            <a href="Bsc-geology-College-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- PG COURSES -->
+   <!-- PG COURSES -->
+<div class="text-start mt-5 mb-4">
+  <h3 class="fw-bold text-primary">Post-Graduate Life & Allied Sciences Courses</h3>
+</div>
+
+<div class="row g-4">
+
+  <!-- M.Sc Microbiology -->
+  <div class="col-md-4">
+    <div class="card shadow-lg border-0 h-100 hover-shadow">
+      <div class="card-body p-4">
+        <h3 class="h5 fw-bold text-dark">Master of Science in Microbiology</h3>
+        <p class="text-muted">An advanced program exploring microbial genetics, biotechnology, and immunology with a focus on research and industrial applications.</p>
+        <ul class="list-unstyled small">
+          <li><strong>Duration:</strong> 2 Years</li>
+          <li><strong>Eligibility:</strong> B.Sc in Microbiology or related Life Science field</li>
+          <li><strong>Career Scope:</strong> Research Scientist, Clinical Microbiologist, Biotech Analyst, Quality Control Officer</li>
+        </ul>
+        <a href="msc-microbiology-Colleges-in-Dehradun.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- M.Sc Food Technology -->
+  <div class="col-md-4">
+    <div class="card shadow-lg border-0 h-100 hover-shadow">
+      <div class="card-body p-4">
+        <h3 class="h5 fw-bold text-dark">Master of Science in Food Technology</h3>
+        <p class="text-muted">Focuses on food chemistry, product development, and safety standards to prepare professionals for the food industry.</p>
+        <ul class="list-unstyled small">
+          <li><strong>Duration:</strong> 2 Years</li>
+          <li><strong>Eligibility:</strong> B.Sc in Food Technology or related field</li>
+          <li><strong>Career Scope:</strong> Food Technologist, QA Manager, Nutrition Specialist, R&D Officer</li>
+        </ul>
+        <a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- M.Sc Zoology -->
+  <div class="col-md-4">
+    <div class="card shadow-lg border-0 h-100 hover-shadow">
+      <div class="card-body p-4">
+        <h3 class="h5 fw-bold text-dark">Master of Science in Zoology</h3>
+        <p class="text-muted">A comprehensive study of animal biology, evolution, and environmental interactions with a focus on applied research.</p>
+        <ul class="list-unstyled small">
+          <li><strong>Duration:</strong> 2 Years</li>
+          <li><strong>Eligibility:</strong> B.Sc in Zoology or Life Sciences</li>
+          <li><strong>Career Scope:</strong> Wildlife Biologist, Zoologist, Environmental Consultant, Academic Researcher</li>
+        </ul>
+        <a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- M.Sc Chemistry -->
+  <div class="col-md-4">
+    <div class="card shadow-lg border-0 h-100 hover-shadow">
+      <div class="card-body p-4">
+        <h3 class="h5 fw-bold text-dark">Master of Science in Chemistry</h3>
+        <p class="text-muted">Specializes in organic, inorganic, and physical chemistry for careers in chemical industries and research.</p>
+        <ul class="list-unstyled small">
+          <li><strong>Duration:</strong> 2 Years</li>
+          <li><strong>Eligibility:</strong> B.Sc in Chemistry or related subject</li>
+          <li><strong>Career Scope:</strong> Chemist, Laboratory Analyst, Research Officer, Lecturer</li>
+        </ul>
+        <a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- M.Sc Physics -->
+  <div class="col-md-4">
+    <div class="card shadow-lg border-0 h-100 hover-shadow">
+      <div class="card-body p-4">
+        <h3 class="h5 fw-bold text-dark">Master of Science in Physics</h3>
+        <p class="text-muted">Advanced studies in theoretical and applied physics with opportunities in research and technology sectors.</p>
+        <ul class="list-unstyled small">
+          <li><strong>Duration:</strong> 2 Years</li>
+          <li><strong>Eligibility:</strong> B.Sc in Physics or related subject</li>
+          <li><strong>Career Scope:</strong> Physicist, Research Associate, Data Analyst, Academician</li>
+        </ul>
+        <a href="msc-physics-College-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- M.Sc Botany -->
+  <div class="col-md-4">
+    <div class="card shadow-lg border-0 h-100 hover-shadow">
+      <div class="card-body p-4">
+        <h3 class="h5 fw-bold text-dark">Master of Science in Botany</h3>
+        <p class="text-muted">Covers advanced plant science, physiology, genetics, and ecology to prepare students for careers in research and education.</p>
+        <ul class="list-unstyled small">
+          <li><strong>Duration:</strong> 2 Years</li>
+          <li><strong>Eligibility:</strong> B.Sc in Botany or Life Sciences</li>
+          <li><strong>Career Scope:</strong> Botanist, Plant Biotechnologist, Research Scientist, Environmental Consultant</li>
+        </ul>
+        <a href="msc-botany-Colleges-in-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+    <div class="row g-4">
+      <!-- PG Courses -->
+      <div class="col-md-4" v-for="course in ['M.Sc Microbiology', 'M.Sc Food Technology', 'M.Sc Zoology', 'M.Sc Chemistry', 'M.Sc Physics', 'M.Sc Botany']">
+      </div>
+    </div>
+
+    <p class="text-center mt-4 text-secondary">
+      The School of Life & Allied Sciences at Guru Nanak College emphasizes quality education, practical learning, and research excellence across biological and physical sciences.
+    </p>
+
+    <!-- Why GNC -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Why Choose Guru Nanak College for Life & Allied Sciences Programs</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
+
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4"><div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">🔬 <strong>Affiliated & Recognized:</strong> Approved by HNBGU and relevant scientific councils.</div></div>
+      <div class="col-md-6 col-lg-4"><div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">⚗️ <strong>Modern Laboratories:</strong> State-of-the-art labs for microbiology, biotechnology, and chemistry.</div></div>
+      <div class="col-md-6 col-lg-4"><div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">📚 <strong>Research Focused:</strong> Promotes innovation through student projects and research initiatives.</div></div>
+      <div class="col-md-6 col-lg-4"><div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">👨‍🏫 <strong>Expert Faculty:</strong> Experienced teachers with academic and research backgrounds.</div></div>
+      <div class="col-md-6 col-lg-4"><div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">💼 <strong>Career Support:</strong> Excellent placements in labs, industries, and academic institutions.</div></div>
+      <div class="col-md-6 col-lg-4"><div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">🌱 <strong>Holistic Growth:</strong> Focus on leadership, communication, and ethical science practice.</div></div>
+    </div>
+
+    <!-- Placements -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Placements & Career Opportunities</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul>
+        <li>GNC offers placement assistance in research institutions, pharma companies, and biotech industries.</li>
+        <li>Students secure roles in diagnostics, laboratories, academia, and corporate R&D sectors.</li>
+        <li>Internships and research projects help students gain real-world exposure.</li>
+      </ul>
+    </div>
+
+    <!-- Facilities -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Facilities at Guru Nanak College</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul class="list-unstyled">
+        <li>🏫 Modern classrooms & smart learning environment</li>
+        <li>🔬 Advanced laboratories for biotechnology, chemistry, and microbiology</li>
+        <li>📚 Digital library and e-resources</li>
+        <li>🏠 Separate hostels for boys and girls</li>
+        <li>🚐 Transport services for local students</li>
+        <li>☕ Cafeteria, sports, and recreation facilities</li>
+      </ul>
+    </div>
+
+    <!-- Admission -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Admission Process 2025</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <p>Admissions for <strong>B.Sc and M.Sc programs</strong> under the School of Life & Allied Sciences are open for the 2025 academic session.</p>
+      <ol>
+        <li>Apply online at <a href="https://www.gnc.edu.in">www.gnc.edu.in</a></li>
+        <li>Upload required academic documents and ID proof</li>
+        <li>Shortlisted candidates will be contacted for counselling and admission confirmation</li>
+      </ol>
+      <p><strong>Contact for Admission:</strong> admission@gnc.edu.in | +91-7300900900</p>
+    </div>
+
+    <!-- FAQ -->
+    <div class="faq-section container mt-5">
+      <h2 class="faq-title">Frequently Asked Questions (FAQs)</h2>
+      <div class="faq-item"><div class="faq-question">1. What makes the School of Life & Allied Sciences unique?</div><div class="faq-answer">It integrates life sciences, technology, and research-driven learning with modern facilities and expert faculty.</div></div>
+      <div class="faq-item"><div class="faq-question">2. Are these programs affiliated and recognized?</div><div class="faq-answer">Yes, all programs are affiliated with HNBG University and approved by relevant authorities.</div></div>
+      <div class="faq-item"><div class="faq-question">3. What are the research opportunities available?</div><div class="faq-answer">Students engage in practical research, internships, and projects in collaboration with industries and laboratories.</div></div>
+      <div class="faq-item"><div class="faq-question">4. Are placements offered?</div><div class="faq-answer">Yes, GNC provides excellent placement assistance with opportunities in industries, research, and academia.</div></div>
+    </div>
+
+  </div>
+</section>
+
+<!-- Styling -->
+<style>
+  .hover-shadow:hover {transform: translateY(-5px);transition: all 0.3s ease;}
+  .feature-box:hover {background-color: #f8f9fa;transform: translateY(-3px);transition: 0.3s;}
+  .btn-outline-primary {border-color: #0d6efd;color: #0d6efd;font-weight: 500;}
+  .btn-outline-primary:hover {background-color: #0d6efd;color: #fff;}
+  .faq-title {text-align: center;margin-bottom: 20px;}
+  .faq-item {border-bottom: 1px solid #ccc;margin-bottom: 10px;}
+  .faq-question {background: #f4f4f4;padding: 15px;cursor: pointer;font-weight: bold;}
+  .faq-answer {max-height: 0;overflow: hidden;transition: max-height 0.4s ease;background: #fff;padding: 0 15px;}
+  .faq-answer.open {padding: 15px;max-height: 500px;}
+</style>
+
+<script>
+  const questions = document.querySelectorAll('.faq-question');
+  questions.forEach(q => {
+    q.addEventListener('click', () => {
+      const answer = q.nextElementSibling;
+      document.querySelectorAll('.faq-answer').forEach(a => { if (a !== answer) a.classList.remove('open'); });
+      answer.classList.toggle('open');
+    });
+  });
+</script>
+
     <section class="container text-center mt-5">
         <div class="page-heading">
             <h2>Why Study Here?</h2>

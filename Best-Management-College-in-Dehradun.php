@@ -95,33 +95,198 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
             </div>
         </div>
     </section>
-    <section class="about-cources-gnc mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Under-Graduate Management Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/best-bba-college-in-dehradun">Bachelor of Business Administration</a></li>
-                    </ul>
+    <section class="business-section py-5 bg-light">
+  <div class="container">
 
-                </div>
-                <!-- <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Diploma Nursing Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/best-gnm-college-in-dehradun">General Nursing and Midwifery - 2 Years</a></li>
-                    </ul>
+    <!-- Section Heading -->
+    <div class="text-start mb-5">
+      <h2 class="fw-bold text-dark">School of Business – Courses Offered at Guru Nanak College, Dehradun</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
 
-                </div>
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Post-Graduate Nursing Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/post-basic-nursing">Post Basic Nursing</a></li>
+    <!-- UG COURSES -->
+    <div class="text-start mb-4">
+      <h3 class="fw-bold text-primary">Undergraduate Management Course</h3>
+    </div>
 
-                    </ul>
-                </div> -->
-            </div>
+    <div class="row g-4">
+
+      <!-- Bachelor of Business Administration -->
+      <div class="col-md-6 col-lg-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Business Administration (BBA)</h3>
+            <p class="text-muted">A three-year undergraduate program that develops future business leaders with strong managerial, analytical, and entrepreneurial skills.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years (6 Semesters)</li>
+              <li><strong>Eligibility:</strong> 10+2 in any stream with minimum 45% marks</li>
+              <li><strong>Career Scope:</strong> Business Analyst, Marketing Executive, HR Manager, Financial Consultant, Entrepreneur</li>
+            </ul>
+            <a href="best-bba-college-in-dehradun.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
         </div>
-    </section>
+      </div>
+
+    </div>
+
+    <p class="text-center mt-4 text-secondary">
+      The School of Business at Guru Nanak College aims to nurture globally competent leaders through innovation, strategic thinking, and ethical management education.
+    </p>
+
+    <!-- Why GNC -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Why Choose Guru Nanak College for Business Education</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
+
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🎓 <strong>University Affiliation:</strong> Recognized by HNBGU and approved by relevant authorities.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          💼 <strong>Industry Exposure:</strong> Regular workshops, internships, and seminars with business professionals.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          👨‍🏫 <strong>Expert Faculty:</strong> Experienced educators with backgrounds in corporate and academic sectors.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🌐 <strong>Global Learning Approach:</strong> Emphasis on leadership, entrepreneurship, and digital business management.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          📈 <strong>Career Opportunities:</strong> Excellent placements in corporate houses, banks, and startups.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🤝 <strong>Networking & Development:</strong> Business clubs, case studies, and leadership development programs.
+        </div>
+      </div>
+    </div>
+
+    <!-- Placements -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Placements & Career Opportunities</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul>
+        <li>The School of Business offers 100% placement assistance for deserving students.</li>
+        <li>Our alumni are placed in leading MNCs, financial institutions, and management firms.</li>
+        <li>Students are prepared for roles in marketing, HR, finance, and entrepreneurship through hands-on training and internships.</li>
+      </ul>
+    </div>
+
+    <!-- Facilities -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Facilities at Guru Nanak College</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul class="list-unstyled">
+        <li>🏫 Smart classrooms with modern learning tools</li>
+        <li>💻 Computer labs and digital business simulations</li>
+        <li>📚 Well-stocked library with management journals</li>
+        <li>🏠 Separate hostel facilities for boys and girls</li>
+        <li>🚐 Transport services for local students</li>
+        <li>📶 Wi-Fi-enabled campus and online resources</li>
+        <li>☕ Cafeteria, sports, and recreational areas</li>
+      </ul>
+    </div>
+
+    <!-- Admission -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Admission Process 2025</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <p>Admissions for the <strong>Bachelor of Business Administration (BBA)</strong> program are now open for the 2025 academic session.</p>
+      <ol>
+        <li>Apply online at <a href="https://www.gnc.edu.in">www.gnc.edu.in</a></li>
+        <li>Upload required academic documents and ID proof</li>
+        <li>Shortlisted candidates will be contacted for counselling and admission confirmation</li>
+      </ol>
+      <p><strong>Contact for Admission:</strong> admission@gnc.edu.in | +91-7300900900</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- Styling -->
+<style>
+  .hover-shadow:hover {
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+  }
+  .feature-box:hover {
+    background-color: #f8f9fa;
+    transform: translateY(-3px);
+    transition: 0.3s;
+  }
+  .btn-outline-primary {
+    border-color: #0d6efd;
+    color: #0d6efd;
+    font-weight: 500;
+  }
+  .btn-outline-primary:hover {
+    background-color: #0d6efd;
+    color: #fff;
+  }
+</style>
+
+<!-- FAQ Section -->
+<style>
+  .faq-title { text-align: center; margin-bottom: 20px; }
+  .faq-item { border-bottom: 1px solid #ccc; margin-bottom: 10px; }
+  .faq-question { background: #f4f4f4; padding: 15px; cursor: pointer; font-weight: bold; }
+  .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; background: #fff; padding: 0 15px; }
+  .faq-answer.open { padding: 15px; max-height: 500px; }
+</style>
+
+<div class="faq-section container">
+  <h2 class="faq-title">Frequently Asked Questions (FAQs)</h2>
+
+  <div class="faq-item">
+    <div class="faq-question">1. Why choose Guru Nanak College for BBA?</div>
+    <div class="faq-answer">The BBA program at GNC blends academic knowledge with practical business exposure, preparing students for leadership and entrepreneurial roles.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">2. What is the duration and eligibility for BBA?</div>
+    <div class="faq-answer">The BBA program is 3 years long and open to students who have passed 10+2 in any stream with at least 45% marks.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">3. What kind of placements are offered after BBA?</div>
+    <div class="faq-answer">Students can work in marketing, finance, HR, or management roles in leading organizations, or pursue MBA and other higher studies.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">4. Does the college provide internship opportunities?</div>
+    <div class="faq-answer">Yes, GNC offers internships, industry visits, and live projects to help students gain real-world business experience.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">5. How can I apply for the BBA program?</div>
+    <div class="faq-answer">You can apply online through <a href="https://www.gnc.edu.in">www.gnc.edu.in</a> and complete the admission process as per college guidelines.</div>
+  </div>
+</div>
+
+<script>
+  const questions = document.querySelectorAll('.faq-question');
+  questions.forEach(q => {
+    q.addEventListener('click', () => {
+      const answer = q.nextElementSibling;
+      document.querySelectorAll('.faq-answer').forEach(a => {
+        if (a !== answer) a.classList.remove('open');
+      });
+      answer.classList.toggle('open');
+    });
+  });
+</script>
+
     <section class="container text-center mt-5">
         <div class="page-heading">
             <h2>Why Study Here?</h2>

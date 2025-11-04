@@ -92,33 +92,230 @@
             </div>
         </div>
     </section>
-    <section class="about-cources-gnc mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Under-Graduate Pharmacy Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">Bachelor of Pharmacy</a></li>
-                        <li><a href="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">Lateral Entry in B. Pharma</a></li>
-                        <li><a href="https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand">Diploma in Pharmacy</a></li>
-                    </ul>
+    <section class="pharmacy-section py-5 bg-light">
+  <div class="container">
 
-                </div>
-                <!-- <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Post-Graduate Life & Allied Sciences Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun">Master of Science in Microbiology</a></li>
-                        <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand">Master of Science in Food Technology</a></li>
-                        <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand">Master of Science in Zoology</a></li>
-                        <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand">Master of Science in Chemistry</a></li>
-                        <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">Master of Science in Physics</a></li>
-                        <li><a href="https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand">Master of Science in Botany</a></li>
+    <!-- Section Heading -->
+    <div class="text-start mb-5">
+      <h2 class="fw-bold text-dark">School of Pharmacy – Courses Offered at Guru Nanak College, Dehradun</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
 
-                    </ul>
-                </div> -->
-            </div>
+    <!-- UG COURSES -->
+    <div class="text-start mb-4">
+      <h3 class="fw-bold text-primary">Undergraduate Pharmacy Courses</h3>
+    </div>
+
+    <div class="row g-4">
+
+      <!-- Bachelor of Pharmacy -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Pharmacy (B.Pharm)</h3>
+            <p class="text-muted">A professional 4-year degree program that prepares students for careers in the pharmaceutical industry, research, and healthcare sectors.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 4 Years (8 Semesters)</li>
+              <li><strong>Eligibility:</strong> 10+2 with Physics, Chemistry, and Biology/Mathematics (min. 45%)</li>
+              <li><strong>Career Scope:</strong> Pharmacist, Drug Analyst, Research Associate, Quality Control Officer</li>
+            </ul>
+            <a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
         </div>
-    </section>
+      </div>
+
+      <!-- Lateral Entry -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Lateral Entry in B.Pharm (3 Years)</h3>
+            <p class="text-muted">For students who have completed a Diploma in Pharmacy and wish to pursue advanced studies directly from the second year of B.Pharm.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years</li>
+              <li><strong>Eligibility:</strong> D.Pharm from a PCI-approved institute</li>
+              <li><strong>Career Scope:</strong> Production Chemist, Regulatory Affairs Executive, Clinical Research Associate</li>
+            </ul>
+            <a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Diploma in Pharmacy -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Diploma in Pharmacy (D.Pharm)</h3>
+            <p class="text-muted">A foundation program that trains students to assist in pharmacies, hospitals, and healthcare setups with proper knowledge of drugs and formulations.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 2 Years</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB or PCM (min. 45%)</li>
+              <li><strong>Career Scope:</strong> Pharmacist, Medical Representative, Health Inspector, Pharmaceutical Assistant</li>
+            </ul>
+            <a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <p class="text-center mt-4 text-secondary">
+      All pharmacy programs combine scientific knowledge, laboratory skills, and industry exposure to prepare competent and ethical pharmaceutical professionals.
+    </p>
+
+    <!-- Why GNC -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Why Choose Guru Nanak College for Pharmacy Education</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
+
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🧪 <strong>PCI-Approved Programs:</strong> Recognized by the Pharmacy Council of India and affiliated to HNBGU.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          ⚙️ <strong>Modern Laboratories:</strong> Equipped for pharmaceutics, pharmacology, chemistry, and analysis.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          👩‍🏫 <strong>Expert Faculty:</strong> Experienced academicians and industry professionals guiding practical learning.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🏥 <strong>Industrial & Hospital Training:</strong> Hands-on experience in reputed pharma industries and hospitals.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          💼 <strong>Placement Support:</strong> Assistance in top pharmaceutical companies, hospitals, and research centers.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🌱 <strong>Skill Development:</strong> Focus on practical training, research, communication, and ethics.
+        </div>
+      </div>
+    </div>
+
+    <!-- Placements -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Placements & Career Opportunities</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul>
+        <li>Guru Nanak College offers 100% placement assistance for pharmacy graduates and diploma holders.</li>
+        <li>Students get opportunities in pharmaceutical manufacturing, research labs, hospitals, and regulatory sectors.</li>
+        <li>Our alumni are successfully employed in leading pharma companies and healthcare institutions across India.</li>
+      </ul>
+    </div>
+
+    <!-- Facilities -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Facilities at Guru Nanak College</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul class="list-unstyled">
+        <li>🏫 Smart classrooms and advanced teaching aids</li>
+        <li>🧬 Well-equipped pharmacy laboratories</li>
+        <li>🏢 Industrial visits and practical workshops</li>
+        <li>🏠 Separate hostel facilities for boys and girls</li>
+        <li>🚐 Transport facilities for local students</li>
+        <li>📚 Wi-Fi campus and digital library resources</li>
+        <li>☕ Cafeteria, sports, and recreational zones</li>
+      </ul>
+    </div>
+
+    <!-- Admission -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Admission Process 2025</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <p>Admissions for <strong>B.Pharm, B.Pharm (Lateral Entry),</strong> and <strong>D.Pharm</strong> programs are now open for the 2025 academic session.</p>
+      <ol>
+        <li>Fill out the online application form on <a href="https://www.gnc.edu.in">www.gnc.edu.in</a></li>
+        <li>Upload academic documents and ID proof</li>
+        <li>Shortlisted candidates will be contacted for counselling and admission confirmation</li>
+      </ol>
+      <p><strong>Contact for Admission:</strong> admission@gnc.edu.in | +91-7300900900</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- Styling -->
+<style>
+  .hover-shadow:hover {
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+  }
+  .feature-box:hover {
+    background-color: #f8f9fa;
+    transform: translateY(-3px);
+    transition: 0.3s;
+  }
+  .btn-outline-primary {
+    border-color: #0d6efd;
+    color: #0d6efd;
+    font-weight: 500;
+  }
+  .btn-outline-primary:hover {
+    background-color: #0d6efd;
+    color: #fff;
+  }
+</style>
+
+<!-- FAQ Section -->
+<style>
+  .faq-title { text-align: center; margin-bottom: 20px; }
+  .faq-item { border-bottom: 1px solid #ccc; margin-bottom: 10px; }
+  .faq-question { background: #f4f4f4; padding: 15px; cursor: pointer; font-weight: bold; }
+  .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; background: #fff; padding: 0 15px; }
+  .faq-answer.open { padding: 15px; max-height: 500px; }
+</style>
+
+<div class="faq-section container">
+  <h2 class="faq-title">Frequently Asked Questions (FAQs)</h2>
+
+  <div class="faq-item">
+    <div class="faq-question">1. Why choose Guru Nanak College for Pharmacy education?</div>
+    <div class="faq-answer">GNC offers PCI-approved programs, modern labs, experienced faculty, and strong industry connections, making it one of the best pharmacy colleges in Uttarakhand.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">2. Are the pharmacy courses recognized by PCI?</div>
+    <div class="faq-answer">Yes, all pharmacy courses offered by GNC are approved by the Pharmacy Council of India (PCI) and affiliated with HNBGU.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">3. What are the eligibility criteria for B.Pharm?</div>
+    <div class="faq-answer">Candidates must have passed 10+2 with Physics, Chemistry, and Biology/Mathematics with at least 45% marks.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">4. Does the college provide practical training?</div>
+    <div class="faq-answer">Yes, students undergo regular practical sessions and industrial training in reputed pharmaceutical industries and hospitals.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">5. What are the career prospects after completing pharmacy from GNC?</div>
+    <div class="faq-answer">Graduates can work as pharmacists, medical representatives, researchers, or pursue higher education like M.Pharm and Pharm.D.</div>
+  </div>
+</div>
+
+<script>
+  const questions = document.querySelectorAll('.faq-question');
+  questions.forEach(q => {
+    q.addEventListener('click', () => {
+      const answer = q.nextElementSibling;
+      document.querySelectorAll('.faq-answer').forEach(a => {
+        if (a !== answer) a.classList.remove('open');
+      });
+      answer.classList.toggle('open');
+    });
+  });
+</script>
+
     <section class="container text-center mt-5">
         <div class="page-heading">
             <h2>Why Study Here?</h2>

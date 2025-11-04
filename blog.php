@@ -7,6 +7,7 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Professional Blog Page</title>
     <style>
+        /* CSS remains the same */
         :root {
             --primary: #0066cc;
             --primary-dark: #004c99;
@@ -20,21 +21,18 @@
             --page-bg: #f5f7fa;
             --card-bg: #ffffff;
         }
-        /* Main Content Wrapper */
         .content-wrapper {
             flex: 1;
             padding-bottom: 60px;
             background: #F1F1E9;;
         }
 
-        /* Main Blog Container */
         .main-blog-container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 20px;
         }
 
-        /* Featured Posts Section */
         .featured-posts {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -114,7 +112,6 @@
             color: var(--primary);
         }
 
-        /* Blog Grid Section */
         .blog-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -174,7 +171,6 @@
             margin-bottom: 15px;
         }
 
-        /* Read More Button */
         .btn-read-more {
             display: inline-flex;
             align-items: center;
@@ -203,7 +199,6 @@
             transform: translateX(3px);
         }
 
-        /* Section Title */
         .section-title {
             position: relative;
             margin-bottom: 40px;
@@ -231,7 +226,6 @@
             border-radius: 3px;
         }
 
-        /* Responsive Adjustments */
         @media (max-width: 992px) {
             .banner h1 {
                 font-size: 2.4rem;
@@ -268,19 +262,16 @@
     <?php require "common/header.php"; ?>
 
     <div class="content-wrapper">
-        <!-- Banner Section -->
         <section class="heroBanner">
-        <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="images/blog.webp" class="d-block w-100 img-fluid" alt="Slide 1" loading="lazy">
-                </div> 
+            <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="images/blog.webp" class="d-block w-100 img-fluid" alt="Slide 1" loading="lazy">
+                    </div> 
+                </div>
             </div>
-        </div>
-    </section>
-        <!-- Main Blog Container -->
+        </section>
         <div class="main-blog-container">
-            <!-- Featured Posts Section -->
             <section>
                 <div class="section-title">
                     <h2>Featured Posts</h2>
@@ -290,15 +281,21 @@
                     <?php
                     // Fetch blog posts from the JSON file
                     $json = file_get_contents('blog.json');
-                    $posts = json_decode($json, true);
-                    $posts = array_reverse($posts); // Reverse the posts to show the most recent first
+                    $all_posts = json_decode($json, true) ?: [];
+                    $posts = array_reverse($all_posts); // Reverse the posts to show the most recent first
 
                     // Display the first 3 posts as featured
                     for ($i = 0; $i < min(3, count($posts)); $i++) {
                         $post = $posts[$i];
-                        $slug = strtolower(trim($post['title']));
-                        $slug = preg_replace('/[^a-z0-9]+/', '-', $slug);
-                        $slug = trim($slug, '-');
+                        
+                        // --- Link Generation Logic (CORRECTED FOR CLEAN URL) ---
+                        $link_url = 'post.php?id=' . $i; // Default fallback to ID
+                        if (isset($post['slug']) && !empty($post['slug'])) {
+                            // GENERATES: "post/testing-by-siddharth-developer" 
+                            // The server then resolves this to: http://localhost/gncupdate/post/testing-by-siddharth-developer
+                            $link_url = 'post/' . htmlspecialchars($post['slug']);
+                        } 
+                        // --------------------------------------------------------
 
                         echo '
                         <div class="featured-post animate__animated animate__fadeInUp">
@@ -312,7 +309,7 @@
                                     <span><i class="far fa-user"></i> ' . htmlspecialchars($post['author']) . '</span>
                                     <span><i class="far fa-calendar"></i> ' . htmlspecialchars($post['date']) . '</span>
                                 </div>
-                                <a href="post.php?id=' . $i . '&title=' . urlencode($slug) . '" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                <a href="' . $link_url . '" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>';
                     }
@@ -320,7 +317,6 @@
                 </div>
             </section>
 
-            <!-- All Blog Posts Section -->
             <section>
                 <div class="section-title">
                     <h2>Latest Articles</h2>
@@ -328,12 +324,17 @@
                 
                 <div class="blog-grid">
                     <?php
-                    // Display remaining posts in the grid
+                    // Display remaining posts in the grid, starting from index 3
                     for ($i = 3; $i < count($posts); $i++) {
                         $post = $posts[$i];
-                        $slug = strtolower(trim($post['title']));
-                        $slug = preg_replace('/[^a-z0-9]+/', '-', $slug);
-                        $slug = trim($slug, '-');
+                        
+                        // --- Link Generation Logic (CORRECTED FOR CLEAN URL) ---
+                        $link_url = 'post.php?id=' . $i; // Default fallback to ID
+                        if (isset($post['slug']) && !empty($post['slug'])) {
+                            // GENERATES: "post/testing-by-siddharth-developer"
+                            $link_url = 'post/' . htmlspecialchars($post['slug']);
+                        } 
+                        // --------------------------------------------------------
 
                         echo '
                         <div class="blog-card animate__animated animate__fadeIn">
@@ -346,7 +347,7 @@
                                 <div class="post-meta">
                                     <span><i class="far fa-user"></i> ' . htmlspecialchars($post['author']) . '</span>
                                 </div>
-                                <a href="post.php?id=' . $i . '&title=' . urlencode($slug) . '" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                <a href="' . $link_url . '" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>';
                     }

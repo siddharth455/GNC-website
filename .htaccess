@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^post/([a-zA-Z0-9_-]+)/?$ post.php?slug=$1 [L,QSA]
+
+RewriteRule ^blog\.json$ - [F,L]

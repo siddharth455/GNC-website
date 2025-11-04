@@ -89,6 +89,246 @@
     display: block;
 }
 
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+.acc-title {
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    color: #333;
+    font-weight: bold;
+}
+
+.acc-container {
+    width: 100%;
+    max-width: 1300px;
+    height: 450px;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.acc-list {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+.acc-item {
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+    width: 16.666%;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    transition: all 500ms ease;
+}
+
+.acc-box {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+}
+
+.acc-link {
+    display: block;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    z-index: 3;
+    vertical-align: bottom;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    color: #fff;
+    text-decoration: none;
+    font-family: Open Sans, sans-serif;
+    transition: all 200ms ease;
+}
+
+.acc-link * {
+    opacity: 0;
+    margin: 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateX(-20px);
+    transition: all 400ms ease;
+}
+
+.acc-heading {
+    font-family: Montserrat, sans-serif;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+}
+
+.acc-text {
+    font-size: 13.5px;
+}
+
+
+/* Hover / Focus Effects (Desktop only) */
+@media screen and (min-width: 601px) {
+
+    .acc-list:hover .acc-item,
+    .acc-list:focus-within .acc-item {
+        width: 8%;
+    }
+
+    .acc-item:focus {
+        outline: none;
+    }
+
+    .acc-list:hover .acc-item:hover,
+    .acc-item:focus,
+    .acc-list:focus-within .acc-item:focus {
+        width: 60%;
+    }
+
+    .acc-list:hover .acc-item:hover .acc-link,
+    .acc-item:focus .acc-link {
+        background: rgba(0, 0, 0, .4);
+    }
+
+    .acc-list:hover .acc-item:hover .acc-link *,
+    .acc-item:focus .acc-link * {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+    .acc-list:hover .acc-item {
+        width: 8% !important;
+    }
+
+    .acc-list:hover .acc-item .acc-link * {
+        opacity: 0 !important;
+    }
+
+    .acc-list:hover .acc-item:hover {
+        width: 60% !important;
+    }
+
+    .acc-list:hover .acc-item:hover .acc-link {
+        background: rgba(0, 0, 0, .4);
+    }
+
+    .acc-list:hover .acc-item:hover .acc-link * {
+        opacity: 1 !important;
+        transform: translateX(0);
+    }
+}
+
+/* Mobile view (stack + always show text) */
+@media screen and (max-width: 600px) {
+    .acc-container {
+        height: auto;
+    }
+
+    .acc-list {
+        display: block;
+    }
+
+    .acc-item {
+        display: block;
+        width: 100%;
+        height: 300px;
+        /* fixed height */
+        background-size: cover;
+        background-position: center;
+        position: relative;
+    }
+
+    .acc-link {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        /* push content to the bottom */
+        align-items: flex-start;
+        padding: 15px;
+        box-sizing: border-box;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0));
+        /* gradient overlay for readability */
+    }
+
+    /* Always show text on mobile */
+    .acc-link * {
+        opacity: 1 !important;
+        transform: translateX(0) !important;
+        white-space: normal;
+        color: #fff;
+    }
+
+    .acc-heading {
+        position: static;
+        margin-top: 10px;
+    }
+
+    .acc-text {
+        position: static;
+        margin-top: 5px;
+    }
+}
+
+.acc-about {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #666;
+}
+
+.acc-about a {
+    color: blue;
+    text-decoration: none;
+}
+
+.acc-about a:hover {
+    text-decoration: underline;
+}
+@media screen and (min-width: 601px) {
+/* First item open by default */
+.acc-item:first-child {
+width: 60%; /* expanded width */
+}
+
+.acc-item:first-child .acc-link {
+background: rgba(0,0,0,0.4);
+}
+
+.acc-item:first-child .acc-link * {
+opacity: 1;
+transform: translateX(0);
+white-space: normal;
+}
+
+/* When hovering over the accordion, shrink all non-hovered items */
+.acc-list:hover .acc-item {
+width: 8%; /* shrink all items */
+}
+
+.acc-list:hover .acc-item:hover {
+width: 60%; /* expand hovered item */
+}
+
+.acc-list:hover .acc-item:hover .acc-link {
+background: rgba(0,0,0,0.4);
+}
+
+.acc-list:hover .acc-item:hover .acc-link * {
+opacity: 1;
+transform: translateX(0);
+}
+}
 /* Placement block styles */
 .about-gnc-placement {
     flex: 1 1 45%;

@@ -96,28 +96,255 @@ Offered: B.Sc Agriculture, B.Sc. Forestry, M.Sc Agronomy. " />
             </div>
         </div>
     </section>
-    <section class="about-cources-gnc mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Under-Graduate Agriculture Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/agriculture-science">Bachelor of Science in Agriculture</a></li>
-                        <li><a href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun">Bachelor of Science in Forestry</a></li>
-                    </ul>
+    <section class="agriculture-section py-5 bg-light">
+  <div class="container">
 
-                </div>
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Post-Graduate Agriculture Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">Master of Science in Agronomy</a></li>
-                        <li><a href="https://gnc.edu.in/msc-horticulture">Master of Science in Horticulture</a></li>
+    <!-- Section Heading -->
+    <div class="text-start mb-5">
+      <h2 class="fw-bold text-dark">School of Agriculture – Courses Offered at Guru Nanak College, Dehradun</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
 
-                    </ul>
-                </div>
-            </div>
+    <!-- UG COURSES -->
+    <div class="text-start mb-4">
+      <h3 class="fw-bold text-primary">Undergraduate Agriculture Courses</h3>
+    </div>
+
+    <div class="row g-4">
+
+      <!-- B.Sc Agriculture -->
+      <div class="col-md-6 col-lg-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in Agriculture (B.Sc Ag.)</h3>
+            <p class="text-muted">A 4-year degree program focused on modern farming practices, agronomy, soil science, plant pathology, and sustainable agriculture management.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 4 Years (8 Semesters)</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB/PCM/Agri. (minimum 45%)</li>
+              <li><strong>Career Scope:</strong> Agriculture Officer, Agronomist, Research Assistant, Agripreneur, Government Sector Roles</li>
+            </ul>
+            <a href="agriculture-science.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
         </div>
-    </section>
+      </div>
+
+      <!-- B.Sc Forestry -->
+      <div class="col-md-6 col-lg-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in Forestry (B.Sc Forestry)</h3>
+            <p class="text-muted">This 4-year undergraduate course provides in-depth knowledge of forest ecosystems, wildlife management, environmental conservation, and sustainable forestry practices.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 4 Years (8 Semesters)</li>
+              <li><strong>Eligibility:</strong> 10+2 with Science (PCB/PCM)</li>
+              <li><strong>Career Scope:</strong> Forest Officer, Wildlife Conservationist, Environmental Consultant, Researcher</li>
+            </ul>
+            <a href="Best-Bsc-Forestry-colleges-in-Dehradun.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- PG COURSES -->
+    <div class="text-start mt-5 mb-4">
+      <h3 class="fw-bold text-primary">Postgraduate Agriculture Courses</h3>
+    </div>
+
+    <div class="row g-4">
+
+      <!-- M.Sc Agronomy -->
+      <div class="col-md-6 col-lg-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Master of Science in Agronomy (M.Sc Agronomy)</h3>
+            <p class="text-muted">A 2-year postgraduate program specializing in crop production, soil management, irrigation techniques, and modern agronomic research methodologies.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 2 Years (4 Semesters)</li>
+              <li><strong>Eligibility:</strong> B.Sc Agriculture or equivalent with minimum 45%</li>
+              <li><strong>Career Scope:</strong> Agronomist, Research Scientist, Farm Consultant, Agricultural Officer</li>
+            </ul>
+            <a href="Best-Msc-Agronomy-Colleges-in-Dehradun.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- M.Sc Horticulture -->
+      <div class="col-md-6 col-lg-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Master of Science in Horticulture (M.Sc Horticulture)</h3>
+            <p class="text-muted">Focuses on fruit science, vegetable production, floriculture, and post-harvest technology to enhance productivity and sustainability in horticultural industries.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 2 Years (4 Semesters)</li>
+              <li><strong>Eligibility:</strong> B.Sc Agriculture/Horticulture or related discipline (min. 45%)</li>
+              <li><strong>Career Scope:</strong> Horticulturist, Farm Manager, Nursery Supervisor, Researcher, Agri-Consultant</li>
+            </ul>
+            <a href="msc-horticulture.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <p class="text-center mt-4 text-secondary">
+      The School of Agriculture at Guru Nanak College focuses on academic excellence, practical exposure, and research-driven agricultural education to promote sustainable rural and environmental development.
+    </p>
+
+    <!-- Why GNC -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Why Choose Guru Nanak College for Agriculture Programs</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
+
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🌾 <strong>Affiliated & Approved:</strong> Recognized by HNBGU and approved by relevant agricultural authorities.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🧑‍🌾 <strong>Modern Infrastructure:</strong> Equipped labs, experimental farms, and greenhouses for hands-on training.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          📚 <strong>Research-Oriented Curriculum:</strong> Combines traditional knowledge with advanced agricultural techniques.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🧠 <strong>Experienced Faculty:</strong> Qualified academicians and industry professionals from agriculture research fields.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          💼 <strong>Career Opportunities:</strong> Excellent placements in government departments, agri-business firms, and NGOs.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🌱 <strong>Practical Learning:</strong> Field visits, projects, and farm-based experiential programs.
+        </div>
+      </div>
+    </div>
+
+    <!-- Placements -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Placements & Career Opportunities</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul>
+        <li>Guru Nanak College provides comprehensive placement assistance in agriculture and allied industries.</li>
+        <li>Graduates work with government agricultural departments, agribusinesses, and research institutions.</li>
+        <li>Students gain field exposure through internships and live farm management experiences.</li>
+      </ul>
+    </div>
+
+    <!-- Facilities -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Facilities at Guru Nanak College</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul class="list-unstyled">
+        <li>🏫 Modern classrooms and digital learning resources</li>
+        <li>🌿 Experimental farms and horticultural units</li>
+        <li>🔬 Advanced soil, crop, and plant science laboratories</li>
+        <li>🏠 Separate hostel facilities for boys and girls</li>
+        <li>🚐 Transport services for students</li>
+        <li>📶 Wi-Fi-enabled campus and e-library</li>
+        <li>☕ Cafeteria, sports, and recreational facilities</li>
+      </ul>
+    </div>
+
+    <!-- Admission -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Admission Process 2025</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <p>Admissions for <strong>B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy,</strong> and <strong>M.Sc Horticulture</strong> are now open for the 2025 academic session.</p>
+      <ol>
+        <li>Apply online at <a href="https://www.gnc.edu.in">www.gnc.edu.in</a></li>
+        <li>Upload required academic documents and ID proof</li>
+        <li>Shortlisted candidates will be contacted for counselling and admission confirmation</li>
+      </ol>
+      <p><strong>Contact for Admission:</strong> admission@gnc.edu.in | +91-7300900900</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- Styling -->
+<style>
+  .hover-shadow:hover {
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+  }
+  .feature-box:hover {
+    background-color: #f8f9fa;
+    transform: translateY(-3px);
+    transition: 0.3s;
+  }
+  .btn-outline-primary {
+    border-color: #0d6efd;
+    color: #0d6efd;
+    font-weight: 500;
+  }
+  .btn-outline-primary:hover {
+    background-color: #0d6efd;
+    color: #fff;
+  }
+</style>
+
+<!-- FAQ Section -->
+<style>
+  .faq-title { text-align: center; margin-bottom: 20px; }
+  .faq-item { border-bottom: 1px solid #ccc; margin-bottom: 10px; }
+  .faq-question { background: #f4f4f4; padding: 15px; cursor: pointer; font-weight: bold; }
+  .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; background: #fff; padding: 0 15px; }
+  .faq-answer.open { padding: 15px; max-height: 500px; }
+</style>
+
+<div class="faq-section container">
+  <h2 class="faq-title">Frequently Asked Questions (FAQs)</h2>
+
+  <div class="faq-item">
+    <div class="faq-question">1. Why choose Guru Nanak College for Agriculture studies?</div>
+    <div class="faq-answer">GNC provides quality agricultural education with modern labs, research farms, and expert faculty focused on practical and sustainable learning.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">2. What are the eligibility criteria for B.Sc Agriculture and Forestry?</div>
+    <div class="faq-answer">Candidates must have passed 10+2 with PCB/PCM or Agriculture subjects and scored at least 45% marks.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">3. What are the career opportunities after M.Sc Agronomy or M.Sc Horticulture?</div>
+    <div class="faq-answer">Postgraduates can work as Agronomists, Researchers, Agricultural Consultants, or pursue Ph.D. programs and government roles in agriculture departments.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">4. Does the college provide field and research exposure?</div>
+    <div class="faq-answer">Yes, students participate in field visits, live projects, and farm-based practical training to gain real-world agricultural experience.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">5. How can I apply for admission?</div>
+    <div class="faq-answer">Students can apply online through <a href="https://www.gnc.edu.in">www.gnc.edu.in</a> and upload all necessary academic documents for admission consideration.</div>
+  </div>
+</div>
+
+<script>
+  const questions = document.querySelectorAll('.faq-question');
+  questions.forEach(q => {
+    q.addEventListener('click', () => {
+      const answer = q.nextElementSibling;
+      document.querySelectorAll('.faq-answer').forEach(a => {
+        if (a !== answer) a.classList.remove('open');
+      });
+      answer.classList.toggle('open');
+    });
+  });
+</script>
+
     <section class="container text-center mt-5">
         <div class="page-heading">
             <h2>Why Study Here?</h2>

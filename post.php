@@ -1,20 +1,87 @@
 <?php
 session_start();
-$json = file_get_contents('blog.json');
-$posts = array_reverse(json_decode($json, true));
+// --- START: PATH FIX FOR CLEAN URLs ---
+// 1. Define the protocol (http or https)
+$protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
 
-$id = isset($_GET['id']) ? (int)$_GET['id'] : 0;
-$post = isset($posts[$id]) ? $posts[$id] : null;
+// If the site is on the live domain (gnc.edu.in), the base path is '/'.
+// If it's on localhost, use the folder name ('/gncupdate/').
+if ($_SERVER['HTTP_HOST'] === 'gnc.edu.in' || $_SERVER['HTTP_HOST'] === 'www.gnc.edu.in') {
+    $project_folder = "/";
+} else {
+    // This assumes your local project name is 'gncupdate'
+    $project_folder = "/gncupdate/"; 
+}
+
+// 3. Construct the absolute base URL
+$base_url = $protocol . "://" . $_SERVER['HTTP_HOST'] . $project_folder;
+// --- END: PATH FIX FOR CLEAN URLs ---
+
+// FIX THE BLOG JSON PATH
+$blogPath = __DIR__ . '/blog.json';
+
+if (!file_exists($blogPath)) {
+    $blogPath = $_SERVER['DOCUMENT_ROOT'] . '/blog.json';
+}
+
+$json = file_get_contents($blogPath);
+$all_posts = json_decode($json, true);
+
+
+// Create the reversed array (newest first), which is used for display and 'id' lookup
+$posts_reversed = array_reverse($all_posts);
+
+$post = null;
+$lookup_key = null; 
+
+// 1. **PRIMARY CHECK:** Check for the clean URL slug or GET parameter
+$slug = isset($_GET['slug']) ? $_GET['slug'] : null;
+
+if ($slug) {
+    // Look up the post by slug in the reversed array
+    foreach ($posts_reversed as $key => $p) {
+        if (isset($p['slug']) && $p['slug'] === $slug) {
+            $post = $p;
+            $lookup_key = $key;
+            break;
+        }
+    }
+} 
+// 2. **FALLBACK CHECK:** Check for the old 'id' (post.php?id=0)
+else {
+    $id = isset($_GET['id']) ? (int)$_GET['id'] : null;
+    if ($id !== null && isset($posts_reversed[$id])) {
+        $post = $posts_reversed[$id];
+        $lookup_key = $id; 
+    }
+}
+
 $showTOC = isset($post['show_toc']) && $post['show_toc'];
-$shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
+
+// The shareable link should use the slug if available (Using the clean format for sharing)
+if ($post && isset($post['slug'])) {
+    $shareableLink = $base_url . "post/" . $post['slug']; 
+} else {
+    $shareableLink = $base_url . "post.php?id=" . $lookup_key;
+}
 ?>
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="icon" type="image/webp" href="images/logog.webp">
+    <base href="<?= $base_url ?>">
+    <link rel="icon" type="image/webp" href="images/logog.webp"> 
     <title><?= $post ? htmlspecialchars($post['title']) : 'Post Not Found' ?> - Guru Nanak College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <style> 
+        /* --- CSS STYLES --- */
+        
+        /* FIX: Ensures anchor targets land below a fixed header */
+        /* ADJUST THIS VALUE (e.g., 100px, 120px) to be slightly larger than your fixed header's height */
+        h2[id], h3[id] {
+            scroll-margin-top: 180px; 
+        }
+        
         .post-container {
             max-width: 1400px;
             margin: 0 auto;
@@ -70,7 +137,6 @@ $shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
             border-left: 4px solid #0066cc;
         }
         
-        /* UPDATED SUGGESTED POSTS STYLE */
         .suggested-posts {
             background: #F1F1E9;
             border-radius: 8px;
@@ -105,23 +171,24 @@ $shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
             border-color: #0066cc;
         }
+        
         #toc h4 {
-  font-size: 1.1rem;
-  color: #0052a5;
-  margin-bottom: 8px;
-}
+            font-size: 1.1rem;
+            color: #0052a5;
+            margin-bottom: 8px;
+        }
 
-.toc-link {
-  text-decoration: none;
-  color: #333;
-  font-size: 0.95rem;
-  display: block;
-  padding: 4px 0;
-}
+        .toc-link {
+            text-decoration: none;
+            color: #333;
+            font-size: 0.95rem;
+            display: block;
+            padding: 4px 0;
+        }
 
-.toc-link:hover {
-  color: #0066cc;
-}
+        .toc-link:hover {
+            color: #0066cc;
+        }
 
         .suggested-post:last-child {
             margin-bottom: 0;
@@ -177,7 +244,9 @@ $shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
     </style>
 </head>
 <body>
-<?php require "common/header.php"; ?>
+<?php 
+require "common/header.php"; 
+?>
 
 <section class="pageBanner-inner">
     <div style="background-image: url('images/post.webp'); background-repeat: no-repeat; background-size: cover;">
@@ -218,16 +287,30 @@ $shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
                     </div>
                     
                     <div class="post-navigation">
-                        <?php if ($id > 0): ?>
-                            <a href="post.php?id=<?= $id - 1 ?>" class="btn btn-primary">
+                        <?php 
+                        // Previous Post: uses the next index in the reversed array
+                        $prev_key = $lookup_key + 1;
+                        if ($prev_key < count($posts_reversed) && isset($posts_reversed[$prev_key])): 
+                            $prev_post = $posts_reversed[$prev_key];
+                            // Navigation link uses $base_url
+                            $prev_url = isset($prev_post['slug']) ? $base_url . 'post/' . htmlspecialchars($prev_post['slug']) : 'post.php?id=' . $prev_key;
+                        ?>
+                            <a href="<?= $prev_url ?>" class="btn btn-primary">
                                 <i class="fas fa-arrow-left"></i> Previous Post
                             </a>
                         <?php else: ?>
                             <div></div>
                         <?php endif; ?>
                         
-                        <?php if ($id < count($posts) - 1): ?>
-                            <a href="post.php?id=<?= $id + 1 ?>" class="btn btn-primary">
+                        <?php 
+                        // Next Post: uses the previous index in the reversed array
+                        $next_key = $lookup_key - 1;
+                        if ($next_key >= 0 && isset($posts_reversed[$next_key])): 
+                            $next_post = $posts_reversed[$next_key];
+                            // Navigation link uses $base_url
+                            $next_url = isset($next_post['slug']) ? $base_url . 'post/' . htmlspecialchars($next_post['slug']) : 'post.php?id=' . $next_key;
+                        ?>
+                            <a href="<?= $next_url ?>" class="btn btn-primary">
                                 Next Post <i class="fas fa-arrow-right"></i>
                             </a>
                         <?php endif; ?>
@@ -250,14 +333,24 @@ $shareableLink = "http://gnc.edu.in/post.php?id=" . $id;
                 
                 <?php
                 $counter = 0;
-                foreach ($posts as $key => $suggestedPost) {
-                    if ($key != $id && $counter < 5) {
+                // Loop through the reversed list ($posts_reversed)
+                foreach ($posts_reversed as $key => $suggestedPost) {
+                    // Check if the current post is NOT the one being displayed
+                    if ($key != $lookup_key && $counter < 5) {
+                        
+                        // Navigation link uses $base_url
+                        $suggested_url = isset($suggestedPost['slug']) 
+                            ? $base_url . 'post/' . htmlspecialchars($suggestedPost['slug']) 
+                            : 'post.php?id=' . $key;
+
                         echo '<div class="suggested-post">';
                         if (isset($suggestedPost['image'])) {
+                            // Image path still needs $base_url if 'image' is an absolute path or relative to root
                             echo '<img src="' . htmlspecialchars($suggestedPost['image']) . '" class="suggested-post-img" alt="' . htmlspecialchars($suggestedPost['title']) . '">';
                         }
                         echo '<div class="suggested-post-content">';
-                        echo '<h5><a href="post.php?id=' . $key . '">' . htmlspecialchars($suggestedPost['title']) . '</a></h5>';
+                        // Navigation link uses $base_url
+                        echo '<h5><a href="' . $suggested_url . '">' . htmlspecialchars($suggestedPost['title']) . '</a></h5>';
                         echo '<div class="suggested-post-date"><i class="far fa-calendar-alt"></i> ' . htmlspecialchars($suggestedPost['date']) . '</div>';
                         echo '</div></div>';
                         $counter++;
@@ -292,9 +385,20 @@ document.addEventListener('DOMContentLoaded', function() {
             tocItem.className = 'toc-item';
 
             const tocLink = document.createElement('a');
-            tocLink.href = '#' + heading.id;
+            tocLink.href = ''; 
             tocLink.textContent = heading.textContent;
             tocLink.className = 'toc-link';
+            
+            tocLink.addEventListener('click', function(e) {
+                e.preventDefault(); 
+                
+                document.getElementById(heading.id).scrollIntoView({
+                    behavior: 'smooth'
+                });
+                
+                // *** REMOVED LINE: history.pushState(null, null, '#' + heading.id); ***
+                // The URL will no longer change when a TOC link is clicked.
+            });
 
             tocItem.appendChild(tocLink);
             tocContainer.appendChild(tocItem);
@@ -307,6 +411,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <?php endif; ?>
 
-<?php require "common/footer.php"; ?>
+<?php 
+require "common/footer.php"; 
+?>
 </body>
 </html>

@@ -2925,7 +2925,8 @@ p {
 
 .menu-options li a:hover,
 .step-second-menu ul li a:hover {
-    text-decoration: underline
+    text-decoration: underline;
+   color: #fff;
 }
 
 .header .nav-item.dd-menu-lg>a::after {

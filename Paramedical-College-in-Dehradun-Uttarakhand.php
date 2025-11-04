@@ -95,34 +95,301 @@ to meet the demands of modern medicine." />
             </div>
         </div>
     </section>
-    <section class="about-cources-gnc mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Under-Graduate Paramedical Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/Best-bmlt-college-in-dehradun">Bachelor of Medical Laboratory Technology</a></li>
-                        <li><a href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
-                        <li><a href="https://gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun">Bachelor of Operation theatre Technology</a></li>
-                        <li><a href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand">Bachelor of Physiotherapy</a></li>
-                        <li><a href="https://gnc.edu.in/Best-bsc-optometry-College-in-dehradun">Bachelor of Science in Optometry</a></li>
-                    </ul>
+    <section class="paramedical-section py-5 bg-light">
+  <div class="container">
+    
+    <!-- Section Heading -->
+    <div class="text-start mb-5">
+      <h2 class="fw-bold text-dark">Paramedical Courses Offered at Guru Nanak College, Dehradun</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
 
-                </div>
-                <div class="col-lg-6 col-md-6 col-12">
-                    <h4>Post-Graduate Paramedical Course's</h4>
-                    <ul class="listStyle-2 p-0 mt-4 text-start course-list ps-4">
-                        <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun">Master of Medical Laboratory Technology</a></li>
-                        <!-- <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand">Master of Medical Radio Diagnosis And Imaging Technology</a></li> -->
-                        <!-- <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand">Master of Operation Theatre Technology</a></li> -->
-                        <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand">Master of Physiotherapy</a></li>
-                        <!-- <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">Master of Optometry</a></li> -->
+    <!-- UG COURSES -->
+    <div class="text-start mb-4">
+      <h3 class="fw-bold text-primary">Undergraduate Paramedical Courses</h3>
+    </div>
 
-                    </ul>
-                </div>
-            </div>
+    <div class="row g-4">
+
+      <!-- BMLT -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Medical Laboratory Technology (BMLT)</h3>
+            <p class="text-muted">Train to become an expert in diagnostic testing, laboratory management, and clinical pathology.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years + 6 Months Internship</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB (min. 45%)</li>
+              <li><strong>Career Scope:</strong> Medical Lab Technologist, Lab Supervisor, Quality Control Officer, Pathology Lab Manager</li>
+            </ul>
+            <a href="Best-bmlt-college-in-dehradun.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
         </div>
-    </section>
+      </div>
+
+      <!-- BMRIT -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Medical Radio Diagnosis & Imaging Technology (BMRIT)</h3>
+            <p class="text-muted">Learn advanced imaging techniques like X-Ray, MRI, CT Scan, and Ultrasound to assist in accurate medical diagnosis.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years + 6 Months Internship</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB (min. 45%)</li>
+              <li><strong>Career Scope:</strong> Radiology Technologist, CT/MRI Technician, Imaging Specialist, Radiographer</li>
+            </ul>
+            <a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BOTT -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Operation Theatre Technology (BOTT)</h3>
+            <p class="text-muted">Prepare to assist surgeons and manage operation theatres with precision, safety, and sterile techniques.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 3 Years + 6 Months Internship</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB (min. 45%)</li>
+              <li><strong>Career Scope:</strong> OT Technician, Surgical Assistant, Anaesthesia Technologist, OT Manager</li>
+            </ul>
+            <a href="Best-operation-theatre-technology-colleges-in-dehradun.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- BPT -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Physiotherapy (BPT)</h3>
+            <p class="text-muted">Develop skills to restore physical function and promote health through evidence-based physiotherapy practices.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 4.5 Years (Including Internship)</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB (min. 50%)</li>
+              <li><strong>Career Scope:</strong> Physiotherapist, Sports Rehab Specialist, Orthopedic Consultant, Rehabilitation Expert</li>
+            </ul>
+            <a href="Best-BPT-college-in-Dehradun-Uttarakhand.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- B.Sc Optometry -->
+      <div class="col-md-4">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Bachelor of Science in Optometry</h3>
+            <p class="text-muted">Gain expertise in eye health, vision testing, and optical technology to support ophthalmic care.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 4 Years</li>
+              <li><strong>Eligibility:</strong> 10+2 with PCB (min. 45%)</li>
+              <li><strong>Career Scope:</strong> Optometrist, Vision Consultant, Clinical Optician, Optical Lab Specialist</li>
+            </ul>
+            <a href="Best-bsc-optometry-College-in-dehradun.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- PG COURSES -->
+    <div class="text-start mt-5 mb-4">
+      <h3 class="fw-bold text-primary">Postgraduate Paramedical Courses</h3>
+    </div>
+
+    <div class="row g-4">
+      <!-- MMLT -->
+      <div class="col-md-6">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Master of Medical Laboratory Technology (MMLT)</h3>
+            <p class="text-muted">Advanced study of diagnostic sciences with specialization in clinical biochemistry, microbiology, or pathology.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 2 Years</li>
+              <li><strong>Eligibility:</strong> BMLT or equivalent degree</li>
+              <li><strong>Career Scope:</strong> Senior Lab Technologist, Lab Director, Research Scientist, Academic Faculty</li>
+            </ul>
+            <a href="masters-in-lab-technician.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MPT -->
+      <div class="col-md-6">
+        <div class="card shadow-lg border-0 h-100 hover-shadow">
+          <div class="card-body p-4">
+            <h3 class="h5 fw-bold text-dark">Master of Physiotherapy (MPT)</h3>
+            <p class="text-muted">Specialize in fields like Orthopedics, Neurology, or Sports to advance your clinical and research expertise.</p>
+            <ul class="list-unstyled small">
+              <li><strong>Duration:</strong> 2 Years</li>
+              <li><strong>Eligibility:</strong> BPT with internship completion</li>
+              <li><strong>Career Scope:</strong> Clinical Specialist, Rehabilitation Consultant, Sports Physiotherapist, Lecturer</li>
+            </ul>
+            <a href="Best-MPT-Master-of-Physiotherapy-College.php" class="btn btn-outline-primary btn-sm mt-2">View Course Details</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="text-center mt-4 text-secondary">
+      All programs are supported by advanced laboratories, experienced faculty, and hospital affiliations ensuring practical clinical exposure.
+    </p>
+
+    <!-- Why GNC -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Why Choose Guru Nanak College for Paramedical Education</h2>
+      <hr class="w-25 border-dark opacity-100">
+    </div>
+
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🏛 <strong>University Affiliation:</strong> Recognized by HNBGU & approved by respective health councils.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          ⚙️ <strong>Modern Infrastructure:</strong> Equipped with diagnostic labs, simulation centers, and digital library.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          👩‍🏫 <strong>Expert Faculty:</strong> Experienced medical professionals and academic mentors.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🏥 <strong>Clinical Exposure:</strong> Hands-on training in top hospitals and diagnostic centers.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          💼 <strong>Placement Assistance:</strong> Excellent career opportunities in hospitals, labs, and research institutions.
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-box p-4 border rounded-3 bg-white shadow-sm h-100">
+          🌱 <strong>Professional Development:</strong> Focus on ethics, teamwork, and communication for healthcare excellence.
+        </div>
+      </div>
+    </div>
+
+    <!-- Placements -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Placements & Career Opportunities</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul>
+        <li>Guru Nanak College ensures 100% placement assistance for all paramedical graduates.</li>
+        <li>Our alumni are placed in reputed hospitals, diagnostic centers, rehabilitation facilities, and research organizations in India and abroad.</li>
+        <li>GNC graduates are recognized for their technical excellence, professionalism, and compassionate healthcare service.</li>
+      </ul>
+    </div>
+
+    <!-- Facilities -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Facilities at Guru Nanak College</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <ul class="list-unstyled">
+        <li>🏫 Smart classrooms & multimedia learning environment</li>
+        <li>🧪 Advanced paramedical laboratories and diagnostic equipment</li>
+        <li>🏥 Affiliated hospitals for clinical training</li>
+        <li>🏠 Separate hostel facilities for boys and girls</li>
+        <li>🚐 College transport services for students</li>
+        <li>📚 Wi-Fi enabled campus and e-library</li>
+        <li>☕ Cafeteria, sports, and recreation facilities</li>
+      </ul>
+    </div>
+
+    <!-- Admission -->
+    <div class="text-start mt-5">
+      <h2 class="fw-bold text-dark">Admission Process 2025</h2>
+      <hr class="w-25 border-dark opacity-100">
+      <p>Admissions for <strong>Undergraduate</strong> and <strong>Postgraduate Paramedical Courses</strong> are now open for the 2025 academic session.</p>
+      <ol>
+        <li>Apply online at <a href="https://www.gnc.edu.in" target="_blank">www.gnc.edu.in</a></li>
+        <li>Upload required academic documents and ID proof</li>
+        <li>Shortlisted candidates will be contacted for counselling/admission confirmation</li>
+      </ol>
+      <p><strong>Contact for Admission:</strong> admission@gnc.edu.in | +91-7300900900</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- Styling (same as before) -->
+<style>
+  .hover-shadow:hover {
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+  }
+  .feature-box:hover {
+    background-color: #f8f9fa;
+    transform: translateY(-3px);
+    transition: 0.3s;
+  }
+  .btn-outline-primary {
+    border-color: #0d6efd;
+    color: #0d6efd;
+    font-weight: 500;
+  }
+  .btn-outline-primary:hover {
+    background-color: #0d6efd;
+    color: #fff;
+  }
+</style>
+
+<!-- FAQ Section -->
+<style>
+  .faq-title { text-align: center; margin-bottom: 20px; }
+  .faq-item { border-bottom: 1px solid #ccc; margin-bottom: 10px; }
+  .faq-question { background: #f4f4f4; padding: 15px; cursor: pointer; font-weight: bold; }
+  .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; background: #fff; padding: 0 15px; }
+  .faq-answer.open { padding: 15px; max-height: 500px; }
+</style>
+
+<div class="faq-section container">
+  <h2 class="faq-title">Frequently Asked Questions (FAQs)</h2>
+
+  <div class="faq-item">
+    <div class="faq-question">1. Why choose Guru Nanak College for Paramedical courses?</div>
+    <div class="faq-answer">GNC offers industry-relevant training, modern labs, experienced faculty, and clinical exposure, making it one of the best paramedical colleges in Dehradun and Uttarakhand.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">2. Are the paramedical courses approved and recognized?</div>
+    <div class="faq-answer">Yes, all paramedical programs are recognized by HNBGU and approved by the respective regulatory bodies.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">3. What is the eligibility for undergraduate paramedical programs?</div>
+    <div class="faq-answer">Candidates must have passed 10+2 with PCB (Physics, Chemistry, Biology) with at least 45% marks.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">4. Does the college provide practical and clinical training?</div>
+    <div class="faq-answer">Yes, students receive hands-on training in affiliated hospitals, diagnostic centers, and rehabilitation institutions.</div>
+  </div>
+
+  <div class="faq-item">
+    <div class="faq-question">5. What are the career opportunities after completing paramedical courses?</div>
+    <div class="faq-answer">Graduates can work in hospitals, labs, diagnostic centers, and rehabilitation clinics or pursue postgraduate and research programs.</div>
+  </div>
+</div>
+
+<script>
+  const questions = document.querySelectorAll('.faq-question');
+  questions.forEach(q => {
+    q.addEventListener('click', () => {
+      const answer = q.nextElementSibling;
+      document.querySelectorAll('.faq-answer').forEach(a => {
+        if (a !== answer) a.classList.remove('open');
+      });
+      answer.classList.toggle('open');
+    });
+  });
+</script>
+
     <section class="container text-center mt-5">
         <div class="page-heading">
             <h2>Why Study Here?</h2>

@@ -23,9 +23,53 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
 
 $jsonFile = '../blog.json';
 
+// --- SLUG GENERATION FUNCTION ---
+function slugify($text, array $posts = [])
+{
+    // Replace non-alphanumeric characters (except spaces and hyphens) with nothing
+    $text = preg_replace('~[^\pL\d]+~u', '-', $text);
+    // Transliterate non-Latin characters to Latin
+    $text = iconv('utf-8', 'us-ascii//TRANSLIT', $text);
+    // Remove characters that are not a-z, 0-9, or hyphen
+    $text = preg_replace('~[^-\w]+~', '', $text);
+    // Trim hyphens from start/end
+    $text = trim($text, '-');
+    // Convert to lowercase
+    $text = strtolower($text);
+    
+    if (empty($text)) {
+        return 'n-a';
+    }
+
+    $originalSlug = $text;
+    $counter = 1;
+
+    // Check for slug uniqueness
+    // NOTE: This assumes your blog.json stores the slug field
+    while (isSlugExists($text, $posts)) {
+        $text = $originalSlug . '-' . $counter;
+        $counter++;
+    }
+
+    return $text;
+}
+
+// Function to check if the generated slug already exists
+function isSlugExists($slug, array $posts)
+{
+    foreach ($posts as $post) {
+        if (isset($post['slug']) && $post['slug'] === $slug) {
+            return true;
+        }
+    }
+    return false;
+}
+// ---------------------------------
+
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $imagePath = '';
 
+    // --- Image Upload Logic (Unchanged) ---
     if (isset($_FILES['image']) && $_FILES['image']['error'] == 0) {
         $target_dir = "uploads/";
         if (!is_dir($target_dir)) {
@@ -52,22 +96,33 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             echo "Only JPG, JPEG, PNG, and WEBP files are allowed.";
         }
     }
+    // --- End Image Upload Logic ---
+
+    // Load existing posts to check for slug uniqueness
+    $posts = json_decode(file_get_contents($jsonFile), true);
+    $posts = $posts ?: [];
+
+    // --- SLUG GENERATION AND VALIDATION ---
+    $title = trim($_POST['title']);
+    if (empty($title)) {
+        die("Error: Post title cannot be empty.");
+    }
+    $generatedSlug = slugify($title, $posts);
+    // ------------------------------------
 
     date_default_timezone_set('Asia/Kolkata');
     $selectedDate = !empty($_POST['manual_date']) ? $_POST['manual_date'] : date('Y-m-d');
     $showTOC = isset($_POST['show_toc']) ? true : false;
 
     $newPost = [
-        'title' => htmlspecialchars($_POST['title']),
+        'title' => htmlspecialchars($title),
+        'slug' => $generatedSlug, // <--- ADDED THE SLUG FIELD
         'author' => htmlspecialchars($_POST['author']),
         'date' => $selectedDate,
         'content' => $_POST['content'],
         'image' => $imagePath,
         'show_toc' => $showTOC
     ];
-
-    $posts = json_decode(file_get_contents($jsonFile), true);
-    $posts = $posts ?: [];
 
     $posts[] = $newPost;
     file_put_contents($jsonFile, json_encode($posts, JSON_PRETTY_PRINT));
@@ -84,7 +139,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <link rel="icon" type="image/webp" href="../images/logog.webp">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-    <!-- TinyMCE -->
     <script src="https://cdn.jsdelivr.net/npm/tinymce@6.8.3/tinymce.min.js"></script>
 
     <script>
@@ -136,6 +190,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </div>
 
         <button type="submit" class="btn btn-primary">Add Post</button>
+        <a href="index.php" class="btn btn-secondary">Go to Dashboard</a>
     </form>
 </div>
 </body>

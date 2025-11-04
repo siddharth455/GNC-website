@@ -124,8 +124,6 @@ BBA Colleges in Dehradun,Top BBA Colleges in Dehradun" />
       max-height: 500px; /* Enough to fit answer */
     }
   </style>
-</head>
-<body>
 
 <div class="faq-section">
   <h2 class="faq-title">Frequently Asked Questions (FAQs)</h2>

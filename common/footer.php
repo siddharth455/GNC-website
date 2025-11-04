@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row g-4">
                 <div class="col-6 col-sm-4 col-lg-3">
-                    <img src="./images/logo.webp" alt="" loading="lazy" style="max-width: 50%;" />
+                    <img src="./images/logo.webp" alt="college logo" loading="lazy" style="max-width: 50%;" />
                     <br>
                     <br>
                     <p>Guru Nanak College<br>Jhajhra,
@@ -74,7 +74,7 @@
                         <li><a href="anti-ragging-policy/anti-ragging-policy.php">Anti-Ragging</a></li>
                         <li><a href="anti-ragging-policy/national-ragging-prevention-programme.php">National Ragging Prevention Programme</a></li> -->
                         <li>
-                            <p class="mt-1">© All rights reserved 2024</p>
+                            <p class="mt-1">© All rights reserved 2025</p>
                         </li>
                     </ul>
                 </div>
