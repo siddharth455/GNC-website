@@ -309,7 +309,7 @@ B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT" />
             </div>
         </div>
     </section>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
     <?php require "application-process.php" ?>
     <?php require "common/footer.php"; ?>
     <script>

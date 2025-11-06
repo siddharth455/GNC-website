@@ -397,7 +397,7 @@ excellent platform for aspiring food technologists to advance their academic and
         </div>
     </section>
     <?php require "application-process.php"; ?>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
     <?php
     require "common/footer.php";
     ?>

@@ -405,7 +405,7 @@ premier institution for aspiring scientists to pursue their B.Sc. PCM degree.</p
         </div>
     </section>
     <?php require "application-process.php"; ?>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
     <?php
     require "common/footer.php";
     ?>

@@ -413,7 +413,7 @@ academic programs" />
     </section>
 
     <?php require "company-logo.php" ?>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
 
     <?php
     require "common/footer.php";

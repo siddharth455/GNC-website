@@ -392,7 +392,7 @@ hospitals and other healthcare facilities.</p>
         </div>
     </section>
     <?php require "application-process.php"; ?>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
     <?php
     require "common/footer.php";
     ?>

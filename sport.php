@@ -183,7 +183,7 @@
             </div>
         </div>
     </section>
-    <?php require "testimoni.php" ?>
+    <?php require "testimoni-2.php" ?>
     <?php require "common/footer.php"; ?>
 </body>
 

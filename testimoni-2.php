@@ -100,6 +100,8 @@
         grid-template-columns: 50% 45%;
         place-items: center;
         gap: 60px;
+        max-width: 1500px;
+        margin:  auto 80px;
         min-height: 60vh;
         padding: 40px 60px;
         overflow: hidden;
@@ -232,6 +234,7 @@
 
         .success-showcase {
             padding: 30px;
+            margin: 0px;
         }
     }
 </style>

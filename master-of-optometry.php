@@ -390,7 +390,7 @@ marks and 75% attendance each year will be awarded scholarship to those meritori
         </div>
     </section>
     <?php require "application-process.php"; ?>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
     <?php
     require "common/footer.php";
     ?>

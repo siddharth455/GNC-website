@@ -1437,16 +1437,16 @@ document.addEventListener("DOMContentLoaded", () => {
           <p>Highest National Package</p>
         </div>
         <div class="placement-stat">
-          <h3>12</h3>
+          <h3>12 LPA</h3>
           <p>Average Placement Package</p>
         </div>
       </div>
 
       <!-- Mini Stats -->
       <div class="placement-mini-stats">
-        <div><strong>6 LPA</strong><p>Offered by 20+ Companies</p></div>
+        <div><strong>12 LPA</strong><p>Offered by 20+ Companies</p></div>
         <div><strong>8 LPA</strong><p>Offered by 30+ Companies</p></div>
-        <div><strong>12 LPA</strong><p>Offered by 70+ Companies</p></div>
+        <div><strong>6 LPA</strong><p>Offered by 70+ Companies</p></div>
       </div>
     </div>
 

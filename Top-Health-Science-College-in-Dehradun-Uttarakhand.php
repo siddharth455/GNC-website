@@ -326,7 +326,7 @@ Public Health (MPH) programs, designed to meet the challenges of the modern heal
             </div>
         </div>
     </section>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
     <?php require "application-process.php" ?>
     <?php require "common/footer.php"; ?>
     <script>

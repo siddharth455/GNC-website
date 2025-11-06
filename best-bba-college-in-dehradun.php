@@ -570,7 +570,7 @@ offline admissions. Early applicants may also be eligible for scholarship benefi
  }
  </script>
     <?php require "application-process.php"; ?>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
     <?php
     require "common/footer.php";
     ?>

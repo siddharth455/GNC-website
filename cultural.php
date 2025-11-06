@@ -290,7 +290,7 @@
         </div>
         <img src="upload/cultural/reflaction-of-india.webp" alt="cultural" loading="lazy" class="img-fluid">
     </section>
-    <?php require "testimoni.php"; ?>
+    <?php require "testimoni-2.php"; ?>
     <?php
     require "common/footer.php";
     ?>
