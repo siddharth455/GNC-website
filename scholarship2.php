@@ -167,7 +167,18 @@
             gap: 40px;
             margin-top: 20px;
         }
-
+        
+        .info-grid > img{
+            position: absolute; 
+            top:0; 
+            left:69%; 
+            transform: translateX(-50%); 
+            width: 100%; 
+            height: 79%; 
+            object-fit: contain; 
+            max-width: 800px; 
+            pointer-events: none;
+        }
         /* NEW: Styling for the disclaimer list wrapper */
         .disclaimer-grid {
             max-width: 900px;
@@ -243,7 +254,7 @@
 
         /* --- KC Scholarship (Inspired Section) --- */
         .kc-scholarship-benefits {
-            background-color: var(--white); /* Ensure background is white */
+            background-color: var(--white); 
             padding: 60px 0;
         }
 
@@ -286,7 +297,7 @@
             flex-direction: column;
             justify-content: flex-start;
             min-height: 280px;
-            transition: box-shadow 0.3s ease; /* Added transition for hover effect */
+            transition: box-shadow 0.3s ease; 
         }
 
         .kc-card:hover { /* Added a subtle hover effect */
@@ -357,13 +368,40 @@
 
 
         /* --- RESPONSIVE --- */
-        @media (max-width: 768px) {
+        @media (max-width: 769px) {
             .hero-content h1 {
                 font-size: 40px;
             }
 
             .info-grid {
                 grid-template-columns: 1fr;
+            }
+
+            .info-grid >img{
+                    position: absolute;
+                    top: -17%;
+                    left: 50%;                   
+                    transform: translateX(-50%);
+                    width: 100%;
+                    height: 87%;
+                    object-fit: cover;
+                    max-width: 800px ;
+                    pointer-events: none;
+                    opacity:0.3 ;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .info-grid img{
+                position: absolute;
+                top: -2%;
+                left: 50% transform: translateX(-50%);
+                width: 100%;
+                height: 48%;
+                object-fit: cover;
+                max-width: 800px;
+                pointer-events: none;
+                opacity: 0.3;
             }
         }
 
@@ -380,6 +418,94 @@
                 width: 40%;
             }
         }
+
+        /* Contacts- Section */
+
+         .app-contact-section {
+        display: flex;
+        justify-content: center;
+        background-color: #ffffff;
+        padding: 20px 0;
+    }
+
+    /* Container for the two columns (Max width 1350px, centered) */
+    .app-contact-container {
+        display: flex;
+        flex-direction: column; /* Stacked by default on small screens */
+        max-width: 1250px;
+        width: 90%; /* Use 90% width for padding on smaller screens */
+        min-height: 400px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px; /* Added slight rounding for aesthetics */
+        overflow: hidden;
+    }
+
+    /* Image Column (100% width on mobile, fixed height) */
+    .app-contact-image-col {
+        flex: 0 0 200px; /* Fixed height for image on mobile */
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        background-color: #333;
+    }
+    
+    /* Image styles */
+    .app-contact-image-col img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        filter: grayscale(100%);
+        z-index: 1;
+    }
+
+    /* Info Column (100% width on mobile) */
+    .app-contact-info-col {
+        flex: 1 1 auto;
+        width: 100%;
+        background-color: #fd7e14;
+        color: white;
+        padding: 30px; /* Slightly reduced padding for mobile */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .app-contact-info-col h2 {
+        font-size: 1.8em;
+    }
+    
+    .app-contact-info-col p {
+        font-size: 1em;
+    }
+    
+    /* Media query for larger screens (e.g., tablets and desktop) */
+    @media (min-width: 768px) {
+        .app-contact-container {
+            flex-direction: row; /* Side-by-side on larger screens */
+            width: 100%; /* Use full max-width */
+        }
+
+        .app-contact-image-col {
+            flex: 1; /* Takes remaining space on desktop */
+            min-height: 400px; /* Ensures minimum height on desktop */
+        }
+
+        .app-contact-info-col {
+            flex: 0 0 40%; /* Fixed 40% width for info column on desktop */
+            padding: 40px; /* Original padding */
+        }
+        
+        .app-contact-info-col h2 {
+            font-size: 2.2em;
+        }
+        
+        .app-contact-info-col p {
+            font-size: 1.1em;
+        }
+    }
     </style>
 </head>
 
@@ -402,7 +528,7 @@
             </div>
         </div>
     </section>
-    
+
 
     <section class="kc-scholarship-benefits" aria-labelledby="kc-scholarship-title">
         <div class="container">
@@ -529,104 +655,133 @@
                     </tr>
                 </tbody>
             </table>
-            <p style="color: var(--gnc-text); text-align: center; margin-top: 20px; font-size: 14px;">Note: The management and college authorities have the authority to make changes to scholarships, including withdrawal, cancellation, or modification. Scholarships are contingent upon seat availability in the selected course, and this statement is not legally binding for claiming scholarships.</p>
+            <p style="color: var(--gnc-text); text-align: center; margin-top: 20px; font-size: 14px;"><strong>Note:</strong> The management and college authorities have the authority to make changes to scholarships, including withdrawal, cancellation, or modification. Scholarships are contingent upon seat availability in the selected course, and this statement is not legally binding for claiming scholarships.</p>
         </div>
     </section>
    <section class="scholarship-section" style="background-color: var(--gnc-muted); position: relative; overflow: hidden;" aria-labelledby="terms-heading">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;">
-        <img src="images/graduation-girl.avif" alt="Smiling graduate student pointing up, representing scholarship achievement." style="width: 100%; height: 100%; object-fit: contain; position: absolute; top: 0; right: 5rem; opacity: 2.2;">
-        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: var(--gnc-muted); opacity: 0.8;"></div>
-    </div>
     <div class="container" style="position: relative; z-index: 2;">
         <div class="section-heading" id="terms-heading">
-            <h2>Application Details &amp; Important Conditions</h2>
+            <h2 class="" style="font-weight: 700;">Application Details &amp; Important Conditions</h2>
         </div>
 
-        <div class="info-grid">
+        <div class="info-grid" style="display: flex; flex-direction: column; gap: 20px; position: relative;">
 
-            <div class="">
-                <h3>Accepted National Level Entry Tests</h3>
-                <p>Qualifying or scoring well in the following national entrance examinations may also be considered for scholarship eligibility:</p>
+            <img src="images/graduation-girl.avif" alt="Smiling graduate student pointing up, representing scholarship achievement.">
 
-                <ul class="entry-test-list">
-                    <li class="entry-test-item">
+            <div class="" style="position: relative; z-index: 2;">
+                <h3 style="width: fit-content; border-bottom: 2px solid #df6b2a;">Accepted National Level Entry Tests</h3>
+                <p>Qualifying or scoring well in the following national entrance <br>examinations may also be considered for scholarship eligibility:</p>
+
+                <ul class="entry-test-list" style="list-style: none; padding: 0;">
+                    <li class="entry-test-item" style="padding: 10px 0;">
                         <div class="test-name">
                             <strong>JEE Main</strong>
-                            <span class="test-tag tag-engineering">Engineering</span>
                         </div>
                         <span class="test-desc">Joint Entrance Examination - Main</span>
                     </li>
-                    <li class="entry-test-item">
+                    <li class="entry-test-item" style="padding: 10px 0;">
                         <div class="test-name">
                             <strong>JEE Advanced</strong>
-                            <span class="test-tag tag-engineering">Engineering</span>
                         </div>
                         <span class="test-desc">Joint Entrance Examination - Advanced</span>
                     </li>
-                    <li class="entry-test-item">
+                    <li class="entry-test-item" style="padding: 10px 0;">
                         <div class="test-name">
                             <strong>NEET</strong>
-                            <span class="test-tag tag-medical">Medical</span>
                         </div>
                         <span class="test-desc">National Eligibility cum Entrance Test</span>
                     </li>
-                    <li class="entry-test-item">
+                    <li class="entry-test-item" style="padding: 10px 0;">
                         <div class="test-name">
                             <strong>CAT</strong>
-                            <span class="test-tag tag-management">Management</span>
                         </div>
                         <span class="test-desc">Common Admission Test</span>
                     </li>
-                    <li class="entry-test-item">
+                    <li class="entry-test-item" style="padding: 10px 0;">
                         <div class="test-name">
                             <strong>GATE</strong>
-                            <span class="test-tag tag-postgraduate">Postgraduate</span>
                         </div>
                         <span class="test-desc">Graduate Aptitude Test in Engineering</span>
                     </li>
-                    <li class="entry-test-item">
+                    <li class="entry-test-item" style="padding: 10px 0;">
                         <div class="test-name">
                             <strong>NATA</strong>
-                            <span class="test-tag tag-architecture">Architecture</span>
                         </div>
                         <span class="test-desc">National Aptitude Test in Architecture</span>
                     </li>
-                    <li class="entry-test-item">
+                    <li class="entry-test-item" style="padding: 10px 0;">
                         <div class="test-name">
                             <strong>CLAT / LSAT</strong>
-                            <span class="test-tag tag-law">Law</span>
                         </div>
                         <span class="test-desc">Law Admission Tests</span>
                     </li>
-                    <li class="entry-test-item" style="border-bottom: none;">
+                    <li class="entry-test-item" style="padding: 10px 0;">
                         <div class="test-name">
                             <strong>ICAR</strong>
-                            <span class="test-tag tag-agricultural">Agricultural</span>
                         </div>
                         <span class="test-desc">Indian Council of Agricultural Research</span>
                     </li>
                 </ul>
             </div>
-            <div class="">
+
+            <div class="info-card" style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; border-radius: 8px; position: relative; z-index: 99;">
                 <h3>Key Terms &amp; Conditions for Scholarship</h3>
-                <p>The scholarship award is based on the aggregate marks of Class XII or bachelor’s results. Key conditions include:</p>
+                <p>The scholarship shall be awarded based on aggregate marks of Class XII or bachelor’s results. In the case of CGPA, it shall be converted according to CBSE/ICSE/National Board/UGC /University norms. If the conversion criteria are not mentioned in the mark sheet, then the following criteria shall be applicable :-</p>
                 <ul style="list-style: disc; padding-left: 20px;">
-                    <li>CGPA Conversion: CGPA will be converted as per board/university norms. Specific criteria apply if not mentioned in the mark sheet (e.g., 10 CGPA $\approx$ 95\%+ marks).</li>
-                    <li>External Scholarships: If a student receives an external scholarship (Govt./NGO), the GNC scholarship amount may be restricted to the difference.</li>
-                    <li>Early Admission: Scholarships are often based on early admission and are subject to the **availability of seats**.</li>
-                    <li>Single Category: Scholarships can be availed only under **one category** (e.g., Merit OR Domicile).</li>
-                    <li>Document Verification: Applicants must upload valid documents/proof/certificates for verification and authentication.</li>
-                    <li>Course Change: Scholarships may or may not be applicable in case of a change of course.</li>
+                    <li>Scholarships in the bracket of 95% or more marks may be awarded to applicants who have obtained 10 CGPA.</li>
+                    <li>Scholarships in the bracket of 90% to 94.99% marks may be awarded to applicants who have obtained 9.5 CGPA to 9.99 CGPA.</li>
+                    <li>Scholarship in the bracket of 80% to 89.99% marks may be awarded to an applicant who has obtained 8.5 CGPA to 9.49 CGPA.</li>
+                    <li>Scholarship in the bracket of 70% to 79.99% marks may be awarded to an applicant who has obtained 7.5 CGPA to 8.49 CGPA.</li>
+                    <li>If a student gets a scholarship from a government/NGO/other agency, the Scholarship amount would be restricted to the difference between the sanctioned amount by Govt./NGO/other agency and the Scholarship at GNC.</li>
+                    <li>Scholarships are based on early admission and are further subject to availability of seats, course applied, and documents authentication as per the requirement of the institution.</li>
                 </ul>
             </div>
         </div>
-        <p style="text-align: center; margin-top: 40px; font-size: 14px; color: var(--gnc-text);">
-            All Scholarships shall be applied at the time of application and cannot be changed or applied at a later stage.*
+        <p style="text-align: left; margin-top: 40px; font-size: 16px; color: var(--gnc-text); position: relative; z-index: 2;">Scholarships offered may be on a different basis such as scholarship based on GD/PI, Uttarakhand Domicile, Scholarship based on percentage, Scholarship based on Sports, Cultural, R&D, Co-curricular, Social Service etc. Scholarship based on Qualifying examinations. But it can be availed only under one category. Also, Scholarships shall be applied at the time of application or subject to seat availability. It shall not be allowed to change/apply at a later stage. Curricular, Social Services, etc. will only be awarded in case of competition meeting the guidelines approved by the said organizations as mentioned on the scholarship page. Students applying for admission through Scholarships will be required to upload documents/proof/certificates in the application portal after receiving login credentials for verification and authentication. Certificates validity from 31st March 2025 till the date of application shall be accepted only. Scholarships may or may not be applicable in case of a change of course subject to scholarship seat availability in the chosen course.</p>
+        <p style="text-align: left; margin-top: 40px; font-size: 14px; color: var(--gnc-text); position: relative; z-index: 2;">
+           <strong>Note:</strong> All Scholarships shall be applied at the time of application and cannot be changed or applied at a later stage.*
         </p>
     </div>
 </section>
+<!-- All Contact Section -->
+<section class="app-contact-section">
+    <!-- Outer container for max-width and centering -->
+    <div class="app-contact-container">
+        
+        <!-- Left Column: Image with Contact Icons -->
+        <div class="app-contact-image-col">
+            <img src="images/get-in-touch.avif" alt="Person using a smartphone with floating contact icons (phone, mail, at-sign)">
 
-  
+            <div class="image-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.1); z-index: 2;"></div>
+        </div>
+
+        <!-- Right Column: Contact Information -->
+        <div class="app-contact-info-col">
+            <h2 style="color: white; margin-bottom: 20px;">Get in Touch</h2>
+            <p style="color: white; margin-bottom: 20px; line-height: 1.6;">
+                Guru Nanak College<br>
+                Jhajhra, Chakrata Rd, Dehradun,<br>
+                Uttarakhand, India – 248007
+            </p>
+
+            <p style="color: white; margin-bottom: 10px;">
+                <strong>Student Helpline No:</strong><br>
+                <a href="tel:+917300900900" style="color: white; text-decoration: none; font-weight: bold;">
+                    7300900900
+                </a>
+            </p>
+
+            <p style="color: white;">
+                <strong>Email:</strong><br>
+                <a href="mailto:info@gnc.edu.in" style="color: white; text-decoration: none; font-weight: bold;">
+                    info@gnc.edu.in
+                </a>
+            </p>
+        </div>
+    </div>
+</section>
+
+
 <?php require 'common/footer.php'; ?>
 </body>
 
