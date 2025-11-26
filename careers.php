@@ -4,6 +4,7 @@
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Career Opportunities at - Guru Nanak College Dehradun</title>
+    <link rel="canonical" href="https://gnc.edu.in/careers">
     <style>
         .kingster-page-title-wrap {
             position: relative;

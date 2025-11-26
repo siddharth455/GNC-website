@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grievance || Guru Nanak College Dehradun</title>
+    <link rel="canonical" href="https://gnc.edu.in/grievance">
  </head>
 <style>
     .nav-pills {
