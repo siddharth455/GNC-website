@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Bachelor of Medical Radio Diagnosis And Imaging Technology College in Dehradun, Uttarakhand.</title>
+    <title>Best BMRIT College in Dehradun | Medical Radiology at GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced curriculum, hands-on training, and expert faculty, GNC prepares students for successful careers in radiology and medical imaging.">
     <link rel="canonical" href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">

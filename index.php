@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Guru Nanak College | Best Pharmacy & Nursing College in Dehradun Uttarakhand</title>
+ <title>Guru Nanak College – Best Pharmacy & Nursing College in Dehradun</title>
  <meta name="description" content="Guru Nanak College (GNC), Dehradun's best educational institute, dedicated to
 excellence in academics and holistic development.">
  <link rel="canonical" href="https://gnc.edu.in/">

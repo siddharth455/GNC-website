@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best B.Sc Biotechnology College in Dehradun Uttarakhand</title>
+    <title>Top B.Sc Biotechnology College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the premier B.Sc. Biotechnology College in Dehradun, Uttarakhand. Celebrated for its rigorous academic programs, distinguished faculty, and state-of-theart research facilities, Guru Nanak College shapes the biotechnology leaders of tomorrow.">
     <link rel="canonical" href="https://gnc.edu.in/bsc-biotechnology">
