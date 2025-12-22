@@ -22,10 +22,7 @@ excellence in academics and holistic development." />
   <meta property="og:image:height" content="256" />
   <meta property="og:image:type" content="image/webp" />
   <meta name="google-site-verification" content="4oZQLwduQZa07Iq8KyESZJZJnyU7AlZMqXf7u3HqhTA" />
- <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-
+ 
 </head>
 
 <body>
