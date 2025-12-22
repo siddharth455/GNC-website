@@ -22,6 +22,7 @@ excellence in academics and holistic development." />
   <meta property="og:image:height" content="256" />
   <meta property="og:image:type" content="image/webp" />
   <meta name="google-site-verification" content="4oZQLwduQZa07Iq8KyESZJZJnyU7AlZMqXf7u3HqhTA" />
+ 
 </head>
 
 <body>
