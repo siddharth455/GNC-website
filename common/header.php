@@ -872,6 +872,7 @@ window.addEventListener("scroll", function () {
           <a href="bank-details.php" class="btn btn-danger btn-sm ms-2" style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE</a> for account details
         </marquee>
       </div>
+      
       <div class="social-icons">
         <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
         <a href="tel:+917300900900" aria-label="Give a miss call"><i class="fa fa-phone" aria-hidden="true"></i></a>
@@ -898,9 +899,10 @@ window.addEventListener("scroll", function () {
           <li><a href="alumni.php">Alumni</a></li>
           <li><a href="contact.php"> Contact Us</a></li>
           <li><a href="blog.php"> Blog</a></li>
+          
         </ul>
       </div>
-  <a href=""><button class="admission-apply-btn" id="openOverlay">Apply Now</button></a>
+  <a href="https://application.gnc.edu.in/"><div class="admission-apply-btn" id="openOverlay-2">Apply Now</div></a>
       <button class="admission-btn" id="openOverlay">
         Admission Helpline<br><span style="font-weight:700;font-size:14px;"> 7300900900</span><i class="fa-solid fa-bars"></i>
       </button>
@@ -1301,6 +1303,125 @@ window.addEventListener("scroll", function () {
       </div>
     </div>
   </div>
+<!-- Bell -->
+<div id="admission-bell" class="admission-bell" aria-label="Notifications">
+  <i class="fa-solid fa-bell"></i>
+</div>
+
+<!-- Popup -->
+<a href="https://application.gnc.edu.in/"
+   id="admission-popup"
+   class="admission-popup"
+   aria-label="Admissions Open 2026">
+
+  <div class="popup-content">
+    <strong>Admissions Open 2026</strong>
+    <p>Click to Apply Now</p>
+  </div>
+
+  <button class="popup-close" aria-label="Close notification">✕</button>
+</a>
+
+<style>
+ .admission-bell {
+  position: fixed;
+  right: 20px;
+  bottom: 65px;
+  width: 56px;
+  height: 56px;
+  background: #0f9af1;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10000;
+  box-shadow: 0 8px 20px rgba(0,0,0,.25);
+}
+
+/* Popup */
+.admission-popup {
+  position: fixed;
+  right: 20px;
+  bottom: 122px;
+  width: 260px;
+  background: #fff;
+  color: #000;
+  padding: 14px 16px;
+  border-radius: 14px;
+  display: none; /* IMPORTANT */
+  text-decoration: none;
+  z-index: 10000;
+  box-shadow: 0 10px 25px rgba(0,0,0,.25);
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.popup-content p {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: #555;
+}
+
+.popup-close {
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .admission-popup {
+    right: 12px;
+    left: 12px;
+    bottom:15px;
+    width: auto;
+  }
+  .admission-popup {
+  position: fixed;
+  left: 120px;
+  bottom: 120px;
+  width: 250px;
+}
+}
+
+  </style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const bell = document.getElementById("admission-bell");
+  const popup = document.getElementById("admission-popup");
+  const closeBtn = document.querySelector(".popup-close");
+
+  let popupVisible = false;
+
+  // On load: show popup unless user closed it
+  if (localStorage.getItem("admissionPopupClosed") !== "true") {
+    popup.style.display = "flex";
+    popupVisible = true;
+  }
+
+  // Bell toggle
+  bell.addEventListener("click", function () {
+    popupVisible = !popupVisible;
+    popup.style.display = popupVisible ? "flex" : "none";
+  });
+
+  // Close button
+  closeBtn.addEventListener("click", function (e) {
+    e.preventDefault();   // stop link
+    e.stopPropagation();  // stop bubbling
+    popup.style.display = "none";
+    popupVisible = false;
+    localStorage.setItem("admissionPopupClosed", "true");
+  });
+
+});
+</script>
 
   <script>
     // overlay logic (open, close, hover image swap, close on background click & ESC)

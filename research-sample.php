@@ -255,39 +255,57 @@
 </style>
 
 <script>
-/* IntersectionObserver — your original counter logic (unchanged) */
 const sec = document.querySelector('#gncResearch');
 const stats = document.querySelectorAll('.stat');
 
-let observer = new IntersectionObserver((e)=>{
-  e.forEach(entry=>{
-    if(entry.isIntersecting){
+let hasAnimated = false;
+
+let observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+
+    /* SECTION ENTERS VIEW → animate IN */
+    if (entry.isIntersecting && !hasAnimated) {
       sec.classList.add('active');
-      stats.forEach(s=>{
+      hasAnimated = true;
+
+      stats.forEach(s => {
         let end = +s.dataset.val;
-        let start=0;
-        let step = end/60;
+        let start = 0;
+        let step = end / 60;
         let span = s.querySelector('span');
-        let run = setInterval(()=>{
-          start+=step;
-          if(start>=end){
+
+        let run = setInterval(() => {
+          start += step;
+          if (start >= end) {
             clearInterval(run);
-            start=end;
+            start = end;
           }
-          span.innerHTML = Math.floor(start)+'+';
-        },16);
+          span.innerHTML = Math.floor(start) + '+';
+        }, 16);
       });
-    }else{
-      sec.classList.remove('active');
-      stats.forEach(s=> s.querySelector('span').innerHTML='0+');
     }
-  })
-},{
-  threshold:.4
+
+    /* SECTION FULLY OUT OF VIEW → animate OUT */
+    if (
+      entry.boundingClientRect.bottom < 0 || 
+      entry.boundingClientRect.top > window.innerHeight
+    ) {
+      sec.classList.remove('active');
+      hasAnimated = false;
+
+      stats.forEach(s => {
+        s.querySelector('span').innerHTML = '0+';
+      });
+    }
+
+  });
+}, {
+  threshold: 0.4
 });
 
 observer.observe(sec);
 </script>
+
 
 <!-- Mobile one-slide auto-scroll script — appended after your original script -->
 <script>
