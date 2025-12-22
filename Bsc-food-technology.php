@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best B.Sc Food Technology College in Dehradun Uttarakhand</title>
+    <title>Best B.Sc Food Technology College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Discover Guru Nanak College, the leading B.Sc. Food Technology institution in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and state-of-theart facilities, Guru Nanak College prepares students to excel in the dynamic field of food technology.">
     <link rel="canonical" href="https://gnc.edu.in/bsc-food-technology">

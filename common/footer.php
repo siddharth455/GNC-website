@@ -102,7 +102,7 @@
     </div>
 
 </footer>
-<div class="footer-fixed-bar d-lg-none">
+<!-- <div class="footer-fixed-bar d-lg-none">
   <a href="https://application.gnc.edu.in/" target="_blank"><button type="button"  class="page-scroll" aria-label="Guru Nanak College Home page">APPLY NOW -
   2025-26</button></a>  
 </div>
@@ -116,23 +116,371 @@
         <li><a href="https://maps.app.goo.gl/taz9XEC61gtowuPDA" id="vt-bt"><i class="fa fa-map-marker"
                     style="font-size: 12px"></i><span>Visit<sup></sup></span></a></li>
     </ul>
-    <ul class="header__top-right social-sub w-auto d-flex list-unstyled p-0 m-0">
-        <li><a href="https://www.facebook.com/gncmh" target="_blank"
-                aria-label="Go to Guru Nanak College's Facebook Page"><i class="fa-brands fa-facebook-f"></i></a>
-        </li>
+   
+</div> -->
+<div class="mobile-bottom-bar">
+  <button data-panel="programs" aria-label="Programs">
+    <i class="fa-solid fa-book"></i>
+    <ul>Programs</ul>
+  </button>
 
-        <li><a href="https://www.linkedin.com/company/gncdehradun/" target="_blank"
-                aria-label="Go to Guru Nanak College's Linkedin Page"><i class="fa-brands fa-linkedin-in"></i></a>
-        </li>
-        <li><a href="https://www.instagram.com/gncdehradun/" target="_blank"
-                aria-label="Go to Guru Nanak College's Instagram Page"><i class="fa-brands fa-instagram"></i></a>
-        </li>
-        <li><a href="https://www.youtube.com/@gncdehradun" target="_blank"
-                aria-label="Go to Guru Nanak College's Youtube Page"><i class="fa-brands fa-youtube"></i></a>
-        </li>
+  <button data-panel="admissions" aria-label="Admissions">
+    <i class="fa-solid fa-building-columns"></i>
+     <ul>Admissions</ul>
+  </button>
 
-    </ul>
+  <button data-panel="contact" aria-label="Contact">
+    <i class="fa-solid fa-phone"></i>
+     <ul>Contact</ul>
+  </button>
+
+  <button data-panel="menu" aria-label="Menu">
+    <i class="fa-solid fa-bars"></i>
+     <ul>Menu</ul>
+  </button>
 </div>
+
+<!-- Overlay -->
+<div class="mobile-overlay"></div>
+
+<!-- Programs Panel -->
+<div class="mobile-panel" id="panel-programs">
+  <div class="panel-header">
+    <h3>Programs Offered</h3>
+    <button class="close-panel">✕</button>
+  </div>
+
+  <ul class="panel-list">
+    <li>Undergraduate</li>
+    <li>Post Graduate</li>
+    <li>Diploma</li>
+  </ul>
+
+  <a href="after-12.php" class="panel-link">After 12th Programs →</a>
+  <a href="after-graduation.php" class="panel-link">After UG Programs →</a>
+
+</div>
+
+<!-- Admissions Panel -->
+<div class="mobile-panel" id="panel-admissions">
+  <div class="panel-header">
+    <h3>Admissions</h3>
+    <button class="close-panel">✕</button>
+  </div>
+
+<ul class="panel-list">
+  <li><a href="after-12.php">After 12th</a></li>
+  <li><a href="after-graduation.php">After Graduation</a></li>
+  <li><a href="admissions.php">Admission Overview</a></li>
+  <li><a href="https://application.gnc.edu.in/">How to Apply</a></li>
+  <li><a href="scholarships.php">Scholarship</a></li>
+  <li><a href="iai.php">Industry–Academia Interface</a></li>
+</ul>
+
+</div>
+
+<!-- Contact Panel -->
+  <div class="mobile-panel" id="panel-contact">
+  <div class="panel-header">
+    <h3>Contact</h3>
+    <button class="close-panel">✕</button>
+  </div>
+
+  <div class="contact-block">
+    <h4>Guru Nanak College</h4>
+    <span class="contact-underline"></span>
+
+    <p class="contact-address">
+      Jhajhra, Chakrata Rd, Dehradun, - 248007<br>
+      (UTTARAKHAND)
+    </p>
+
+    <div class="contact-actions">
+      <a href="contact.php" class="btn-outline">How to Reach</a>
+    </div>
+  </div>
+
+  <div class="contact-footer">
+    <div class="contact-item">
+      <i class="fa-regular fa-envelope"></i>
+      <a href="mailto:info@gnc.edu.in">
+       info@gnc.edu.in
+      </a>
+    </div>
+
+    <div class="contact-item">
+      <i class="fa-solid fa-phone"></i>
+      <div class="phone-list">
+        <a href="tel:+917300900900">(+91)-7300900900</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<!-- Menu Panel -->
+<div class="mobile-panel" id="panel-menu">
+  <div class="panel-header">
+    <h3>Main Menu</h3>
+    <button class="close-panel">✕</button>
+  </div>
+
+  <ul class="panel-list">
+  <li><a href="about-us.php">About Us</a></li>
+  <li><a href="admissions.php">Admissions</a></li>
+  <li><a href="placement-overview.php">Placement</a></li>
+  <li><a href="research.php">Research</a></li>
+  <li><a href="vision-mission.php">Vision &amp; Mission</a></li>
+  <li><a href="https://application.gnc.edu.in/">How to Apply</a></li>
+  <li><a href="blog.php">Blogs</a></li>
+  <li><a href="campus-life.php">Campus Life</a></li>
+  <li><a href="library.php">Library</a></li>
+</ul>
+
+</div>
+<style>
+    /* ===== CONTACT PANEL ===== */
+.contact-block h4 {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.contact-underline {
+  display: block;
+  width: 40px;
+  height: 4px;
+  background: red;
+  margin-bottom: 15px;
+}
+
+.contact-address {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #ddd;
+}
+
+.contact-actions {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.btn-outline {
+  padding: 8px 14px;
+  border: 1px solid #fff;
+  color: #fff;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.contact-footer {
+  margin-top: 20px;
+  border-top: 1px solid #444;
+  padding-top: 15px;
+}
+
+.contact-item {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+  align-items: flex-start;
+}
+
+.contact-item i {
+  font-size: 16px;
+  margin-top: 3px;
+}
+
+.contact-item a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.phone-list a {
+  display: block;
+  margin-bottom: 6px;
+}
+
+/* Bottom bar */
+.mobile-bottom-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 56px;
+  background: #fd7e14;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 1000;
+}
+
+.mobile-bottom-bar button {
+  background: none;
+  border: none;
+  
+}
+.mobile-bottom-bar button ul{
+    color: #fff;
+    font-size: 14px;
+}
+.mobile-bottom-bar i {
+  color: #fff;
+  font-size: 18px;
+}
+
+/* Overlay */
+.mobile-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.3s;
+  z-index: 999;
+}
+
+.mobile-overlay.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+.panel-list li a {
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+}
+
+/* Panels */
+.mobile-panel {
+  position: fixed;
+  bottom: -100%;
+  left: 0;
+  width: 100%;
+  height: 65%;
+  background: #2f2f2f;
+  color: #fff;
+  transition: bottom 0.4s ease;
+  z-index: 1001;
+  padding: 20px;
+  border-radius: 20px 20px 0 0;
+}
+
+.mobile-panel.active {
+  bottom: 0;
+}
+
+/* Header */
+.panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.panel-header h3 {
+  font-size: 25px;
+}
+
+.close-panel {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 22px;
+}
+
+/* Lists */
+.panel-list {
+  list-style: none;
+  padding: 0;
+}
+
+.panel-list li {
+  padding: 12px 0;
+  border-bottom: 1px solid #444;
+}
+
+.panel-list.two-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+/* Links */
+.panel-link {
+  display: block;
+  margin-top: 20px;
+  color: #fff;
+  font-weight: 600;
+  border-bottom: 3px solid red;
+  width: fit-content;
+}
+/* Hide mobile bottom bar & panels on desktop */
+.mobile-bottom-bar,
+.mobile-overlay,
+.mobile-panel {
+  display: none;
+}
+/* Show only on mobile */
+@media (max-width: 768px) {
+
+  .mobile-bottom-bar {
+    display: flex;
+  }
+
+  .mobile-overlay {
+    display: block;
+  }
+
+  .mobile-panel {
+    display: block;
+  }
+}
+
+    </style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const buttons = document.querySelectorAll(".mobile-bottom-bar button");
+  const panels = document.querySelectorAll(".mobile-panel");
+  const overlay = document.querySelector(".mobile-overlay");
+  const closeButtons = document.querySelectorAll(".close-panel");
+
+  // Open panel
+  buttons.forEach(button => {
+    button.addEventListener("click", () => {
+      const panelId = "panel-" + button.dataset.panel;
+
+      panels.forEach(p => p.classList.remove("active"));
+
+      const panel = document.getElementById(panelId);
+      if (panel) {
+        panel.classList.add("active");
+        overlay.classList.add("active");
+      }
+    });
+  });
+
+  // ✅ CLOSE PANEL (CROSS BUTTON)
+  closeButtons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      panels.forEach(p => p.classList.remove("active"));
+      overlay.classList.remove("active");
+    });
+  });
+
+  // Close on overlay click
+  overlay.addEventListener("click", () => {
+    panels.forEach(p => p.classList.remove("active"));
+    overlay.classList.remove("active");
+  });
+
+});
+</script>
+
 
 
 <!-- Search Modal -->

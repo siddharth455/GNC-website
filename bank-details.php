@@ -1,7 +1,15 @@
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/webp" href="images/logog.webp">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Details | Guru Nanak College - Connecting Past and Present Achievements</title>
+    <link rel="canonical" href="https://gnc.edu.in/bank-details">
+</head>
 <?php
     require "common/header.php";
 ?>
-  <div class="container-payment mb-3">
+
+  <div class="container-payment mb-3 ">
     <h1>Bank Account Details</h1>
     <p>
       The students/ guardians can deposit pending fees for admission/joining/semester fee.
@@ -50,7 +58,7 @@
 /* General Styles */
 .container-payment {
   max-width: 90%;
-  margin: 13rem auto auto auto;
+  margin: 18rem auto auto auto;
   padding: 1rem;
 }
 h1 { color: #0052a5; }

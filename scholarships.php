@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Scholarships – Empowering Student Dreams| Guru Nanak College (GNC) Dehradun Uttarakhand</title>
+    <title>Scholarships at Guru Nanak College | Dehradun Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="At Guru Nanak College (GNC) in Dehradun, we believe in empowering students by providing them with opportunities to achieve their academic dreams. Our scholarships program is designed to support and recognize students who demonstrate exceptional academic performance and talent">
     <link rel="canonical" href="https://www.gnc.edu.in/scholarships">

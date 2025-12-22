@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Committee || Guru Nanak College Dehradun</title>
+    <link rel="canonical" href="https://gnc.edu.in/research-committee">
  </head>
 <section class="pageBanner-inner">
         <div style="background-image: url('upload/infra/34.webp'); background-repeat: no-repeat; background-size: cover;">

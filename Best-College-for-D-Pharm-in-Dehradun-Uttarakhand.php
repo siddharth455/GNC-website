@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Diploma in Pharmacy College in Dehradun Uttarakhand</title>
+    <title>Best D.Pharm College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the best college for a Diploma in Pharmacy in Dehradun,Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and cutting-edge facilities,Guru Nanak College equips future pharmacy professionals with the skills and knowledge to excel in the healthcare industry.">
     <link rel="canonical" href="https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand"">

@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Explore Career Path After Graduation | Guru Nanak College Dehradun, Uttarakhand</title>
+    <title>Career Paths After Graduation | Guru Nanak College Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Graduating from college is an exciting milestone, and it opens up a world of opportunities. At Guru Nanak College (GNC) in Dehradun, we are dedicated to helping our graduates navigate their career paths successfully.">
     <link rel="canonical" href="https://www.gnc.edu.in/after-graduation">

@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Post Basic Nursing College in Dehradun, Uttarakhand</title>
+    <title>Best Post Basic Nursing College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the top B.Sc Nursing college in Dehradun, Uttarakhand. Known for its comprehensive curriculum, expert faculty, and state-of-the-art clinical training, Guru Nanak College prepares future nursing professionals to excel in the healthcare industry with compassion and excellence.">
     <link rel="canonical" href="https://gnc.edu.in/post-basic-nursing">
