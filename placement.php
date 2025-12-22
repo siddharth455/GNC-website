@@ -177,9 +177,9 @@
                         <p class="text-sm md:text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
                            Driving innovation in 2025 by shaping professionals through inclusive education and groundbreaking research.
                         </p>
-                        <a href="https://application.gnc.edu.in/" class="bg-[#00b5fb] hover:bg-cyan-700 text-white font-bold py-4 px-10 text-[12px] uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
+                        <button class="bg-[#00b5fb] hover:bg-cyan-700 text-white font-bold py-4 px-10 text-[12px] uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
                             Apply Today <i class="fa-solid fa-arrow-right ml-3 group-hover:translate-x-1 transition-transform"></i>
-                      </a>
+                        </button>
                         
                         <div class="flex flex-row items-center justify-start gap-4 border-l-2 border-cyan-600 pl-6 mb-10">
                             <div class="text-left leading-tight hidden sm:block">
@@ -222,9 +222,9 @@
                         <p class="text-sm md:text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
                             Join the university ranked amongst the top 5% globally with a track record of 9500+ placement offers.
                         </p>
-                        <a  href ='/Gnc-website/admissions.php' class="bg-[#00b5fb] hover:bg-cyan-700 text-white font-bold py-4 px-10 text-[12px] uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
+                        <button class="bg-[#00b5fb] hover:bg-cyan-700 text-white font-bold py-4 px-10 text-[12px] uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
                             Explore Programs <i class="fa-solid fa-arrow-right ml-3 group-hover:translate-x-1 transition-transform"></i>
-                      </a>
+                        </button>
 
                         <div class="flex flex-row items-center justify-start gap-4 border-l-2 border-cyan-600 pl-6 mb-10">
                             <div class="text-left leading-tight hidden sm:block">
