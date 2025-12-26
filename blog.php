@@ -254,10 +254,7 @@ $allTags = array_keys($allTags);
         </div>
       </div>
 
-      <div class="info-card">
-        <h3>About this blog</h3>
-        <p>Static HTML + PHP driven blog with client-side search & filtering. Fast, simple and cache friendly.</p>
-      </div>
+     
     </aside>
 
     <section class="posts" aria-live="polite">

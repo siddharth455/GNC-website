@@ -156,7 +156,7 @@ premier institution for aspiring scientists to pursue their B.Sc. PCM degree.</p
                                                     <tr>
                                                         <td rowspan="4" valign="middle">1st Year</td>
                                                         <td>Fee</td>
-                                                        <td>50,000 /- (Included Power Degree Fee)</td>
+                                                        <td>45,000 /- (Included Power Degree Fee)</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Students Diversity Scholarship</td>
@@ -168,7 +168,7 @@ premier institution for aspiring scientists to pursue their B.Sc. PCM degree.</p
                                                     </tr>
                                                     <tr>
                                                         <td><b>Net Academic Fee</b></td>
-                                                        <td><b>50,000 /- (Included Power Degree Fee)</b></td>
+                                                        <td><b>45,000 /- (Included Power Degree Fee)</b></td>
                                                     </tr>
                                                 </tbody>
                                                 <tfoot>

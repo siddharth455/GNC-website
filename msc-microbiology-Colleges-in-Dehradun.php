@@ -149,7 +149,7 @@ platform for aspiring microbiologists to advance their academic and professional
                                                     <tr>
                                                         <td rowspan="4" valign="middle">1st Year</td>
                                                         <td>Fee</td>
-                                                        <td>60,000 </td>
+                                                        <td>55,000 (+20,000 Optional for Power Degree)</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Students Diversity Scholarship</td>
@@ -161,7 +161,7 @@ platform for aspiring microbiologists to advance their academic and professional
                                                     </tr>
                                                     <tr>
                                                         <td><b>Net Academic Fee</b></td>
-                                                        <td><b>60,000 </b></td>
+                                                        <td><b>55,000 </b></td>
                                                     </tr>
                                                 </tbody>
                                                 <tfoot>

@@ -141,7 +141,7 @@
                                                     <tr>
                                                         <td rowspan="4" valign="middle">1st Year</td>
                                                         <td>Fee</td>
-                                                        <td>65,000 </td>
+                                                        <td>55,000  (+20,000 Optional for Power Degree)</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Students Diversity Scholarship</td>
@@ -153,7 +153,7 @@
                                                     </tr>
                                                     <tr>
                                                         <td><b>Net Academic Fee</b></td>
-                                                        <td><b>65,000 </b></td>
+                                                        <td><b>55,000 </b></td>
                                                     </tr>
                                                 </tbody>
                                                 <tfoot>

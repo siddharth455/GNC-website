@@ -136,7 +136,7 @@
                                                 <tbody>
                                                     <tr>
                                                         <td>Fee <BR>(Included all Fee)</td>
-                                                        <td>1,25,000</td>
+                                                        <td>1,00,000</td>
                                                     </tr>
                                                     <tr>
                                                         <td colspan="6">Registration Fee, Counseling Fee, Admission Fee, Lab, Library, Medical Consultation &amp; Ambulance Service, ERP Membership Fee, Hospital Visit Fee, Transportation Fee, Hostel Standard with Attached Toilet, Hostel Enrollment &amp; Furnishing Fee, Laundry Fee, Uniform Fee (Winter/Summer/Sports/Lab Practical), Education Tour Fee, National/International Workshop, Gymnasium Fee, Clubs Fee, Cultural Events and Academic Fee</td>

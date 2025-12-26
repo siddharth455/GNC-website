@@ -171,7 +171,7 @@ well-being</p>
                                                     <tr>
                                                         <td rowspan="4" valign="middle">1st Year</td>
                                                         <td>Fee</td>
-                                                        <td>75,000 </td>
+                                                        <td>65,000 (+20,000 Optional for Power Degree)</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Students Diversity Scholarship</td>
@@ -183,7 +183,7 @@ well-being</p>
                                                     </tr>
                                                     <tr>
                                                         <td><b>Net Academic Fee</b></td>
-                                                        <td><b>75,000 </b></td>
+                                                        <td><b>65,000 </b></td>
                                                     </tr>
                                                 </tbody>
                                                 <tfoot>

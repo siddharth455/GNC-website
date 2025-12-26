@@ -140,7 +140,7 @@ provide students with a comprehensive understanding of public health principles 
                                                     <tr>
                                                         <td rowspan="4" valign="middle">1st Year</td>
                                                         <td>Fee</td>
-                                                        <td>65,000 </td>
+                                                        <td>70,000 (+20,000 Optional for Power Degree)</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Students Diversity Scholarship</td>
@@ -152,7 +152,7 @@ provide students with a comprehensive understanding of public health principles 
                                                     </tr>
                                                     <tr>
                                                         <td><b>Net Academic Fee</b></td>
-                                                        <td><b>65,000 </b></td>
+                                                        <td><b>70,000 </b></td>
                                                     </tr>
                                                 </tbody>
                                                 <tfoot>

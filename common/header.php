@@ -1006,7 +1006,7 @@ window.addEventListener("scroll", function () {
                   <li><a href="master-of-public-health.php">Master of Public Health</a></li>
                   <li><a href="master-of-hospital-administration.php">Master of Hospital Administration</a></li>
                 </ul>
-                <h4><a href="Nursing-College-in-Dehradun-Uttarakhand.php">Nursing Program</a></h4>
+                <h4><a href="Nursing-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Nursing Program</a></h4>
                 <ul>
                   <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun.php">B.Sc. Nursing</a></li>
                   <li><a href="best-gnm-college-in-dehradun.php">General Nursing and Midwifery</a></li>
@@ -1054,12 +1054,7 @@ window.addEventListener("scroll", function () {
                 <ul>
                   <li><a href="Best-DHM-Colleges-in-Dehradun.php">Diploma in Hotel Management</a></li>
                 </ul>
-                <h4><a href="Best-Hotel-Management-College-in-Dehradun.php" style="color: #0f9af1 !important;">Nursing Program</a></h4>
-                <ul>
-                  <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun.php">B.Sc. Nursing</a></li>
-                  <li><a href="best-gnm-college-in-dehradun.php">GNM</a></li>
-                  <li><a href="post-basic-nursing.php">Post Basic Nursing</a></li>
-                </ul>
+               
                 <!-- Right Section -->
                 <div class="dropdown-image">
                   <div><i class="fa-solid fa-stethoscope"></i></div>
