@@ -553,9 +553,13 @@
           <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
             <img class="sc-image" src="upload/blog/4.webp" alt="BMLT at GNC">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
-            <div class="sc-meta">GNC Dehradun• 2025-06-30</div>
+            <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
+          </a>  
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
+            <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC">
+            <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
+            <div class="sc-meta">GNC Dehradun• 2025-06-21</div>
           </a>
-
         </div>
       </aside>
     </div>

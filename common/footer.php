@@ -102,6 +102,38 @@
     </div>
 
 </footer>
+<a href="https://application.gnc.edu.in/" class="apply-now-btn">Apply Now</a>
+<style>
+.apply-now-btn {
+  position: fixed;
+  right: 23px;
+  top: 70%;
+  transform: translateY(-50%) rotate(-90deg);
+  transform-origin: right center;
+  background-color: #fd7e14;
+  color: #fff;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 6px 6px 0 0;
+  z-index: 1000;
+  display: none;
+}
+
+/* Mobile only */
+@media (max-width: 768px) {
+  .apply-now-btn {
+    display: block;
+  }
+}
+
+/* Interaction states */
+.apply-now-btn:hover,
+.apply-now-btn:active {
+  background-color: #fd7e14;
+}
+  </style>
 <!-- <div class="footer-fixed-bar d-lg-none">
   <a href="https://application.gnc.edu.in/" target="_blank"><button type="button"  class="page-scroll" aria-label="Guru Nanak College Home page">APPLY NOW -
   2025-26</button></a>  

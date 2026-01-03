@@ -270,26 +270,26 @@
     <aside>
       <div class="suggested" aria-labelledby="you-may-like">
         <h3 id="you-may-like">You May Also Like</h3>
-
-        <!-- Each suggested post is an individual card: image first, then title, then author/date -->
-        <a class="suggest-card" href="/post/designing-modern-static-blog-pages/">
-          <img class="sc-image" src="upload/blog/2.webp" alt="Designing Modern Static Blog Pages">
-          <div class="sc-title">Designing Modern Static Blog Pages with PHP &amp; JS</div>
-          <div class="sc-meta">Aisha Khan • Nov 20, 2025</div>
-        </a>
-
-        <a class="suggest-card" href="/post/seo-for-static-sites/">
-          <img class="sc-image" src="upload/blog/3.webp" alt="How to Write SEO Friendly Content for Static Sites">
-          <div class="sc-title">How to Write SEO Friendly Content for Static Sites</div>
-          <div class="sc-meta">Ravi Patel • Oct 15, 2025</div>
-        </a>
-
-        <a class="suggest-card" href="/post/bmlt-overview/">
-          <img class="sc-image" src="upload/blog/4.webp" alt="BMLT at GNC">
-          <div class="sc-title">Best BMLT College in Dehradun — Why Choose GNC?</div>
-          <div class="sc-meta">GNC • Sep 05, 2025</div>
-        </a>
-
+           <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
+            <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC">
+            <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
+            <div class="sc-meta">GNC Dehradun• 2025-06-21</div>
+          </a>
+           <a class="suggest-card" href="Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun.php">
+            <img class="sc-image" src="upload/blog/1.webp" alt="BMLT at GNC">
+            <div class="sc-title">Top Paramedical Courses After 12th in India</div>
+            <div class="sc-meta">GNC Dehradun• 2025-08-20</div>
+          </a>
+          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
+            <img class="sc-image" src="upload/blog/4.webp" alt="BMLT at GNC">
+            <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
+            <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
+          </a>
+          <a class="suggest-card" href="Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun.php">
+            <img class="sc-image" src="upload/blog/1.webp" alt="BMLT at GNC">
+            <div class="sc-title">Top Paramedical Courses After 12th in India</div>
+            <div class="sc-meta">GNC Dehradun• 2025-08-20</div>
+          </a>
       </div>
     </aside>
   </div>
