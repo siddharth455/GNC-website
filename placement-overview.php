@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admissions | Chandigarh University</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Admissions | GNC Dehradun</title>
+    <!-- Tailwind CDN Removed -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
@@ -14,6 +14,221 @@
             overflow-x: hidden;
             margin: 0;
         }
+
+        /* --- Tailwind Replacements --- */
+        
+        /* Layout & Position */
+        .relative { position: relative; }
+        .absolute { position: absolute; }
+        .fixed { position: fixed; }
+        .inset-0 { top: 0; right: 0; bottom: 0; left: 0; }
+        .bottom-12 { bottom: 3rem; }
+        .left-0 { left: 0; }
+        .bottom-10 { bottom: 2.5rem; }
+        .right-10 { right: 2.5rem; }
+        .top-2 { top: 0.5rem; }
+        .right-3 { right: 0.75rem; }
+        .-bottom-2 { bottom: -0.5rem; }
+        .right-6 { right: 1.5rem; }
+        .z-0 { z-index: 0; }
+        .z-10 { z-index: 10; }
+        .z-20 { z-index: 20; }
+        .z-30 { z-index: 30; }
+        .z-40 { z-index: 40; }
+        .z-9999 { z-index: 9999; }
+        .overflow-hidden { overflow: hidden; }
+        .overflow-x-hidden { overflow-x: hidden; }
+
+        /* Sizing */
+        .w-full { width: 100%; }
+        .h-full { height: 100%; }
+        .w-12 { width: 3rem; }
+        .h-12 { height: 3rem; }
+        .h-1 { height: 0.25rem; }
+        .h-4 { height: 1rem; }
+        .w-4 { width: 1rem; }
+        .w-5 { width: 1.25rem; }
+        .h-5 { height: 1.25rem; }
+        .min-h-screen { min-height: 100vh; }
+        .min-h-550px { min-height: 550px; }
+        .min-h-500px { min-height: 500px; }
+        .max-w-md { max-width: 28rem; }
+        .max-w-3xl { max-width: 48rem; }
+        .max-w-5xl { max-width: 64rem; }
+        .max-w-1024px { max-width: 1024px; }
+        .w-320px { width: 320px; }
+        .object-cover { object-fit: cover; }
+        .bg-cover { background-size: cover; }
+        .bg-center { background-position: center; }
+
+        /* Flex & Grid */
+        .flex { display: flex; }
+        .inline-flex { display: inline-flex; }
+        .inline-block { display: inline-block; }
+        .flex-col { flex-direction: column; }
+        .flex-row { flex-direction: row; }
+        .flex-wrap { flex-wrap: wrap; }
+        .justify-center { justify-content: center; }
+        .justify-start { justify-content: flex-start; }
+        .items-center { align-items: center; }
+        .items-start { align-items: flex-start; }
+        .items-end { align-items: flex-end; }
+        .grid { display: grid; }
+        .grid-cols-1 { grid-template-columns: repeat(1, minmax(0, 1fr)); }
+        .gap-2 { gap: 0.5rem; }
+        .gap-3 { gap: 0.75rem; }
+        .gap-4 { gap: 1rem; }
+        .gap-6 { gap: 1.5rem; }
+        .gap-8 { gap: 2rem; }
+
+        /* Spacing */
+        .m-0 { margin: 0; }
+        .mx-auto { margin-left: auto; margin-right: auto; }
+        .ml-1 { margin-left: 0.25rem; }
+        .ml-3 { margin-left: 0.75rem; }
+        .mb-2 { margin-bottom: 0.5rem; }
+        .mb-3 { margin-bottom: 0.75rem; }
+        .mb-4 { margin-bottom: 1rem; }
+        .mb-6 { margin-bottom: 1.5rem; }
+        .mb-8 { margin-bottom: 2rem; }
+        .mb-10 { margin-bottom: 2.5rem; }
+        .mb-12 { margin-bottom: 3rem; }
+        .pl-6 { padding-left: 1.5rem; }
+        .pr-6 { padding-right: 1.5rem; }
+        .pt-56 { padding-top: 14rem; }
+        .pb-1 { padding-bottom: 0.25rem; }
+        .px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+        .px-10 { padding-left: 2.5rem; padding-right: 2.5rem; }
+        .py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+        .py-8 { padding-top: 2rem; padding-bottom: 2rem; }
+        .py-16 { padding-top: 4rem; padding-bottom: 4rem; }
+        .py-24 { padding-top: 6rem; padding-bottom: 6rem; }
+        .p-6 { padding: 1.5rem; }
+
+        /* Typography */
+        .font-sans { font-family: 'Inter', sans-serif; }
+        .font-light { font-weight: 300; }
+        .font-normal { font-weight: 400; }
+        .font-medium { font-weight: 500; }
+        .font-bold { font-weight: 700; }
+        .font-extrabold { font-weight: 800; }
+        .font-black { font-weight: 900; }
+        .uppercase { text-transform: uppercase; }
+        .leading-tight { line-height: 1.25; }
+        .leading-relaxed { line-height: 1.625; }
+        .tracking-wider { letter-spacing: 0.05em; }
+        .tracking-widest { letter-spacing: 0.1em; }
+        .text-left { text-align: left; }
+        .text-center { text-align: center; }
+        
+        .text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+        .text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+        .text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+        .text-2xl { font-size: 1.5rem; line-height: 2rem; }
+        .text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+        .text-10px { font-size: 10px; }
+        .text-9px { font-size: 9px; }
+        .text-11px { font-size: 11px; }
+        .text-12px { font-size: 12px; }
+        .text-13px { font-size: 13px; }
+
+        /* Colors & Backgrounds */
+        .bg-black { background-color: #000; }
+        .bg-white { background-color: #fff; }
+        .text-white { color: #fff; }
+        .text-white-90 { color: rgba(255, 255, 255, 0.9); }
+        .text-white-95 { color: rgba(255, 255, 255, 0.95); }
+        .text-gray-400 { color: #9ca3af; }
+        .text-gray-500 { color: #6b7280; }
+        .text-gray-800 { color: #1f2937; }
+        .text-gray-900 { color: #111827; }
+        .text-cyan-600 { color: #0891b2; }
+        .bg-cyan-600 { background-color: #0891b2; }
+        .bg-custom-blue { background-color: #00b5fb; }
+        .bg-custom-red { background-color: #e31e24; }
+        .text-orange-500 { color: #f97316; }
+
+        .border-l-2 { border-left-width: 2px; }
+        .border-l-4 { border-left-width: 4px; }
+        .border-r { border-right-width: 1px; }
+        .border-b { border-bottom-width: 1px; }
+        .border-b-2 { border-bottom-width: 2px; }
+        .border { border-width: 1px; }
+        
+        .border-cyan-600 { border-color: #0891b2; }
+        .border-white-20 { border-color: rgba(255, 255, 255, 0.2); }
+        .border-gray-100 { border-color: #f3f4f6; }
+        .border-gray-200 { border-color: #e5e7eb; }
+        .border-orange-500 { border-color: #f97316; }
+
+        /* Effects */
+        .opacity-0 { opacity: 0; }
+        .opacity-40 { opacity: 0.4; }
+        .opacity-70 { opacity: 0.7; }
+        .opacity-80 { opacity: 0.8; }
+        .opacity-90 { opacity: 0.9; }
+        .shadow-lg { box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); }
+        .shadow-xl { box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04); }
+        .shadow-2xl { box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25); }
+        .rounded-sm { border-radius: 0.125rem; }
+        .rounded-xl { border-radius: 0.75rem; }
+        .rounded-full { border-radius: 9999px; }
+        .brightness-0 { filter: brightness(0); }
+        .brightness-50 { filter: brightness(0.5); }
+        .brightness-40 { filter: brightness(0.4); }
+        .blur-sm { filter: blur(4px); }
+        .invert { filter: invert(1); }
+        
+        .transition-all { transition-property: all; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duration: 150ms; }
+        .duration-300 { transition-duration: 300ms; }
+        .transition-transform { transition-property: transform; }
+        .translate-y-4 { transform: translateY(1rem); }
+        .rotate-45 { transform: rotate(45deg); }
+
+        /* Pseudo-classes */
+        .hover-bg-cyan-700:hover { background-color: #0e7490; }
+        .hover-text-gray-600:hover { color: #4b5563; }
+        .group:hover .group-hover-translate-x-1 { transform: translateX(0.25rem); }
+        .last-border-0:last-child { border-width: 0; }
+        .hidden { display: none; }
+
+        /* Media Queries */
+        @media (min-width: 640px) {
+            .sm-block { display: block; }
+        }
+        @media (min-width: 768px) {
+            .md-text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+            .md-text-base { font-size: 1rem; line-height: 1.5rem; }
+            .md-px-24 { padding-left: 6rem; padding-right: 6rem; }
+            .md-text-6xl { font-size: 3.75rem; line-height: 1; }
+            .md-text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+            .md-text-2xl { font-size: 1.5rem; line-height: 2rem; }
+            .md-px-12 { padding-left: 3rem; padding-right: 3rem; }
+            .md-mt-40 { margin-top: 10rem; }
+            .md-mt-20 { margin-top: 5rem; }
+            .md-mt-64 { margin-top: 16rem; }
+        }
+        @media (min-width: 1024px) {
+            .lg-px-24 { padding-left: 6rem; padding-right: 6rem; }
+            .lg-grid-cols-12 { grid-template-columns: repeat(12, minmax(0, 1fr)); }
+            .lg-col-span-6 { grid-column: span 6 / span 6; }
+            .lg-text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+            .lg-text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+        }
+
+        /* Slide Dot helper for JS */
+        .slide-dot {
+            height: 0.25rem;
+            width: 2rem;
+            transition: all 0.3s;
+            background-color: rgba(255, 255, 255, 0.2);
+            margin-right: 0.5rem;
+        }
+        .slide-dot.active {
+            background-color: #0891b2; /* bg-cyan-600 */
+        }
+
+        /* --- Existing Styles Preserved --- */
 
         .bg-overlay {
             background: linear-gradient(90deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%, rgba(0,0,0,0.8) 100%);
@@ -59,14 +274,34 @@
         .student-image-wrap {
             position: absolute;
             bottom: 0; 
-            left: 50%;
-            transform: translateX(-50%);
-            height: 70%; 
+            right: 0;
+            left: auto;
+            height: 45%; 
             z-index: 15;
             pointer-events: none;
             display: flex;
             align-items: flex-end;
-            
+            justify-content: flex-end;
+        }
+
+        @media (min-width: 768px) {
+             .student-image-wrap {
+                height: 50%;
+                right: 5%;
+             }
+             .gnc-placement-clean{
+                padding: 40px 0;
+             }
+        }
+
+        @media (min-width: 1024px) {
+            .student-image-wrap {
+                height: 75%;
+                right: auto;
+                left: 50%;
+                transform: translateX(-50%);
+                justify-content: center;
+            }
         }
         .student-image-wrap img {
             height: 100%;
@@ -115,13 +350,13 @@
 }
 
 /* Active slide animations */
-.slide-item.active .slide-bg {
-    animation: bgFromLeft 0.50s ease forwards;
-}
+        .slide-item.active .slide-bg {
+            animation: bgFromLeft 1.2s ease forwards;
+        }
 
-.slide-item.active .slide-student {
-    animation: studentFromRight 0.50s ease forwards;
-}
+        .slide-item.active .slide-student {
+            animation: studentFromRight 1.2s ease forwards;
+        }
 
 /* Keyframes */
 @keyframes bgFromLeft {
@@ -156,7 +391,7 @@
         
         <div class="slide-item active">
             <div class="absolute inset-0 slide-bg">
-                <img src="upload/infra/acad-image.webp" class="w-full h-full object-cover brightness-[0.5] blur-sm">
+                <img src="upload/infra/acad-image.webp" class="w-full h-full object-cover brightness-50 blur-sm">
                 <div class="absolute inset-0 bg-overlay"></div>
             </div>
             
@@ -166,33 +401,29 @@
                 </div>
             </div>
 
-            <div class="container mx-auto px-6 lg:px-24 z-20 relative h-full pt-56">
-                <div class="w-full grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
-                    <div class="lg:col-span-6 text-white text-left animate-up">
-                        <h1 class="text-2xl md:text-3xl lg:text-3xl font-normal mb-3 uppercase leading-tight">
+            <div class="container mx-auto px-6 lg-px-24 z-20 relative h-full pt-56">
+                <div class="w-full grid grid-cols-1 lg-grid-cols-12 gap-8 items-start">
+                    <div class="lg-col-span-6 text-white text-left animate-up">
+                        <h1 class="text-2xl md-text-3xl lg-text-3xl font-normal mb-3 uppercase leading-tight">
                             Best-Rated Pharmaceutical <span class="font-black text-cyan-600">College</span> <br>
                             in Dehradun (Uttarakhand)
                         </h1>
                         <div class="w-12 h-1 bg-cyan-600 mb-6"></div>
-                        <p class="text-sm md:text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
+                        <p class="text-sm md-text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
                            Driving innovation in 2025 by shaping professionals through inclusive education and groundbreaking research.
                         </p>
-                        <a href="https://application.gnc.edu.in/" class="bg-[#00b5fb] hover:bg-cyan-700 text-white font-bold py-4 px-10 text-[12px] uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
-                            Apply Today <i class="fa-solid fa-arrow-right ml-3 group-hover:translate-x-1 transition-transform"></i>
+                        <a href="https://application.gnc.edu.in/" class="bg-custom-blue hover-bg-cyan-700 text-white font-bold py-4 px-10 text-12px uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
+                            Apply Today <i class="fa-solid fa-arrow-right ml-3 group-hover-translate-x-1 transition-transform"></i>
                       </a>
                         
                         <div class="flex flex-row items-center justify-start gap-4 border-l-2 border-cyan-600 pl-6 mb-10">
-                            <div class="text-left leading-tight hidden sm:block">
+                            <div class="text-left leading-tight">
                                 <p class="text-base font-black uppercase">Abhishek Pandey</p>
-                                <p class="text-[10px] text-gray-400">Placed in</p>
-                                <p class="text-[10px] text-gray-400">Coachywoods</p>
+                                <p class="text-12px text-gray-400">Placed in</p>
+                                <p class="text-12px text-gray-400">Coachywoods</p>
                                
                             </div>
-                            <div class="flex items-center gap-4">
-                                
-                                
-                                <img src="images/Lam_Research_Logo.webp" class="h-4 brightness-0 invert opacity-80">
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -201,7 +432,7 @@
 
         <div class="slide-item">
             <div class="absolute inset-0 slide-bg">
-                <img src="upload/infra/place-banner.webp" class="w-full h-full object-cover brightness-[0.4] blur-sm">
+                <img src="upload/infra/place-banner.webp" class="w-full h-full object-cover brightness-40 blur-sm">
                 <div class="absolute inset-0 bg-overlay"></div>
             </div>
 
@@ -211,30 +442,30 @@
                 </div>
             </div>
             
-            <div class="container mx-auto px-6 lg:px-24 z-20 relative h-full pt-56">
-                <div class="w-full grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
-                    <div class="lg:col-span-6 text-white text-left animate-up">
-                        <h1 class="text-2xl md:text-3xl lg:text-4xl font-normal mb-3 uppercase leading-tight">
+            <div class="container mx-auto px-6 lg-px-24 z-20 relative h-full pt-56">
+                <div class="w-full grid grid-cols-1 lg-grid-cols-12 gap-8 items-start">
+                    <div class="lg-col-span-6 text-white text-left animate-up">
+                        <h1 class="text-2xl md-text-3xl lg-text-4xl font-normal mb-3 uppercase leading-tight">
                             Global <span class="font-black text-cyan-600">Placements</span> <br>
                             & Top Rankings
                         </h1>
                         <div class="w-12 h-1 bg-cyan-600 mb-6"></div>
-                        <p class="text-sm md:text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
+                        <p class="text-sm md-text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
                             Join the university ranked amongst the top 5% globally with a track record of 9500+ placement offers.
                         </p>
-                        <a  href ='/Gnc-website/admissions.php' class="bg-[#00b5fb] hover:bg-cyan-700 text-white font-bold py-4 px-10 text-[12px] uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
-                            Explore Programs <i class="fa-solid fa-arrow-right ml-3 group-hover:translate-x-1 transition-transform"></i>
+                        <a  href ='/Gnc-website/admissions.php' class="bg-custom-blue hover-bg-cyan-700 text-white font-bold py-4 px-10 text-12px uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
+                            Explore Programs <i class="fa-solid fa-arrow-right ml-3 group-hover-translate-x-1 transition-transform"></i>
                       </a>
 
                         <div class="flex flex-row items-center justify-start gap-4 border-l-2 border-cyan-600 pl-6 mb-10">
-                            <div class="text-left leading-tight hidden sm:block">
+                            <div class="text-left leading-tight">
                                 <p class="text-base font-black uppercase">Ritika Aggarwal</p>
-                                <p class="text-[10px] text-gray-400">Placed in</p>
-                                <p class="text-[10px] text-gray-400">Hike Education</p>
+                                <p class="text-12px text-gray-400">Placed in</p>
+                                <p class="text-12px text-gray-400">Hike Education</p>
                             </div>
                             <div class="flex items-center gap-4">
                                 <div class="text-left">
-                                    <p class="text-[9px] uppercase font-bold text-gray-400">Total Offers</p>
+                                    <p class="text-9px uppercase font-bold text-gray-400">Total Offers</p>
                                     <p class="text-2xl font-black">9,500 <span class="text-sm">+</span></p>
                                 </div>
                             </div>
@@ -246,10 +477,10 @@
 
         
 
-        <div class="absolute bottom-12 left-0 w-full z-[40]">
-            <div class="container mx-auto px-6 lg:px-24">
-                <div class="w-full grid grid-cols-1 lg:grid-cols-12">
-                    <div class="lg:col-span-6 flex flex-col items-start gap-4">
+        <div class="absolute bottom-12 left-0 w-full z-40">
+            <div class="container mx-auto px-6 lg-px-24">
+                <div class="w-full grid grid-cols-1 lg-grid-cols-12">
+                    <div class="lg-col-span-6 flex flex-col items-start gap-4">
                         <div class="flex items-center gap-4">
                             <div onclick="prevSlide()" class="nav-btn"><i class="fa-solid fa-chevron-left"></i></div>
                             <div onclick="nextSlide()" class="nav-btn"><i class="fa-solid fa-chevron-right"></i></div>
@@ -441,7 +672,7 @@
 
    <section id="gnc-global-landing" class="relative min-h-screen overflow-x-hidden font-sans bg-white">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <script src="https://cdn.tailwindcss.com"></script>
+    
     <style>
         #gnc-global-landing { font-family: 'Inter', sans-serif; }
         /* Hero Overlay to ensure text readability */
@@ -493,53 +724,53 @@
         }
     </style>
 
-    <div class="relative w-full min-h-[550px] flex flex-col justify-center px-6 md:px-24 py-16 overflow-hidden">
+    <div class="relative w-full min-h-550px flex flex-col justify-center px-6 md-px-24 py-16 overflow-hidden">
         <img src="upload/infra/gnc.webp" class="absolute inset-0 w-full h-full object-cover z-0" alt="GNC Hero">
         <div class="absolute inset-0 hero-overlay z-10"></div>
 
         <div class="relative z-20 max-w-5xl">
-            <h1 class="text-white text-4xl md:text-6xl font-extrabold leading-tight mb-4">With a focus on innovation and academic strength, <br>Guru Nanak College Dehradun creates pathways for success.</h1>
-            <p class="text-white/95 text-lg md:text-xl font-light mb-12 max-w-3xl leading-relaxed">The institution goes beyond traditional learning by nurturing talent, values, and professional skills essential for tomorrow’s pharmaceutical professionals.</p>
+            <h1 class="text-white text-4xl md-text-6xl font-extrabold leading-tight mb-4">With a focus on innovation and academic strength, <br>Guru Nanak College Dehradun creates pathways for success.</h1>
+            <p class="text-white-95 text-lg md-text-xl font-light mb-12 max-w-3xl leading-relaxed">The institution goes beyond traditional learning by nurturing talent, values, and professional skills essential for tomorrow’s pharmaceutical professionals.</p>
             
-            <div class="flex flex-wrap items-center gap-6 text-white/90">
-                <div class="flex items-center gap-2 border-r border-white/20 pr-6 last:border-0">
+            <div class="flex flex-wrap items-center gap-6 text-white-90">
+                <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
                     <img src="https://cdn-icons-png.flaticon.com/512/3074/3074058.png" class="w-5 h-5 invert"> 
-                    <span class="text-[10px] font-bold uppercase tracking-wider">Academic Excellence</span>
+                    <span class="text-10px font-bold uppercase tracking-wider">Academic Excellence</span>
                 </div>
-                <div class="flex items-center gap-2 border-r border-white/20 pr-6 last:border-0">
+                <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
                     <img src="https://cdn-icons-png.flaticon.com/512/993/993891.png" class="w-5 h-5 invert"> 
-                    <span class="text-[10px] font-bold uppercase tracking-wider">Industry Patronage</span>
+                    <span class="text-10px font-bold uppercase tracking-wider">Industry Patronage</span>
                 </div>
-                <div class="flex items-center gap-2 border-r border-white/20 pr-6 last:border-0">
+                <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
                     <img src="https://cdn-icons-png.flaticon.com/512/2622/2622112.png" class="w-5 h-5 invert"> 
-                    <span class="text-[10px] font-bold uppercase tracking-wider">Global Exposure</span>
+                    <span class="text-10px font-bold uppercase tracking-wider">Global Exposure</span>
                 </div>
-                <div class="flex items-center gap-2 border-r border-white/20 pr-6 last:border-0">
+                <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
                     <img src="https://cdn-icons-png.flaticon.com/512/1063/1063376.png" class="w-5 h-5 invert"> 
-                    <span class="text-[10px] font-bold uppercase tracking-wider">Choice Based Careers</span>
+                    <span class="text-10px font-bold uppercase tracking-wider">Choice Based Careers</span>
                 </div>
-                <div class="flex items-center gap-2 border-r border-white/20 pr-6 last:border-0">
+                <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
                     <img src="https://cdn-icons-png.flaticon.com/512/2168/2168931.png" class="w-5 h-5 invert"> 
-                    <span class="text-[10px] font-bold uppercase tracking-wider">Return on Investment</span>
+                    <span class="text-10px font-bold uppercase tracking-wider">Return on Investment</span>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="bg-[#e31e24] py-8 text-center shadow-lg relative z-30">
-        <h2 class="text-white text-lg md:text-2xl font-black uppercase tracking-widest">As a member of Guru Nanak College, you have an edge!</h2>
+    <div class="bg-custom-red py-8 text-center shadow-lg relative z-30">
+        <h2 class="text-white text-lg md-text-2xl font-black uppercase tracking-widest">As a member of Guru Nanak College, you have an edge!</h2>
     </div>
 
-    <div class="relative py-24 px-6 md:px-12 lg:px-24 bg-cover bg-center" style="background-image: url('upload/infra/gnc.webp');">
+    <div class="relative py-24 px-6 md-px-12 lg-px-24 bg-cover bg-center" style="background-image: url('upload/infra/gnc.webp');">
         <div class="absolute"></div>
     
-        <div class="relative z-10 max-w-[1024px] mx-auto stagger-grid">
+        <div class="relative z-10 max-w-1024px mx-auto stagger-grid">
             
-            <div class="column-offset md:mt-40">
+            <div class="column-offset md-mt-40">
                 <div class="bg-gnc-teal card-inner text-white">
                     <img src="https://cdn-icons-png.flaticon.com/512/3074/3074058.png" class="w-12 h-12 invert mb-6 opacity-80">
                     <h3 class="text-2xl font-bold mb-4 uppercase leading-tight">Edge with<br>Internships and On-the-job Trainings</h3>
-                    <p class="text-[13px] leading-relaxed opacity-90">During your course of studies, you will have ample opportunities to gain industry experience through internships and on-the-job training.</p>
+                    <p class="text-13px leading-relaxed opacity-90">During your course of studies, you will have ample opportunities to gain industry experience through internships and on-the-job training.</p>
                 </div>
             </div>
 
@@ -547,46 +778,46 @@
                 <div class="bg-gnc-yellow card-inner text-gray-900">
                     <img src="https://cdn-icons-png.flaticon.com/512/993/993891.png" class="w-12 h-12 mb-6 opacity-70">
                     <h3 class="text-2xl font-bold mb-4 uppercase leading-tight">Edge with <br>Corporate Connect Program</h3>
-                    <p class="text-[13px] leading-relaxed font-medium">We have established the Career Competency Program (CCP) at Guru Nanak College with the aim of boosting our graduates' job prospects and creating an environment that attracts a greater number of multinational corporations (MNCs).</p>
+                    <p class="text-13px leading-relaxed font-medium">We have established the Career Competency Program (CCP) at Guru Nanak College with the aim of boosting our graduates' job prospects and creating an environment that attracts a greater number of multinational corporations (MNCs).</p>
                 </div>
                 <div class="bg-gnc-white card-inner text-gray-800 border-l-4 border-gray-200">
                     <img src="https://cdn-icons-png.flaticon.com/512/2622/2622112.png" class="w-12 h-12 mb-6 opacity-40">
                     <h3 class="text-xl font-bold mb-3 uppercase text-gray-900 leading-tight">Edge with <br>Career Resource Centre</h3>
-                    <p class="text-[12px] leading-relaxed">Empowerment comes through awareness. At Guru Nanak College, the Career Resource Centre is dedicated to enlightening, linking, and offering guidance to students regarding placement prospects.</p>
+                    <p class="text-12px leading-relaxed">Empowerment comes through awareness. At Guru Nanak College, the Career Resource Centre is dedicated to enlightening, linking, and offering guidance to students regarding placement prospects.</p>
                 </div>
             </div>
 
-            <div class="column-offset md:mt-20">
-                <div class="bg-gnc-dark card-inner text-white min-h-[500px]">
+            <div class="column-offset md-mt-20">
+                <div class="bg-gnc-dark card-inner text-white min-h-500px">
                     <img src="https://cdn-icons-png.flaticon.com/512/1063/1063376.png" class="w-12 h-12 invert mb-6 opacity-70">
                     <h3 class="text-2xl font-bold mb-4 uppercase leading-tight">Edge with<br>Accreditations & Validations</h3>
-                    <p class="text-[13px] leading-relaxed opacity-90">Accreditations and validations stand as the foundational pillars of accuracy and trustworthiness, playing a pivotal role in attracting multinational corporations to our campus for recruitment purposes.</p>
+                    <p class="text-13px leading-relaxed opacity-90">Accreditations and validations stand as the foundational pillars of accuracy and trustworthiness, playing a pivotal role in attracting multinational corporations to our campus for recruitment purposes.</p>
                 </div>
             </div>
 
-            <div class="column-offset md:mt-64">
+            <div class="column-offset md-mt-64">
                 <div class="bg-gnc-pink card-inner text-white">
                     <img src="https://cdn-icons-png.flaticon.com/512/2168/2168931.png" class="w-12 h-12 invert mb-6 opacity-80">
                     <h3 class="text-2xl font-bold mb-4 uppercase leading-tight">Edge with Foreign  <br>Internships & Semester Exchange</h3>
-                    <p class="text-[13px] leading-relaxed opacity-90">Participating in Global Internships and Semester Exchange programs enhances your marketability by providing you with a unique blend of international exposure, hands-on experience, and a wealth of knowledge and skills acquired on the job.</p>
+                    <p class="text-13px leading-relaxed opacity-90">Participating in Global Internships and Semester Exchange programs enhances your marketability by providing you with a unique blend of international exposure, hands-on experience, and a wealth of knowledge and skills acquired on the job.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="fixed bottom-10 right-10 z-[9999] flex flex-col items-end">
-        <div id="scholarship-modal" class="hidden opacity-0 translate-y-4 bg-white p-6 rounded-xl shadow-2xl w-[320px] mb-4 border border-gray-100 relative transition-all duration-300">
-            <button id="close-modal" class="absolute top-2 right-3 text-gray-400 hover:text-gray-600 text-xl">×</button>
+    <div class="fixed bottom-10 right-10 z-9999 flex flex-col items-end">
+        <div id="scholarship-modal" class="hidden opacity-0 translate-y-4 bg-white p-6 rounded-xl shadow-2xl w-320px mb-4 border border-gray-100 relative transition-all duration-300">
+            <button id="close-modal" class="absolute top-2 right-3 text-gray-400 hover-text-gray-600 text-xl">×</button>
             <div class="flex items-center gap-2 mb-2">
                 <svg class="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20"><path d="M10 2a6 6 0 00-6 6v3.586l-.707.707A1 1 0 004 14h12a1 1 0 00.707-1.707L16 11.586V8a6 6 0 00-6-6zM10 18a3 3 0 01-3-3h6a3 3 0 01-3 3z"></path></svg>
-                <span class="text-[11px] font-bold text-gray-500 uppercase">GNC 2026</span>
+                <span class="text-11px font-bold text-gray-500 uppercase">GNC 2026</span>
             </div>
             <h4 class="text-sm font-black text-gray-900 mb-2">₹200 Crore in Scholarships Await!</h4>
-            <a href="#" class="inline-block text-[11px] font-black text-orange-500 uppercase border-b-2 border-orange-500 pb-1">Apply Now !</a>
+            <a href="#" class="inline-block text-11px font-black text-orange-500 uppercase border-b-2 border-orange-500 pb-1">Apply Now !</a>
             <div class="absolute -bottom-2 right-6 w-4 h-4 bg-white rotate-45 border-r border-b border-gray-100"></div>
         </div>
 
-        <!-- <button id="bell-trigger" class="bg-[#00b5fb] w-12 h-12 rounded-full shadow-2xl flex items-center justify-center transition-transform hover:scale-110 vibrating-forever">
+        <!-- <button id="bell-trigger" class="bg-custom-blue w-12 h-12 rounded-full shadow-2xl flex items-center justify-center transition-transform hover-scale-110 vibrating-forever">
             <svg class="w-6 h-6 text-black" fill="currentColor" viewBox="0 0 20 20"><path d="M10 2a6 6 0 00-6 6v3.586l-.707.707A1 1 0 004 14h12a1 1 0 00.707-1.707L16 11.586V8a6 6 0 00-6-6zM10 18a3 3 0 01-3-3h6a3 3 0 01-3 3z"></path></svg>
         </button> -->
     </div>
@@ -607,155 +838,182 @@
                 if (vibrationTimeout) clearTimeout(vibrationTimeout);
             };
 
-            bell.onclick = (e) => {
-                e.stopPropagation();
-                stopVibration();
-                
-                modal.classList.remove('hidden');
-                setTimeout(() => {
-                    modal.classList.remove('opacity-0', 'translate-y-4');
-                }, 10);
-            };
+            if(bell) {
+                bell.onclick = (e) => {
+                    e.stopPropagation();
+                    stopVibration();
+                    
+                    modal.classList.remove('hidden');
+                    setTimeout(() => {
+                        modal.classList.remove('opacity-0', 'translate-y-4');
+                    }, 10);
+                };
+            }
 
-            close.onclick = (e) => {
-                e.stopPropagation();
-                modal.classList.add('opacity-0', 'translate-y-4');
-                
-                setTimeout(() => {
-                    modal.classList.add('hidden');
-                    // Restart vibration after 3 seconds
-                    vibrationTimeout = setTimeout(startVibration, 3000);
-                }, 300);
-            };
+            if(close) {
+                close.onclick = (e) => {
+                    e.stopPropagation();
+                    modal.classList.add('opacity-0', 'translate-y-4');
+                    
+                    setTimeout(() => {
+                        modal.classList.add('hidden');
+                        // Restart vibration after 3 seconds
+                        vibrationTimeout = setTimeout(startVibration, 3000);
+                    }, 300);
+                };
+            }
         });
     </script>
 </section>
 
   <!-- Placement Slider -->
-
-  <section class="placement-slider-pure">
+<section class="placement-slider-pure" id="placement-section">
     <style>
         .placement-slider-pure {
-            padding: 30px 0;
+            padding: 40px 0;
             background: #f8f9fa;
-            overflow: hidden;
+            width: 100%;
+            overflow: hidden; 
             position: relative;
         }
 
-        /* Professional Edge Fading Effect */
-        .placement-slider-pure::before,
-        .placement-slider-pure::after {
-            content: "";
-            position: absolute;
-            top: 0;
-            width: 15vw;
-            height: 100%;
-            z-index: 2;
-            pointer-events: none;
-        }
-        .placement-slider-pure::before {
-            left: 0;
-            background: linear-gradient(to right, #f8f9fa, transparent);
-        }
-        .placement-slider-pure::after {
-            right: 0;
-            background: linear-gradient(to left, #f8f9fa, transparent);
+        /* Large Screen: Limit width to 1150px */
+        .placement-container {
+            
+            margin: 0 auto;
+            position: relative;
+           
         }
 
         .placement-row {
             width: 100%;
-            overflow: hidden;
-            margin-bottom: 30px;
-            position: relative;
+            margin-bottom: 25px;
+            display: flex;
         }
 
         .placement-track {
             display: flex;
-            gap: 40px;
             width: max-content;
-            /* 500s creates a slow, prestigious crawl */
-            animation: scroll-left 500s linear infinite;
+            gap: 30px;
+            will-change: transform;
         }
 
-        .placement-row.reverse .placement-track {
-            animation: scroll-right 500s linear infinite;
+        /* Desktop Animation Logic */
+        @media (min-width: 769px) {
+            .placement-track.scroll-left { animation: desktop-left 400s linear infinite; }
+            .placement-track.scroll-right { animation: desktop-right 400s linear infinite; }
+            .placement-row:hover .placement-track { animation-play-state: paused; }
+            
+            /* Edge Fading for Desktop */
+            .placement-container::before, .placement-container::after {
+                content: ""; position: absolute; top: 0; width: 100px; height: 100%; z-index: 2; pointer-events: none;
+            }
+            .placement-container::before { left: 0; background: linear-gradient(to right, #f8f9fa, transparent); }
+            .placement-container::after { right: 0; background: linear-gradient(to left, #f8f9fa, transparent); }
         }
 
-        /* Pause on Hover: Important for user experience */
-        .placement-row:hover .placement-track {
-            animation-play-state: paused;
-        }
+        @keyframes desktop-left { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+        @keyframes desktop-right { from { transform: translateX(-50%); } to { transform: translateX(0); } }
 
         .placement-track img {
-            height: 300px; /* Maintain requested size */
+            height: 280px;
             width: auto;
             min-width: 250px;
-            padding: 15px;
-            background: #ffffff;
-            border-radius: 15px;
+            padding: 10px;
+            background: #fff;
+            border-radius: 12px;
             object-fit: contain;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-            transition: transform 0.3s ease;
-            cursor: pointer;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
         }
 
-        .placement-track img:hover {
-            transform: scale(1.05);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-        }
-
-        @keyframes scroll-left {
-            from { transform: translateX(0); }
-            to { transform: translateX(-50%); }
-        }
-
-        @keyframes scroll-right {
-            from { transform: translateX(-50%); }
-            to { transform: translateX(0); }
-        }
-
-        /* Mobile specific adjustments */
+        /* --- Mobile "Slick-Style" Snapshot --- */
         @media (max-width: 768px) {
-            .placement-track img { 
-                height: 150px; 
-                min-width: 180px; 
+            .placement-container { max-width: 100vw; }
+            .placement-track { 
+                gap: 0; 
+                /* Animation timing for the "Slide" movement */
+                transition: transform 0.7s cubic-bezier(0.645, 0.045, 0.355, 1.000); 
             }
-            .placement-track {
-                animation-duration: 100s; /* Faster relative speed for shorter mobile width */
+            .placement-track img {
+                width: 100vw; /* Exact screen width */
+                min-width: 100vw;
+                max-width: 100vw;
+                height: auto;
+                background: transparent;
+                box-shadow: none;
+                padding: 10px 20px;
             }
-            .placement-slider-pure::before,
-            .placement-slider-pure::after { width: 50px; }
         }
     </style>
 
-    <div class="placement-row">
-        <h3 class="text-center">Success Gallery</h3>
-<p class="text-center">Moments of pride as our students secure their future at industry leaders across the globe.</p>
-        <div class="placement-track">
-            <?php
-            // We loop twice to make the 'translateX(-50%)' animation seamless
-            for ($j = 0; $j < 2; $j++) {
+    <h3 class="text-center" style="text-align: center; font-family: sans-serif;">Success Gallery</h3>
+    <p class="text-center" style="text-align: center; margin-bottom: 20px; color: #666;">Our students at global industry leaders.</p>
+
+    <div class="placement-container">
+        <div class="placement-row">
+            <div class="placement-track scroll-left" id="m-track1">
+                <?php
                 for ($i = 1; $i <= 150; $i++) {
-                    echo '<img src="upload/placement/placement-1%20(' . $i . ').webp" alt="GNC Dehradun Placement Record">';
+                    echo '<img src="upload/placement/placement-1%20(' . $i . ').webp" alt="Placement">';
                 }
-            }
-            ?>
+                ?>
+            </div>
         </div>
-    </div>
 
-    <div class="placement-row reverse">
-        <div class="placement-track">
-            <?php
-            for ($j = 0; $j < 2; $j++) {
+        <div class="placement-row">
+            <div class="placement-track scroll-right" id="m-track2">
+                <?php
                 for ($i = 150; $i >= 1; $i--) {
-                    echo '<img src="upload/placement/placement-1%20(' . $i . ').webp" alt="GNC Dehradun Placement Record">';
+                    echo '<img src="upload/placement/placement-1%20(' . $i . ').webp" alt="Placement">';
                 }
-            }
-            ?>
+                ?>
+            </div>
         </div>
     </div>
-</section>
 
+    <script>
+        (function() {
+            if (window.innerWidth <= 768) {
+                const track1 = document.getElementById('m-track1');
+                const track2 = document.getElementById('m-track2');
+                const images = track1.getElementsByTagName('img');
+                const totalSlides = images.length;
+                let currentSlide = 0;
+
+                // Stop the CSS continuous animation so JS can handle the "Slick" snap
+                track1.style.animation = "none";
+                track2.style.animation = "none";
+
+                function performSlide() {
+                    currentSlide++;
+                    
+                    if (currentSlide >= totalSlides) {
+                        // Reset to first slide without transition
+                        currentSlide = 0;
+                        track1.style.transition = "none";
+                        track2.style.transition = "none";
+                        track1.style.transform = "translateX(0)";
+                        track2.style.transform = "translateX(0)";
+                        
+                        // Small delay to re-enable transitions
+                        setTimeout(() => {
+                            track1.style.transition = "transform 0.7s cubic-bezier(0.645, 0.045, 0.355, 1.000)";
+                            track2.style.transition = "transform 0.7s cubic-bezier(0.645, 0.045, 0.355, 1.000)";
+                        }, 50);
+                    } else {
+                        // Slide by exactly 100% of the viewport width
+                        const moveAmount = currentSlide * 100;
+                        track1.style.transform = `translateX(-${moveAmount}vw)`;
+                        track2.style.transform = `translateX(-${moveAmount}vw)`;
+                    }
+                }
+
+                // Set the "Hold" time (3000ms = 3 seconds)
+                setInterval(performSlide, 3000);
+            }
+        })();
+    </script>
+</section>
  <!-- Vision Section -->
 
    
@@ -979,7 +1237,8 @@
             const indicatorContainer = document.getElementById('slide-indicators');
             slides.forEach((_, i) => {
                 const dot = document.createElement('div');
-                dot.className = `h-1 w-8 transition-all duration-300 ${i === 0 ? 'bg-cyan-600' : 'bg-white/20'}`;
+                // Removed Tailwind Classes in JS
+                dot.className = `slide-dot ${i === 0 ? 'active' : ''}`;
                 dot.id = `dot-${i}`;
                 indicatorContainer.appendChild(dot);
             });
@@ -992,6 +1251,15 @@
 
     currentSlide = (index + slides.length) % slides.length;
     slides[currentSlide].classList.add('active');
+    
+    // Update dots
+    document.querySelectorAll('.slide-dot').forEach((dot, i) => {
+        if (i === currentSlide) {
+            dot.classList.add('active');
+        } else {
+            dot.classList.remove('active');
+        }
+    });
 
     resetTimer();
 }
@@ -1002,7 +1270,7 @@
 
             function resetTimer() {
                 clearInterval(slideInterval);
-                slideInterval = setInterval(window.nextSlide, 6000);
+                slideInterval = setInterval(window.nextSlide, 10000);
             }
 
             resetTimer();

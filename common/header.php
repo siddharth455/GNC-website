@@ -86,6 +86,11 @@
 
     .gnc-header {
       color: white;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 9999;
     }
 
     /* Top Bar */
@@ -843,23 +848,7 @@ window.addEventListener("scroll", function () {
 });
 </script>
 
-  <script>
-    window.addEventListener("scroll", function() {
-      const topBar = document.querySelector(".top-bar");
-      const middleBar = document.querySelector(".middle-bar");
-      const bottomMenu = document.querySelector(".bottom-menu");
 
-      if (window.scrollY > 50) {
-        topBar.classList.add("scrolled");
-        middleBar.classList.add("scrolled");
-        bottomMenu.classList.add("scrolled");
-      } else {
-        topBar.classList.remove("scrolled");
-        middleBar.classList.remove("scrolled");
-        bottomMenu.classList.remove("scrolled");
-      }
-    });
-  </script>
 </head>
 <body>
   <header class="gnc-header">
@@ -991,6 +980,7 @@ window.addEventListener("scroll", function () {
                   <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor of Operation Theatre Technology</a></li>
                   <li><a href="masters-in-lab-technician.php">Master of Medical Laboratory Technology</a></li>
                   <li><a href="Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
+                  <!-- <li><a href="Best-Diploma-in-Dialysis-Technology.php">Diploma in Dialysis Technology</a></li> -->
                 </ul>
               </div>
               <!-- Column 2 -->
@@ -1035,7 +1025,9 @@ window.addEventListener("scroll", function () {
               <div class="dropdown-column">
                 <h4><a href="Best-College-For-Computer-Science-in-Dehradun.php" style="color: #0f9af1 !important;">Computer Sciences</a></h4>
                 <ul>
+                  <!-- <li><a href="Best-College-for-B.Tech(Cs)-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li> -->
                   <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
+                  
                 </ul>
                 <h4><a href="Best-Management-College-in-Dehradun.php" style="color: #0f9af1 !important;">Business School</a></h4>
                 <ul>
@@ -1550,6 +1542,7 @@ document.addEventListener("DOMContentLoaded", function () {
               <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor of Operation Theatre Technology</a></li>
               <li><a href="masters-in-lab-technician.php">M.Sc. Medical Laboratory Technology</a></li>
               <li><a href="Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
+              <!-- <li><a href="Best-Diploma-in-Dialysis-Technology.php">Diploma in Dialysis Technology</a></li> -->
             </ul>
           </li>
 
@@ -1600,6 +1593,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <li>
             <a href="Best-College-For-Computer-Science-in-Dehradun.php">Computer Sciences <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
+              <!-- <li><a href="Best-College-for-B.Tech(Cs)-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li> -->
               <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
             </ul>
           </li>
@@ -1612,7 +1606,7 @@ document.addEventListener("DOMContentLoaded", function () {
           </li>
 
           <li>
-            <a href="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php">Agriculture Science <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php">Agriculture Science<i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
               <li><a href="agriculture-science.php">B.Sc. Agriculture</a></li>
               <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun.php">B.Sc. Forestry</a></li>
@@ -1622,7 +1616,7 @@ document.addEventListener("DOMContentLoaded", function () {
           </li>
 
           <li>
-            <a href="Best-Hotel-Management-College-in-Dehradun.php">Hotel Management <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Best-Hotel-Management-College-in-Dehradun.php">Hotel Management<i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
               <li><a href="Best-DHM-Colleges-in-Dehradun.php">Diploma in Hotel Management</a></li>
             </ul>

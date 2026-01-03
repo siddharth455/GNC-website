@@ -6,7 +6,7 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College Dehradun | Affiliations & Approvals</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College Dehradun, Recognized by UGC & Approved by AICTE, affiliated to HNBGU & UTU.">
+    <meta name="description" content="Guru Nanak College Dehradun, Recognized by UGC & Approved by AICTE, affiliated to HNBGU UTU">
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
@@ -65,7 +65,7 @@
         }
 
         .logo-bar img {
-            max-height: 75px;
+            max-height: 70px;
             width: auto;
             margin: 20px 40px;
             object-fit: contain;
@@ -73,7 +73,7 @@
 
         /* Content Cards - No Hover Effects */
         .approval-grid {
-            padding: 100px 0;
+            padding:20px 0;
             background-color: #ffffff;
         }
 
@@ -92,8 +92,8 @@
         }
 
         .card-icon-wrapper {
-            width: 110px;
-            height: 110px;
+            width: 210px;
+            height: 210px;
             margin-bottom: 30px;
             display: flex;
             align-items: center;
@@ -102,12 +102,21 @@
             border-radius: 50%;
             padding: 20px;
             border: 1px solid #edf2f7;
+            overflow: hidden;
         }
 
         .card-icon-wrapper img {
             max-width: 100%;
             max-height: 100%;
             object-fit: contain;
+            display: block;
+            transition: transform 0.2s ease;
+        }
+
+        /* Compensate logos with excessive transparent padding (UTU specifically) */
+        .card-icon-wrapper img[alt="UTU"],
+        .card-icon-wrapper img[src*="utu"] {
+            transform: scale(1.90);
         }
 
         .modern-card h3 {
@@ -155,6 +164,15 @@
             .hero-section { height: 500px; }
             .hero-section h1 { font-size: 1.8rem; }
             .logo-bar img { max-height: 55px; margin: 10px 20px; }
+            .card-icon-wrapper {
+                width: 160px;
+                height: 160px;
+                padding: 16px;
+            }
+            .card-icon-wrapper img[alt="UTU"],
+            .card-icon-wrapper img[src*="utu"] {
+                transform: scale(1.15);
+            }
         }
     </style>
 </head>
@@ -174,17 +192,17 @@
         </div>
     </section>
 
-    <div class="logo-bar text-center">
+    <!-- <div class="logo-bar text-center">
         <div class="container">
             <div class="d-flex flex-wrap justify-content-center align-items-center">
-                <img src="images/AICTE-logo.webp" alt="AICTE">
+                <img src="images/aicte-logo-1.webp" alt="AICTE">
                 <img src="images/ugc.webp" alt="UGC">
-                <img src="images/PCI.webp" alt="PCI">
+                <img src="images/pci.jpeg" alt="PCI">
                 <img src="upload/infra/inc-logo.png" alt="INC">
-                <img src="images/Uttarakhand_Technical_University_logo.webp" alt="UTU">
+                <img src="images/utu.webp" alt="UTU">
             </div>
         </div>
-    </div>
+    </div> -->
 
     <section class="approval-grid">
         <div class="container">
@@ -193,7 +211,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/AICTE-logo.webp" alt="AICTE">
+                            <img src="images/aicte-logo-1.webp" alt="AICTE">
                         </div>
                         <h3>All India Council for Technical Education</h3>
                         <p>AICTE which is also known as All India Council for Technical Education was organised in 1945. This organization is a national level organization which works as an advisory organization. The statutory of AICTE was made on May 12th, 1988. This establishment was done with a vision of proper coordination and planning for the development of the education system across the country. It also takes care of norms and standards.</p>
@@ -233,7 +251,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/PCI.webp" alt="PCI">
+                            <img src="images/pci.jpeg" alt="PCI">
                         </div>
                         <h3>Pharmacy Council of India</h3>
                         <p>The Pharmacy Council of India (PCI) is a statutory body under the Ministry of Health and Family Welfare, responsible for regulating pharmacy education and practice in India. Established in 1948, PCI ensures the standardization of pharmacy education, licensing of pharmacists, and the promotion of ethical practices in the pharmaceutical industry, safeguarding public health and safety.</p>
@@ -252,8 +270,8 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
-                        <div class="card-icon-wrapper">
-                            <img src="images/Uttarakhand_Technical_University_logo.webp" alt="UTU">
+                        <div class="card-icon-wrapper" >
+                            <img src="images/utu.webp" alt="UTU">
                         </div>
                         <h3>Uttarakhand Technical University</h3>
                         <p>Uttarakhand Technical University (UTU), established in 2005, is located in Dehradun, India. It offers undergraduate, postgraduate, and doctoral programs in engineering, management, computer science, and other technical fields. UTU aims to provide high-quality education, research, and industry collaboration, fostering innovation and skill development. It plays a key role in the state's technological and industrial growth.</p>
