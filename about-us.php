@@ -246,7 +246,7 @@
         .gnc-building-wide {
             width: 100%;
             height: 250px;
-            background-image: url('upload/infra/sports-gnc.webp');
+            background-image: url('upload/infra/grad-cerem.webp');
             background-size: cover;
             background-position: center;
         }
@@ -332,7 +332,7 @@
     .gnc-building-wide {
              width: 100%;
             height: 250px;
-            background-image: url('upload/infra/sports-gnc.webp');
+            background-image: url('upload/infra/grad-cerem.webp');
             background-size: cover;
             background-position: center;
         

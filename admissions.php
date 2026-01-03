@@ -17,7 +17,7 @@
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
+    <meta property="og:image:type" content="image/webp"/>
 </head>
 
 <body>
@@ -135,8 +135,289 @@
         </div>
     </section>
 
+    <!-- Programs Section -->
 
-    <section class="programList-section pt-5 pb-5" style="color: black;">
+    <!-- Courses Section -->
+
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<style>
+    :root {
+        --gnc-main: #00b5fb;
+        --gnc-dark: #0f172a;
+        --card-bg: #ffffff;
+        --tag-ug: #dcfce7;
+        --tag-ug-txt: #166534;
+        --tag-pg: #f3e8ff;
+        --tag-pg-txt: #6b21a8;
+        --tag-dip: #fef9c3;
+        --tag-dip-txt: #854d0e;
+    }
+
+    #program-section {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        background-color: #f8fafc;
+        padding-bottom: 80px;
+    }
+
+    /* Modern Filter Header */
+    .filter-dock {
+        background: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border-bottom: 1px solid rgba(0,0,0,0.05);
+        padding: 20px 0;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+        margin-bottom: 40px;
+    }
+
+    .search-box {
+        position: relative;
+        max-width: 500px;
+        margin: 0 auto 20px;
+    }
+
+    .search-box input {
+        width: 100%;
+        padding: 14px 20px 14px 50px;
+        border-radius: 12px;
+        border: 2px solid #e2e8f0;
+        font-weight: 500;
+        transition: 0.3s;
+    }
+
+    .search-box input:focus {
+        border-color: var(--gnc-main);
+        outline: none;
+        box-shadow: 0 0 0 4px rgba(0, 181, 251, 0.1);
+    }
+
+    .search-box i {
+        position: absolute;
+        left: 20px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #94a3b8;
+    }
+
+    .filter-tabs {
+        display: flex;
+        justify-content: center;
+        gap: 8px;
+        overflow-x: auto;
+        scrollbar-width: none;
+        padding: 0 15px;
+    }
+
+    .filter-tabs::-webkit-scrollbar { display: none; }
+
+    .tab-trigger {
+        padding: 10px 24px;
+        border-radius: 10px;
+        border: none;
+        background: #f1f5f9;
+        color: #64748b;
+        font-weight: 700;
+        font-size: 0.85rem;
+        cursor: pointer;
+        transition: 0.3s;
+        white-space: nowrap;
+    }
+
+    .tab-trigger.active {
+        background: var(--gnc-main);
+        color: white;
+        box-shadow: 0 10px 15px -3px rgba(0, 181, 251, 0.3);
+    }
+
+    /* Course Cards */
+    .course-card {
+        transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+
+    .course-card:hover {
+        transform: translateY(-8px);
+    }
+
+    .inner-card {
+        background: var(--card-bg);
+        border-radius: 20px;
+        padding: 24px;
+        height: 100%;
+        border: 1px solid #f1f5f9;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+    }
+
+    .course-name {
+        font-size: 1.05rem;
+        font-weight: 800;
+        color: var(--gnc-dark);
+        line-height: 1.4;
+        margin-bottom: 16px;
+    }
+
+    .badge-wrap {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    .g-badge {
+        padding: 6px 12px;
+        border-radius: 6px;
+        font-size: 0.7rem;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    /* Dynamic Colors */
+    .lvl-ug { background: var(--tag-ug); color: var(--tag-ug-txt); }
+    .lvl-pg { background: var(--tag-pg); color: var(--tag-pg-txt); }
+    .lvl-dip { background: var(--tag-dip); color: var(--tag-dip-txt); }
+    .strm-badge { background: #f1f5f9; color: #475569; }
+
+    .arrow-icon {
+        margin-top: 15px;
+        color: var(--gnc-main);
+        font-size: 0.9rem;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        opacity: 0;
+        transition: 0.3s;
+    }
+
+    .course-card:hover .arrow-icon { opacity: 1; }
+
+    @media (max-width: 768px) {
+        .filter-tabs { justify-content: flex-start; }
+    }
+</style>
+
+<div id="program-section">
+    <div class="filter-dock">
+        <div class="container">
+            <div class="search-box">
+                <i class="fas fa-search"></i>
+                <input type="text" id="searchInput" placeholder="Search Diploma, Graduate & Post Graduate Courses" onkeyup="filterCourses()">
+            </div>
+            <div class="filter-tabs">
+                <button class="tab-trigger active" onclick="setFilter('all', this)">All</button>
+                <button class="tab-trigger" onclick="setFilter('UG', this)">Undergraduate</button>
+                <button class="tab-trigger" onclick="setFilter('PG', this)">Postgraduate</button>
+                <button class="tab-trigger" onclick="setFilter('Diploma', this)">Diploma</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row" id="courseGrid">
+            <?php
+            $courses = [
+                ["name"=>"BMRIT – Medical Radio Diagnosis & Imaging Tech", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun"],
+                ["name"=>"BMLT – Medical Laboratory Technology", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-bmlt-college-in-dehradun"],
+                ["name"=>"BPT – Bachelor of Physiotherapy", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand"],
+                ["name"=>"Bachelor of Optometry", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun"],
+                ["name"=>"BOTT – Operation Theatre Technology", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun"],
+                ["name"=>"Bachelor of Pharmacy (B.Pharm)", "level"=>"UG", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand"],
+                ["name"=>"B.Pharm (Lateral Entry)", "level"=>"UG", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"BBA – Business Administration", "level"=>"UG", "stream"=>"Management", "url"=>"https://gnc.edu.in/best-bba-college-in-dehradun"],
+                ["name"=>"BCA – Computer Applications", "level"=>"UG", "stream"=>"Computer", "url"=>"https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand"],
+                ["name"=>"B.Sc Nursing", "level"=>"UG", "stream"=>"Nursing", "url"=>"https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun"],
+                ["name"=>"B.Sc Microbiology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"B.Sc Biotechnology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/bsc-biotechnology"],
+                ["name"=>"B.Sc Food Technology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-food-technology"],
+                ["name"=>"B.Sc PCM", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"B.Sc CBZ", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-cbz"],
+                ["name"=>"B.Sc Geology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-geology-College-in-Dehradun-Uttarakhand"],
+                ["name"=>"B.Sc Agriculture", "level"=>"UG", "stream"=>"Agriculture", "url"=>"https://gnc.edu.in/agriculture-science"],
+                ["name"=>"B.Sc Forestry", "level"=>"UG", "stream"=>"Agriculture", "url"=>"https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun"],
+                ["name"=>"MMLT – Medical Laboratory Technology", "level"=>"PG", "stream"=>"Paramedical", "url"=>"#"],
+                ["name"=>"MPT – Physiotherapy", "level"=>"PG", "stream"=>"Paramedical", "url"=>"#"],
+                ["name"=>"MPH – Public Health", "level"=>"PG", "stream"=>"Health Science", "url"=>"https://gnc.edu.in/master-of-public-health"],
+                ["name"=>"MHA – Hospital Administration", "level"=>"PG", "stream"=>"Health Science", "url"=>"https://gnc.edu.in/master-of-hospital-administration"],
+                ["name"=>"M.Sc Microbiology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun"],
+                ["name"=>"M.Sc Food Technology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"M.Sc Zoology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"M.Sc Chemistry", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"M.Sc Physics", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand"],
+                ["name"=>"M.Sc Botany", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand"],
+                ["name"=>"M.Sc Agronomy", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun"],
+                ["name"=>"M.Sc Horticulture", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-horticulture"],
+                ["name"=>"Diploma in Pharmacy (D.Pharm)", "level"=>"Diploma", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand"],
+                ["name"=>"General Nursing & Midwifery (GNM)", "level"=>"Diploma", "stream"=>"Nursing", "url"=>"https://gnc.edu.in/best-gnm-college-in-dehradun"],
+                ["name"=>"Post Basic B.Sc Nursing", "level"=>"Diploma", "stream"=>"Nursing", "url"=>"#"],
+                ["name"=>"Diploma in Hotel Management", "level"=>"Diploma", "stream"=>"Hospitality", "url"=>"https://gnc.edu.in/Best-DHM-Colleges-in-Dehradun"],
+                //  ["name"=>"Diploma in Dialysis Technology", "level"=>"Diploma", "stream"=>"Paramedical", "url"=>"#"],
+                //  ["name"=>"B.Tech (CS) – B.Tech Computer Science", "level"=>"UG", "stream"=>"Computer", "url"=>"#"],
+            ];
+
+            foreach($courses as $course): 
+                $lvlClass = strtolower($course['level']);
+            ?>
+                <div class="col-lg-4 col-md-6 mb-4 course-card" 
+                     data-level="<?= $course['level'] ?>" 
+                     data-name="<?= strtolower($course['name']) ?>">
+                    <a href="<?= $course['url'] ?>" class="text-decoration-none h-100 d-block">
+                        <div class="inner-card">
+                            <div>
+                                <div class="badge-wrap mb-3">
+                                    <span class="g-badge lvl-<?= $lvlClass ?>"><?= $course['level'] ?></span>
+                                    <span class="g-badge strm-badge"><?= $course['stream'] ?></span>
+                                    
+                                </div>
+                                <h6 class="course-name"><?= $course['name'] ?></h6>
+                            </div>
+                            <div class="arrow-icon">
+                                Explore Program <i class="fas fa-arrow-right"></i>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            <?php endforeach; ?>
+        </div>
+    </div>
+</div>
+
+<script>
+    let currentLevel = 'all';
+
+    function setFilter(level, btn) {
+        // Update Buttons
+        document.querySelectorAll('.tab-trigger').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        
+        currentLevel = level;
+        filterCourses();
+    }
+
+    function filterCourses() {
+        const query = document.getElementById('searchInput').value.toLowerCase();
+        const cards = document.querySelectorAll('.course-card');
+
+        cards.forEach(card => {
+            const matchLevel = currentLevel === 'all' || card.dataset.level === currentLevel;
+            const matchSearch = card.dataset.name.includes(query);
+
+            if (matchLevel && matchSearch) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+</script>
+
+    <!-- <section class="programList-section pt-5 pb-5" style="color: black;">
         <div class="container">
             <div class="page-heading text-center">
                 <h2 class="mb-3">Curated Learning Opportunities for You</h2>
@@ -179,18 +460,18 @@
                                 <h6>Postgraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <!-- <li><a href="#" class="hover-effect">Master of Medical Radio Diagnosis And Imaging Technology</a></li> -->
-                                    <li><a href="#" class="hover-effect">Master of Medical Laboratory Technology</a></li>
-                                    <li><a href="#" class="hover-effect">Masterof Physiotherapy</a></li>
+                                    <!-- <li><a href="#" class="hover-effect">Master of Medical Laboratory Technology</a></li>
+                                    <li><a href="#" class="hover-effect">Masterof Physiotherapy</a></li> -->
                                     <!-- <li><a href="#" class="hover-effect">Master of Optometry</a></li> -->
                                     <!-- <li><a href="#" class="hover-effect">Master of Operation Theatre Technology</a></li> -->
 
-                                </ul>
+                                <!-- </ul>
 
-                                <!-- <h6>Diploma Program</h6>
+                                <h6>Diploma Program</h6>
                                 <ul class="list-unstyled ps-4 list-icon-4 mb-3">
                                     <li><a href="https://gnc.edu.in/Best-College-for-Diploma-in-dialysistechnology-in-Dehradun" class="hover-effect" tabindex="0">Diploma in Dialysis Technology - 2 Year's</a></li>
                                 </ul> -->
-                            </div>
+                            <!-- </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="card shadow programList-links p-4 br-20 mb-4">
@@ -200,25 +481,25 @@
                                     <li><a href="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand" class="hover-effect" tabindex="0">Bachelor of Pharmacy - 4 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand" class="hover-effect" tabindex="0">Lateral Entry in B. Pharma - 3 Year's</a></li>
                                 </ul>
-                                <h6>Diploma Program</h6>
-                                <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
+                                <h6>Diploma Program</h6> -->
+                                <!-- <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand" class="hover-effect" tabindex="0">Diploma in Pharmacy - 2 Year's</a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-lg-12">
+                        <!-- <div class="col-lg-12">
                             <div class="card shadow programList-links p-4 br-20 mb-4">
                                 <h4>Health Science Programs</h4>
                                 <h6>Postgraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/master-of-public-health" class="hover-effect">Master of Public Health - 2 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/master-of-hospital-administration" class="hover-effect">Master of Hospital Administration - 2 Year's</a></li>
-                                    <!-- <li><a href="https://gnc.edu.in/bha-colleges-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Hospital Administration - 3 Year's</a></li> -->
+                                    <li><a href="https://gnc.edu.in/bha-colleges-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Hospital Administration - 3 Year's</a></li>
                                 </ul>
                                 </ul>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- <div class="col-lg-12">
                             <div class="card shadow programList-links p-4 br-20 mb-4">
                                 <h4>Vocational</h4>
@@ -233,40 +514,40 @@
                                 </ul>
                             </div>
                         </div> -->
-                        <div class="col-lg-12">
+                        <!-- <div class="col-lg-12">
                             <div class="card shadow programList-links p-4 br-20 mb-4">
                                 <h4>Business School</h4>
                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/best-bba-college-in-dehradun" class="hover-effect">Bachelor of Business Administration (BBA) - 3 Year's</a></li>
-                                    <!-- <li><a href="https://gnc.edu.in/Best-B.com-Colleges-in-Dehradun" class="hover-effect">Bachelor of Commerce - 3 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/Best-B.com-Colleges-in-Dehradun" class="hover-effect">Bachelor of Commerce - 3 Year's</a></li>
                                 </ul>
                                 <h6>Postgraduate Program</h6>
                                 <ul class="list-unstyled ps-4 list-icon-4 mb-3">
                                     <li><a href="https://gnc.edu.in/Best-MBA-Colleges-in-dehradun" class="hover-effect">Master of Business Administration - 3 Years</a></li>
                                     <li><a href="https://gnc.edu.in/pgdm" class="hover-effect">Post Graduate Diploma in Management – 2 Years</a></li>
-                                </ul> -->
+                                </ul>
                             </div>
-                        </div>
-                        <div class="col-lg-12">
+                        </div> -->
+                        <!-- <div class="col-lg-12">
                             <div class="card shadow programList-links p-4 br-20 mb-4">
                                 <h4>Computer Science</h4>
                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <!-- <li><a href="https://gnc.edu.in/bsc-it-cs" class="hover-effect">Bachelor of Science in IT/CS - 3 Year's</a></li> -->
+                                    <li><a href="https://gnc.edu.in/bsc-it-cs" class="hover-effect">Bachelor of Science in IT/CS - 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Computer Applications (BCA) – 3 Year's</a></li>
-                                    <!-- <li><a href="https://gnc.edu.in/bsc-ai" class="hover-effect">Bachelor of Science in Artificial Intelligence (AI) - 3 Year's</a></li> -->
-                                    <!-- <li><a href="https://gnc.edu.in/bsc-dscs" class="hover-effect">B.Sc. Data Science &amp; Cyber Security - 3 Year's</a></li> -->
-                                    <!-- <li><a href="https://gnc.edu.in/b-tech" class="hover-effect">Bachelor of Technology (CSE) – 4 Year's</a></li> -->
+                                    <li><a href="https://gnc.edu.in/bsc-ai" class="hover-effect">Bachelor of Science in Artificial Intelligence (AI) - 3 Year's</a></li> -->
+                                    <!-- <li><a href="https://gnc.edu.in/bsc-dscs" class="hover-effect">B.Sc. Data Science &amp; Cyber Security - 3 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/b-tech" class="hover-effect">Bachelor of Technology (CSE) – 4 Year's</a></li>
                                 </ul>
-                                <!-- <h6>Postgraduate Program</h6>
+                                <h6>Postgraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/msc-ai" class="hover-effect">Master of Science in Artificial Intelligence – 2 Years</a></li>
-                                </ul> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                                </ul>
+                            </div> -->
+                        <!-- </div> -->
+                    <!-- </div>
+                </div> 
                 <div class="col-lg-6">
                     <div class="row admission-row">
                         <div class="col-lg-12">
@@ -291,23 +572,23 @@
                                     <li><a href="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Science in PCM - 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/Bsc-cbz" class="hover-effect">Bachelor of Science in CBZ - 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/Bsc-geology-College-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Science in Geology - 3 Year's</a></li>
-                                    <!-- <li><a href="https://gnc.edu.in/bsc-home-science-College-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Science in Home Science - 3 Year's</a></li> -->
+                                    <li><a href="https://gnc.edu.in/bsc-home-science-College-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Science in Home Science - 3 Year's</a></li>
                                 </ul>
                                 <h6>Postgraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun" class="hover-effect">Master of Science in Microbiology - 2 Year's</a></li>
-                                    <!-- <li><a href="https://gnc.edu.in/msc-biotechnologyColleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of in Science Biotechnology - 2 Year's</a></li> -->
+                                     <li><a href="https://gnc.edu.in/msc-biotechnologyColleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of in Science Biotechnology - 2 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Food Technology - 2 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Zoology - 2 Year's</a></li>
-                                    <!-- <li><a href="https://gnc.edu.in/msc-biochemistry-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Biochemistry - 2 Year's</a></li> -->
+                                    <li><a href="https://gnc.edu.in/msc-biochemistry-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Biochemistry - 2 Year's</a></li> 
                                     <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Chemistry - 2 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Physics - 2 Year's</a></li>
-                                    <!-- <li><a href="https://gnc.edu.in/msc-geology" class="hover-effect">Master of Science in Geology - 2 Year's</a></li> -->
+                                    <li><a href="https://gnc.edu.in/msc-geology" class="hover-effect">Master of Science in Geology - 2 Year's</a></li> 
                                     <li><a href="https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand" class="hover-effect">Master of Science in Botany - 2 Year's</a></li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="col-lg-12">
+                        </div> -->
+                        <!-- <div class="col-lg-12">
                             <div class="card shadow programList-links p-4 br-20 mb-4">
                                 <h4>Agriculture Science</h4>
                                 <h6>Undergraduate Program</h6>
@@ -318,11 +599,11 @@
                                 <h6>Postgraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun" class="hover-effect">Master of Science in Agronomy - 2 Years</a></li>
-                                    <!-- <li><a href="https://gnc.edu.in/msc-seed-science-College-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Seed Science - 2 Years</a></li> -->
-                                    <li><a href="https://gnc.edu.in/msc-horticulture " class="hover-effect">Master of Science in Horticulture - 2 Years</a></li>
+                                    <li><a href="https://gnc.edu.in/msc-seed-science-College-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Seed Science - 2 Years</a></li> -->
+                                    <!-- <li><a href="https://gnc.edu.in/msc-horticulture " class="hover-effect">Master of Science in Horticulture - 2 Years</a></li>
                                 </ul>
-                            </div>
-                        </div>
+                            </div> -->
+                        <!-- </div> 
 
                         <div class="col-lg-12">
                             <div class="card shadow programList-links p-4 br-20 mb-4">
@@ -331,12 +612,12 @@
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/Best-DHM-Colleges-in-Dehradun" class="hover-effect">Diploma in Hotel Management - 1 Year</a></li>
                                 </ul>
-                                <!-- <h6>Undergraduate Program</h6>
+                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/Best-HM-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Hotel Management (BHM) – 4 Year's</a></li>
-                                </ul> -->
+                                </ul> 
                             </div>
-                        </div>
+                        </div> -->
                         <!-- <div class="col-lg-12">
                             <div class="card shadow programList-links p-4 br-20 mb-4">
                                 <h4>School of Arts</h4>
@@ -345,19 +626,19 @@
                                     <li><a href="https://gnc.edu.in/fine-arts-Colleges-in-dehradun-Uttarakhand" class="hover-effect">Bachelor of Fine Arts (BFA) - 3 Year's</a></li>
                                 </ul>
                             </div>
-                        </div> -->
-                    </div>
+                        </div>  -->
+                    <!-- </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </div> -->
+    <!-- </section>  -->
     <section style="background-color: #00b5fbf0;">
         <div class="container pt-4 pb-5 text-white">
             <div class="heading text-center pt-3 text-white">
                 <h2 style="font-size:52px">Placement</h2>
                 <p style="font-size:16px">Our continuous efforts to produce talented professionals are met with an enthusiastic response from the corporate world in the form of placements.</p>
             </div>
-            <div class="row ">
+            <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 ">
 
                     <div class="number-1 text-center text-white" style="font-size: 35px; font-weight:bolder">1.01 CR</div>
