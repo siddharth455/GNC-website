@@ -19,6 +19,26 @@
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Bachelor of Business Administration (BBA)",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Guru Nanak College, Dehradun",
+    "url": "https://gnc.edu.in/"
+  },
+  "description": "Three-year Bachelor of Business Administration (BBA) program designed to equip students with core business management, finance, marketing, and leadership skills.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "79",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
 </head>
 <script type="application/ld+json">
     {
