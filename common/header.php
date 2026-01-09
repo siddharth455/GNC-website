@@ -280,7 +280,7 @@
       opacity: 0;
       pointer-events: none;
       transition: all 0.55s ease;
-      z-index: 999;
+      z-index: 9999;
       overflow: auto;
       padding: 40px 20px;
     }
