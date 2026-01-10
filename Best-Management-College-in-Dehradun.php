@@ -530,136 +530,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
 <!-- ==========================================
      GURU NANAK COLLEGE - INSTITUTIONAL RANKING & NAAC A+ BANNER
      ========================================== -->
-<section class="gnc-ranking-wrapper">
-    <div class="container">
-        <div class="row align-items-end">
-
-            <!-- LEFT: LARGER STUDENT IMAGE (50% Width) -->
-            <div class="col-lg-4 col-md-4 position-relative">
-                <img src="upload/extra/nursing.webp" alt="Guru Nanak College Students" class="gnc-rank-img">
-            </div>
-
-            <!-- RIGHT: RANKING CONTENT (50% Width) -->
-            <div class="col-lg-6 col-md-6">
-
-                <!-- TOP ROW: NIRF & QS (On White Background Area) -->
-                <div class="d-flex flex-wrap align-items-center justify-content-between mb-4">
-
-                    <!-- NIRF 31st Rank -->
-                    <div class="d-flex align-items-center">
-                        <div class="v-label">RANKED</div>
-                        <div class="big-num">31<span>st</span></div>
-                        <div class="rank-info">
-                            IN <span class="text-orange">AMONG TOP</span><br>
-                            PROFESSIONAL<br>
-                            INSTITUTIONS<br>
-                            <small class="text-muted">NIRF 2025 | GNC DEHRADUN</small>
-                        </div>
-                    </div>
-
-                    <!-- QS 231st Rank -->
-                    <div class="qs-wrapper text-center">
-                        <div class="qs-box-container">
-                            <span class="qs-tag">RANKED</span>
-                            <span class="qs-sub">GLOBALLY</span>
-                            <span class="qs-number">231</span>
-                            <div class="qs-orange-ribbon">Health & Allied Sciences</div>
-                        </div>
-                        <span class="qs-bottom-text"></span>
-                    </div>
-                </div>
-
-                <!-- BOTTOM ROW: NAAC A+ (On Navy Background Area) -->
-                <div class="gnc-dark-footer d-flex align-items-center">
-
-                    <!-- NAAC A+ GRADE BADGE -->
-                    <div class="text-center">
-                        <div class="naac-circle">A<sup>+</sup></div>
-                        <div class="naac-name">NAAC</div>
-                        <div class="naac-grade">GRADE A+</div>
-                    </div>
-
-                    <div class="white-divider"></div>
-
-                    <!-- ACCREDITATION DETAILS -->
-                    <div class="naac-content">
-                        <h5 class="naac-h">National Assessment and Accreditation Council (NAAC) Accredited</h5>
-                        <p class="naac-p">Guru Nanak College is officially recognized with the prestigious <strong>Grade 'A+'</strong> for its exceptional standards in academic quality, infrastructure, and institutional excellence.</p>
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-</section>
-
-<style>
-/* BRAND COLORS & DESIGN SYSTEM */
-:root {
-    --gnc-navy: #1e2632;
-    --gnc-orange: #f37021;
-}
-
-/* SECTION STRUCTURE - The Linear Gradient Split Background */
-.gnc-ranking-wrapper {
-    background: linear-gradient(to bottom, #d2caca  50%, var(--gnc-navy) 50%);
-    position: relative;
-    padding-top: 60px;
-    overflow: hidden;
-    font-family: 'Montserrat', sans-serif;
-}
-
-/* IMAGE SCALING (Increased size 120% / Scale 1.1) */
-.gnc-rank-img {
-    width: 120%;
-    margin-left: -20%;
-    transform: scale(1.1);
-    transform-origin: bottom center;
-    filter: grayscale(100%);
-    display: block;
-    margin-bottom: -1px;
-    position: relative;
-    z-index: 5;
-}
-
-/* TOP ROW TYPOGRAPHY (NIRF) */
-.v-label { writing-mode: vertical-rl; transform: rotate(180deg); font-size: 11px; font-weight: 900; color: #333; margin-right: 12px; }
-.big-num { font-size: 110px; font-weight: 900; color: var(--gnc-orange); line-height: 0.8; position: relative; }
-.big-num span { font-size: 26px; position: absolute; top: 10px; right: -26px; }
-.rank-info { font-size: 14px; line-height: 1.2; font-weight: 800; margin-left: 35px; color: #1a1a1a; }
-.text-orange { color: var(--gnc-orange); }
-
-/* QS RANKING BOX STYLING */
-.qs-box-container { border: 3.5px solid var(--gnc-orange); padding: 12px 25px; text-align: center; background: #fff; position: relative; display: inline-block; }
-.qs-number { font-size: 45px; font-weight: 900; line-height: 1; color: #1a1a1a; display: block; }
-.qs-tag { font-size: 13px; font-weight: 900; display: block; }
-.qs-sub { font-size: 10px; letter-spacing: 1px; font-weight: 700; display: block; }
-.qs-orange-ribbon { background: var(--gnc-orange); color: #fff; font-size: 12px; font-weight: 800; padding: 4px 4px; position: absolute; bottom: -14px; left: 50%; transform: translateX(-50%); white-space: nowrap; width: 126%; }
-.qs-bottom-text { font-size: 9px; font-weight: 900; margin-top: 25px; display: block; color: #333; }
-
-/* NAVY FOOTER (ACCREDITATION SECTION) */
-.gnc-dark-footer { padding: 50px 0; color: #fff; }
-.naac-circle { width: 85px; height: 85px; border: 7px solid var(--gnc-orange); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 48px; font-weight: 900; color: var(--gnc-orange); margin: 0 auto; line-height: 1; position: relative; }
-.naac-circle sup { font-size: 24px; top: -0.2em; }
-.naac-name { font-size: 17px; font-weight: 900; letter-spacing: 2px; text-align: center; margin-top: 8px; }
-.naac-grade { font-size: 10px; font-weight: 900; background: var(--gnc-orange); color: #fff; display: inline-block; padding: 2px 8px; margin-top: 5px; border-radius: 2px; }
-.white-divider { width: 1.5px; height: 100px; background: rgba(255,255,255,0.25); margin: 0 40px; }
-.naac-h { font-size: 24px; font-weight: 800; margin-bottom: 5px; line-height: 1.3; }
-.naac-p { font-size: 13px; margin-bottom: 0; opacity: 0.8; }
-
-/* MOBILE RESPONSIVE ADAPTATION */
-@media (max-width: 991px) {
-    .gnc-ranking-wrapper { background: #d2caca ; padding-top: 20px; }
-    .gnc-rank-img { width: 100%; margin-left: 0; transform: scale(1); display:none;}
-    .gnc-dark-footer { background: var(--gnc-navy); margin: 0 -15px; padding: 40px 20px; flex-direction: column; text-align: center; }
-    .white-divider { display: none; }
-    .naac-h { font-size: 19px; margin-top: 25px; }
-    .big-num { font-size: 80px; }
-    .qs-wrapper { margin-top: 40px; width: 100%; }
-    .naac-content { padding-left: 0 !important; }
-}
-</style>
+<?php require "rankingbanner.php"?>
 
 <!-- PLACEMENTS & FACILITIES - COMPUTER SCIENCE / BCA -->
 <section class="section-padding bg-light">
@@ -954,7 +825,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
     .fw-black { font-weight: 900 !important; }
     .max-w-3xl { max-width: 900px; margin-left: auto; margin-right: auto; }
     .text-warning { color: #ffc107 !important; }
-    .section-padding { padding: 80px 0; }
+    .section-padding { padding: 30px 0; }
     
     .shadow-xl {
         box-shadow: 0 20px 40px rgba(0,0,0,0.1) !important;
