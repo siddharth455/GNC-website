@@ -279,7 +279,7 @@ excellence in academics and holistic development." />
             <img src="images/logo.webp" class="center-logo" alt="College Logo" />
             <img src="images/HNBGMU.webp" class="circle-logo" />
             <img src="images/msme.webp" class="circle-logo" />
-            <img src="images/PCI.webp" class="circle-logo" />
+            <img src="images/pci.jpeg" class="circle-logo" />
             <img src="images/sdsuu.webp" class="circle-logo" />
             <img src="images/UBTER.webp" class="circle-logo" />
             <img src="images/ugc.webp" class="circle-logo" />
