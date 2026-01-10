@@ -841,13 +841,13 @@
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="https://picsum.photos/seed/gnc1/400/500" class="d-block w-100" alt="Brochure Page 1">
+                            <img src="upload/dpt/10.jpg" class="d-block w-100" alt="Brochure Page 1">
                         </div>
                         <div class="carousel-item">
-                            <img src="https://picsum.photos/seed/gnc2/400/500" class="d-block w-100" alt="Brochure Page 2">
+                            <img src="upload/dpt/11.jpg" class="d-block w-100" alt="Brochure Page 2">
                         </div>
                         <div class="carousel-item">
-                            <img src="https://picsum.photos/seed/gnc3/400/500" class="d-block w-100" alt="Brochure Page 3">
+                            <img src="upload/dpt/12.jpg" class="d-block w-100" alt="Brochure Page 3">
                         </div>
                     </div>
 
