@@ -19,6 +19,28 @@
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Bachelor of Computer Applications (BCA)",
+  "url": "https://www.gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Guru Nanak College, Dehradun",
+    "url": "https://www.gnc.edu.in/"
+  },
+  "description": "Three-year BCA program focusing on software development, IT systems, and programming skills.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "72",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+
 </head>
 
 <body>
