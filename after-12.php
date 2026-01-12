@@ -103,7 +103,7 @@
         }
 
         .form-container-inside {
-            animation: paneFadeInUp 1s ease-out 1.8s forwards;
+            animation: titleFadeInDown 0.5s ease-out 0.5s forwards;
             opacity: 0;
         }
 
