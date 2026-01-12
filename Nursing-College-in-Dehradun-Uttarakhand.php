@@ -173,6 +173,27 @@
 }
 
     </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "B.Sc Nursing Program",
+  "url": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Guru Nanak College, Dehradun",
+    "url": "https://www.gnc.edu.in/"
+  },
+  "description": "Four-year B.Sc Nursing degree with clinical training, modern labs, and hospital placements.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "96",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
 
 </head>
 <body>

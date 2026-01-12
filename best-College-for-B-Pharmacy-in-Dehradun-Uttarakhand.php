@@ -18,6 +18,28 @@
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Bachelor of Pharmacy (B.Pharm)",
+  "url": "https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Guru Nanak College, Dehradun",
+    "url": "https://gnc.edu.in/"
+  },
+  "description": "Four-year Bachelor of Pharmacy (B.Pharm) program with practical labs, modern facilities, and industry-focused pharmaceutical training.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "68",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+
 </head>
 
 <body>
