@@ -94,11 +94,12 @@
         .gnc-image-wrapper {
             position: relative;
             padding: 30px;
+            
         }
 
         .gnc-image-main {
             width: 100%;
-            height: 550px;
+            height: 650px;
             object-fit: cover;
             position: relative;
             z-index: 2;
@@ -110,8 +111,8 @@
             position: absolute;
             top: 0;
             right: 0;
-            width: 80%;
-            height: 80%;
+            width: 100%;
+            height: 100%;
             background: var(--gnc-cyan);
             z-index: 1;
             border-radius: 0 !important;
@@ -374,9 +375,9 @@
                 <div class="col-lg-5 order-1 order-lg-2">
                     <div class="gnc-image-wrapper">
                         <div class="gnc-image-shape"></div>
-                        <img src="upload/infra/about-us-page.webp" alt="GNC Campus" class="gnc-image-main">
+                        <img src="upload/infra/img-3.webp" alt="GNC Campus" class="gnc-image-main">
                         <div class="gnc-image-experience">
-                            <span>15+</span>
+                            <span>16+</span>
                             <p class="m-0">Years of Academic <br> Excellence</p>
                         </div>
                     </div>
