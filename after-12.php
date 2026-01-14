@@ -25,6 +25,7 @@
             background-color: #fff;
             margin: 0;
             padding: 0;
+            overflow-x: hidden;
         }
 
         /* --- HERO SECTION & ANIMATIONS --- */
@@ -50,7 +51,7 @@
             position: relative;
             display: flex;
             align-items: flex-start;
-            overflow: hidden;
+            justify-content: flex-end; /* Align content to right on desktop */
         }
 
         .hero-overlay-pane {
@@ -67,7 +68,6 @@
             -webkit-mask-image: linear-gradient(to bottom, black 92%, transparent 100%);
             mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
             box-sizing: border-box;
-            /* Animation for Pane */
             animation: paneFadeInUp 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
         }
 
@@ -75,7 +75,6 @@
             font-weight: 800; 
             text-transform: uppercase; 
             line-height: 1.1; 
-            /* Animation for Title Container */
             animation: titleFadeInDown 1s ease-out 0.5s forwards;
             opacity: 0;
         }
@@ -107,6 +106,53 @@
             opacity: 0;
         }
 
+        /* --- RESPONSIVE HERO FIXES --- */
+        @media (max-width: 1200px) {
+            .hero-overlay-pane { right: 50px; }
+        }
+
+        @media (max-width: 992px) {
+            .hero-section { min-height: 800px; background-position: left center; }
+            .hero-overlay-pane { 
+                right: 0; 
+                max-width: 450px; 
+                padding-top: 150px; 
+                -webkit-mask-image: none; 
+                mask-image: none;
+                background: rgba(241, 62, 46, 0.95); /* Ensure readability */
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero-section { 
+                min-height: auto; 
+                display: flex; 
+                flex-direction: column; 
+            }
+            .hero-overlay-pane { 
+                position: relative; 
+                right: auto; 
+                max-width: 100%; 
+                width: 100%;
+                padding: 60px 20px; 
+                height: auto;
+                -webkit-mask-image: none;
+                mask-image: none;
+                animation: none; 
+                opacity: 1;
+            }
+
+            .hero-title{padding-top: 6rem;}
+            
+            .hero-title, .hero-title span, .hero-title strong, .hero-title big, .hero-subtext, .form-container-inside {
+                opacity: 1;
+                animation: none;
+            }
+            .hero-title big { font-size: 38px; }
+            .hero-title strong { font-size: 24px; }
+            .hero-title span { font-size: 18px; }
+        }
+
         /* --- INTRO SECTION --- */
         .intro-block { padding: 60px 0 20px 0; text-align: center; }
         .intro-block h2 { font-weight: 700; font-size: 32px; color: #333; }
@@ -133,7 +179,7 @@
         }
 
         .program-card h4 {
-            font-size: 20px;
+            font-size: 18px;
             font-weight: 800;
             color: var(--gnc-blue);
             text-transform: uppercase;
@@ -146,8 +192,8 @@
 
         .program-card h4 i { 
                color: var(--gnc-orange);
-               margin-right: 22px;
-                font-size: 20px;
+               margin-right: 15px;
+                font-size: 18px;
               }
 
         .program-card ul { list-style: none; padding: 0; margin: 0; }
@@ -162,7 +208,7 @@
             font-size: 10px;
             color: #ccc;
         }
-        .program-card ul li a { text-decoration: none; color: #555; font-size: 16px; transition: 0.3s; line-height: 1.4; display: block; }
+        .program-card ul li a { text-decoration: none; color: #555; font-size: 15px; transition: 0.3s; line-height: 1.4; display: block; }
         .program-card ul li a:hover { color: var(--gnc-light-blue); transform: translateX(5px); }
 
         /* --- RESEARCH PROMO CARD --- */
@@ -258,6 +304,7 @@
         @media (max-width: 768px) { 
             .masonry-container { grid-template-columns: 1fr; }
             .standout-grid { grid-template-columns: 1fr; }
+            .standout-title { font-size: 28px; }
         }
     </style>
 </head>
@@ -297,25 +344,25 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-laptop-code"></i> Computer Sciences</h4>
                         <ul>
-                            <li><a href="#">Bachelor of Computer Applications</a></li>
+                            <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
                         </ul>
                     </div>
 
                     <div class="program-card">
                         <h4><i class="fa-solid fa-microscope"></i> Life & Allied Science</h4>
                         <ul>
-                            <li><a href="#">B.Sc. Microbiology</a></li>
-                            <li><a href="#">B.Sc. Biotechnology</a></li>
-                            <li><a href="#">B.Sc. Food Technology</a></li>
-                            <li><a href="#">B.Sc. PCM</a></li>
-                            <li><a href="#">B.Sc. CBZ</a></li>
-                            <li><a href="#">B.Sc. Geology</a></li>
+                            <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. Microbiology</a></li>
+                            <li><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></li>
+                            <li><a href="bsc-food-technology.php">B.Sc. Food Technology</a></li>
+                            <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. PCM</a></li>
+                            <li><a href="bsc-cbz.php">B.Sc. CBZ</a></li>
+                            <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand.php">B.Sc. Geology</a></li>
                         </ul>
                     </div>
 
                     <div class="research-promo-card">
                         <h3>Advance your education at Guru Nanak College research-focused campus</h3>
-                        <a href="#" class="apply-btn">Apply Today</a>
+                        <a href="https://application.gnc.edu.in/" class="apply-btn">Apply Today</a>
                     </div>
                 </div>
 
@@ -323,25 +370,25 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-kit-medical"></i> Paramedical Programs</h4>
                         <ul>
-                            <li><a href="#">Bachelor of Medical Radio Diagnosis and Imaging Technology</a></li>
-                            <li><a href="#">Bachelor of Medical Laboratory Technology</a></li>
-                            <li><a href="#">Bachelor of Physiotherapy</a></li>
-                            <li><a href="#">Bachelor of Optometry</a></li>
-                            <li><a href="#">Bachelor of Operation Theatre Technology</a></li>
+                             <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
+                            <li><a href="Best-bmlt-college-in-dehradun.php">Bachelor of Medical Laboratory Technology</a></li>
+                            <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand.php">Bachelor of Physiotherapy</a></li>
+                            <li><a href="Best-bsc-optometry-College-in-dehradun.php">Bachelor of Optometry</a></li>
+                             <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor of Operation Theatre Technology</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-pills"></i> Pharmacy Programs</h4>
                         <ul>
-                            <li><a href="#">Bachelor of Pharmacy</a></li>
-                            <li><a href="#">Lateral Entry in B. Pharma</a></li>
-                            <li><a href="#">Diploma in Pharmacy</a></li>
+                           <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php">Bachelor of Pharmacy</a></li>
+                           <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php">Lateral Entry in B. Pharma</a></li>
+                           <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php">Diploma in Pharmacy</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-briefcase"></i> Business School</h4>
                         <ul>
-                            <li><a href="#">Bachelor of Business Administration</a></li>
+                            <li><a href="best-bba-college-in-dehradun.php">Bachelor of Business Administration</a></li>
                         </ul>
                     </div>
                 </div>
@@ -349,15 +396,15 @@
                 <div class="grid-col">
                     <div class="program-card banner-card" style="background-image: url('upload/infra/img-3.webp');">
                         <h5 style="font-weight: 800; font-size: 18px; margin-bottom:15px;">LAY THE FOUNDATION OF A SUCCESSFUL CAREER</h5>
-                        <a href="#" class="apply-btn">APPLY TODAY</a>
+                        <a href="https://application.gnc.edu.in/" class="apply-btn">APPLY TODAY</a>
                     </div>
                     
                     <div class="program-card">
                         <h4><i class="fa-solid fa-user-nurse"></i> Nursing Program</h4>
                         <ul>
-                            <li><a href="#">B.Sc. Nursing</a></li>
-                            <li><a href="#">General Nursing and Midwifery</a></li>
-                            <li><a href="#">Post Basic B.Sc. Nursing</a></li>
+                            <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun.php">B.Sc. Nursing</a></li>
+                            <li><a href="best-gnm-college-in-dehradun.php">General Nursing and Midwifery</a></li>
+                            <li><a href="post-basic-nursing.php">Post Basic B.Sc. Nursing</a></li>
                         </ul>
                     </div>
                 </div>
@@ -377,14 +424,14 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-wheat-awn"></i> Agriculture Science</h4>
                         <ul>
-                            <li><a href="#">B.Sc. Agriculture</a></li>
-                            <li><a href="#">B.Sc. Forestry</a></li>
+                           <li><a href="agriculture-science.php">B.Sc. Agriculture</a></li>
+                           <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun.php">B.Sc. Forestry</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-hotel"></i> Hotel Management</h4>
                         <ul>
-                            <li><a href="#">Diploma in Hotel Management</a></li>
+                            <li><a href="Best-DHM-Colleges-in-Dehradun.php">Diploma in Hotel Management</a></li>
                         </ul>
                     </div>
                 </div>
@@ -421,7 +468,10 @@
             </div>
         </div>
     </section>
-
+    
+    <?php require "company-logo.php" ?>
+    <?php require "application-process.php" ?>
+    <?php require "testimoni-2.php" ?>
     <?php require "common/footer.php"; ?>
 
 </body>
