@@ -40,6 +40,7 @@
             position: relative;
             display: flex;
             align-items: flex-start;
+            justify-content: flex-end; /* Align pane to the right on large screens */
         }
 
         .hero-overlay-pane {
@@ -48,7 +49,10 @@
             width: 100%;
             max-width: 500px;
             position: absolute;
-            top: 0; right: 100px; height: 100%; z-index: 10;
+            top: 0; 
+            right: 100px; 
+            height: 100%; 
+            z-index: 10;
             padding: 220px 40px 100px 40px;
             -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
             mask-image: linear-gradient(to bottom, black 92%, transparent 100%);
@@ -61,6 +65,48 @@
         .hero-title strong { color:var(--gnc-blue); font-size: 30px; display: block; animation: contentSlideInRight 0.8s ease-out 1.2s forwards; opacity: 0; }
         .hero-title big { color: var(--gnc-blue); font-size: 55px; display: block; animation: contentSlideInRight 0.8s ease-out 1.4s forwards; opacity: 0; }
         .hero-subtext { color: #fff; font-size: 15px; margin: 20px 0; line-height: 1.5; animation: contentSlideInRight 0.8s ease-out 1.6s forwards; opacity: 0; }
+
+        /* --- RESPONSIVE FIXES FOR HERO --- */
+        @media (max-width: 1200px) {
+            .hero-overlay-pane { right: 40px; }
+        }
+
+        @media (max-width: 992px) {
+            .hero-section { min-height: 800px; background-position: left center; }
+            .hero-overlay-pane { 
+                right: 0; 
+                max-width: 450px; 
+                padding-top: 150px; 
+                -webkit-mask-image: none; 
+                mask-image: none;
+                background: rgba(255, 111, 97, 0.95); /* Slightly more opaque for readability */
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero-section { 
+                min-height: auto; 
+                display: flex; 
+                flex-direction: column; 
+                background-attachment: scroll;
+            }
+            .hero-overlay-pane { 
+                position: relative; /* Stacks below or over content naturally */
+                right: auto; 
+                max-width: 100%; 
+                width: 100%;
+                padding: 60px 20px; 
+                animation: none; /* Faster loading on mobile */
+                opacity: 1;
+                -webkit-mask-image: none;
+                mask-image: none;
+            }
+            .hero-title{ padding-top: 6rem;}
+            .hero-title span { font-size: 18px; opacity: 1; animation: none; }
+            .hero-title strong { font-size: 24px; opacity: 1; animation: none; }
+            .hero-title big { font-size: 40px; opacity: 1; animation: none; }
+            .hero-subtext { opacity: 1; animation: none; }
+        }
 
         /* --- MASONRY GRID --- */
         .program-masonry { background: var(--grid-bg); padding: 80px 0; }
@@ -88,14 +134,15 @@
         }
         .apply-btn { background: var(--gnc-yellow); color: #000; text-decoration: none; padding: 12px 20px; font-weight: 800; font-size: 12px; text-transform: uppercase; border-radius: 4px; display: inline-block; width: fit-content; margin-top: 15px; transition: 0.3s; }
 
-        /* Mobile Adjustments */
+        @media (max-width: 992px) {
+            .masonry-container { grid-template-columns: repeat(2, 1fr); }
+        }
         @media (max-width: 768px) {
-            .hero-overlay-pane { right: 0; max-width: 100%; padding-top: 180px; }
             .masonry-container { grid-template-columns: 1fr; }
         }
 
         /* Standout-Section */
-                .standout-section { padding: 80px 0; background: #fff; }
+        .standout-section { padding: 80px 0; background: #fff; }
         .standout-flex { display: flex; gap: 40px; align-items: center; }
         .standout-content { flex: 1; }
         .standout-image { flex: 1; position: relative; }
@@ -118,13 +165,12 @@
         .standout-item i { color: var(--gnc-orange); font-size: 18px; }
         .standout-item:hover { background: var(--gnc-blue); color: #fff; transform: translateY(-3px); }
 
-          @media (max-width: 1100px) { 
-            
+        @media (max-width: 1100px) { 
             .standout-flex { flex-direction: column; }
         }
         @media (max-width: 768px) { 
-            
             .standout-grid { grid-template-columns: 1fr; }
+            .standout-title { font-size: 28px; }
         }
     </style>
 </head>
@@ -141,7 +187,7 @@
                 <big>after Graduation</big>
             </div>
             <p class="hero-subtext">Deepen your technical expertise and build research-driven leadership. Our postgraduate programs at GNC prepare you for global excellence.</p>
-            <div class="form-container-inside" style="opacity:2">
+            <div class="form-container-inside" style="opacity:1">
                 <div id="ee-form-6">
                     <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
                 </div>
@@ -157,12 +203,12 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-microscope"></i> Life & Allied Science</h4>
                         <ul>
-                            <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun">M.Sc. Microbiology</a></li>
-                            <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand">M.Sc. Food Technology</a></li>
-                            <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand">M.Sc. Zoology</a></li>
-                            <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand">M.Sc. Chemistry</a></li>
-                            <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">M.Sc. Physics</a></li>
-                            <li><a href="https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand">M.Sc. Botany</a></li>
+                            <li><a href="msc-microbiology-Colleges-in-Dehradun.php">M.Sc. Microbiology</a></li>
+                            <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Food Technology</a></li>
+                            <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Chemistry</a></li>
+                            <li><a href="msc-physics-College-in-Dehradun-Uttarakhand.php">M.Sc. Physics</a></li>
+                            <li><a href="msc-botany-Colleges-in-Uttarakhand.php">M.Sc. Botany</a></li>
+                            <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Zoology</a></li>
                         </ul>
                     </div>
                     <div class="research-promo-card">
@@ -175,15 +221,15 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-kit-medical"></i> Paramedical Programs</h4>
                         <ul>
-                            <li><a href="masters-in-lab-technician.php">Master of Medical Laboratory Technology</a></li>
-                            <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
+                            <li><a href="masters-in-lab-technician.php">M.Sc. Medical Laboratory Technology</a></li>
+                            <li><a href="Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-heart-pulse"></i> Health Science</h4>
                         <ul>
-                            <li><a href="https://gnc.edu.in/master-of-public-health">Master of Public Health</a></li>
-                            <li><a href="https://gnc.edu.in/master-of-hospital-administration">Master of Hospital Administration</a></li>
+                           <li><a href="master-of-public-health.php">Master of Public Health</a></li>
+                           <li><a href="master-of-hospital-administration.php">Master of Hospital Administration</a></li>
                         </ul>
                     </div>
                 </div>
@@ -196,8 +242,8 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-wheat-awn"></i> Agriculture Science</h4>
                         <ul>
-                            <li><a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">M.Sc. Agronomy</a></li>
-                            <li><a href="https://gnc.edu.in/msc-horticulture">M.Sc. Horticulture</a></li>
+                             <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun.php">M.Sc. Agronomy</a></li>
+                             <li><a href="msc-horticulture.php">M.Sc. Horticulture</a></li>
                         </ul>
                     </div>
                 </div>
