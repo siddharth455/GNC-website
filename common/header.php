@@ -858,7 +858,7 @@ window.addEventListener("scroll", function () {
         <marquee behavior="scroll" direction="left">
           <i class="fa-solid fa-circle-arrow-right"></i>
           Disclaimer: This is our official website. There is no other website for any admission to Guru Nanak College, Jhajra, Dehradun. Please do not send any amount to any account other than the official one.
-          <a href="bank-details.php" class="btn btn-danger btn-sm ms-2" style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE</a> for account details
+          <a href="bank-details.php" class="btn btn-danger btn-sm ms-2" style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE for account details</a> 
         </marquee>
       </div>
       
@@ -1471,8 +1471,7 @@ document.addEventListener("DOMContentLoaded", function () {
         Disclaimer: This is our official website. There is no other website for any admission to Guru Nanak College, Jhajra, Dehradun.
         Please do not send any amount to any account other than the official one.
         <a href="bank-details.php" class="btn btn-danger btn-sm ms-2"
-          style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE</a>
-        for account details
+          style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE for account details</a>
       </marquee>
     </div>
     <div class="social-icons">

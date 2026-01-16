@@ -123,6 +123,7 @@
         font-family: "Comfortaa", sans-serif;
         font-size: clamp(2rem, 4vw, 3.5rem);
         margin-bottom: 24px;
+        color: #000 !important;
     }
 
     .success-info p {
@@ -130,6 +131,7 @@
         font-weight: 300;
         line-height: 1.5;
         margin-bottom: 24px;
+         color: #000 !important;
     }
 
     .success-btn {
