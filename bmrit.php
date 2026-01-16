@@ -330,7 +330,11 @@
         .gnc-bento-item:nth child (1){
             background: #007bff;
         }
+    
+        .gnc-bento-ian{
+            color: white;
 
+        }
         
         .bg-light-grey { background-color: #f7f9fb; }
         .bg-very-light { background-color: #fafafa; }
@@ -850,7 +854,7 @@
         
        
         <div class="gnc-bento-item" data-aos="fade-up" data-aos-duration="600" style="background-color: rgb(3 175 255)">
-            <h2 class="">Important Academic Notes</h2>
+            <h2 class="gnc-bento-ian">Important Academic Notes</h2>
             <ul class="gnc-arrow-list ">
                 <li>Examination Fees: External as per the University/Board/ College Norms Payable.</li>
                 <li>Career Development, Recruitment & Entrepreneurship: Ref - Power Degree by Career Buddy Club.</li>
