@@ -18,11 +18,11 @@
     <style>
         :root {
             --gnc-blue: #0056b3;
-            --gnc-light-blue: #00aae7;
+            --gnc-light-blue:rgb(3 175 255);
             --gnc-yellow: #ffcb05;
             --text-dark: #333;
             --bg-light: #f4f7f9;
-            --gnc-orange: #ff6f61;
+            --gnc-orange: rgb(251 123 28);
             --grid-bg: #0072bc;
         }
 
@@ -40,22 +40,20 @@
             position: relative;
             display: flex;
             align-items: flex-start;
-            justify-content: flex-end; /* Align pane to the right on large screens */
+            justify-content: flex-end; 
         }
 
         .hero-overlay-pane {
-            background: var(--gnc-orange);
-            backdrop-filter: blur(12px);
-            width: 100%;
-            max-width: 500px;
-            position: absolute;
-            top: 0; 
-            right: 100px; 
-            height: 100%; 
-            z-index: 10;
-            padding: 220px 40px 100px 40px;
-            -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
-            mask-image: linear-gradient(to bottom, black 92%, transparent 100%);
+             background: rgba(236, 236, 236, 0.6);
+             width: 100%;
+             max-width: 500px;
+             position: absolute;
+             top: 0; 
+             right: 100px; 
+             height: 100%; 
+             z-index: 10;
+             padding: 220px 40px 100px 40px;
+             mask-image: linear-gradient(to bottom, black 95%, transparent 100%);
             box-sizing: border-box;
             animation: paneFadeInUp 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
         }
@@ -64,7 +62,7 @@
         .hero-title span { color:var(--gnc-blue); font-size: 22px; display: block; animation: contentSlideInRight 0.8s ease-out 1s forwards; opacity: 0; }
         .hero-title strong { color:var(--gnc-blue); font-size: 30px; display: block; animation: contentSlideInRight 0.8s ease-out 1.2s forwards; opacity: 0; }
         .hero-title big { color: var(--gnc-blue); font-size: 55px; display: block; animation: contentSlideInRight 0.8s ease-out 1.4s forwards; opacity: 0; }
-        .hero-subtext { color: #fff; font-size: 15px; margin: 20px 0; line-height: 1.5; animation: contentSlideInRight 0.8s ease-out 1.6s forwards; opacity: 0; }
+        .hero-subtext { color: #555353; font-size: 15px; margin: 20px 0; line-height: 1.5; animation: contentSlideInRight 0.8s ease-out 1.6s forwards; opacity: 0; }
 
         /* --- RESPONSIVE FIXES FOR HERO --- */
         @media (max-width: 1200px) {
@@ -79,7 +77,7 @@
                 padding-top: 150px; 
                 -webkit-mask-image: none; 
                 mask-image: none;
-                background: rgba(255, 111, 97, 0.95); /* Slightly more opaque for readability */
+                
             }
         }
 
