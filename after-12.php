@@ -12,11 +12,11 @@
     <style>
         :root {
             --gnc-blue: #0056b3;
-            --gnc-light-blue: #00aae7;
+            --gnc-light-blue: rgb(3 175 255);
             --gnc-yellow: #ffcb05;
             --text-dark: #333;
             --bg-light: #f4f7f9;
-            --gnc-orange: #f13e2eff;
+            --gnc-orange: rgb(251 123 28);
             --grid-bg: #0072bc;
         }
 
@@ -51,12 +51,11 @@
             position: relative;
             display: flex;
             align-items: flex-start;
-            justify-content: flex-end; /* Align content to right on desktop */
+            justify-content: flex-end; 
         }
 
         .hero-overlay-pane {
-            background: var(--gnc-orange);
-            backdrop-filter: blur(12px);
+            background: rgba(236, 236, 236, 0.6);
             width: 100%;
             max-width: 500px;
             position: absolute;
@@ -65,8 +64,7 @@
             height: 100%; 
             z-index: 10;
             padding: 240px 40px 100px 40px; 
-            -webkit-mask-image: linear-gradient(to bottom, black 92%, transparent 100%);
-            mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
+            mask-image: linear-gradient(to bottom, black 97%, transparent 100%);
             box-sizing: border-box;
             animation: paneFadeInUp 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
         }
@@ -96,7 +94,7 @@
         }
 
         .hero-subtext { 
-            color: #fff; font-size: 15px; margin: 20px 0; line-height: 1.5; 
+            color: #282727; font-size: 15px; margin: 20px 0; line-height: 1.5; 
             animation: contentSlideInRight 0.8s ease-out 1.6s forwards;
             opacity: 0;
         }

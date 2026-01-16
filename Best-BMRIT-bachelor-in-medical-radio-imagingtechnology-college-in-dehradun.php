@@ -303,10 +303,10 @@
                         </ul>
 
                         <!--<h6 class="mb-2 mt-4"><b>For Lateral Entry</b> </h6>
-<ul class="llistStyle-2 p-0 mt-4 text-start course-list">
-    <li>Passed 3 years Diploma in Engineering/ 2 years Diploma in Engineering (Lateral Entry)/B.Sc. with PCM Examination.</li>
-    <li>Minimum 60% marks in case of general category; 55% marks in case of SC/ST category</li>
-</ul>-->
+                        <ul class="llistStyle-2 p-0 mt-4 text-start course-list">
+                        <li>Passed 3 years Diploma in Engineering/ 2 years Diploma in Engineering (Lateral Entry)/B.Sc. with PCM Examination.</li>
+                        <li>Minimum 60% marks in case of general category; 55% marks in case of SC/ST category</li>
+                       </ul>-->
                     </div>
                     <div class="note-block br-20 shadow-sm border p-4">
 
