@@ -18,7 +18,7 @@
                     <div class="col-sm-7">
                         <div class="legacy-badge-wrapper" data-aos="fade-up" data-aos-duration="600">
                             <div class="v-label">Est. 2009</div>
-                            <div class="big-num">14<span>+</span></div>
+                            <div class="big-num">16<span>+</span></div>
                             <div class="nirf-info">
                                 <span class="nirf-h">YEARS OF <br><span class="txt-orange">ACADEMIC</span></span>
                                 <span class="nirf-p">EXCELLENCE</span>
