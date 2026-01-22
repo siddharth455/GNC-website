@@ -21,6 +21,10 @@
 <meta name="twitter:title" content="Best Pharmacy Colleges in Dehradun & Uttarakhand | GNC">
 <meta name="twitter:description" content="Join Guru Nanak College, one of the best pharmacy colleges in Dehradun & Uttarakhand for B.Pharm & D.Pharm programs.">
 <meta name="twitter:image" content="https://www.gnc.edu.in/assets/images/pharmacy-campus.jpg">
+ <link rel="stylesheet" href="css/programs.css"/>
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",

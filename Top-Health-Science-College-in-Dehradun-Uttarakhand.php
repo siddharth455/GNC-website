@@ -6,15 +6,15 @@
     <title>Best Health Science College in Dehradun, Uttarakhand | Guru Nanak College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="School of Health Sciences at Guru Nanak College, Dehradun a premier institution
-for advanced healthcare education. Explore our Master of Hospital Administration (MHA) and Master of
-Public Health (MPH) programs, designed to meet the challenges of the modern healthcare industry.">
+      for advanced healthcare education. Explore our Master of Hospital Administration (MHA) and Master of
+       Public Health (MPH) programs, designed to meet the challenges of the modern healthcare industry.">
     <link rel="canonical" href="https://www.gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Health Science College in Dehradun, Uttarakhand | Guru Nanak College" />
     <meta property="og:description" content="School of Health Sciences at Guru Nanak College, Dehradun a premier institution
-for advanced healthcare education. Explore our Master of Hospital Administration (MHA) and Master of
-Public Health (MPH) programs, designed to meet the challenges of the modern healthcare industry." />
+          for advanced healthcare education. Explore our Master of Hospital Administration (MHA) and Master of
+          Public Health (MPH) programs, designed to meet the challenges of the modern healthcare industry." />
     <meta property="og:url" content="https://www.gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -22,6 +22,10 @@ Public Health (MPH) programs, designed to meet the challenges of the modern heal
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
+    <link rel="stylesheet" href="css/programs.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script> 
     <style>
         :root {
             --gnc-blue: #00b7ff;
