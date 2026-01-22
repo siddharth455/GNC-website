@@ -227,7 +227,7 @@ $allTags = array_keys($allTags);
           <h2 id="hero-title"><?=htmlspecialchars($featured['title'])?></h2>
           <p class="meta">By <?=htmlspecialchars($featured['author']['name'])?> • <?=htmlspecialchars($featured['date'])?> </p>
           <p class="excerpt"><?=htmlspecialchars($featured['excerpt'])?></p>
-          <a class="btn" href="<?=urlencode($featured['url'])?>.php">Read more</a>
+          <a class="btn" href="<?=urlencode($featured['url'])?>.php">Read more about course</a>
         </div>
       </article>
       <?php else: ?>

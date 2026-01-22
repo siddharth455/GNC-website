@@ -2242,7 +2242,7 @@ excellence in academics and holistic development." />
             <img src="upload/icon-1.webp" alt="Guru Nanak College" loading="lazy" width="41" height="41" title="col-icon-1" decoding="async" />
             <h3>Higher Education Courses</h3>
             <p>Join GNC for diplomas and bachelor's in nursing, pharmacy, and paramedical, blending theory with practical expertise.</p>
-            <a href="https://www.gnc.edu.in/admissions">Learn More</a>
+            <a href="https://www.gnc.edu.in/admissions">Explore Courses</a>
           </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6 col-12">
@@ -2250,7 +2250,7 @@ excellence in academics and holistic development." />
             <img src="upload/icon-2.webp" alt="Guru Nanak College" loading="lazy" decoding="async" width="43" height="45" title="col-icon-2" />
             <h3>Global Opportunities</h3>
             <p>Find your path with GNC and Career Buddy Club, offering national and international placements in nursing, pharmacy, and paramedical fields.</p>
-            <a href="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">Learn More</a>
+            <a href="https://gnc.edu.in/admissions">Explore Opportunities</a>
           </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6 col-12">
@@ -2258,7 +2258,7 @@ excellence in academics and holistic development." />
             <img src="upload/icon-3.webp" alt="Guru Nanak College" loading="lazy" decoding="async" width="40" height="43" title="col-icon-3" />
             <h3>Student Academic Services</h3>
             <p>Boost success in paramedical & pharmacy studies at GNC with tailored tutoring, lab support, drug research aids.</p>
-            <a href="https://www.gnc.edu.in/academic-overview">Learn More</a>
+            <a href="https://www.gnc.edu.in/academic-overview">More about academics</a>
           </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6 col-12">
@@ -2266,7 +2266,7 @@ excellence in academics and holistic development." />
             <img src="upload/icon-4.webp" alt="Guru Nanak College" loading="lazy" decoding="async" width="47" height="47" title="col-icon-4" />
             <h3>Campus Life</h3>
             <p>Discover GNC's campus life: modern labs, active student clubs, and a vibrant community tailored for paramedical & pharmacy studies!</p>
-            <a href="https://www.gnc.edu.in/campus-life">Learn More</a>
+            <a href="https://www.gnc.edu.in/campus-life">Explore Campus Life</a>
           </div>
         </div>
       </div>

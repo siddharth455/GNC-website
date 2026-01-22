@@ -84,7 +84,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">60 Hours of specialized training</h5>
                             <!-- <p class="card-text">Focused and intensive learning for specialized skills Ensuring that training materials can easily transition between offline and online formats to accommodate various learning environments.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">200+ skill assessment tests</h5>
                             <!-- <p class="card-text">Improves proficiency and efficiency in students.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">Fresher focused job portal</h5>
                             <!-- <p class="card-text">Great Job opportunities for fresh graduates.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">4 industry integrated certifications</h5>
                             <!-- <p class="card-text">Get verified and industry worthy integrated certifications.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">50+ job interviews</h5>
                             <!-- <p class="card-text">Gain valuable experience through sustained and continual interviews.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">Pre Employment Training</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -144,7 +144,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">60+ hrs Personalized Mentorship</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -154,7 +154,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">4-6 Months On Job Training</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">Physical Training Centers in 4 Locations</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -174,7 +174,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">300+ Industry Experts from Ivy League & Fortune 500</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -184,7 +184,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title">10+ Real-Life Projects</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                         <div class="card-body logo-head">
                             <h5 class="card-title"> Live Mentors / Life Coach sessions around the year</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
-                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More</a>
+                            <a href="https://www.careerbuddyclub.com/" class="btn btn-primary">Read More About<br>Our Practices</a>
                         </div>
                     </div>
                 </div>
@@ -291,7 +291,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-info btn-shadow mt-1" style="color:white">Apply Now <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                <a href="https://application.gnc.edu.in/" class="btn btn-lg btn-info btn-shadow mt-1" style="color:white">Apply Now for Admission<i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
             </div>
         </div>
     </section>
@@ -306,7 +306,7 @@
                         <h3>Unlock Your Future with Career Buddy Club: 100% Job Placement Guaranteed Courses</h3>
                         <p>At Career Buddy Club, we understand that education is not just about earning a degree; it's about securing a promising future and embarking on a successful career journey. That's why we are proud to offer a range of specialized courses with an unbeatable promise – 100% job placement guaranteed.Whether you're looking to advance in your current career or start a new one, our carefully crafted courses are designed to provide you with the skills and knowledge employers are seeking. With Career Buddy Club, you can be confident that your investment in education will pay off with a fulfilling and rewarding career. Join us today and unlock your future!</p>
                         <div class="apply-now-button">
-                            <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">Read More</a>
+                            <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">View Our Placement<br> Guaranteed Courses</a>
                         </div>
                     </div>
                 </dev>
@@ -319,7 +319,7 @@
                     <h3>Personalized counseling</h3>
                     <p style="color:black">Career Buddy Club offers personalized counseling services that go beyond traditional career aptitude tests. Our expert career counselors take the time to understand your unique strengths, passions, and goals. Through in-depth conversations and assessments, we provide tailored guidance that empowers you to make informed decisions about your educational and career path. Our commitment is to ensure you find the right degree program and career trajectory that aligns with your individual aspirations, setting you up for long-term success and fulfillment. Discover your true potential with Career Buddy Club's personalized counseling today.</p>
                     <div class="apply-now-button">
-                        <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">Read More</a>
+                        <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">Get Our Counseling</a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 ">
@@ -337,7 +337,7 @@
                         <h3>Student Exchange Programme</h3>
                         <p>Embark on a transformative academic adventure with Career Buddy Club's Student Exchange Programme with foreign colleges. We believe that international exposure is a key ingredient for personal and professional growth. Our carefully curated exchange programmes offer students the opportunity to broaden their horizons, experience diverse cultures, and gain a global perspective on their chosen field of study. Through partnerships with prestigious foreign colleges, we facilitate seamless transitions and provide a supportive network for our students to thrive in a new academic environment. Join our Student Exchange Programme and open doors to endless possibilities while building a strong foundation for your future career. Expand your worldview and enhance your education with Career Buddy Club's international exchange opportunities.</p>
                         <div class="apply-now-button">
-                            <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">Read More</a>
+                            <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">Learn More About<br>Our Programme</a>
                         </div>
                     </div>
                 </dev>
@@ -349,7 +349,7 @@
                     <h3>Career Aptitude Test</h3>
                     <p style="color:black">Take your first step towards a successful career with the Career Aptitude Test by Career Buddy Club! Unsure about which path to choose or whether your skills align with your aspirations? Our comprehensive aptitude test will help you discover your true calling. Our team of experts has designed this test to assess your strengths, interests, and potential, guiding you towards the perfect career fit. Don't leave your future to chance; let us provide you with the insights and direction you need to make informed decisions. Take the Career Aptitude Test today and embark on a journey towards a fulfilling and rewarding career. Your future starts here with Career Buddy Club!</p>
                     <div class="apply-now-button">
-                        <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">Read More</a>
+                        <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">Contact for<br> Career Aptitude test</a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
@@ -367,7 +367,7 @@
                         <h3>Placements</h3>
                         <p>At Career Buddy Club, we've successfully placed over 1000+ students in various companies. Our commitment to your success goes beyond education and training. We have strong industry connections, a dedicated placement cell, and offer assistance with resume building, interview preparation, and connections to top employers. With us, your path to a fulfilling career is virtually guaranteed. Join us today for a transformative professional future!</p>
                         <div class="apply-now-button">
-                            <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">Read More</a>
+                            <a href="https://www.careerbuddyclub.com" class="cu-btn cu-btn-100">View our placements</a>
                         </div>
                     </div>
                 </dev>
