@@ -1,5 +1,4 @@
 <?php require "common/header.php" ?>
-<?php require "common/header.php" ?>
  <!DOCTYPE html>
  <html lang="en">
  <head>
@@ -31,7 +30,7 @@
             <h2 class="mb-3">Code of Ethics</h2>
         </div>
         <h3 class="mb-3">Preamble:</h3>
-        <p>At Guru Nanak College of Pharmaceutical Sciences (GNC), we are dedicated to upholding the highest standards of integrity and accountability in academic research. We are committed to nurturing a culture of honesty and transparency in Pharmaceutical Sciences. We consider academic freedom to be a core principle, ensuring an environment that encourages ethical research and publication.</p>
+        <p>Guru Nanak College (GNC) promotes academic freedom while ensuring responsibility in teaching, learning, research, and publication. We encourage ethical practices, transparency, and originality in all scholarly work, maintaining zero tolerance for plagiarism, misconduct, or unethical behavior.</p>
         <h3>Objectives of Policy:</h3>
         <ul class="list-unstyled p-0 list-icon-4 ps-4 mt-3">
             <li><b>Cultivating a Research Culture:</b> We aim to instill and promote a culture of research among both faculty members and students.</li>

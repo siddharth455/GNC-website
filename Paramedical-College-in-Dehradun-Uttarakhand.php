@@ -17,12 +17,12 @@
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="css/programs.css"/>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -48,7 +48,7 @@
         /* Hero UI */
         /* .hero-section styles removed as pageBanner-inner is used */
         .hero-title { font-weight: 800; font-size: clamp(2.2rem, 5vw, 3.6rem); line-height: 1.15; margin-bottom: 25px; }
-        .hero-form { background: #fff; border-radius: 8px; box-shadow: 0 20px 50px rgba(0,0,0,0.3); overflow: hidden; margin-top: -80px; }
+        .hero-form  { background: #fff; border-radius: 8px; box-shadow: 0 20px 50px rgba(0,0,0,0.3); overflow: hidden; margin-top: -80px; }
         .form-header { background: var(--gnc-red); color: #fff; padding: 20px; text-align: center; }
         .form-header h3 { font-weight: 900; margin-bottom: 0; font-size: 1.5rem; }
 
@@ -741,7 +741,7 @@
     <?php require "common/footer.php";?>
 
     <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
     <script>
     $(document).ready(function() {
         /**

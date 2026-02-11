@@ -6,26 +6,25 @@
     <title>Guru Nanak College | Best Hotel Management College in Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, Our School of Hotel Management blends theory with hands-on
-experience. From culinary arts to event management, we prepare students for success in the fast-paced
-industry.">
+    experience. From culinary arts to event management, we prepare students for success in the fast-paced
+    industry.">
     <link rel="canonical" href="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun">
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
     <meta property="og:title" content="Guru Nanak College | Best Hotel Management College in Dehradun" />
     <meta property="og:description" content="Guru Nanak College, Our School of Hotel Management blends theory with hands-on
-experience. From culinary arts to event management, we prepare students for success in the fast-paced
-industry." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun" />
+    experience. From culinary arts to event management, we prepare students for success in the fast-paced industry."/>
+    <meta property="og:url" content="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun"/>
     <meta property="og:site_name" content="GNC Dehradun" />
-    <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
+    <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
-     <link rel="stylesheet" href="css/programs.css"/>
-<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <meta property="og:image:width" content="383"/>
+    <meta property="og:image:height" content="256"/>
+    <meta property="og:image:type" content="image/webp"/>
+    <link rel="stylesheet" href="css/programs.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
     <style>
         :root {
@@ -46,6 +45,7 @@ industry." />
         p { color: var(--text-gray); font-size: 1.05rem; }
 
        
+        
 
         /* Hero UI */
         /* .hero-section styles removed as pageBanner-inner is used */

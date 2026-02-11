@@ -1668,8 +1668,8 @@ document.addEventListener("DOMContentLoaded", function () {
         </ul>
       </li>
 
-      <li><a href="https://student.gncdehradun.com/" target="_blank">Student ERP Login</a></li>
-      <li><a href="https://staff.gncdehradun.com/" target="_blank">Staff ERP Login</a></li>
+      <li><a href="https://student.gncdehradun.com/AccSoft_GNC/" target="_blank">Student ERP Login</a></li>
+      <li><a href="https://staff.gncdehradun.com/AccSoft_GNC/Login.aspx" target="_blank">Staff ERP Login</a></li>
       <li><a href="library.php">Library</a></li>
       <li><a href="careers.php">Careers</a></li>
       <li><a href="alumni.php">Alumni</a></li>
