@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 .slider-container {
     width: 100%;
     max-width: 700px;
@@ -76,8 +78,7 @@
     display: block;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
 
 .acc-title {
     text-align: center;

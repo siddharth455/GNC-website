@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admissions | GNC Dehradun</title>
-    <!-- Tailwind CDN Removed -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
@@ -15,9 +14,9 @@
             margin: 0;
         }
 
-        /* --- Tailwind Replacements --- */
         
-        /* Layout & Position */
+        
+        
         .relative { position: relative; }
         .absolute { position: absolute; }
         .fixed { position: fixed; }
@@ -216,7 +215,7 @@
             .lg-text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
         }
 
-        /* Slide Dot helper for JS */
+        
         .slide-dot {
             height: 0.25rem;
             width: 2rem;
@@ -225,7 +224,7 @@
             margin-right: 0.5rem;
         }
         .slide-dot.active {
-            background-color: #0891b2; /* bg-cyan-600 */
+            background-color: #0891b2; 
         }
 
         /* --- Existing Styles Preserved --- */
@@ -453,7 +452,7 @@
                         <p class="text-sm md-text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
                             Join the university ranked amongst the top 5% globally with a track record of 9500+ placement offers.
                         </p>
-                        <a  href ='/Gnc-website/admissions.php' class="bg-custom-blue hover-bg-cyan-700 text-white font-bold py-4 px-10 text-12px uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
+                        <a  href ='https://www.gnc.edu.in/admissions.php' class="bg-custom-blue hover-bg-cyan-700 text-white font-bold py-4 px-10 text-12px uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
                             Explore Programs <i class="fa-solid fa-arrow-right ml-3 group-hover-translate-x-1 transition-transform"></i>
                       </a>
 
@@ -504,7 +503,7 @@
         }
 
         .gnc-placement-clean {
-            background-color: #ffffff; /* White background as requested */
+            background-color: #ffffff; 
             padding: 80px 0;
             color: var(--text-dark);
             font-family: 'Poppins', sans-serif;
@@ -512,7 +511,7 @@
 
         /* --- VIDEO BLOCK --- */
         .video-wrapper-modern {
-            background: #f8fafc; /* Light gray subtle contrast */
+            background: #f8fafc; 
             border-radius: 30px;
             padding: 25px;
             border: 1px solid #e2e8f0;

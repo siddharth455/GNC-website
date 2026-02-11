@@ -50,7 +50,7 @@
                     <div class="col-sm-8">
                         <div class="legacy-info-integrated" data-aos="fade-right" data-aos-duration="800">
                             <h5>A Legacy of Quality Education & Industry Readiness</h5>
-                            <p>Guru Nanak College (GNC) focuses on practical skills and industry-relevant curriculum. With 14+ years of sustained commitment, we ensure our graduates are career-ready.</p>
+                            <p>Guru Nanak College (GNC) focuses on practical skills and industry-relevant curriculum. With 16+ years of sustained commitment, we ensure our graduates are career-ready.</p>
                         </div>
                     </div>
                 </div>
