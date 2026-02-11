@@ -22,6 +22,27 @@
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Paramedical Courses",
+  "url": "https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand.php",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Guru Nanak College, Dehradun",
+    "url": "https://www.gnc.edu.in/"
+  },
+  "description": "Paramedical diploma and degree programs including BMLT, OTT, Physiotherapy and Allied Health Sciences with clinical and lab training.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "54",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
 
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
     <style>

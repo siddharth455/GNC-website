@@ -107,7 +107,9 @@
                         <li class="nav-item">
                             <button class="nav-link active" id="fee-tab" data-bs-toggle="tab" data-bs-target="#fee-content" type="button" role="tab">Fee Structure</button>
                         </li>
-                        
+                        <li class="nav-item">
+                            <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#other-content" type="button" role="tab">Other Fees</button>
+                        </li>
                     </ul>
 
                     <div class="tab-content" id="gncTabsContent">
@@ -130,10 +132,10 @@
                                     <tbody>
                                         <tr>
                                             <td>Fee <BR>(Included all Fee)</td>
-                                             <td>2,50,000</td>
+                                             <td>2,00,000</td>
                                         </tr>
                                         <tr>
-                                            <td colspan="6">Registration Fee, Counseling Fee, Admission Fee, Lab, Library, Medical Consultation &amp; Ambulance Service, ERP Membership Fee, Hospital Visit Fee, Transportation Fee, Hostel Standard with Attached Toilet, Hostel Enrollment &amp; Furnishing Fee, Laundry Fee, Uniform Fee (Winter/Summer/Sports/Lab Practical), Education Tour Fee, National/International Workshop, Gymnasium Fee, Clubs Fee, Cultural Events and Academic Fee</td>
+                                            <td colspan="6">Registration Fee, Counseling Fee, Admission Fee, Lab, Library, Medical Consultation &amp; Ambulance Service, ERP Membership Fee, Hospital Visit Fee, Transportation Fee, Uniform Fee (Winter/Summer/Sports/Lab Practical), Education Tour Fee, National/International Workshop, Gymnasium Fee, Clubs Fee, Cultural Events and Academic Fee</td>
                                         </tr>
                                         
                                          
@@ -170,48 +172,9 @@
                         </div>
 
                         <!-- Tab 2: Other Fees -->
-                        <!-- <div class="tab-pane fade" id="other-content" role="tabpanel">
-                            <h5>One Time Payable Charges in 1st Year (INR)</h5>
-                            <div class="table-responsive">
-                                <table>
-                                    <thead>
-                                        <tr>
-                                            <th>Admission Fee</th>
-                                            <th>Registration Fee</th>
-                                            <th>Uniform</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>8,000</td>
-                                            <td>1,200</td>
-                                            <td>5,999</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-
-                            <h5>Other Charges Per Year (INR)</h5>
-                            <div class="table-responsive">
-                                <table>
-                                    <thead>
-                                        <tr>
-                                            <th>Examination Fee</th>
-                                            <th>Lab, Library, Medical Consultation & Ambulance Service</th>
-                                            <th>ERP Membership</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>(Theory Internal / External, Practical Internal / External) As per the University/Board/College Norms Payable</td>
-                                            <td>4,800</td>
-                                            <td>1,500</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-
-                            <h5>Optional Fee Par Year (INR)</h5>
+                        <div class="tab-pane fade" id="other-content" role="tabpanel">
+                           
+                            <h5>Hostel Fee Par Year (INR)</h5>
                             <div class="table-responsive">
                                 <table>
                                     <thead>
@@ -249,7 +212,7 @@
                                     </tbody>
                                 </table>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                   </div>
 

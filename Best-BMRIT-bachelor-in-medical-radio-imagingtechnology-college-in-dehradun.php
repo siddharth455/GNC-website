@@ -161,11 +161,10 @@
                                     <thead>
                                         <tr>
                                             <th>Uttarakhand Domicile</th>
-                                            <th>65-75%</th>
-                                            <th>75-85%</th>
-                                            <th>85-95%</th>
+                                            <th>65-74.99%</th>
+                                            <th>75-84.99%</th>
+                                            <th>85-94.99%</th>
                                             <th>95% and above</th>
-                                            <th>Sports Category</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -175,7 +174,6 @@
                                             <td>15%</td>
                                             <td>20%</td>
                                             <td>Tuition fee waiver (TFW)</td>
-                                            <td>10%</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -275,19 +273,22 @@
                     </div>
                    
                       <div class="note-box">
-                        <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Note:</h4>
+                        <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Additional Scholarships:</h4>
                         <ul style="padding-left: 20px; font-size: 1rem; color: var(--text-gray);">
                             <li style="margin-bottom: 10px;">These scholarships are available in addition to merit-based scholarships:
                                 <ol style="margin-top: 8px;">
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in 1st year).</li>
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st year).</li>
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
+                                    <li>10% scholarship on Uttarakhand Domicile.</li>
+                                    <li>10% scholarship for Girl Child.</li>
+                                    <li>10% scholarship for Orphan</li>
+                                    <li>10% Scholarship for Sports</li>
+                                    <li>10% Scholarship for Siblings</li>
                                 </ol>
                             </li>
-                            <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand Domicile, Girl Child, etc.) upon approval.</li>
+                            <strong>Note:</strong>
+                            <li>Merit-Based Scholarships and additional Scholarships are applicable for first year
+                                only, subject to Approval from Scholarship Committee</li>
                         </ul>
                     </div>
-                     
                 </div>
             </div>
         </div>
