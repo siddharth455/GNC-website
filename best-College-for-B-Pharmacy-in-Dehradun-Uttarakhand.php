@@ -38,6 +38,142 @@
     "worstRating": "1"
   }
 }
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "CollegeOrUniversity",
+ "name": "Guru Nanak College",
+ "url": "https://www.gnc.edu.in",
+ "logo": "https://www.gnc.edu.in/images/logo.png",
+ "foundingDate": "2009",
+ "telephone": "+91-7300900900",
+ "email": "info@gnc.edu.in",
+ "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "Jhajhra, Chakrata Rd",
+   "addressLocality": "Dehradun",
+   "addressRegion": "Uttarakhand",
+   "postalCode": "248007",
+   "addressCountry": "IN"
+ },
+ "sameAs": [
+   "https://www.facebook.com/gncmh",
+   "https://www.instagram.com/gncdehradun",
+   "https://www.youtube.com/@gncdehradun",
+   "https://www.linkedin.com/company/gncdehradun"
+ ]
+}
+</script>
+
+
+<!-- GEO LOCATION SCHEMA -->
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Place",
+ "name": "Guru Nanak College",
+ "geo": {
+   "@type": "GeoCoordinates",
+   "latitude": "30.3165",
+   "longitude": "77.9912"
+ }
+}
+</script>
+
+
+<!-- LOCAL BUSINESS SCHEMA -->
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "EducationalOrganization",
+ "name": "Guru Nanak College",
+ "image": "https://www.gnc.edu.in/images/logo.png",
+ "url": "https://www.gnc.edu.in",
+ "telephone": "+91-7300900900",
+ "email": "info@gnc.edu.in",
+ "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "Jhajhra, Chakrata Rd",
+   "addressLocality": "Dehradun",
+   "addressRegion": "Uttarakhand",
+   "postalCode": "248007",
+   "addressCountry": "IN"
+ },
+ "openingHours": "Mo-Sa 09:00-17:00"
+}
+</script>
+
+
+<!-- REVIEW SCHEMA -->
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "EducationalOrganization",
+ "name": "Guru Nanak College",
+ "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "4.6",
+   "reviewCount": "850"
+ }
+}
+</script>
+
+
+<!-- ADMISSION EVENT SCHEMA -->
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "EducationEvent",
+ "name": "B.Pharm Admissions Open 2026",
+ "description": "Admissions open for Bachelor of Pharmacy (B.Pharm) at Guru Nanak College, Dehradun.",
+ "startDate": "2026-01-01",
+ "endDate": "2026-09-30",
+ "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+ "eventStatus": "https://schema.org/EventScheduled",
+ "location": {
+   "@type": "Place",
+   "name": "Guru Nanak College",
+   "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Jhajhra, Chakrata Rd",
+     "addressLocality": "Dehradun",
+     "addressRegion": "Uttarakhand",
+     "postalCode": "248007",
+     "addressCountry": "IN"
+   }
+ }
+}
+</script>
+
+
+<!-- BREADCRUMB SCHEMA -->
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement": [
+   {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.gnc.edu.in"
+   },
+   {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Pharmacy",
+     "item": "https://www.gnc.edu.in/pharmacy"
+   },
+   {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "B.Pharm Admission",
+     "item": "https://www.gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php"
+   }
+ ]
+}
+</script>
+
 </script>
 
     <link rel="stylesheet" href="css/programs.css"/>
