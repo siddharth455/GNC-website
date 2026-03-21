@@ -136,7 +136,7 @@
 
     /* The Image Overlay Container */
     .image-cta-container {
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8)), url('upload/infra/student-2.webp');
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8)), url('upload/infra/sample-1.webp');
         background-size: cover;
         background-position: center;
         border: 1px solid #ddd;

@@ -48,8 +48,8 @@
                                     Apply Now
 
                                 </a>
-                                <a target="_blank" id="printButton1" target="_blank" class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0">
-                                    Download Fee Structure
+                                <a href="upload/pdf/MPT.pdf" target="_blank" id="printButton1" target="_blank" class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0">
+                                    Download Brochure
                                 </a>
                             </div>
                         </div>
@@ -125,7 +125,7 @@ well-being</p>
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
+                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->
                     <ul class="nav nav-tabs" id="gncTabs" role="tablist">

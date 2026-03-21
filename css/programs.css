@@ -192,10 +192,10 @@
         
 
         /* SECTION 2: BLUE OVERLAY SECTION */
-        .why-join-blue {
+         .why-join-blue {
             position: relative;
-            background: linear-gradient(90deg, rgb(11, 87, 138) 46%, rgba(30, 34, 82, .1)), url('../upload/infra/wjc-1.webp');
-            background-size: cover;
+            background: linear-gradient(80deg, rgb(11, 87, 138) 30%, rgba(30, 34, 82, .1)), url('../upload/infra/student-3.webp');
+            background-size: contain;
             background-position: right;
             background-repeat: no-repeat;
             padding: 80px 0;
