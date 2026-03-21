@@ -2,7 +2,7 @@
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
 <section class="ranking-sec gnc-legacy-integration">
-    <div class="container px-188 px-1399 h-100">
+    <div class="container">
         <div class="row h-100 align-items-end">
             
             <!-- LEFT: STUDENT IMAGE -->

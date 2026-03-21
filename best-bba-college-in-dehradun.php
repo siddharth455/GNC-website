@@ -3,15 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best BBA College in Dehradun 2026 | Guru Nanak College</title>
+    <title>Top BBA College in Dehradun – BBA Admission 2026 | Guru Nanak College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Apply for BBA admission 2026 at Guru Nanak College, Dehradun. Explore eligibility, fees, scholarships, placements & career opportunities.">
+    <meta name="description" content="Study at the top BBA college in Dehradun. Guru Nanak College offers industry-focused BBA program, affordable fees, scholarships, and 100% placement training. Admissions open 2026.">
     <link rel="canonical" href="https://gnc.edu.in/best-bba-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
-    <meta name="keywords" content="best bba college in dehradun, bba admission 2026 dehradun, guru nanak college bba, bba course fees dehradun" />
+    <meta name="keywords" content="BBA college in Dehradun, best BBA college in Dehradun, BBA admission Dehradun, BBA course Dehradun, BBA fees Dehradun" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best BBA College in Dehradun 2025 | Guru Nanak College (GNC), Uttarakhand" />
-    <meta property="og:description" content="Apply for BBA admission 2026 at Guru Nanak College, Dehradun. Explore eligibility, fees, scholarships, placements & career opportunities." />
+    <meta property="og:description" content="Study at the top BBA college in Dehradun. Guru Nanak College offers industry-focused BBA program, affordable fees, scholarships, and 100% placement training. Admissions open 2026." />
     <meta property="og:url" content="https://gnc.edu.in/best-bba-college-in-dehradun" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -24,73 +24,103 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Service",
-  "serviceType": "Bachelor of Business Administration (BBA)",
-  "provider": {
-    "@type": "CollegeOrUniversity",
-    "name": "Guru Nanak College, Dehradun",
-    "url": "https://gnc.edu.in/"
-  },
-  "description": "Three-year Bachelor of Business Administration (BBA) program designed to equip students with core business management, finance, marketing, and leadership skills.",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "79",
-    "bestRating": "5",
-    "worstRating": "1"
-  }
-}
-</script>
-</head>
-<script type="application/ld+json">
     {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [{
-                "@type": "Question",
-                "name": "Why is Guru Nanak College the best BBA college in Dehradun?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Guru Nanak College offers an industry-aligned BBA curriculum, experienced faculty, practical exposure, scholarships, and strong placement support, making it one of the best BBA colleges in Dehradun."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "What is the eligibility for BBA admission at Guru Nanak College?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Candidates must have passed 10+2 from a recognized board with at least 45% marks for General/OBC and 40% for SC/ST students."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "What is the fee structure for the BBA course at Guru Nanak College?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "The BBA course fee at Guru Nanak College is approximately ₹45,000 per year, excluding examination and optional charges."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "Does Guru Nanak College provide placements for BBA students?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Yes, Guru Nanak College provides placement assistance, industry exposure, internships, and career training through its dedicated placement and Power Degree programs."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "How can I apply for BBA admission at Guru Nanak College Dehradun?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Students can apply online through the official website https://gnc.edu.in/best-bba-college-in-dehradun by completing the registration and admission process."
-                }
-            }
-        ]
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Bachelor of Business Administration (BBA)",
+      "description": "Industry-focused BBA program at Guru Nanak College Dehradun offering practical learning, internships, and placement training.",
+      "provider": {
+        "@type": "CollegeOrUniversity",
+        "name": "Guru Nanak College",
+        "sameAs": "https://gnc.edu.in"
+      },
+      "educationalCredentialAwarded": "Bachelor Degree",
+      "timeRequired": "P3Y"
     }
-</script>
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollegeOrUniversity",
+      "name": "Guru Nanak College",
+      "url": "https://gnc.edu.in",
+      "logo": "https://gnc.edu.in/logo.png",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jhajhra, Chakrata Rd",
+        "addressLocality": "Dehradun",
+        "addressRegion": "Uttarakhand",
+        "postalCode": "248007",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-7300900900",
+        "contactType": "Admissions"
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Which is the best BBA college in Dehradun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Guru Nanak College is one of the top BBA colleges in Dehradun offering industry-focused education and placement support."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is eligibility for BBA admission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Students must have passed 10+2 from any stream with minimum required marks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the duration of BBA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The BBA program duration is three years."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://gnc.edu.in"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Programs",
+          "item": "https://gnc.edu.in/programs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BBA",
+          "item": "https://gnc.edu.in/best-bba-college-in-dehradun"
+        }
+      ]
+    }
+    </script>
 
 
 
@@ -118,8 +148,8 @@
                                     Apply Now
 
                                 </a>
-                                <a target="_blank" id="printButton1" target="_blank" class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0">
-                                    Download Fee Structure
+                                <a href="upload/pdf/BBA.pdf" target="_blank" id="printButton1" target="_blank" class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0">
+                                    Download Brochure
                                 </a>
                             </div>
                         </div>
@@ -142,13 +172,11 @@
             
             <!-- Left Text Content -->
             <div class="hero-content-left">
-                <h2>Best BBA College in Dehradun | Guru Nanak College (GNC)</h2>
-                <p>The <b>Bachelor of Business Administration (BBA)</b> program at Guru Nanak College (GNC), Dehradun, is designed for students who want to build a strong foundation in <b>business, management, and leadership</b>. Recognized as one of the preferred choices for BBA in Dehradun and Uttarakhand, the program combines academic learning with practical exposure to prepare students for the real business world.</p>
-                        <p>The <b>three-year BBA program</b> focuses on core management areas such as <b>Management Principles, Finance, Marketing, Human Resource Management, Business Analytics, and Entrepreneurship</b>. The curriculum is structured to help students understand how organizations function, how decisions are made, and how business strategies are implemented.
-                        </p>
-                        <p>What makes Guru Nanak College stand out is its<b> balanced approach to education</b>. Along with classroom teaching, students gain exposure through<b> industry visits, internships, workshops, projects, and skill-development activities</b>. Equal importance is given to <b>communication skills, leadership qualities, critical thinking, and decision-making</b>, which are essential for long-term career growth.
-                        <p>Backed by<b> experienced faculty, modern infrastructure, and dedicated career support</b>, Guru Nanak College prepares students not only for employment but also for higher studies and entrepreneurial paths.</p>
-                        <p>If you are planning <b>BBA admission in Dehradun for 2026</b>, Guru Nanak College offers a reliable and career-focused learning environment.</p>
+                <h1>Guru Nanak College – <a href="https://gnc.edu.in/blog.php">Best BBA college in Dehradun</a>, Uttarakhand</h1>
+                <p>Choosing the right college is one of the most important decisions for students planning a career in business and management. If you are searching for a reliable and career-oriented BBA college in Dehradun, Guru Nanak College stands out as one of the most preferred institutions for management education in Uttarakhand.</p>
+                <p>Recognized for its academic excellence, practical learning approach, and strong placement support, Guru Nanak College offers a comprehensive Bachelor of Business Administration (BBA) program designed to prepare students for the real business world. With more than 16 years of educational experience, modern infrastructure, and industry-aligned curriculum, the college has established itself as a leading destination for students seeking <a href="https://gnc.edu.in/admissions.php">BBA admission Dehradun</a>.
+                </p>
+               <p>The program focuses on building a strong foundation in management principles, leadership skills, and business decision-making while ensuring students gain hands-on experience through internships, projects, and industry interactions.</p>
                         
                         
                  <a href="https://application.gnc.edu.in/" target="_blank" class="hero-btn-apply">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
@@ -156,36 +184,220 @@
 
             <!-- Right Image Content -->
             <div class="hero-image-right">
-                <img src="upload/infra/bca.webp" alt="BBA Showcase">
+                <img src="upload/infra/bca.webp" alt="bba-college-dehradun-campus">
             </div>
        </div>
 
         <div class="hero-layout">
             <div class="hero-content-left">
-            <h2 class="m-2">What You Will Learn in the BBA Program :</h2>
-                        <p>The BBA curriculum at Guru Nanak College is designed to balance theoretical knowledge and practical application.</p>
+            <h2 class="m-2">BBA Specialisations Offered at Guru Nanak College</h2>
+                        <p>To prepare students for diverse career paths, Guru Nanak College offers specialized learning focus areas within the BBA program.</p>
                         <p>Key learning areas include:</p>
                         <ul>
-                            <li>•	Principles of Management</li>
-                            <li>•	Financial Accounting and Business Finance</li>
-                            <li>•	Marketing Management and Digital Marketing Basics</li>
-                            <li>•	Human Resource Management</li>
-                            <li>•	Business Analytics and Decision Making</li>
-                            <li>•	Entrepreneurship and Startup Fundamentals</li>
+                            <li>•Marketing Management</li>
+                            <p>This specialization focuses on market research, consumer behavior, branding strategies, and digital marketing techniques. Students learn how to analyze market trends and develop effective promotional campaigns.</p>
+                            <li>• Finance Management</li>
+                            <p>Students gain expertise in financial planning, investment management, risk analysis, and corporate finance. This specialization prepares graduates for careers in banking, finance, and accounting.</p>
+                            <li>• Human Resource Management</li>
+                            <p>This area focuses on employee management, organizational behavior, recruitment strategies, and performance evaluation. It is ideal for students interested in HR leadership roles.</p>
+                            <li>• Business Analytics</li>
+                            <p>Students learn data-driven decision-making, statistical analysis, and business intelligence tools to solve complex organizational challenges.</p>
+                            <li>• Entrepreneurship</li>
+                            <p>This specialization prepares students to start and manage their own businesses by developing innovation, strategic planning, and leadership skills.</p>
+                           
                         </ul>
-                        <p>By the end of the program, students develop a clear understanding of business operations, managerial roles, and organizational behavior, preparing them for entry-level management positions or further studies.</p>
+                        
                  </div>
 
                  <div class="hero-image-right">
-                <img src="upload/computer-lab.webp" alt="Bsc Nursing Showcase">
+                <img src="upload/computer-lab.webp" alt="students-learning-bba-gnc">
                 </div>
         </div>
     </div>
 </section>
 
+<section class="py-5" style="background-color: #0f9af1; color: #ffffff;">
+    <div class="container">
+        <h2 class="text-center mb-5 text-white">Benefits of Studying BBA at Guru Nanak College</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
+                    <i class="fas fa-graduation-cap fa-2x mb-3 text-primary"></i>
+                    <p class="mb-0">Industry-aligned curriculum with practical learning focus</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
+                    <i class="fas fa-wallet fa-2x mb-3 text-primary"></i>
+                    <p class="mb-0">Affordable fee structure with scholarships</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
+                    <i class="fas fa-users fa-2x mb-3 text-primary"></i>
+                    <p class="mb-0">Experienced faculty and modern infrastructure</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
+                    <i class="fas fa-briefcase fa-2x mb-3 text-primary"></i>
+                    <p class="mb-0">Strong placement preparation support</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
+                    <i class="fas fa-building fa-2x mb-3 text-primary"></i>
+                    <p class="mb-0">Opportunities for internships and industry exposure</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
+                    <i class="fas fa-user-tie fa-2x mb-3 text-primary"></i>
+                    <p class="mb-0">Holistic personality development programs</p>
+                </div>
+            </div>
+        </div>
+        <p class="text-center mt-4 text-white-50">These features make it one of the most trusted BBA colleges in Dehradun.</p>
+    </div>
+</section>
 
-    <section class="gnc-bmrit-section py-5" style="background-color: #ffffff; color: var(--text-dark);">
-        
+<section class="py-5 bg-white">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <h2 class="mb-4">Placement Support and Top Recruiters</h2>
+                <p>Guru Nanak College provides structured placement training to ensure students are industry-ready. Learn more about our <a href="https://gnc.edu.in/placement-overview.php">BBA placement support</a>.</p>
+                <p>The college offers:</p>
+                <ul class="adv-list">
+                    <li><i class="fas fa-check-circle"></i> Resume development workshops</li>
+                    <li><i class="fas fa-check-circle"></i> Mock interview sessions</li>
+                    <li><i class="fas fa-check-circle"></i> Soft skills training</li>
+                    <li><i class="fas fa-check-circle"></i> Internship opportunities</li>
+                    <li><i class="fas fa-check-circle"></i> Career counseling programs</li>
+                </ul>
+                <p class="mt-3">Students have been placed in various sectors including banking, marketing, retail, logistics, and corporate services.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5" style="background-color: rgb(251 123 28); color: #ffffff;">
+    <div class="container">
+        <div class="row text-center mb-5">
+            <div class="col-12">
+                <h2 class="display-6 fw-bold text-white">BBA Subjects and Curriculum Overview</h2>
+                <div class="bg-white mx-auto mt-2" style="height: 3px; width: 80px;"></div>
+                <p class="mt-4 lead text-white-50">The curriculum at this leading BBA college in Dehradun combines theoretical knowledge with practical application to ensure holistic learning.</p>
+            </div>
+        </div>
+
+        <div class="row g-4 justify-content-center">
+            <!-- Subject Card 1 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-tasks fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Principles of Management</h6>
+                </div>
+            </div>
+            <!-- Subject Card 2 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-file-invoice-dollar fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Financial Accounting</h6>
+                </div>
+            </div>
+            <!-- Subject Card 3 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-chart-line fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Business Economics</h6>
+                </div>
+            </div>
+            <!-- Subject Card 4 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-bullhorn fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Marketing Management</h6>
+                </div>
+            </div>
+            <!-- Subject Card 5 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-users-cog fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Human Resource Management</h6>
+                </div>
+            </div>
+            <!-- Subject Card 6 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-gavel fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Business Law</h6>
+                </div>
+            </div>
+            <!-- Subject Card 7 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-user-friends fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Organizational Behavior</h6>
+                </div>
+            </div>
+            <!-- Subject Card 8 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-lightbulb fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Entrepreneurship Development</h6>
+                </div>
+            </div>
+            <!-- Subject Card 9 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-database fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Business Analytics</h6>
+                </div>
+            </div>
+            <!-- Subject Card 10 -->
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
+                    <i class="fas fa-laptop-code fa-2x mb-3" style="color: rgb(251 123 28);"></i>
+                    <h6 class="mb-0 small fw-bold text-dark">Digital Marketing Fundamentals</h6>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-lg-10 mx-auto">
+                <div class="p-4 bg-white border-start border-light border-4 rounded shadow-sm">
+                    <div class="d-flex align-items-center">
+                        <i class="fas fa-graduation-cap fa-3x me-4" style="color: rgb(251 123 28);"></i>
+                        <div>
+                            
+                            <p class="mb-0 text-muted">The program also includes projects, internships, presentations, and case studies to enhance practical skills.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+ 
+
+<section class="py-5" style="background-color: #0f9af1; color: #ffffff;">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-10">
+        <h2 class="display-6 fw-bold text-white mb-2">Apply for BBA Admission 2026</h2>
+        <div class="mx-auto mb-3" style="height:3px;width:80px;background:#fff;opacity:.85;"></div>
+        <p class="text-white-50 mb-1">Students looking for a reliable and career-oriented BBA college in Dehradun can apply for admission at Guru Nanak College for the 2026 session.</p>
+        <p class="text-white-50">With its focus on academic excellence, industry exposure, and career readiness, the college provides an ideal platform for students to build a successful future in business and management.</p>
+        <a href="https://application.gnc.edu.in/" target="_blank" class="btn-apply-white mt-2">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+        <section class="gnc-bmrit-section py-5" style="background-color: #ffffff; color: var(--text-dark);">
 
         <div class="container">
             <div class="flex-container">
@@ -210,9 +422,10 @@
                             <p><strong>Eligibility</strong></p>
                             <p style="font-size: 0.9rem; line-height: 1.5;">Passed 10+2 (Senior Secondary Examination) from a recognized board.<br>
                             Students from any stream (Science / Commerce / Humanities) can apply</p>
-                            <ul>Minimum marks required:
-                            <li> • 45% for General / OBC</li>
-                            <li> •  40% for SC / ST</li>
+                            <p><strong>Minimum marks required:</strong></p>
+                            <ul>
+                                <li>45% for General / OBC</li>
+                                <li>40% for SC / ST</li>
                             </ul>
                             <h5>All India Quota (Amount of fee details in INR)</h5>
                             <div class="table-responsive">
@@ -320,7 +533,7 @@
                                 </table>
                             </div>
 
-                            <h5>Optional Fee Par Year (INR)</h5>
+                            <h5>Optional Fee Per Year (INR)</h5>
                             <div class="table-responsive">
                                 <table>
                                     <thead>
@@ -420,13 +633,13 @@
             <div class="gnc-bento-item bg-very-light" data-aos="fade-right" data-aos-duration="800">
                 <h2 class="text-orange">Kalpana Chawla Scholarship</h2>
                 <p><strong>A special opportunity for top-performing 5% students:</strong></p>
-                <p>Eligibility: students, who perform the best in calendar year, 10% or 20% based on the student's internal marks and 75% attendance each year will be awarded scholarship to those meritorious students.</p>
+                <p>Eligibility: students, who perform the best in calendar year, 10% or 20% based on the student's internal marks and 75% attendance each year will be awarded scholarship to those meritorious students. Explore our various <a href="https://gnc.edu.in/scholarships.php">BBA scholarships</a>.</p>
             </div>
 
             <!-- RIGHT BOTTOM RECTANGLE: ADMISSION PROCEDURE -->
             <div class="gnc-bento-item bg-light-grey" style="flex: 1;" data-aos="fade-right" data-aos-duration="800">
                 <h3 class="">Admission Procedure</h3>
-                <p>Admission to the BBA program at Guru Nanak College, Dehradun, is primarily based on academic merit. The selection process involves evaluating the candidate's performance in their 10+2 examination, regardless of the stream (Science, Commerce, or Humanities).</p>
+                <p>Admission to the BBA program at Guru Nanak College, Dehradun, is primarily based on academic merit. The selection process involves evaluating the candidate's performance in their 10+2 examination, regardless of the stream (Science, Commerce, or Humanities). For details, review our <a href="https://gnc.edu.in/admissions.php">BBA admission Dehradun</a> guidelines.</p>
                 <p>The college may also conduct counseling session to assess the candidates' inclination towards business and management studies.</p>
                 <a href="https://application.gnc.edu.in/" target="_blank" class="gnc-simple-btn">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
             </div>
@@ -436,78 +649,86 @@
     </div>
 </section>
   
-<!-- Corousel Section -->
+
   
  <!-- Main BBA Details Section -->
 <section class="gnc-bba-section py-5">
     <div class="container">
-        <div class="row">
-            <!-- LEFT COLUMN: Key Details & Slider -->
+        <div class="row align-items-center">
+            <!-- LEFT COLUMN: Key Details -->
             <div class="col-lg-6">
-                <h3 class="highlights-title">BBA at Guru Nanak College – Key Details (2026)</h3>
-                <p class="text-muted small mb-3">Build Your Future with Guru Nanak College. The BBA program at Guru Nanak College, Dehradun, offers a balanced pathway for students who aspire to grow in the fields of business, management, and entrepreneurship.</p>
+                <h3 class="highlights-title">BBA Course Details at Guru Nanak College</h3>
+                <p class="text-muted small mb-3">The Bachelor of Business Administration program at Guru Nanak College is a three-year undergraduate degree designed to build strong managerial and entrepreneurial skills.</p>
                 
                 <ul class="scope-list">
-                    <li><i class="fas fa-calendar-alt" style="color:#ff0000;"></i> <b>Course Duration:</b> 3 Years</li>
-                    <li><i class="fas fa-graduation-cap" style="color:#ff0000;"></i> <b>Eligibility:</b> 10+2 (Any Stream)</li>
-                    <li><i class="fas fa-percentage" style="color:#ff0000;"></i> <b>Minimum Marks:</b> 45% (General/OBC), 40% (SC/ST)</li>
-                    <li><i class="fas fa-wallet" style="color:#ff0000;"></i> <b>Annual Fee:</b> ₹45,000</li>
-                    <li><i class="fas fa-user-check" style="color:#ff0000;"></i> <b>Admission Type:</b> Merit-Based</li>
+                    <li><i class="fas fa-calendar-alt" style="color:#ff0000;"></i> <b>Course Duration:</b> The program spans three years, divided into six semesters, covering core management subjects and practical training components.</li>
+                    <li><i class="fas fa-graduation-cap" style="color:#ff0000;"></i> <b>Eligibility Criteria:</b>Students who have completed 10+2 from any recognized board can apply. Candidates from Science, Commerce, or Humanities streams are eligible.</li>
+                    <li><i class="fas fa-percentage" style="color:#ff0000;"></i> <b>Minimum required marks:</b> 45% for General and OBC categories, 40% for SC and ST categories.</li>
+                    <li><i class="fas fa-user-check" style="color:#ff0000;"></i><b>Admission Process</b>Admission is based on academic merit. The college may also conduct counseling sessions to evaluate students’ interest in management studies.</li>
+                    
+                    <li><i class="fas fa-user-check" style="color:#ff0000;"></i> <b>Course Fee:</b>The annual fee for the BBA program is affordable and competitive compared to other BBA colleges in Dehradun, making it accessible to a wide range of students.</li>
                     <li><i class="fas fa-map-marker-alt" style="color:#ff0000;"></i> <b>Location:</b> Dehradun, Uttarakhand</li>
                 </ul>
-                <a href="#" class="brochure-red-btn">DOWNLOAD BROCHURE <i class="fas fa-arrow-right ms-2"></i></a>
+                <a href="#" class="brochure-red-btn mt-3">DOWNLOAD BROCHURE <i class="fas fa-arrow-right ms-2"></i></a>
+            </div>
 
-                <div class="slider-wrapper mt-4">
+            <!-- RIGHT COLUMN: Slider -->
+            <div class="col-lg-6 mt-4 mt-lg-0">
+                <div class="slider-wrapper">
                     <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 3000, "prevNextButtons": false }'>
                         <div class="carousel-cell">
-                            <img src="upload/infra/seminar_bba_1.webp" alt="Campus">
-                            
+                            <img src="upload/infra/seminar_bba_1.webp" alt="bba-classroom-dehradun" class="img-fluid rounded shadow">
                         </div>
                         <div class="carousel-cell">
-                            <img src="upload/infra/seminar_bba_2.webp" alt="Seminar Hall">
-                            
+                            <img src="upload/infra/seminar_bba_2.webp" alt="business-students-presentation" class="img-fluid rounded shadow">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <!-- LEFT COLUMN: Honor of GNC -->
+            <div class="col-lg-6">
+                <h4 class="laurels-title mb-4">Honor of Guru Nanak College</h4>
+                <div class="row g-3">
+                    <div class="col-6">
+                        <div class="l-card h-100">
+                            <span class="l-rank"><strong>16+</strong></span>
+                            <p class="small mb-0">Years of academic excellence since 2009, delivering quality education.</p>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="l-card h-100">
+                           <span class="l-rank"><strong>100%</strong></span>
+                            <p class="small mb-0">Placement support through structured training and internships.</p>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="l-card h-100">
+                             <span class="l-rank"><strong>INDUSTRY</strong></span>
+                           <p class="small mb-0">Industry-aligned curriculum with corporate tie-ups and practical training.</p>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="l-card h-100">
+                             <span class="l-rank"><strong>NAAC</strong></span>
+                            <p class="small mb-0">Accredited campus ensuring quality standards and modern infrastructure.</p>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <!-- RIGHT COLUMN: Laurels & Advantages -->
-            <div class="col-lg-6 ps-lg-5">
-                <h4 class="laurels-title">Honor of Guru Nanak College</h4>
-                <div class="row g-3">
-                    <div class="col-6">
-                        <div class="l-card">
-                            <span class="l-rank"><strong>16+</strong></span>
-                            <p>Years of academic excellence since establishment in 2009, delivering quality education and career-focused learning.</p>
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="l-card">
-                           <span class="l-rank"><strong>100%</strong></span>
-                            <p>Placement support through structured training, internships, and career guidance programs.</p>
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="l-card">
-                             <span class="l-rank"><strong>INDUSTRY</strong></span>
-                           <p>Industry-aligned curriculum with corporate tie-ups and practical, skill-based training.</p>
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="l-card">
-                             <span class="l-rank"><strong>NAAC</strong></span>
-                            <p>Accredited campus ensuring quality standards, modern infrastructure, and student-centric education.</p>
-                        </div>
-                    </div>
-                </div>
-
+            <!-- RIGHT COLUMN: Advantages -->
+            <div class="col-lg-6 ps-lg-5 mt-5 mt-lg-0">
+                <h2 class="laurels-title mb-4">Why Guru Nanak College is the Best BBA College in Dehradun?</h2>
                 <ul class="adv-list">
-                    <h4 class="laurels-title" style="margin-top: 40px;">What Makes GNC the Best BBA College?</h4>
-                    <li><i class="fas fa-thumbs-up"></i> Strong academic foundation rooted in value-based education.</li>
-                    <li><i class="fas fa-thumbs-up"></i> Blended learning approach combining traditional methods with modern technology.</li>
-                    <li><i class="fas fa-thumbs-up"></i> Focus on developing critical thinking, problem-solving, and decision-making.</li>
-                    <li><i class="fas fa-thumbs-up"></i> Emphasis on soft skills, ethics, and communication to prepare job-ready professionals.</li>
-                    <li><i class="fas fa-thumbs-up"></i> 100% placement training support including resume workshops and mock interviews.</li>
+                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i> Guru Nanak College has earned a strong reputation as a top BBA college in Dehradun due to its commitment to academic quality, industry relevance, and career development.</li>
+                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i>The college follows an industry-aligned curriculum that focuses on practical learning rather than theoretical education alone. Students gain real-world exposure through internships, live projects, workshops, and industrial visits.</li>
+                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i> Another key strength is its experienced faculty. The teaching team includes qualified academicians and industry professionals who provide personalized guidance and mentorship.</li>
+                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i>Guru Nanak College also offers strong placement training support. Students receive career counseling, resume development assistance, mock interview preparation, and skill-development training throughout the program.</li>
+                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i> Affordability is another factor that makes it one of the best BBA colleges in Dehradun. The college provides a transparent fee structure along with merit-based scholarships to support deserving students.</li>
+                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i>With a student-centric learning environment and focus on holistic development, Guru Nanak College prepares students to succeed in competitive business environments.</li>
                 </ul>
             </div>
         </div>
@@ -544,7 +765,7 @@
                 <div class="carousel-item active">
                     <div class="row g-0">
                         <div class="col-12 col-md-6">
-                            <img src="upload/infra/industry-2.png" class="w-100" alt="Industry 1">
+                            <img src="upload/infra/industry-2.png" class="w-100" alt="placement-training-gnc">
                         </div>
                         <div class="col-md-6 d-none d-md-block border-start border-white border-4">
                             <img src="upload/infra/industry-6.png" class="w-100" alt="Industry 2">
@@ -622,27 +843,30 @@
 
             <!-- 3. Key Career Fields (Right) -->
             <div class="col-lg-3 salient-features-col" style="padding-bottom: 2rem;">
-                <h6 class="fw-bold mb-4" style="font-size: 1rem;">BBA Career Scope</h6>
+                <h6 class="fw-bold mb-4" style="font-size: 1rem;">Career Scope After BBA</h6>
+                <p>A BBA degree opens doors to numerous career opportunities across industries. Graduates from top BBA colleges in Dehradun can explore roles such as:</p>
                 <ul class="feature-list">
                     <li><i class="fas fa-check"></i>
-                        <div><b>Management Trainee:</b> Entry-level leadership roles designed to develop future managers.</div>
+                        <div><b>Management Trainee</b></div>
                     </li>
                     <li><i class="fas fa-check"></i>
-                        <div><b>Marketing & Sales:</b> Roles as Marketing Executives or Business Development Executives.</div>
+                        <div><b>Marketing Executive</b></div>
                     </li>
                     <li><i class="fas fa-check"></i>
-                        <div><b>Human Resources:</b> Managing personnel and organizational culture as an HR Executive.</div>
+                        <div><b>Human Resource Executive</b></div>
                     </li>
                     <li><i class="fas fa-check"></i>
-                        <div><b>Operations:</b> Coordinating workflows and organizational efficiency as an Operations Coordinator.</div>
+                        <div><b>Business Development Executive</b></div>
                     </li>
                     <li><i class="fas fa-check"></i>
-                        <div><b>MBA/PGDM:</b> Advancing professional expertise through specialized management programs.</div>
+                        <div><b>Operations Coordinator</b></div>
                     </li>
                     <li><i class="fas fa-check"></i>
-                        <div><b>Entrepreneurship:</b> Building independent ventures through startup-focused education.</div>
+                        <div><b>Financial Analyst</b></div>
                     </li>
                 </ul>
+                <p>Students can also pursue higher education options such as MBA, PGDM, or specialized management programs to advance their careers.</p>
+                <p>Entrepreneurship is another promising pathway for BBA graduates who wish to start their own ventures.</p>
             </div>
         </div>
     </div>
@@ -654,47 +878,41 @@
 
             <div class="col-lg-8">
                 <div class="why-join-content">
-                    <h3>Why Choose BBA at Guru Nanak College, Dehradun?</h3>
-                    <p>Students considering a BBA program often look for clarity on curriculum relevance, career outcomes, and affordability. Guru Nanak College addresses these expectations through:</p>
+                    <h2>Why Choose BBA in Dehradun?</h2>
+                    <p>Dehradun has rapidly emerged as one of India’s most popular education hubs, attracting students from across the country. Pursuing a BBA from a reputed BBA college in Dehradun offers several advantages.</p>
 
                     <ul class="check-list-white">
                         <li class="d-flex align-items-start mb-3">
                             <i class="fas fa-check mt-1"></i>
                             <div class="ms-3">
-                                <p class="mb-0">An industry-aligned BBA curriculum covering essential business disciplines.</p>
+                                <p class="mb-0">One of the biggest benefits is the city’s growing corporate exposure. Dehradun hosts numerous companies, startups, and industrial hubs, providing students with internship opportunities and real-world business insights.</p>
                             </div>
                         </li>
 
                         <li class="d-flex align-items-start mb-3">
                             <i class="fas fa-check mt-1"></i>
                             <div class="ms-3">
-                                <p class="mb-0">Practical exposure through internships, industry visits, workshops, and live projects.</p>
+                                <p class="mb-0">Another major advantage is affordability. Compared to metro cities, pursuing a BBA course in Dehradun is more cost-effective while still offering high-quality education, modern facilities, and excellent faculty support.</p>
                             </div>
                         </li>
 
                         <li class="d-flex align-items-start mb-3">
                             <i class="fas fa-check mt-1"></i>
                             <div class="ms-3">
-                                <p class="mb-0">Strong focus on soft skills, leadership development, and personality enhancement.</p>
+                                <p class="mb-0">The city also provides a safe and student-friendly environment, making it ideal for outstation students. Additionally, Dehradun’s proximity to major business centers such as Delhi NCR enhances career opportunities for management students.</p>
                             </div>
                         </li>
 
                         <li class="d-flex align-items-start mb-3">
                             <i class="fas fa-check mt-1"></i>
                             <div class="ms-3">
-                                <p class="mb-0">Transparent and affordable fee structure with merit-based scholarships.</p>
+                                <p class="mb-0">These factors make the city a preferred destination for students looking for the best BBA college in Dehradun.</p>
                             </div>
                         </li>
 
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">Career guidance and placement preparation through structured training initiatives.</p>
-                            </div>
-                        </li>
+                        
                     </ul>
-                    
-                    <p class="text-white">The program is designed to equip students with a blend of theoretical knowledge and practical skills, preparing them for the dynamic world of business and opening doors to diverse career paths. With robust academic support and career counseling, students are well-prepared for their future professional endeavors in the field of business administration.</p>
+                   
 
                     <a href="https://application.gnc.edu.in/" target="_blank" class="btn-apply-white">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
                 </div>
@@ -707,18 +925,18 @@
 
   <section class="faq-section py-5">
     <div class="container">
-        <h2 class="mb-4">FAQs – BBA at Guru Nanak College, Dehradun</h2>
+        <h2 class="mb-4">Frequently Asked Questions – <a href="admissions.php">BBA Admission Dehradun</a></h2>
         <div class="accordion" id="accordionBBA">
             <!-- FAQ 1 -->
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        <strong>Q1. Is Guru Nanak College good for BBA in Dehradun?</strong>
+                        <strong>Q1. Which is the best BBA college in Dehradun?</strong>
                     </button>
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionBBA">
                     <div class="accordion-body">
-                        Yes. Guru Nanak College offers a balanced BBA program with academic depth, practical exposure, and career support, making it a reliable choice for students seeking management education in Dehradun.
+                       Guru Nanak College is widely recognized for its industry-focused curriculum, affordable fees, and strong placement support.
                     </div>
                 </div>
             </div>
@@ -727,12 +945,12 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        <strong>Q2. Who can apply for BBA admission in 2026?</strong>
+                        <strong>Q2. What is the eligibility for BBA admission in Dehradun?</strong>
                     </button>
                 </h2>
                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionBBA">
                     <div class="accordion-body">
-                        Students who have completed 10+2 from any recognized board with the required minimum marks are eligible to apply.
+                       Students must have completed 10+2 from a recognized board with minimum required marks.
                     </div>
                 </div>
             </div>
@@ -741,12 +959,54 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        <strong>Q3. What is the scope after BBA?</strong>
+                        <strong>Q3. What is the duration of the BBA course?</strong>
                     </button>
                 </h2>
                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionBBA">
                     <div class="accordion-body">
-                        BBA graduates can enter the corporate sector, join family businesses, start their own ventures, or pursue higher studies like MBA.
+                       The BBA program is a three-year undergraduate degree.
+                    </div>
+                </div>
+            </div>
+
+            <!-- FAQ 4 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        <strong>Q4. What career opportunities are available after BBA?</strong>
+                    </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionBBA">
+                    <div class="accordion-body">
+                       Graduates can pursue careers in marketing, HR, finance, operations, or continue with MBA studies.
+                    </div>
+                </div>
+            </div>
+
+            <!-- FAQ 5 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        <strong>Q5. Is BBA a good career option?</strong>
+                    </button>
+                </h2>
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionBBA">
+                    <div class="accordion-body">
+                        Yes, BBA provides a strong foundation for management careers and entrepreneurship opportunities.
+                    </div>
+                </div>
+            </div>
+
+            <!-- FAQ 6 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        <strong>Q6. What is the fee structure for BBA in Dehradun?</strong>
+                    </button>
+                </h2>
+                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionBBA">
+                    <div class="accordion-body">
+                        Guru Nanak College offers one of the most affordable fee structures among BBA colleges in Dehradun.
                     </div>
                 </div>
             </div>

@@ -24,6 +24,42 @@
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
 
+   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php#dpharm-service",
+  "serviceType": "Diploma in Pharmacy (D.Pharm)",
+  "name": "D.Pharm – Diploma in Pharmacy Course in Dehradun",
+  "url": "https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Guru Nanak College, Dehradun",
+    "url": "https://www.gnc.edu.in/"
+  },
+  "description": "Diploma in Pharmacy (D.Pharm) at Guru Nanak College, Dehradun provides foundational training in pharmaceutical science, dispensing techniques, pharmacology, and pharmacy practice, preparing students for roles as licensed pharmacy professionals with practical clinical exposure.",
+  "areaServed": {
+    "@type": "State",
+    "name": "Uttarakhand"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceLocation": {
+      "@type": "Place",
+      "name": "On-Campus Undergraduate Education"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "27",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+
+
     
 </head>
 

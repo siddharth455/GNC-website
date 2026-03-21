@@ -1,5 +1,25 @@
 RewriteEngine On
 
-RewriteRule ^post/([a-zA-Z0-9_-]+)/?$ post.php?slug=$1 [L,QSA]
 
-RewriteRule ^blog\.json$ - [F,L]
+# 2. External Redirect: events.php -> /events
+RewriteCond %{THE_REQUEST} /events\.php\sHTTP [NC]
+RewriteRule ^events\.php$ events [R=301,L]
+
+# 3. External Redirect: event-details.php?slug=X -> /event/X
+RewriteCond %{THE_REQUEST} /event-details\.php\?slug=([^&\s]+)\sHTTP [NC]
+RewriteRule ^event-details\.php$ event/%1? [R=301,L]
+
+# 4. Remove .php extension from URL (External Redirect)
+RewriteCond %{THE_REQUEST} /([^.]+)\.php\sHTTP [NC]
+RewriteRule ^([^.]+)\.php$ $1 [R=301,L]
+
+# --- Internal Rewrites ---
+
+
+# Event details: event/slug -> event-details.php?slug=slug
+RewriteRule ^event/([^/]+)$ event-details.php?slug=$1 [QSA,L]
+
+# Fallback for other .php files: /about -> about.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

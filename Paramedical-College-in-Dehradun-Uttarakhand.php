@@ -19,9 +19,14 @@
     <meta property="og:image:type" content="image/webp" />
     <link rel="stylesheet" href="css/programs.css"/>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,6 +81,45 @@
         h1, h2, h3, h4, h5 { color: var(--text-dark); font-weight: 800; }
         .accent-bar { height: 4px; width: 60px; background-color: var(--primary-orange); }
 
+        /* Placement Section Overlap UI */
+        .gnc-why-join-slas { padding: 10px 0 0 0; background-color: #fff; position: relative; z-index: 10; }
+        .gnc-container-wide { padding-left: clamp(20px, 10vw, 188px); padding-right: clamp(20px, 10vw, 188px); }
+        .gnc-flex-layout { display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; }
+        .gnc-text-column { flex: 1; }
+        .gnc-placement-column { width: 450px; }
+        .gnc-placement-wrapper { 
+            background-size: cover; background-position: center; padding: 40px 30px; 
+            position: relative; overflow: hidden; height: 650px; display: flex; 
+            flex-direction: column; margin-bottom: -100px; box-shadow: 0 20px 40px rgba(0,0,0,0.3); z-index: 20; 
+        }
+        .gnc-placement-wrapper::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.75); z-index: 1; }
+        .gnc-placement-content { position: relative; z-index: 2; height: 100%; display: flex; flex-direction: column; }
+        .gnc-placement-title { color: #fff; font-size: 34px; font-weight: 800; margin-bottom: 40px; line-height: 1.1; }
+        .gnc-placement-grid { display: flex; flex-wrap: wrap; margin-bottom: 30px; }
+        .gnc-grid-item { width: 50%; padding: 15px 10px; position: relative; }
+        .gnc-grid-item:nth-child(odd)::after { content: ''; position: absolute; right: 0; top: 15%; height: 70%; width: 1px; background: rgba(255, 255, 255, 0.2); }
+        .gnc-grid-item:nth-child(-n+4) { border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+        .gnc-stat-val { color: #fff; font-size: 32px; font-weight: 800; line-height: 1; margin-bottom: 10px; display: flex; align-items: baseline; }
+        .gnc-stat-val span { font-size: 14px; margin-left: 3px; font-weight: 700; }
+        .gnc-logo-box { background: rgba(255, 255, 255, 0.18); backdrop-filter: blur(10px); border-radius: 6px; padding: 6px 10px; height: 48px; display: flex; align-items: center; justify-content: center; width: 100%; max-width: 160px; }
+        .gnc-logo-text { color: #fff; font-weight: 600; font-size: 12px; }
+        .gnc-apply-btn-placement { background-color: var(--primary-orange); color: #fff !important; padding: 10px 10px; border-radius: 4px; font-weight: 800; text-transform: uppercase; font-size: 13px; display: inline-block; margin-top: auto; text-decoration: none; transition: 0.3s; width: 160px; text-align: center; }
+        .gnc-brochure-btn { background: var(--gnc-blue); color: #fff !important; padding: 12px 30px; font-weight: 800; text-transform: uppercase; font-size: 14px; border-radius: 5px; text-decoration: none; }
+
+        /* Unique Features Section */
+        .gnc-unique-features { padding: 150px 0 100px 0; background-color: var(--primary-orange); position: relative; overflow: visible; }
+        .gnc-feature-swiper { height: 400px; }
+        .gnc-feature-item { background: rgba(255, 255, 255, 0.1); padding: 25px; border-radius: 12px; display: flex; align-items: center; height: 100%; }
+        .gnc-feature-item span { font-size: 42px; font-weight: 800; color: rgba(0, 0, 0, 0.15); margin-right: 25px; }
+        .gnc-feature-item p { color: #fff; margin: 0; font-size: 16px; font-weight: 600; }
+        .gnc-slider-nav { display: flex; flex-direction: column; gap: 10px; align-items: center; }
+        .gnc-nav-btn { width: 45px; height: 45px; border-radius: 50%; background: rgba(255, 255, 255, 0.2); color: #fff; display: flex; align-items: center; justify-content: center; cursor: pointer; border: 1px solid rgba(255, 255, 255, 0.3); transition: 0.3s; }
+        .gnc-nav-btn:hover { background: #fff; color: var(--primary-orange); }
+
+        /* Image Carousel UI */
+        .gnc-img-swiper { width: 100%; height: 300px; border-radius: 12px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.2); }
+        .gnc-img-swiper .swiper-slide img { width: 100%; height: 100%; object-fit: cover; }
+
         /* Edge Section */
         .edge-card { padding: 40px; border-right: 1px solid #eee; position: relative; min-height: 280px; transition: 0.3s; }
         .edge-card:hover { background: #fcfcfc; }
@@ -115,6 +159,10 @@
             .hero-title { font-size: 2.2rem; }
             .hero-form { margin-top: 24px; }
             .edge-card { border-right: none; border-bottom: 1px solid #eee; }
+            .gnc-flex-layout { flex-direction: column; }
+            .gnc-placement-column { width: 100%; }
+            .gnc-placement-wrapper { margin-bottom: 30px; height: auto; min-height: 550px; }
+            .gnc-unique-features { padding: 60px 0; }
         }
         @media (max-width: 576px) {
             .program-nav .nav-link { padding: 12px; font-size: 12px; }
@@ -207,11 +255,9 @@
 
 </head>
 <body>
-<?php
-    require "common/header.php";
-    ?>
+<?php require "common/header.php"; ?>
     <section class="pageBanner-inner">
-        <div style="background-image: url('upload/paramedical-head.webp'); background-repeat: no-repeat; background-size: cover;">
+        <div style="background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('upload/paramedical-head.webp'); background-repeat: no-repeat; background-size: cover;">
             <div class="pageBanner-inner_in">
                 <div class="container">
                     <div class="row align-items-center">
@@ -339,81 +385,100 @@
     </section>
 
     <?php require "company-logo.php"?>
+  
+  <!-- Why-Join-Placements Section -->
 
-    <!-- GNC Edge Advantage -->
-    <section class="section-padding bg-light" id="edge">
-    <div class="container">
-        <div class="text-center mb-5">
-            <h2 class="fw-black display-5">
-            Why Choose Guru Nanak College <br>for <span style="color: var(--primary-orange);">Paramedical Education </span>
-            </h2>
-            <div class="accent-bar mx-auto mt-2" style="width: 100px;"></div>
-        </div>
-       <div class="row g-0 border bg-white shadow-sm p-5 text-center">
-        <div class="col-md-6 col-lg-4 edge-card">
-                <i class="fas fa-university edge-icon mb-3"></i>
-                <span class="edge-num">01</span>
-                <h5 class="fw-black mt-2">University Affiliation</h5>
-                <p class="text-gnc-blue x-small fw-black uppercase mb-3">Recognized Excellence</p>
-                <p class="small text-secondary">
-                    Recognized by HNBGU & approved by respective health councils for global medical recognition.
-                </p>
-            </div>
+   <div class="gnc-why-join-slas"> 
+        <div class="container gnc-container-wide"> 
+            <div class="gnc-flex-layout"> 
+                <div class="gnc-text-column"> 
+                    <div class="gnc-section-header" data-aos="fade-right"> 
+                        <h2 class="mb-5">Why Join Paramedical Sciences?</h2> 
+                        <p>The Paramedical Sciences program at Guru Nanak College is designed to provide students with a deep understanding of healthcare systems and their applications in various medical fields. This program transforms students into skilled professionals equipped with theoretical knowledge and practical expertise in medical lab technology, radiology, physiotherapy, and more.</p> 
+                        <p><strong>Well-equipped laboratories where students perform regular practical sessions to understand diagnostic techniques and medical procedures.</p> 
+                        <p><strong>Qualified and experienced faculty members guide students through theoretical concepts as well as practical laboratory work.</p> 
+                        <p>The curriculum focuses on practical exposure, allowing students to develop essential technical skills required in paramedical professions.</p> 
+                        <p>Programs emphasize discipline, technical skills, and professional ethics required for working in healthcare laboratories and hospitals.</p> 
+                    </div>  
+                                            
+                </div> 
+                <div class="gnc-placement-column"> 
+                    <div class="gnc-placement-wrapper" style="background-image: url('images/sport-1.webp');" data-aos="fade-up"> 
+                        <div class="gnc-placement-content">
+                            <h2 class="gnc-placement-title">Record Breaking<br>Placement Numbers</h2> 
+                            <div class="gnc-placement-grid"> 
+                                <div class="gnc-grid-item"> 
+                                    <div class="gnc-stat-val">54.75 <span>LPA</span></div> 
+                                    <div class="gnc-logo-box"><span class="gnc-logo-text">Highest National Package</span></div>
+                                </div> 
+                                <div class="gnc-grid-item"> 
+                                    <div class="gnc-stat-val">12 <span>LPA</span></div> 
+                                    <div class="gnc-logo-box"><span class="gnc-logo-text">Average Placement Package</span></div>
+                                </div>                     
+                                <div class="gnc-grid-item"> 
+                                    <div class="gnc-stat-val">900 <span>+</span></div> 
+                                    <div class="gnc-logo-box"><span class="gnc-logo-text">Placement Offers</span></div>
+                                </div> 
+                                <div class="gnc-grid-item"> 
+                                    <div class="gnc-stat-val">100 <span>+</span></div> 
+                                    <div class="gnc-logo-box"><span class="gnc-logo-text">Companies Visited</span></div>
+                                </div> 
+                                <div class="gnc-grid-item"> 
+                                    <div class="gnc-stat-val">20 <span>+</span></div> 
+                                    <div class="gnc-logo-box"><span class="gnc-logo-text">Offered 12 LPA</span></div>
+                                </div> 
+                                <div class="gnc-grid-item"> 
+                                    <div class="gnc-stat-val">30 <span>+</span></div> 
+                                    <div class="gnc-logo-box"><span class="gnc-logo-text">Offered 8 LPA</span></div>
+                                </div> 
+                            </div> 
+                            <a href="https://application.gnc.edu.in/" class="gnc-apply-btn-placement" target="_blank" data-aos="fade-up">APPLY TODAY →</a> 
+                        </div>
+                    </div> 
+                </div> 
+            </div>  
+        </div> 
+    </div> 
 
-            <div class="col-md-6 col-lg-4 edge-card">
-                <i class="fas fa-microscope edge-icon mb-3"></i>
-                <span class="edge-num">02</span>
-                <h5 class="fw-black mt-2">Modern Infrastructure</h5>
-                <p class="text-gnc-blue x-small fw-black uppercase mb-3">Smart Learning</p>
-                <p class="small text-secondary">
-                    Equipped with diagnostic labs, simulation centers, and digital library for hands-on technical mastery.
-                </p>
-            </div>
-
-            <div class="col-md-6 col-lg-4 edge-card border-end-0">
-                <i class="fas fa-user-md edge-icon mb-3"></i>
-                <span class="edge-num">03</span>
-                <h5 class="fw-black mt-2">Expert Faculty</h5>
-                <p class="text-gnc-blue x-small fw-black uppercase mb-3">Academic Mentorship</p>
-                <p class="small text-secondary">
-                    Learn from experienced medical professionals and academic mentors with global industry insight.
-                </p>
-            </div>
-
-            <div class="col-md-6 col-lg-4 edge-card">
-                <i class="fas fa-hospital-user edge-icon mb-3"></i>
-                <span class="edge-num">04</span>
-                <h5 class="fw-black mt-2">Clinical Exposure</h5>
-                <p class="text-gnc-blue x-small fw-black uppercase mb-3">Hospital Network</p>
-                <p class="small text-secondary">
-                    Hands-on training in top affiliated hospitals and diagnostic centers for clinical readiness.
-                </p>
-            </div>
-
-            <div class="col-md-6 col-lg-4 edge-card">
-                <i class="fas fa-briefcase-medical edge-icon mb-3"></i>
-                <span class="edge-num">05</span>
-                <h5 class="fw-black mt-2">Placement Assistance</h5>
-                <p class="text-gnc-blue x-small fw-black uppercase mb-3">100% Support</p>
-                <p class="small text-secondary">
-                    Excellent career opportunities in world-class hospitals, labs, and research institutions.
-                </p>
-            </div>
-
-            <div class="col-md-6 col-lg-4 edge-card border-end-0">
-                <i class="fas fa-user-tie edge-icon mb-3"></i>
-                <span class="edge-num">06</span>
-                <h5 class="fw-black mt-2">Professional Development</h5>
-                <p class="text-gnc-blue x-small fw-black uppercase mb-3">Holistic Growth</p>
-                <p class="small text-secondary">
-                    Intense focus on ethics, teamwork, and communication for healthcare service excellence.
-                </p>
-            </div>
-
-        </div>
+    <!-- Unique Features Vertical Swiper -->
+    <div class="gnc-unique-features"> 
+        <div class="container"> 
+            <div class="row justify-content-between align-items-start"> 
+                <div class="col-lg-6"> 
+                    <div class="gnc-section-header" data-aos="fade-right"> 
+                        <h2 class="text-white mt-0">What makes the School of Paramedical Sciences unique?</h2> 
+                        <p class="text-white mt-3">Guru Nanak College believes that clinical exposure is key to mastering paramedical sciences. Our curriculum integrates classroom learning with intensive hospital training, research projects, and industry interactions.</p> 
+                    </div>  
+                    <div class="swiper gnc-img-swiper mt-4" data-aos="fade-up" data-aos-duration="600">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide"><img src="images/para-slide-1.webp" alt="Campus Life 1"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-2.webp" alt="Campus Life 2"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-3.webp" alt="Campus Life 3"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-4.webp" alt="Campus Life 4"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-5.webp" alt="Campus Life 5"></div>
+                        </div>
+                    </div>
+                </div> 
+                <div class="col-lg-1 d-none d-lg-flex justify-content-center align-items-start">
+                    <div class="gnc-slider-nav">
+                        <div class="gnc-nav-btn gnc-prev"><i class="fas fa-chevron-up"></i></div>
+                        <div class="gnc-nav-btn gnc-next"><i class="fas fa-chevron-down"></i></div>
+                    </div>
+                </div>
+                <div class="col-lg-5"> 
+                    <div class="swiper gnc-feature-swiper"> 
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide"><div class="gnc-feature-item"><span>01</span><p>Paramedical Sciences encompasses numerous fields like BMLT, OTT, Physiotherapy, and more.</p></div></div> 
+                            <div class="swiper-slide"><div class="gnc-feature-item"><span>02</span><p>Comprehensive insights with an explicit practice-oriented approach and in-depth exposure to clinical methodologies.</p></div></div> 
+                            <div class="swiper-slide"><div class="gnc-feature-item"><span>03</span><p>Appropriate tactics are undertaken to discharge medical and laboratory responsibilities efficiently.</p></div></div>  
+                            <div class="swiper-slide"><div class="gnc-feature-item"><span>04</span><p>Grow as per your capabilities with regular clinical workshops, seminars, and medical projects.</p></div></div>   
+                            <div class="swiper-slide"><div class="gnc-feature-item"><span>05</span><p>Multidisciplinary Faculty from diverse medical backgrounds to give your learning a wider perspective.</p></div></div>                    
+                        </div>
+                    </div>                     
+                </div> 
+            </div>  
+        </div> 
     </div>
-</section>
-
 
     <!-- Program Sections -->
     <section class="section-padding"  id="courses">
@@ -490,7 +555,7 @@
                                 <a href="Best-bsc-optometry-College-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <!-- <div class="col-md-6 col-lg-4">
                             <div class="p-4 border rounded-3 h-100 hover-shadow transition d-flex flex-column">
                                 <h5 class="fw-black mb-3">Diploma in Dialysis Technology</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
@@ -500,7 +565,7 @@
                                 <p class="small text-muted mt-3 mb-4">Career Scope: Dialysis Technician, Renal Care Assistant, Critical Care Support specialist.</p>
                                 <a href="https://application.gnc.edu.in/" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">Apply Now</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="tab-pane fade" id="pg">
@@ -543,7 +608,468 @@
     .space-y-3 > li + li { margin-top: 0.75rem; }
 </style>
 
-<?php require "rankingbanner.php"?>
+
+
+
+
+
+
+<!-- PARAMEDICAL CAREER & CLINICAL TRAINING SECTION START -->
+
+<style>
+
+.gnc-career-section{
+padding:0px 0;
+background:#f9fafb;
+}
+
+.gnc-career-title{
+font-weight:800;
+font-size:38px;
+text-align:center;
+margin-bottom:10px;
+}
+
+.gnc-career-title span{
+color:#ff5722;
+}
+
+.gnc-career-sub{
+text-align:center;
+max-width:850px;
+margin:auto;
+color:#6b7280;
+margin-bottom:50px;
+}
+
+.gnc-career-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+gap:25px;
+margin-top:30px;
+}
+
+.gnc-career-card{
+background:#fff;
+padding:30px;
+border-radius:10px;
+box-shadow:0 8px 20px rgba(0,0,0,0.06);
+text-align:center;
+transition:all .35s ease;
+border:1px solid #eee;
+}
+
+.gnc-career-card:hover{
+transform:translateY(-8px);
+box-shadow:0 20px 35px rgba(0,0,0,0.08);
+}
+
+.gnc-career-icon{
+font-size:38px;
+color:#ff5722;
+margin-bottom:15px;
+}
+
+.gnc-career-card h4{
+font-weight:700;
+font-size:18px;
+margin-bottom:8px;
+}
+
+.gnc-career-card p{
+font-size:14px;
+color:#6b7280;
+}
+
+.gnc-clinical-area{
+margin-top:70px;
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:50px;
+align-items:stretch;
+}
+
+.gnc-clinical-area .carousel,
+.gnc-clinical-area .flickity-viewport {
+    height: 100% !important;
+}
+
+.gnc-clinical-area .carousel-cell {
+    width: 100%;
+    height: 100%;
+}
+
+.gnc-clinical-area img{
+width:100%;
+height: 100%;
+object-fit: cover;
+border-radius:12px;
+box-shadow:0 15px 30px rgba(0,0,0,0.15);
+}
+
+.gnc-clinical-content h3{
+font-weight:800;
+font-size:30px;
+margin-bottom:15px;
+}
+
+.gnc-clinical-content span{
+color:#ff5722;
+}
+
+.gnc-clinical-content p{
+color:#6b7280;
+margin-bottom:20px;
+}
+
+.gnc-clinical-list{
+list-style:none;
+padding:0;
+}
+
+.gnc-clinical-list li{
+margin-bottom:12px;
+font-size:15px;
+color:#444;
+}
+
+.gnc-clinical-list i{
+color:#22c55e;
+margin-right:8px;
+}
+
+.gnc-salary-box{
+background:#ff5722;
+color:#fff;
+padding:25px;
+border-radius:8px;
+margin-top:30px;
+font-weight:600;
+}
+
+@media(max-width:900px){
+
+.gnc-clinical-area{
+grid-template-columns:1fr;
+}
+
+.gnc-career-title{
+font-size:30px;
+}
+
+}
+
+</style>
+
+<section class="gnc-career-section">
+
+<div class="container">
+
+<h2 class="gnc-career-title">
+Career Opportunities in <span>Paramedical Sciences</span>
+</h2>
+
+<p class="gnc-career-sub">
+Paramedical professionals are an essential pillar of the healthcare industry. Students graduating from Guru Nanak College gain hands-on training and clinical experience that prepares them to work in hospitals, laboratories, diagnostic centers, and rehabilitation clinics across India and abroad.
+</p>
+
+<div class="gnc-career-grid">
+
+<div class="gnc-career-card">
+<div class="gnc-career-icon"><i class="fas fa-flask"></i></div>
+<h4>Medical Lab Technologist</h4>
+<p>Perform laboratory tests, analyze samples, and assist doctors in accurate medical diagnosis.</p>
+</div>
+
+<div class="gnc-career-card">
+<div class="gnc-career-icon"><i class="fas fa-x-ray"></i></div>
+<h4>Radiology Technician</h4>
+<p>Operate imaging equipment such as MRI, CT Scan, and X-ray machines.</p>
+</div>
+
+<div class="gnc-career-card">
+<div class="gnc-career-icon"><i class="fas fa-user-md"></i></div>
+<h4>Physiotherapist</h4>
+<p>Help patients recover mobility and strength through physical rehabilitation therapies.</p>
+</div>
+
+<div class="gnc-career-card">
+<div class="gnc-career-icon"><i class="fas fa-procedures"></i></div>
+<h4>OT Technician</h4>
+<p>Assist surgeons during operations and manage operation theatre equipment.</p>
+</div>
+
+<div class="gnc-career-card">
+<div class="gnc-career-icon"><i class="fas fa-eye"></i></div>
+<h4>Optometrist</h4>
+<p>Diagnose vision issues and provide eye care solutions including lenses and treatments.</p>
+</div>
+
+<div class="gnc-career-card">
+<div class="gnc-career-icon"><i class="fas fa-hospital"></i></div>
+<h4>Healthcare Specialist</h4>
+<p>Work in hospitals, clinics, and rehabilitation centers supporting medical teams.</p>
+</div>
+
+</div>
+
+
+<div class="gnc-clinical-area">
+
+<div>
+<div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true, "imagesLoaded": true, "pageDots": false, "setGallerySize": false }'>
+    <div class="carousel-cell"><img src="images/image-1.webp" alt="Clinical Training 1"></div>
+    <div class="carousel-cell"><img src="images/image-2.webp" alt="Clinical Training 2"></div>
+    <div class="carousel-cell"><img src="images/image-3.webp" alt="Clinical Training 3"></div>
+    <div class="carousel-cell"><img src="images/image-4.webp" alt="Clinical Training 4"></div>
+    <div class="carousel-cell"><img src="images/image-5.webp" alt="Clinical Training 5"></div>
+</div>
+</div>
+
+<div class="gnc-clinical-content">
+
+<h3>
+Clinical Training & <span>Hospital Exposure</span>
+</h3>
+
+<p>
+At Guru Nanak College Dehradun, paramedical education combines theoretical learning with real clinical exposure. Students gain practical experience through advanced laboratories, hospital training, and medical workshops.
+</p>
+
+<ul class="gnc-clinical-list">
+
+<li><i class="fas fa-check-circle"></i> Hands-on training in diagnostic laboratories</li>
+
+<li><i class="fas fa-check-circle"></i> Clinical exposure through hospital internships</li>
+
+<li><i class="fas fa-check-circle"></i> Training on modern medical equipment</li>
+
+<li><i class="fas fa-check-circle"></i> Case studies and patient care training</li>
+
+<li><i class="fas fa-check-circle"></i> Workshops conducted by healthcare professionals</li>
+
+</ul>
+
+<div class="gnc-salary-box">
+Graduates from Guru Nanak College gain strong clinical skills and professional exposure, opening opportunities in hospitals, diagnostic laboratories, rehabilitation centers, and healthcare organizations across India.
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- PARAMEDICAL CAREER & CLINICAL TRAINING SECTION END -->
+
+
+
+   <style>
+    .why-choose-gnc-cards-section {
+        padding: 40px 0;
+        background-color: #f9f9f9;
+    }
+    .why-choose-gnc-cards-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 25px;
+        padding: 0 20px;
+    }
+    @media (max-width: 991px) {
+        .why-choose-gnc-cards-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+    @media (max-width: 767px) {
+        .why-choose-gnc-cards-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+    .gnc-butterfly-card {
+        --width: 100%;
+        position: relative;
+        width: var(--width);
+        aspect-ratio: 3/2.6;
+        background-image: linear-gradient(rgba(208 135 0 / .35), rgba(208 135 0 / .35)), url("https://raw.githubusercontent.com/cbolson/icodethis-challenges/main/assets/images/bg-paper-2.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow: hidden;
+        border-radius: 10px;
+        outline: 1px solid light-dark(rgba(0 0 0 / .2), rgba(255 255 255 / .4));
+        outline-offset: 10px;
+        color: black;
+        display: flex;
+        flex-direction: column;
+        transition: transform 0.4s ease, box-shadow 0.4s ease;
+    }
+    .gnc-butterfly-card:hover {
+        transform: scale(0.96);
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        z-index: 2;
+    }
+    .gnc-butterfly-card .card-icon-area {
+        height: 25%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+    .gnc-butterfly-card .card-icon-area::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background-color: rgba(60 99 0 / .35);
+        background-image: linear-gradient(rgba(60 99 0 / .5), rgba(60 99 0 / .5)), url("https://raw.githubusercontent.com/cbolson/icodethis-challenges/main/assets/images/bg-paper-2.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        clip-path: ellipse(120% 100% at 50% 0%);
+    }
+    .gnc-butterfly-card .card-icon {
+        font-size: 3.5rem; /* Reduced size */
+        color: #fff;
+        filter: drop-shadow(6px 14px 5px rgba(0 0 0 / .35));
+        position: relative;
+        z-index: 1;
+    }
+    .gnc-butterfly-card .card-contents {
+        padding: 0.8rem 1.5rem;
+        text-align: left;
+    }
+    .gnc-butterfly-card .card-contents h5 {
+        font-size: 1.1rem;
+        margin-block: 0.8rem;
+        font-weight: 800;
+        color: #1a1a1a;
+    }
+    .gnc-butterfly-card .card-contents ul {
+        margin-block: 0;
+        font-weight: 300;
+        padding-inline-start: 1rem;
+        display: grid;
+        gap: .5rem;
+        place-content: start;
+        list-style: none;
+    }
+    .gnc-butterfly-card .card-contents li {
+        margin: 0;
+        font-size: 0.9rem;
+    }
+    .gnc-butterfly-card .card-contents li > span {
+        color: #555;
+        font-weight: 600;
+    }
+</style>
+<section class="why-choose-gnc-cards-section">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="fw-black display-5">
+            Why Choose Guru Nanak College <br>for <span style="color: var(--primary-orange);">Paramedical Education </span>
+            </h2>
+            <div class="accent-bar mx-auto mt-2" style="width: 100px;"></div>
+        </div>
+        <div class="why-choose-gnc-cards-grid">
+            <!-- Card 1 --> 
+ <div class="gnc-butterfly-card"> 
+ <div class="card-icon-area"> 
+ <i class="fas fa-university card-icon"></i> 
+ </div> 
+ <div class="card-contents"> 
+ <h5>University Affiliation</h5> 
+ <ul> 
+ <li><span>Recognized Excellence:</span> Guru Nanak College is affiliated with Hemvati Nandan Bahuguna Garhwal University (HNBGU).</li> 
+ <li>Programs follow approved academic standards for paramedical education.</li> 
+ <li>Degrees are recognized across hospitals, healthcare institutions, and research organizations.</li> 
+ </ul> 
+ </div> 
+ </div> 
+ 
+ 
+ <!-- Card 2 --> 
+ <div class="gnc-butterfly-card"> 
+ <div class="card-icon-area"> 
+ <i class="fas fa-microscope card-icon"></i> 
+ </div> 
+ <div class="card-contents"> 
+ <h5>Modern Infrastructure</h5> 
+ <ul> 
+ <li><span>Smart Learning:</span> Advanced laboratories equipped with modern diagnostic instruments.</li> 
+ <li>Digital classrooms and library resources for academic research.</li> 
+ <li>Dedicated practical labs for radiology, pathology, physiotherapy, and optometry training.</li> 
+ </ul> 
+ </div> 
+ </div> 
+ 
+ 
+ <!-- Card 3 --> 
+ <div class="gnc-butterfly-card"> 
+ <div class="card-icon-area"> 
+ <i class="fas fa-user-md card-icon"></i> 
+ </div> 
+ <div class="card-contents"> 
+ <h5>Expert Faculty</h5> 
+ <ul> 
+ <li><span>Academic Mentorship:</span> Experienced professors and healthcare professionals guide students.</li> 
+ <li>Faculty members bring real-world clinical experience into classroom teaching.</li> 
+ <li>Regular workshops and seminars are conducted by industry experts.</li> 
+ </ul> 
+ </div> 
+ </div> 
+ 
+ 
+ <!-- Card 4 --> 
+ <div class="gnc-butterfly-card"> 
+ <div class="card-icon-area"> 
+ <i class="fas fa-hospital-user card-icon"></i> 
+ </div> 
+ <div class="card-contents"> 
+ <h5>Clinical Exposure</h5> 
+ <ul> 
+ <li><span>Hospital Network:</span> Hands-on training through affiliated hospitals and diagnostic labs.</li> 
+ <li>Students gain practical experience in operation theatres, pathology labs, and radiology departments.</li> 
+ <li>Clinical internships prepare students for real healthcare environments.</li> 
+ </ul> 
+ </div> 
+ </div> 
+ 
+ 
+ <!-- Card 5 --> 
+ <div class="gnc-butterfly-card"> 
+ <div class="card-icon-area"> 
+ <i class="fas fa-briefcase-medical card-icon"></i> 
+ </div> 
+ <div class="card-contents"> 
+ <h5>Placement Assistance</h5> 
+ <ul> 
+ <li><span>Career Support:</span> Dedicated placement support for paramedical graduates.</li> 
+ <li>Connections with hospitals, diagnostic laboratories, and healthcare organizations.</li> 
+ <li>Guidance for internships, job placements, and higher studies.</li> 
+ </ul> 
+ </div> 
+ </div> 
+ 
+ 
+ <!-- Card 6 --> 
+ <div class="gnc-butterfly-card"> 
+ <div class="card-icon-area"> 
+ <i class="fas fa-user-tie card-icon"></i> 
+ </div> 
+ <div class="card-contents"> 
+ <h5>Professional Development</h5> 
+ <ul> 
+ <li><span>Holistic Growth:</span> Focus on professional ethics and healthcare responsibility.</li> 
+ <li>Training in communication skills, teamwork, and patient care.</li> 
+ <li>Workshops and personality development programs to enhance career readiness.</li> 
+ </ul> 
+ </div> 
+ </div>
+        </div>
+    </div>
+</section>
+
+    
+   
 
     <!-- Placement Success Section -->
     <!-- <section class="section-padding bg-light" id="research">
@@ -567,7 +1093,7 @@
                     <div class="badge bg-white text-dark border px-3 py-2 fw-bold"><i class="fas fa-file-alt text-danger me-2"></i> 75+ Research Articles</div>
                 </div>
                 <div class="col-md-4 text-center">
-                    <img src="https://i.pravatar.cc/150?u=m3" class="rounded-circle shadow border-4 border-white mb-4" width="160" alt="Scientist">
+                    <img src="" class="rounded-circle shadow border-4 border-white mb-4" width="160" alt="Scientist">
                     <h4 class="fw-black mb-1">Dr. Kaushik</h4>
                     <p class="text-gnc-blue fw-bold uppercase small mb-3">Assistant Professor</p>
                     <div class="badge bg-white text-dark border px-3 py-2 fw-bold"><i class="fas fa-file-alt text-danger me-2"></i> 240+ Research Citations</div>
@@ -602,7 +1128,8 @@
         </div>
     </section> -->
 
-    <!-- FAQs UI -->
+
+   <!-- FAQs UI -->
     <section class="section-padding bg-white" id="faqs">
         <div class="container">
             <div class="text-center mb-5">
@@ -684,7 +1211,7 @@
     </section>
 
     <!-- Why Study Here Summary -->
-    <section class="section-padding bg-light text-center">
+    <!-- <section class="section-padding bg-light text-center">
         <div class="container">
             <h2 class="fw-black mb-4">Why Study Here?</h2>
             <p class="lead text-secondary max-w-3xl mx-auto mb-5">We offer comprehensive student support services, including career counseling and academic advising, to ensure your success. Join us today on a journey towards a fulfilling and essential career in Paramedical field. Explore our programs, meet our faculty, and discover the possibilities that await you in the world of healthcare. Your journey starts here at Guru Nanak College, Dehradun.</p>
@@ -706,7 +1233,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Brochure Section -->
    <section style="background-color: #ff5722;" class="py-5">
@@ -756,15 +1283,436 @@
         </div>
     </div>
 </section>
+    
+   <!-- Application- Process -->
+
+   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<style>
+    :root {
+        --gnc-blue: #00b7ff;
+        --primary-orange: #ff5722;
+    }
+
+    .admission-process-section {
+        padding: 80px 0;
+        background-color: #f9f9f9;
+    }
+
+    .admission-container {
+        max-width: 1200px;
+        margin: auto;
+        padding: 0 20px;
+    }
+
+    .dis-journey-intro {
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto 60px;
+    }
+
+    .dis-journey-intro h2 {
+        font-weight: 800;
+        color: var(--gnc-blue);
+        font-size: 36px;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+
+    .dis-journey-span {
+        color: var(--primary-orange);
+    }
+
+    .desktop-steps {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        margin-bottom: 60px;
+        position: relative;
+    }
+
+    .step-card {
+        background: #fff;
+        color: #333;
+        padding: 30px 15px;
+        text-align: center;
+        border-radius: 10px;
+        border: 1px solid #eee;
+        transition: all 0.4s ease;
+        cursor: pointer;
+    }
+
+    .step-card:hover, .step-card.active {
+        transform: translateY(-10px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+        background: var(--gnc-blue);
+        color: #fff;
+    }
+
+    .step-card .icon {
+        font-size: 2.5rem;
+        margin-bottom: 15px;
+        display: block;
+        color: var(--primary-orange);
+    }
+    .step-card:hover .icon, .step-card.active .icon{
+        color: #fff;
+    }
+
+    .step-card .label {
+        font-size: 1rem;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    .admission-content-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 60px;
+        align-items: center;
+    }
+
+    .eligibility-box h3, .admissions-process h3 {
+        color: var(--gnc-blue);
+        margin-bottom: 25px;
+        font-weight: 800;
+        font-size: 28px;
+    }
+
+    .eligibility-list {
+        list-style: none;
+        padding: 0;
+    }
+
+    .eligibility-list li {
+        padding-left: 35px;
+        margin-bottom: 20px;
+        position: relative;
+        color: #555;
+        font-size: 16px;
+    }
+
+    .eligibility-list li::before {
+        content: "✔";
+        position: absolute;
+        left: 0;
+        font-size: 24px;
+        color: var(--primary-orange);
+        top: -4px;
+    }
+
+    .marketing-banner {
+        background: #fff;
+        padding: 30px;
+        border-left: 5px solid var(--primary-orange);
+        margin-top: 30px;
+        border-radius: 5px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    }
+
+    .marketing-banner h3 {
+        margin: 0 0 15px;
+        color: var(--gnc-blue);
+        font-size: 24px;
+        font-weight: 800;
+    }
+
+    .vertical-timeline {
+        position: relative;
+        padding-left: 30px;
+    }
+
+    .vertical-timeline::before {
+        content: '';
+        position: absolute;
+        left: 31px;
+        top: 21px;
+        bottom: 53px;
+        width: 3px;
+        background-color: #e0e0e0;
+        z-index: 1;
+    }
+
+    .timeline-item {
+        display: flex;
+        margin-bottom: 50px;
+        position: relative;
+        z-index: 2;
+    }
+
+    .timeline-circle {
+        width: 42px;
+        height: 42px;
+        background: #fff;
+        border: 3px solid #e0e0e0;
+        color: var(--gnc-blue);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        transition: all 0.3s ease;
+        flex-shrink: 0;
+        margin-left: -21px; /* (42+3*2)/2 */
+    }
+
+    .timeline-item.active .timeline-circle {
+        background: var(--primary-orange);
+        border-color: var(--primary-orange);
+        color: #fff;
+        transform: scale(1.1);
+    }
+
+    .timeline-text {
+        padding-left: 25px;
+    }
+
+    /* .timeline-text::after{
+        content: "";
+        position: absolute;
+        left: 21px;
+        top: 54px;
+        bottom: -44px;
+        width: 2px;
+        background-color: var(--gold);
+        z-index: 1;
+    } */
+
+    .timeline-text h4 {
+        margin: 0 0 5px;
+        color: var(--gnc-blue);
+        font-weight: 800;
+        font-size: 20px;
+    }
+
+    .timeline-text p {
+        margin: 0;
+        font-size: 1rem;
+        color: #666;
+    }
+
+    /* .admission-apply-btn {
+        background: var(--primary-orange);
+        border: none;
+        color: #fff !important;
+        padding: 18px 30px;
+        margin-top: 20px;
+        font-weight: bold;
+        cursor: pointer;
+        width: 100%;
+        text-align: center;
+        display: block;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+        font-size: 18px;
+        text-transform: uppercase;
+    } */
+
+    /* .admission-apply-btn:hover {
+        background: var(--gnc-blue);
+        transform: translateY(-3px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    } */
+
+    .timeline-apply-btn {
+        background: var(--primary-orange);
+        border: none;
+        color: #fff !important;
+        padding: 16px 30px;
+        margin-top: 20px;
+        font-weight: bold;
+        cursor: pointer;
+        width: auto;
+        display: inline-block;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+
+    .timeline-apply-btn:hover {
+        background: var(--gnc-blue);
+        transform: translateY(-3px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    }
+
+    @media(max-width: 991px) {
+        .admission-content-grid {
+            grid-template-columns: 1fr;
+        }
+        .admissions-process {
+            margin-top: 40px;
+        }
+    }
+
+    @media(max-width: 767px) {
+        .desktop-steps {
+            grid-template-columns: 1fr;
+        }
+        .dis-journey-intro h2 {
+            font-size: 28px;
+        }
+        .eligibility-box h3, .admissions-process h3 {
+            font-size: 24px;
+        }
+    }
+</style>
+
+<section class="admission-process-section">
+    <div class="admission-container">
+        <div class="dis-journey-intro" data-aos="fade-up">
+            <h2>HOW TO <span class="dis-journey-span">APPLY?</span></h2>
+            <p>Your step-by-step guide to joining Guru Nanak College, Dehradun.</p>
+        </div>
+
+        <div class="desktop-steps" id="cards-container" data-aos="fade-up" data-aos-delay="100"></div>
+
+        <div class="admission-content-grid">
+            <div class="eligibility-box" data-aos="fade-right" data-aos-delay="200">
+                <h3>Aspire to Inspire</h3>
+                <p>Take the first step towards a bright future at Guru Nanak College Dehradun. Join a community dedicated to academic excellence and personal growth!</p>
+
+                <ul class="eligibility-list">
+                    <li>Admissions are open for various undergraduate and postgraduate programs.</li>
+                    <li>Candidates must meet the minimum eligibility criteria for the chosen course.</li>
+                    <li>Admission may involve document verification and interaction.</li>
+                    <li>Required documents include birth certificate, academic transcripts, and ID proof.</li>
+                </ul>
+
+               
+            </div>
+
+            <div class="admissions-process" data-aos="fade-left" data-aos-delay="200" data-aos-duration="600">
+                <h3>Admissions Timeline</h3>
+                <div class="vertical-timeline" id="timeline-container"></div>
+                <a href="https://application.gnc.edu.in/" class="timeline-apply-btn">Apply Today</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 1000,
+        once: true,
+    });
+
+    const stepsData = [
+        {
+            icon: "👤",
+            title: "Registration Form",
+            text: "Apply now and register to secure your spot for an exciting opportunity."
+        },
+        {
+            icon: "✅",
+            title: "Application Form",
+            text: "Fill out the information and upload documents for the application processing and verification."
+        },
+        {
+            icon: "💳",
+            title: "Verification & Admission",
+            text: "Wait for the approval, pay the program fee, and begin your journey with us!"
+        }
+    ];
+
+    const cardsCont = document.getElementById("cards-container");
+    const timeCont = document.getElementById("timeline-container");
+
+    stepsData.forEach((step, i) => {
+        cardsCont.innerHTML += `
+            <div class="step-card" id="card-${i}" onclick="manualSelectAdmission(${i})" data-aos="fade-up" data-aos-delay="${i * 100}">
+                <span class="icon">${step.icon}</span>
+                <span class="label">Step ${i+1}<br>${step.title}</span>
+            </div>
+        `;
+
+        timeCont.innerHTML += `
+            <div class="timeline-item" id="time-${i}" data-aos="fade-left" data-aos-delay="${i * 150}" data-aos-duration="600">
+                <div class="timeline-circle">${i+1}</div>
+                <div class="timeline-text">
+                    <h4>${step.title}</h4>
+                    <p>${step.text}</p>
+                </div>
+            </div>
+        `;
+    });
+
+    let current = 0;
+    let autoRotate = true;
+
+    function updateAdmissionUI() {
+        stepsData.forEach((_, i) => {
+            const card = document.getElementById(`card-${i}`);
+            const time = document.getElementById(`time-${i}`);
+
+            card.classList.remove("active");
+            time.classList.remove("active");
+
+            if (i === current) {
+                card.classList.add("active");
+                time.classList.add("active");
+            }
+        });
+
+        if (autoRotate) {
+            current = (current + 1) % stepsData.length;
+        }
+    }
+
+    function manualSelectAdmission(index) {
+        autoRotate = false;
+        current = index;
+        updateAdmissionUI();
+    }
+
+    updateAdmissionUI();
+
+    setInterval(() => {
+        if (autoRotate) updateAdmissionUI();
+    }, 4000);
+</script>
+
+  
+
+
 
     <?php require "testimoni-2.php";?>
-    <?php require "application-process.php"?>
     <?php require "common/footer.php";?>
 
     <!-- Bootstrap JS -->
-    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
+    AOS.init();
     $(document).ready(function() {
+        var gncFeatureSwiper = new Swiper('.gnc-feature-swiper', {
+            direction: 'vertical',
+            slidesPerView: 3,
+            spaceBetween: 20,
+            loop: true,
+            autoplay: { delay: 2500 },
+            navigation: { nextEl: '.gnc-next', prevEl: '.gnc-prev' },
+            breakpoints: { 0: { slidesPerView: 1, direction: 'horizontal' }, 992: { slidesPerView: 3, direction: 'vertical' } }
+        });
+
+        var gncImgSwiper = new Swiper('.gnc-img-swiper', {
+            slidesPerView: 1,
+            spaceBetween: 20,
+            loop: true,
+            autoplay: {
+                delay: 3000,
+                disableOnInteraction: false,
+            },
+            breakpoints: {
+                768: { slidesPerView: 2 },
+                1024: { slidesPerView: 2 }
+            }
+        });
+
+        
+
         /**
          * Function to reposition the application form on mobile devices.
          * On Desktop ( > 768px): Form stays in the Hero Banner.
@@ -786,6 +1734,24 @@
         // Run every time the window is resized
         $(window).resize(function() {
             adjustLayoutBasedOnScreenSize();
+        });
+
+        // Initialize Campus Facilities Slider
+        var $facilitySlider = $('.facility-slider-container').flickity({
+            cellAlign: 'left',
+            contain: true,
+            prevNextButtons: false,
+            pageDots: false,
+            wrapAround: true,
+            adaptiveHeight: true
+        });
+
+        // Custom Navigation for Slider
+        $('.facilities-controls .prev').on('click', function() {
+            $facilitySlider.flickity('previous');
+        });
+        $('.facilities-controls .next').on('click', function() {
+            $facilitySlider.flickity('next');
         });
     });
 </script>

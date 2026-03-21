@@ -22,9 +22,11 @@
 <meta name="twitter:description" content="Join Guru Nanak College, one of the best pharmacy colleges in Dehradun & Uttarakhand for B.Pharm & D.Pharm programs.">
 <meta name="twitter:image" content="https://www.gnc.edu.in/assets/images/pharmacy-campus.jpg">
  <link rel="stylesheet" href="css/programs.css"/>
-<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -243,7 +245,7 @@
           </div>
           <div class="internal-form">
             <span id="ee-form-6">
-              <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widgetjs"></script>
+              <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
             </span>
           </div>
         </div>
@@ -262,7 +264,7 @@
     </span>
 </div>
             <div class="row g-5 align-items-center">
-                <div class="col-lg-7">
+                <div class="col-lg-7" data-aos="fade-right" data-aos-duration="600">
                     <h6 class="text-gnc-blue fw-black uppercase mb-2">School of Pharmacy</h6>
                     <h2 class="fw-black mb-4 display-6">Best Pharmacy Colleges in Dehradun, Uttarakhand.</h2>
                     <div class="accent-bar mb-4"></div>
@@ -280,7 +282,7 @@
                         <p>At GNC, we are committed to delivering education that shapes confident professionals ready to contribute to the healthcare sector.</p>
                         </div>
                         </div>
-                        <div class="col-lg-5">
+                        <div class="col-lg-5" data-aos="fade-left" data-aos-duration="600">
                         <div class="p-5 border rounded-4 bg-light shadow-sm sticky-top" style="top: 120px; z-index: 10;">
                         <h4 class="fw-bold mb-4" style="font-weight: 800;">Department Contact Info</h4>
                        <div class="mb-5 fw-bold text-secondary">
@@ -358,12 +360,261 @@
         </div>
     </section>
 
-    <?php require "company-logo.php"?>
+   
+
+<!-- Dependencies -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<section class="campus-placement-section">
+    <!-- LEFT PANEL: Info & Recruiter Bar -->
+    <div class="panel-left" data-aos="fade-right" data-aos-duration="600">
+        <div class="panel-content-top">
+            <span class="category-label">Campus Placements</span>
+            <h1 class="heading-primary">PLACEMENT SUPPORT AT <br>GURU NANAK COLLEGE</h1>
+            <p class="sub-description">
+                Our dedicated career advisory and placement team provides comprehensive career counselling to identify the unique and distinctive goals of our pharmacy graduates.
+            </p>
+            
+            <!-- Arrow Button -->
+            <a href="#" class="btn-circle-arrow">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </a>
+
+            <!-- Stats Grid -->
+            <div class="stats-row">
+                <div class="stat-unit">
+                    <span class="stat-val">460</span>
+                    <span class="stat-desc">companies<br>participated</span>
+                </div>
+                <div class="stat-sep"></div>
+                <div class="stat-unit">
+                    <span class="stat-val">1788</span>
+                    <span class="stat-desc">drives hosted on<br>campus</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recruiter Bar with Dividers -->
+        <div class="recruiter-logobar">
+            <div class="swiper recruiterLogoSwiper">
+                <div class="swiper-wrapper">
+                    <?php for ($i = 1; $i <= 31; $i++) : ?>
+                    <div class="swiper-slide recruiter-item">
+                        <img src="upload/<?php echo $i; ?>.webp" alt="Logo">
+                    </div>
+                    <?php endfor; ?>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- RIGHT PANEL: Testimonial Sidebar -->
+    <aside class="panel-right" data-aos="fade-left" data-aos-duration="600">
+        <div class="swiper testimonialSwiper">
+            <div class="swiper-wrapper">
+                <!-- Slide 1 -->
+                <div class="swiper-slide">
+                    <div class="testi-wrap">
+                        <div class="quote-symbol">“</div>
+                        <p class="quote-text">A heartfelt thank you to Guru Nanak College and the pharmacy team for their invaluable support in my placement journey. The guidance was exceptional. ⊕</p>
+                        
+                        <div class="alumni-details">
+                            <p>Alumni Name: <strong>Deepakshi</strong></p>
+                            <p>Course: <strong>B.Pharm</strong></p>
+                            <p>Batch: <strong>2022-24</strong></p>
+                        </div>
+                        
+                        <div class="hired-at">
+                            <img src="upload/31.webp" alt="KPMG">
+                        </div>
+
+                        <div class="student-headshot">
+                            <img src="upload/infra/testi-1.webp" alt="Deepakshi">
+                        </div>
+                    </div>
+                </div>
+                <!-- Slide 2 -->
+                <div class="swiper-slide">
+                    <div class="testi-wrap">
+                        <div class="quote-symbol">“</div>
+                        <p class="quote-text">The placement cell worked tirelessly to ensure we got opportunities in top pharmaceutical companies. Grateful for the industry mentorship. ⊕</p>
+                        
+                        <div class="alumni-details">
+                            <p>Alumni Name: <strong>Rahul Singh</strong></p>
+                            <p>Course: <strong>D.Pharm</strong></p>
+                            <p>Batch: <strong>2021-23</strong></p>
+                        </div>
+
+                        <div class="hired-at">
+                            <img src="upload/35.webp" alt="Logo">
+                        </div>
+
+                        <div class="student-headshot">
+                            <img src="upload/infra/testi-2.webp" alt="Rahul">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Navigation -->
+            <div class="testi-nav">
+                <button class="nav-prev"><span></span></button>
+                <button class="nav-next"><span></span></button>
+            </div>
+        </div>
+
+        <!-- Vertical Tab -->
+        <div class="vertical-tab-enquiry">Admission Enquiry</div>
+    </aside>
+</section>
+
+<style>
+    /* Exact Colors & Fonts */
+    :root {
+        --blue-bg: #003b5c;
+        --gold-bg: #c1b272;
+        --white: #ffffff;
+    }
+
+    .campus-placement-section {
+        display: flex;
+        width: 100%;
+        min-height: 100vh;
+        font-family: 'Open Sans', sans-serif; /* Similar to image */
+        overflow: hidden;
+    }
+
+    /* LEFT PANEL STYLES */
+    .panel-left {
+        flex: 1.8;
+        background: linear-gradient(rgba(0, 59, 92, 0.85), rgba(0, 59, 92, 0.85)), 
+                    url('upload/hero/pharma-2.webp') no-repeat center/cover;
+        color: var(--white);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: relative;
+    }
+
+    .panel-content-top { padding: 80px 80px 40px 10%; }
+    .category-label { font-size: 1.2rem; font-weight: 400; display: block; margin-bottom: 20px; }
+    .heading-primary { font-size: 2.8rem; font-weight: 400; letter-spacing: 1px; line-height: 1.2; margin-bottom: 40px; }
+    .sub-description { max-width: 500px; font-size: 1rem; line-height: 1.6; opacity: 0.9; margin-bottom: 40px; }
+
+    .btn-circle-arrow {
+        display: flex; align-items: center; justify-content: center;
+        width: 35px; height: 35px; border: 1px solid var(--white); border-radius: 50%;
+        color: var(--white); text-decoration: none; margin-bottom: 80px; transition: 0.3s;
+    }
+    .btn-circle-arrow svg { width: 18px; }
+    .btn-circle-arrow:hover { background: var(--white); color: var(--blue-bg); }
+
+    .stats-row { display: flex; align-items: center; gap: 40px; }
+    .stat-val { font-size: 5rem; font-weight: 300; line-height: 1; }
+    .stat-desc { font-size: 0.9rem; line-height: 1.2; text-transform: lowercase; }
+    .stat-sep { width: 1px; height: 70px; background: rgba(255,255,255,0.4); }
+
+    /* LOGO BAR STYLES */
+    .recruiter-logobar {
+        background: rgba(0,0,0,0.25);
+        padding: 30px 0;
+        border-top: 1px solid rgba(255,255,255,0.1);
+    }
+    .recruiter-item {
+        display: flex; align-items: center; justify-content: center;
+        height: 60px;
+        border-right: 1px solid rgba(255,255,255,0.1);
+    }
+    .recruiter-item img { max-height: 35px; filter: brightness(0) invert(1); opacity: 0.85; transition: 0.3s; }
+    .recruiter-item:hover img { opacity: 1; }
+
+    /* RIGHT PANEL STYLES (GOLD) */
+    .panel-right {
+        flex: 1;
+        background-color: var(--gold-bg);
+        padding: 80px 60px;
+        position: relative;
+        color: var(--white);
+    }
+
+    .quote-symbol { font-size: 6rem; line-height: 1; font-family: serif; margin-bottom: 20px; }
+    .quote-text { font-size: 1.1rem; line-height: 1.6; margin-bottom: 50px; opacity: 0.95; font-weight: 300; }
+    
+    .alumni-details p { font-size: 0.95rem; margin-bottom: 5px; color: var(--white); }
+    .alumni-details strong { font-weight: 700; }
+
+    .hired-at { margin: 30px 0 50px; }
+    .hired-at img { max-height: 40px; filter: brightness(0) invert(1); }
+
+    .student-headshot { width: 220px; height: 250px; overflow: hidden; margin-bottom: 30px; }
+    .student-headshot img { width: 100%; height: 100%; object-fit: cover; }
+
+    .testi-nav { display: flex; gap: 12px; }
+    .testi-nav button {
+        width: 38px; height: 38px; border-radius: 50%; border: 1.5px solid var(--white);
+        background: transparent; color: var(--white); cursor: pointer;
+        display: flex; align-items: center; justify-content: center; transition: 0.3s;
+    }
+    .testi-nav button:hover { background: var(--white); color: var(--gold-bg); }
+    .nav-prev::before { content: '‹'; font-size: 2rem; }
+    .nav-next::before { content: '›'; font-size: 2rem; }
+
+    /* ENQUIRY TAB */
+    .vertical-tab-enquiry {
+        position: absolute; right: 0; top: 50%;
+        transform: rotate(-90deg) translateX(50%);
+        transform-origin: right bottom;
+        background: var(--white); color: var(--gold-bg);
+        padding: 10px 25px; font-weight: 400; font-size: 0.85rem;
+        letter-spacing: 1px; white-space: nowrap;
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 1024px) {
+        .campus-placement-section { flex-direction: column; }
+        .panel-left, .panel-right { min-height: auto; width: 100%; }
+        .panel-content-top { padding: 60px 5%; }
+        .vertical-tab-enquiry { display: none; }
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Logo Slider
+        new Swiper(".recruiterLogoSwiper", {
+            slidesPerView: 2,
+            spaceBetween: 0,
+            loop: true,
+            autoplay: { delay: 3000 },
+            breakpoints: {
+                768: { slidesPerView: 3 },
+                1024: { slidesPerView: 5 }
+            }
+        });
+
+        // Testimonial Fade Slider
+        new Swiper(".testimonialSwiper", {
+            effect: "fade",
+            fadeEffect: { crossFade: true },
+            loop: true,
+            navigation: {
+                nextEl: ".nav-next",
+                prevEl: ".nav-prev",
+            },
+        });
+    });
+</script>
+   
+
+
+
+
 
    <!-- GNC Edge Advantage - Pharmacy Updated -->
 <section class="section-padding bg-light" id="edge">
     <div class="container">
-        <div class="text-center mb-5">
+        <div class="text-center mb-5" data-aos="fade-up" data-aos-duration="600">
             <h2 class="fw-black display-5">
                   Why Choose Guru Nanak College <br>for <span style="color: var(--primary-orange);">Pharmacy Education </span>
             </h2>
@@ -372,7 +623,7 @@
         <div class="row g-0 border bg-white shadow-sm text-center">
             
             <!-- 01: Top Recognition -->
-            <div class="col-md-6 col-lg-3 edge-card">
+            <div class="col-md-6 col-lg-3 edge-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
                 <i class="fas fa-trophy edge-icon mb-3"></i>
                 <span class="edge-num">01</span>
                 <h5 class="fw-black mt-2">Top Recognition</h5>
@@ -383,7 +634,7 @@
             </div>
 
             <!-- 02: UTU Affiliation -->
-            <div class="col-md-6 col-lg-3 edge-card">
+            <div class="col-md-6 col-lg-3 edge-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
                 <i class="fas fa-graduation-cap edge-icon mb-3"></i>
                 <span class="edge-num">02</span>
                 <h5 class="fw-black mt-2">UTU-Affiliated</h5>
@@ -394,7 +645,7 @@
             </div>
 
             <!-- 03: PCI Aligned -->
-            <div class="col-md-6 col-lg-3 edge-card">
+            <div class="col-md-6 col-lg-3 edge-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
                 <i class="fas fa-microscope edge-icon mb-3"></i>
                 <span class="edge-num">03</span>
                 <h5 class="fw-black mt-2">PCI-Aligned Education</h5>
@@ -405,7 +656,7 @@
             </div>
 
             <!-- 04: Modern Labs -->
-            <div class="col-md-6 col-lg-3 edge-card border-end-0">
+            <div class="col-md-6 col-lg-3 edge-card border-end-0" data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
                 <i class="fas fa-flask edge-icon mb-3"></i>
                 <span class="edge-num">04</span>
                 <h5 class="fw-black mt-2">Modern Laboratories</h5>
@@ -416,7 +667,7 @@
             </div>
 
             <!-- 05: Faculty -->
-            <div class="col-md-6 col-lg-3 edge-card">
+            <div class="col-md-6 col-lg-3 edge-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
                 <i class="fas fa-chalkboard-teacher edge-icon mb-3"></i>
                 <span class="edge-num">05</span>
                 <h5 class="fw-black mt-2">Expert Faculty</h5>
@@ -427,7 +678,7 @@
             </div>
 
             <!-- 06: Internships -->
-            <div class="col-md-6 col-lg-3 edge-card">
+            <div class="col-md-6 col-lg-3 edge-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
                 <i class="fas fa-hospital-alt edge-icon mb-3"></i>
                 <span class="edge-num">06</span>
                 <h5 class="fw-black mt-2">Internships & Skills</h5>
@@ -438,7 +689,7 @@
             </div>
 
             <!-- 07: Placement -->
-            <div class="col-md-6 col-lg-3 edge-card">
+            <div class="col-md-6 col-lg-3 edge-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
                 <i class="fas fa-briefcase edge-icon mb-3"></i>
                 <span class="edge-num">07</span>
                 <h5 class="fw-black mt-2">Placement Support</h5>
@@ -449,7 +700,7 @@
             </div>
 
             <!-- 08: Student Centric -->
-            <div class="col-md-6 col-lg-3 edge-card border-end-0">
+            <div class="col-md-6 col-lg-3 edge-card border-end-0" data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
                 <i class="fas fa-seedling edge-icon mb-3"></i>
                 <span class="edge-num">08</span>
                 <h5 class="fw-black mt-2">Student-Centric</h5>
@@ -469,12 +720,12 @@
 <section class="section-padding" id="courses">
     <div class="container">
         <!-- Orange Title Bar -->
-        <div class="text-center mb-5" style="background-color: #ff5722;">
+        <div class="text-center mb-5" style="background-color: #ff5722;" data-aos="fade-down" data-aos-duration="600">
             <h2 class="fw-bold display-5 text-white">Pharmacy Programs Offered</h2>
             <p class="fw-bold text-white mb-0">Undergraduate & Diploma Courses at Guru Nanak College, Dehradun</p>
         </div>
 
-        <div class="card border-0 shadow-lg overflow-hidden">
+        <div class="card border-0 shadow-lg overflow-hidden" data-aos="fade-up" data-aos-duration="600">
             <!-- Navigation Tab -->
             <ul class="nav nav-tabs program-nav d-flex" id="courseTabs">
                 <li class="nav-item flex-fill">
@@ -487,7 +738,7 @@
                     <div class="row g-4">
                         
                         <!-- Bachelor of Pharmacy (B.Pharm) -->
-                        <div class="col-md-6 col-lg-4">
+                        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
                             <div class="p-4 border rounded-3 h-100 hover-shadow transition d-flex flex-column">
                                 <h5 class="fw-black mb-3">Bachelor of Pharmacy (B.Pharm)</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
@@ -502,7 +753,7 @@
                         </div>
 
                         <!-- B.Pharm (Lateral Entry) -->
-                        <div class="col-md-6 col-lg-4">
+                        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
                             <div class="p-4 border rounded-3 h-100 hover-shadow transition d-flex flex-column">
                                 <h5 class="fw-black mb-3">B.Pharm (Lateral Entry)</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
@@ -517,7 +768,7 @@
                         </div>
 
                         <!-- Diploma in Pharmacy (D.Pharm) -->
-                        <div class="col-md-6 col-lg-4">
+                        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
                             <div class="p-4 border rounded-3 h-100 hover-shadow transition d-flex flex-column">
                                 <h5 class="fw-black mb-3">Diploma in Pharmacy (D.Pharm)</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
@@ -549,13 +800,13 @@
     .hover-shadow:hover { box-shadow: 0 10px 25px rgba(0,0,0,0.1); transform: translateY(-5px); }
 </style>
 
-<?php require "rankingbanner.php"?>
+<?php require "rankingbanner.php"; ?>
 <!-- Placements & Facilities Section -->
 <section class="section-padding bg-light" id="placement-facilities">
     <div class="container">
         <div class="row g-5">
             <!-- Left Column: Placements -->
-            <div class="col-lg-6">
+            <div class="col-lg-6" data-aos="fade-right" data-aos-duration="600">
                 <h4 class="fw-black mb-4">Placements & Career Opportunities</h4>
                 <div class="text-secondary leading-relaxed mb-4">
                     <p class="fw-bold text-dark">Guru Nanak College provides 100% placement assistance to pharmacy students.</p>
@@ -587,7 +838,7 @@
             </div>
 
             <!-- Right Column: Campus Facilities -->
-            <div class="col-lg-6">
+            <div class="col-lg-6" data-aos="fade-left" data-aos-duration="600">
                 <h4 class="fw-black mb-4">Campus Facilities</h4>
                 <p class="text-secondary mb-4">To support hands-on learning, Guru Nanak College offers modern infrastructure designed for excellence in pharmacy education.</p>
                 
@@ -669,13 +920,13 @@
     
 <section class="section-padding bg-white" id="faqs">
     <div class="container">
-        <div class="text-center mb-5">
+        <div class="text-center mb-5" data-aos="fade-up" data-aos-duration="600">
             <h2 class="fw-black display-5 uppercase">Frequently Asked Questions (FAQs)</h2>
             <p class="fw-bold text-secondary">Everything you need to know about Pharmacy at Guru Nanak College</p>
             <div class="bg-gnc-blue mx-auto mt-2" style="height: 4px; width: 60px;"></div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-lg-10">
+            <div class="col-lg-10" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
                 <div class="accordion faq-accordion" id="gncFaqs">
                     
                     <!-- Q1 -->
@@ -875,13 +1126,13 @@
     <!-- Why Study Pharmacy Here Summary -->
 <section class="section-padding bg-light text-center">
     <div class="container">
-        <h2 class="fw-black mb-4">Why Study Pharmacy at GNC?</h2>
-        <p class="lead text-secondary max-w-3xl mx-auto mb-5">
+        <h2 class="fw-black mb-4" data-aos="fade-up" data-aos-duration="600">Why Study Pharmacy at GNC?</h2>
+        <p class="lead text-secondary max-w-3xl mx-auto mb-5" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
             We offer comprehensive student support services, including career counseling and academic advising, to ensure your success in the pharmaceutical industry. Join us today on a journey towards a fulfilling and essential career in the Pharmacy field. Explore our industry-aligned programs, learn from experienced faculty, and discover the global possibilities that await you in healthcare and drug research. Your journey starts here at Guru Nanak College, Dehradun.
         </p>
         
         <!-- Admission Info Box -->
-        <div class="bg-gnc-blue p-5 rounded-4 text-white shadow-xl">
+        <div class="bg-gnc-blue p-5 rounded-4 text-white shadow-xl" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
             <div class="row align-items-center">
                 <div class="col-lg-8 text-start">
                     <h3 class="fw-black">Admission Process 2026</h3>
@@ -919,7 +1170,7 @@
    <section style="background-color: #ff5722;" class="py-5">
     <div class="container py-3">
         <div class="row align-items-center">
-            <div class="col-lg-8 text-white">
+            <div class="col-lg-8 text-white" data-aos="fade-right" data-aos-duration="600">
                 <h2 class="fw-black mb-3" style="font-weight: 900; font-family: 'Montserrat', sans-serif;">Download Official Brochure</h2>
                 <p class="mb-4 opacity-90 leading-relaxed" style="font-weight: 500; font-size: 1.05rem; line-height: 1.6;">
                     To download the brochure, simply click on the "Download" button. We recommend saving it on your device and referring to it whenever necessary. Our aim is to maintain transparency in all our processes, and we believe that providing clear information about our offerings is a step in that direction.
@@ -930,7 +1181,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 mt-5 mt-lg-0">
+            <div class="col-lg-4 mt-5 mt-lg-0" data-aos="fade-left" data-aos-duration="600">
                 <div id="brochureCarousel" class="carousel slide shadow-lg border-4 border-white rounded-3 overflow-hidden" data-bs-ride="carousel" style="border: 6px solid #fff; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#brochureCarousel" data-bs-slide-to="0" class="active" aria-current="true"></button>
@@ -968,33 +1219,68 @@
     <?php require "application-process.php"?>
     <?php require "common/footer.php"; ?>
 
-    <!-- Bootstrap JS -->
+    <!-- JS Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/tsparticles@2.12.0/tsparticles.bundle.min.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+
     <script>
     $(document).ready(function() {
-        /**
-         * Function to reposition the application form on mobile devices.
-         * On Desktop ( > 768px): Form stays in the Hero Banner.
-         * On Mobile ( <= 768px): Form moves after the About Section for better flow.
-         */
+        AOS.init();
+
+        // 1. Recruiter Logos Slider (Swiper)
+        if ($('.recruiterLogoSwiper').length) {
+            new Swiper(".recruiterLogoSwiper", {
+                slidesPerView: 2,
+                spaceBetween: 30,
+                loop: true,
+                autoplay: { delay: 2000, disableOnInteraction: false },
+                breakpoints: {
+                    640: { slidesPerView: 3 },
+                    1024: { slidesPerView: 6 }
+                }
+            });
+        }
+
+        // 2. Testimonial Slider (Fade Effect)
+        if ($('.testimonialSlider').length) {
+            new Swiper(".testimonialSlider", {
+                effect: "fade",
+                fadeEffect: { crossFade: true },
+                loop: true,
+                autoplay: { delay: 5000 },
+                navigation: {
+                    nextEl: ".next-testi",
+                    prevEl: ".prev-testi",
+                },
+            });
+        }
+
+        // 3. Background Particles
+        if (window.tsParticles && document.getElementById("successParticles")) {
+            tsParticles.load("successParticles", {
+                fullScreen: { enable: false },
+                background: { color: "transparent" },
+                particles: {
+                    number: { value: 30 },
+                    color: { value: ["#ffffff", "#A9BD33"] },
+                    opacity: { value: 0.3 },
+                    size: { value: 3, random: true },
+                    move: { enable: true, speed: 1 },
+                },
+            });
+        }
+
         function adjustLayoutBasedOnScreenSize() {
             if ($(window).width() <= 768) {
-                // Target the About Section by its ID 'about'
                 $('.internal-form').insertAfter('#about');
             } else {
-                // Return it to the Hero Section if window is resized back to desktop
                 $('.internal-form').appendTo('.pageBanner-inner .container');
             }
         }
-
-        // Run on initial page load
         adjustLayoutBasedOnScreenSize();
-
-        // Run every time the window is resized
-        $(window).resize(function() {
-            adjustLayoutBasedOnScreenSize();
-        });
+        $(window).resize(adjustLayoutBasedOnScreenSize);
     });
-</script>
+    </script>
 </body>
 </html>

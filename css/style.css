@@ -1256,10 +1256,9 @@
 .pageBanner-inner_in {
     position: absolute;
     top: 0;
-    left: 0;
+    left: -4rem;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.45);
     z-index: 2;
     padding: 50px 0;
     display: flex;
@@ -1274,12 +1273,14 @@
     padding-right: 20px;
 }
 
-.pageBanner-inner__content h3 {
+.pageBanner-inner__content h2 {
     font-size: 2.5rem;
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 20px;
     animation: fadeInUp 1s ease-out;
+    
+   
 }
 
 .pageBanner-inner__content h5 {
@@ -1288,6 +1289,7 @@
     color: #f0f0f0;
     text-transform: uppercase;
     margin-bottom: 5px;
+    
 }
 
 .pageBanner-inner__content h6 {
@@ -1959,4 +1961,76 @@
 
 .text-custom {
     color: #da6b2a !important;
+}
+
+/* Mobile Responsive Fixes */
+@media (max-width: 768px) {
+   
+
+    .pageBanner-inner_in {
+        position: relative;
+        left: 0;
+        padding: 40px 15px;
+        text-align: left;
+        width: 100%;
+        top:14rem;
+    }
+
+    .pageBanner-inner__content {
+        padding-right: 0;
+        text-align: left;
+    }
+
+    .pageBanner-inner__content h3 {
+        font-size: 1.8rem;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+
+    .banner-section {
+        margin-top: 100px;
+        text-align: left;
+        padding: 0 15px;
+    }
+
+    .banner-section h2 {
+        font-size: 26px;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+
+    .banner-section p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: left;
+    }
+
+    .cu-btn, .btn-primary, .btn-md {
+        width: 100%;
+        max-width: 180px;
+        display: block;
+        margin: 10px 0;
+        text-align: left;
+    }
+
+    .internal-form {
+        position: relative;
+        top: 0;
+        right: 0;
+        left: 0;
+        transform: none;
+        margin: 20px auto;
+        max-width: 100%;
+        padding: 0 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .pageBanner-inner__content h3 {
+        font-size: 1.5rem;
+    }
+
+    .banner-section h2 {
+        font-size: 22px;
+    }
 }

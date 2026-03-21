@@ -1025,7 +1025,7 @@ window.addEventListener("scroll", function () {
               <div class="dropdown-column">
                 <h4><a href="Best-College-For-Computer-Science-in-Dehradun.php" style="color: #0f9af1 !important;">Computer Sciences</a></h4>
                 <ul>
-                  <!-- <li><a href="Best-College-for-B.Tech(Cs)-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li> -->
+                  <li><a href="Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li>
                   <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
                   
                 </ul>
@@ -1156,6 +1156,7 @@ window.addEventListener("scroll", function () {
                   <li><a href="campus-life.php">Campus Life Overview</a></li>
                   <li><a href="cultural.php">Cultural Activities</a></li>
                   <li><a href="nss.php">NSS</a></li>
+                  <li><a href="events.php">Events</a></li>
                 </ul>
               </div>
               <div class="dropdown-image">
@@ -1587,7 +1588,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <li>
             <a href="Best-College-For-Computer-Science-in-Dehradun.php">Computer Sciences <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <!-- <li><a href="Best-College-for-B.Tech(Cs)-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li> -->
+              <li><a href="Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li>
               <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
             </ul>
           </li>
@@ -1648,6 +1649,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <li><a href="campus-life.php">Campus Life Overview</a></li>
           <li><a href="cultural.php">Cultural Activities</a></li>
           <li><a href="nss.php">NSS</a></li>
+          <li><a href="events.php">Events</a>li>
         </ul>
       </li>
 
