@@ -23,8 +23,40 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
-
-    
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://gnc.edu.in/master-of-hospital-administration.php#mha-service",
+  "serviceType": "Master of Hospital Administration (MHA)",
+  "name": "MHA – Master of Hospital Administration Program",
+  "url": "https://gnc.edu.in/master-of-hospital-administration.php",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Guru Nanak College, Dehradun",
+    "url": "https://www.gnc.edu.in/"
+  },
+  "description": "The Master of Hospital Administration (MHA) program at Guru Nanak College, Dehradun prepares students for leadership and managerial roles in healthcare settings with a curriculum covering health systems management, hospital operations, quality assurance, healthcare economics, and strategic planning.",
+  "areaServed": {
+    "@type": "State",
+    "name": "Uttarakhand"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceLocation": {
+      "@type": "Place",
+      "name": "On-Campus Postgraduate Education"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "20",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
 </head>
 
 <body>

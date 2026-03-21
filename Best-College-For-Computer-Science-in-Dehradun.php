@@ -5,8 +5,8 @@
     <title>Guru Nanak College | Best Computer Science College in Dehradun, Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the leading Computer Science college in Dehradun,
-Uttarakhand. Experience excellence in education and prepare for a successful future. Courses Offered:
-B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
+     Uttarakhand. Experience excellence in education and prepare for a successful future. Courses Offered:
+      B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
     <link rel="canonical" href="https://gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -20,9 +20,11 @@ B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
      <link rel="stylesheet" href="css/programs.css"/>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-   <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <style>
         :root {
             --gnc-blue: #00b7ff;
@@ -174,6 +176,305 @@ B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
         right: 20px;
     }
 }
+
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+    .facilities-section {
+        padding: 80px 0;
+        background-color: #fff;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .facilities-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        margin-bottom: 30px;
+    }
+
+    .facilities-header h2 {
+        font-size: 36px;
+        font-weight: 700;
+        color: #333;
+        margin: 0;
+        line-height: 1.2;
+        max-width: 400px;
+    }
+
+    .facilities-controls {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .slider-nav {
+        display: flex;
+        border: 1px solid #ddd;
+    }
+
+    .nav-btn {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+        border: none;
+        cursor: pointer;
+        transition: all 0.3s;
+        font-size: 18px;
+        color: #333;
+    }
+
+    .nav-btn.next-facility {
+        background: #ff8f00;
+        color: #fff;
+    }
+
+    .nav-btn:hover {
+        opacity: 0.9;
+    }
+
+    /* Swiper Specific Layout */
+    .facility-swiper {
+        width: 100%;
+        border-radius: 4px;
+        overflow: hidden;
+    }
+
+    .facility-image {
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+    }
+
+    .facility-caption {
+        background-color: #f4f4f4;
+        padding: 25px 30px;
+        color: #555;
+        font-size: 15px;
+        line-height: 1.6;
+        border-bottom: 1px solid #eee;
+    }
+
+    @media (max-width: 768px) {
+        .facilities-header {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 20px;
+        }
+        .facilities-header h2 {
+            font-size: 28px;
+        }
+        .facility-image {
+            height: 350px;
+        }
+        .facility-caption {
+            padding: 20px;
+            font-size: 14px;
+        }
+    }
+
+    /* Global Section Styles */
+    .biotech-container {
+        font-family: 'Poppins', sans-serif;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 60px 20px;
+        color: #333;
+    }
+
+    /* --- SECTION 1: WHY STUDY --- */
+    .why-study-section {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+        margin-bottom: 80px;
+        background: #fff;
+    }
+
+    .why-study-content { flex: 1.2; }
+    
+    .title-dark { font-size: 42px; font-weight: 700; margin-bottom: 15px; line-height: 1.2; }
+    .title-dark span { 
+        background: linear-gradient(90deg, #6a4fa3, #a485e0);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    
+    .intro-text { color: #666; margin-bottom: 40px; line-height: 1.6; font-size: 1.05rem; }
+
+    .features-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+
+    .feature-item { position: relative; padding-left: 25px; }
+    .feature-item::before {
+        content: '\25B6';
+        position: absolute;
+        left: 0;
+        top: 4px;
+        color: #00b7ff;
+        font-size: 14px;
+    }
+    .feature-item h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; color: #1a1a1a; }
+    .feature-item p { font-size: 14px; color: #555; line-height: 1.5; margin: 0; }
+
+    .circle-frame {
+        flex: 0.8;
+        position: relative;
+        width: 400px;
+        height: 400px;
+        border-radius: 50%;
+        border: 15px solid #6a4fa3;
+        overflow: visible;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .circle-frame img {
+        width: 110%;
+        height: auto;
+        object-fit: cover;
+        position: absolute;
+        bottom: 0;
+        transform: scale(1.1);
+    }
+    
+    /* Star Decor */
+    .circle-frame::after {
+        content: '\2726';
+        position: absolute;
+        top: 20%;
+        left: -40px;
+        color: #6a4fa3;
+        font-size: 32px;
+        opacity: 0.6;
+    }
+
+    /* --- SECTION 2: CAREER PATHWAYS --- */
+    .career-pathways-section {
+        background: linear-gradient(135deg, #2d1b63 0%, #1a0b45 100%);
+        border-radius: 30px;
+        padding: 60px 40px;
+        text-align: center;
+        color: #fff;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .title-light { font-size: 36px; font-weight: 600; margin-bottom: 50px; line-height: 1.3; }
+    .title-light span { color: #ffcc00; font-weight: 700; }
+    
+    .pathways-layout {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        z-index: 2;
+    }
+
+    .pathways-col {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        width: 30%;
+    }
+    
+    .pathway-pill {
+        background: rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        padding: 15px 25px;
+        border-radius: 50px;
+        font-size: 14px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        backdrop-filter: blur(10px);
+        transition: transform 0.3s ease;
+        text-align: left;
+    }
+    .pathway-pill:hover { transform: scale(1.05); background: rgba(255, 255, 255, 0.15); }
+    
+    .bullet-gold {
+        width: 24px;
+        height: 24px;
+        background: #ffcc00;
+        border-radius: 50%;
+        display: inline-block;
+        flex-shrink: 0;
+        position: relative;
+        border: 4px solid rgba(255, 204, 0, 0.3);
+    }
+
+    .pathway-center {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        position: relative;
+    }
+
+    .pathway-center .circle-frame {
+        width: 350px;
+        height: 350px;
+        border: 2px solid rgba(255, 255, 255, 0.2);
+        background: radial-gradient(circle, rgba(106, 79, 163, 0.2) 0%, transparent 70%);
+        padding: 0;
+        overflow: hidden;
+    }
+
+    .pathway-center .circle-frame img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: static;
+        transform: none;
+    }
+
+    /* Decorative circles for background */
+    .career-pathways-section::before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 600px;
+        height: 600px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        border-radius: 50%;
+    }
+
+    @media (max-width: 992px) {
+        .biotech-container { padding: 40px 15px; }
+        .why-study-section { flex-direction: column; text-align: center; gap: 40px; margin-bottom: 60px; }
+        .why-study-content { width: 100%; order: 1; }
+        .circle-frame { width: 320px; height: 320px; margin: 0 auto; order: 2; flex: none; }
+        .circle-frame::after { display: none; }
+        .title-dark { font-size: 32px; }
+        .features-grid { grid-template-columns: 1fr; text-align: left; }
+        
+        .career-pathways-section { padding: 40px 20px; }
+        .title-light { font-size: 28px; margin-bottom: 30px; }
+        .pathways-layout { flex-direction: column; gap: 40px; }
+        .pathway-center { order: 2; margin: 20px 0; }
+        .pathway-center .circle-frame { width: 280px; height: 280px; }
+        .pathways-col { width: 100%; gap: 15px; }
+        .pathways-col.left { order: 1; align-items: center; }
+        .pathways-col.right { order: 3; align-items: center; }
+        .pathway-pill { width: 100%; max-width: 320px; justify-content: flex-start; }
+    }
+
+    @media (max-width: 576px) {
+        .title-dark { font-size: 28px; }
+        .intro-text { font-size: 0.95rem; }
+        .circle-frame { width: 260px; height: 260px; }
+        .title-light { font-size: 24px; }
+        .pathway-pill { font-size: 13px; padding: 12px 18px; }
+    }
 
     </style>
 
@@ -527,10 +828,125 @@ B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
     .badge { font-size: 0.75rem; letter-spacing: 0.5px; border-radius: 4px; }
 </style>
 
+    <div class="biotech-container">
+        <!-- Section 1: Why Study -->
+        <section class="why-study-section">
+            <div class="why-study-content">
+                <h2 class="title-dark"><span>Why study</span> this program</h2>
+                <p class="intro-text">Be a part of a engaging learning atmosphere that gives you the tools to excel in the career of your choice.</p>
+                
+                <div class="features-grid">
+                    <div class="feature-item">
+                        <h3>Strong foundation in computing</h3>
+                        <p>Gain expertise in programming, data structures, and algorithms.</p>
+                    </div>
+                    <div class="feature-item">
+                        <h3>Advanced Software Development</h3>
+                        <p>Learn modern frameworks, full-stack development, and mobile app creation.</p>
+                    </div>
+                    <div class="feature-item">
+                        <h3>Cutting-edge Technologies</h3>
+                        <p>Specialized training in AI, Machine Learning, Cyber Security, and Cloud Computing.</p>
+                    </div>
+                    <div class="feature-item">
+                        <h3>Industry-Ready Training</h3>
+                        <p>Engage in live projects, hackathons, and industrial internships.</p>
+                    </div>
+                    <div class="feature-item">
+                        <h3>Global Career Opportunities</h3>
+                        <p>Prepare for roles in top MNCs, tech startups, and research organizations.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="circle-frame">
+                <img src="upload/hero/cs-2.webp" alt="Why Study Computer Science">
+            </div>
+        </section>
+
+        <!-- Section 2: Career Pathways -->
+        <section class="career-pathways-section">
+            <h2 class="title-light">What are the <span>Career Pathways</span> After Studying Computer Science?</h2>
+            
+            <div class="pathways-layout">
+                <div class="pathways-col left">
+                    <div class="pathway-pill"><span class="bullet-gold"></span>Software Development & Engineering</div>
+                    <div class="pathway-pill"><span class="bullet-gold"></span>Data Science & Analytics</div>
+                    <div class="pathway-pill"><span class="bullet-gold"></span>Cyber Security & Ethical Hacking</div>
+                </div>
+
+                <div class="pathway-center">
+                    <div class="circle-frame">
+                        <img src="upload/hero/cs-3.webp" alt="Career Pathways">
+                    </div>
+                </div>
+
+                <div class="pathways-col right">
+                    <div class="pathway-pill"><span class="bullet-gold"></span>Cloud Computing & DevOps</div>
+                    <div class="pathway-pill"><span class="bullet-gold"></span>Artificial Intelligence & Robotics</div>
+                    <div class="pathway-pill"><span class="bullet-gold"></span>IT Consulting & System Architecture</div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <section class="facilities-section">
+        <div class="container">
+            <div class="facilities-header">
+                <h2>Academic and campus facilities</h2>
+                <div class="facilities-controls">
+                    <div class="slider-nav">
+                        <button class="nav-btn prev-facility"><i class="fas fa-arrow-left"></i></button>
+                        <button class="nav-btn next-facility"><i class="fas fa-arrow-right"></i></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="swiper facility-swiper">
+                <div class="swiper-wrapper">
+
+                    <div class="swiper-slide">
+                        <img src="upload/hero/cs-4.webp" alt="Computer Science Library" class="facility-image">
+                        <div class="facility-caption">
+                            The Central Library provides computer science students with a rich collection of technical textbooks, research journals, and digital learning resources, creating a quiet and resourceful environment for academic excellence and research.
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <img src="upload/hero/cs-5.webp" alt="Advanced Computing Labs" class="facility-image">
+                        <div class="facility-caption">
+                            Students gain real industry exposure in our advanced computing labs, learning software development, networking, and professional IT teamwork.
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <img src="upload/hero/cs-6.webp" alt="Project Development Training" class="facility-image">
+                        <div class="facility-caption">
+                            Project development sessions help students understand software architecture and systems design through hands-on learning with modern tools and guided instruction.
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <img src="upload/hero/cs-7.webp" alt="Coding Workshops" class="facility-image">
+                        <div class="facility-caption">
+                            Students learn advanced programming techniques using high-end workstations, enabling accurate development of complex software solutions and algorithms.
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <img src="upload/hero/cs-8.webp" alt="Tech Innovations Lab" class="facility-image">
+                        <div class="facility-caption">
+                            Practical lab sessions allow students to conduct technological experiments and prototype innovations, strengthening their technical development skills.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 <!-- ==========================================
      GURU NANAK COLLEGE - INSTITUTIONAL RANKING & NAAC A+ BANNER
      ========================================== -->
-<?php require "rankingbanner.php"?>
+<?php require "rankingbanner.php"; ?>
 
 <!-- PLACEMENTS & FACILITIES - COMPUTER SCIENCE / BCA -->
 <section class="section-padding bg-light">
@@ -646,6 +1062,83 @@ B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
 </style>
     
     
+<!-- Related Blogs Section -->
+<section class="blog-section">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="fw-black display-5">Related <span style="color: #ff5722;">Insights & Blogs</span></h2>
+            <div class="accent-bar mx-auto mt-2" style="width: 100px; background-color: #ff5722;"></div>
+            <p class="text-secondary mt-3">Stay updated with the latest trends in Computer Science and IT education.</p>
+        </div>
+
+        <div class="row g-4 justify-content-center">
+            <!-- Blog 1: BCA vs BTech -->
+            <div class="col-md-6 col-lg-4">
+                <article class="blog-card">
+                    <div class="blog-thumb">
+                        <img src="upload/blog/bcavsbtech.webp" alt="BCA vs BTech comparison">
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-meta">
+                            <span><i class="fas fa-calendar-alt"></i> 2026-03-06</span>
+                            <span><i class="fas fa-user"></i> GNC Dehradun</span>
+                        </div>
+                        <h3 class="blog-title"><a href="bca-vs-btech-comparison.php">BCA vs BTech: Which is Better After 12th?</a></h3>
+                        <p class="blog-excerpt">Complete comparison between BCA and BTech covering eligibility, fees, duration, and career scope for students planning IT careers.</p>
+                        <div class="blog-footer">
+                            <a href="bca-vs-btech-comparison.php" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            <!-- Blog 2: Top 5 BCA Colleges -->
+            <div class="col-md-6 col-lg-4">
+                <article class="blog-card">
+                    <div class="blog-thumb">
+                        <img src="upload/blog/2.webp" alt="Top 5 BCA Colleges">
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-meta">
+                            <span><i class="fas fa-calendar-alt"></i> 2025-07-21</span>
+                            <span><i class="fas fa-user"></i> GNC Dehradun</span>
+                        </div>
+                        <h3 class="blog-title"><a href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</a></h3>
+                        <p class="blog-excerpt">Dehradun, a renowned academic destination in North India, is home to several reputed institutions offering quality computer application education.</p>
+                        <div class="blog-footer">
+                            <a href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            <!-- Blog 3: BCA Admissions 2025 -->
+            <div class="col-md-6 col-lg-4">
+                <article class="blog-card">
+                    <div class="blog-thumb" style="background: #f8f9fa;">
+                        <img src="upload/blog/9.webp" alt="BCA Admissions 2025" style="object-fit: contain;">
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-meta">
+                            <span><i class="fas fa-calendar-alt"></i> 2025-04-25</span>
+                            <span><i class="fas fa-user"></i> GNC Dehradun</span>
+                        </div>
+                        <h3 class="blog-title"><a href="bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software.php">BCA Admissions 2025 Open at Guru Nanak College, Dehradun</a></h3>
+                        <p class="blog-excerpt">Guru Nanak College has established itself as a premier institution in Uttarakhand, known for its commitment to quality education and industry-aligned programs.</p>
+                        <div class="blog-footer">
+                            <a href="bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software.php" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+        
+        <div class="text-center mt-5">
+            <a href="blog.php" class="btn btn-outline-primary px-4 py-2 fw-bold" style="border-radius: 8px;">View All Blogs</a>
+        </div>
+    </div>
+</section>
+
 <!-- FAQs UI - School of Health Sciences -->
 <section class="section-padding bg-white" id="faqs">
     <div class="container">
@@ -769,6 +1262,90 @@ B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
     .fw-black { font-weight: 900 !important; }
     .bg-gnc-blue { background-color: #00b7ff; }
     .text-gnc-blue { color: #00b7ff; }
+
+    /* Blog Section Styles */
+    .blog-section {
+        padding: 60px 0;
+        background-color: #f8fbff;
+    }
+    .blog-card {
+        background: #fff;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        border: 1px solid #eee;
+    }
+    .blog-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    }
+    .blog-thumb {
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+    .blog-thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease;
+    }
+    .blog-card:hover .blog-thumb img {
+        transform: scale(1.1);
+    }
+    .blog-content {
+        padding: 20px;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+    }
+    .blog-meta {
+        font-size: 0.85rem;
+        color: #64748b;
+        margin-bottom: 10px;
+        display: flex;
+        gap: 10px;
+    }
+    .blog-title {
+        font-size: 1.15rem;
+        font-weight: 700;
+        margin-bottom: 12px;
+        line-height: 1.4;
+    }
+    .blog-title a {
+        color: #1e293b;
+        text-decoration: none;
+    }
+    .blog-excerpt {
+        font-size: 0.95rem;
+        color: #475569;
+        margin-bottom: 20px;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .blog-footer {
+        margin-top: auto;
+        padding-top: 15px;
+        border-top: 1px solid #f1f5f9;
+    }
+    .btn-read {
+        color: #00b7ff;
+        font-weight: 700;
+        text-decoration: none;
+        font-size: 0.9rem;
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+    }
+    .btn-read:hover {
+        color: #0084ff;
+    }
 </style>
 <!-- Why Study Here Summary - Integrated Master UI Style -->
 <section class="section-padding bg-light text-center">
@@ -892,15 +1469,31 @@ B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
         </div>
     </div>
 </section>
-
-    <?php require "testimoni-2.php"; ?>
-    <?php require "application-process.php"?>
+     
+     <?php require "application-process.php"?>
+      <?php require "testimoni-2.php"; ?>
+   
     <?php require "common/footer.php"; ?>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
+    AOS.init();
     $(document).ready(function() {
+        const swiper = new Swiper('.facility-swiper', {
+            loop: true,
+            speed: 800,
+            grabCursor: true,
+            autoplay: {
+                delay: 5000,
+                disableOnInteraction: false,
+            },
+            navigation: {
+                nextEl: '.next-facility',
+                prevEl: '.prev-facility',
+            }
+        });
+
         /**
          * Function to reposition the application form on mobile devices.
          * On Desktop ( > 768px): Form stays in the Hero Banner.

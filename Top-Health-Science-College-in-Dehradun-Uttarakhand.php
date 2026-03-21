@@ -23,8 +23,10 @@
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
     <link rel="stylesheet" href="css/programs.css"/>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script> 
     <style>
         :root {
@@ -568,7 +570,7 @@
     .badge { font-size: 0.75rem; letter-spacing: 0.5px; border-radius: 4px; }
 </style>
 
-<?php require "rankingbanner.php"?>
+<?php require "rankingbanner.php"; ?>
 <!-- Placements & Facilities Section -->
 <section class="section-padding bg-light" id="placement-facilities">
     <div class="container">
@@ -941,6 +943,7 @@
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
+    AOS.init();
     $(document).ready(function() {
         /**
          * Function to reposition the application form on mobile devices.

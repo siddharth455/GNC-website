@@ -24,6 +24,44 @@
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
 
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://gnc.edu.in/masters-in-lab-technician.php#masters-lab-tech-service",
+  "serviceType": "Masters in Medical Laboratory Technology (MMLT)",
+  "name": "Masters in Lab Technician / Medical Laboratory Technology",
+  "url": "https://gnc.edu.in/masters-in-lab-technician.php",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Guru Nanak College, Dehradun",
+    "url": "https://www.gnc.edu.in/"
+  },
+  "description": "The Masters in Medical Laboratory Technology (MMLT) program at Guru Nanak College, Dehradun offers advanced training in clinical diagnostics, hematology, microbiology, pathology testing, and laboratory management with hands-on experience and modern instrumentation.",
+  "areaServed": {
+    "@type": "State",
+    "name": "Uttarakhand"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceLocation": {
+      "@type": "Place",
+      "name": "On-Campus Postgraduate Education"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "15",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+
+
+
+
     
 </head>
 

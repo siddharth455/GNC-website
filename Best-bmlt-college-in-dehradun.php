@@ -21,6 +21,176 @@
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <style>
+        /* Why Join GNC Section */
+.why-join-blue {
+    position: relative;
+    background: linear-gradient(90deg, rgb(11, 87, 138) 46%, rgba(30, 34, 82, .1)), url('upload/infra/BMRIT.webp');
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+    color: white;
+    z-index: 0;
+    text-align: left;
+}
+
+
+.why-join-content h2, .why-join-content h3 {
+    font-weight: 800;
+    margin-bottom: 20px;
+    font-size: 1.9rem;
+    line-height: 1.3;
+}
+
+.why-join-content p {
+    font-size: 1.05rem;
+    opacity: 0.95;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.check-list-white {
+    list-style: none;
+    padding: 0;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.check-list-white li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.check-list-white i {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    min-width: 22px;
+    height: 22px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.btn-apply-white {
+    background-color: var(--gnc-red);
+    color: white !important;
+    padding: 12px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 0.85rem;
+    transition: 0.3s;
+}
+
+/* Kalpana Chawla Scholarship & Bento Grid */
+.gnc-simple-bento * {
+    box-sizing: border-box;
+    border-radius: 0 !important;
+    margin: 0;
+    padding: 0;
+    border: none !important; 
+    box-shadow: none !important; 
+}
+
+.gnc-bento-container {
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1fr 1.2fr; 
+    gap: 20px;
+}
+
+.gnc-bento-item {
+    padding: 45px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gnc-bento-ian {
+    color: white;
+}
+
+.bg-light-grey { background-color: #f7f9fb; }
+.bg-very-light { background-color: #fafafa; }
+
+.gnc-simple-bento h2 {
+    font-size: clamp(1.8rem, 2.2vw, 2.5rem);
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 1.1;
+    margin-bottom: 25px;
+    letter-spacing: -1px;
+}
+
+.text-blue { color: rgb(3, 175, 255); }
+.text-orange { color: rgb(251, 123, 28); }
+
+.gnc-simple-bento p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text-gray);
+    margin-bottom: 20px;
+}
+
+.gnc-arrow-list {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.gnc-arrow-list li {
+    font-size: 0.95rem;
+    color: #fff;
+    padding: 12px 0;
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid rgba(255,255,255,0.1) !important; 
+}
+
+.gnc-arrow-list li::before {
+    content: "→";
+    color: rgb(3, 175, 255);
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+/* Right side stacker */
+.right-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.gnc-simple-btn {
+    background-color: var(--gnc-red);
+    color: white !important;
+    padding: 12px 30px;
+    border-radius: 5px !important;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 0.85rem;
+    transition: 0.3s;
+    width: fit-content;
+}
+
+@media (max-width: 1024px) {
+    .gnc-bento-container {
+        grid-template-columns: 1fr;
+    }
+}
+    </style>
     
     <script type="application/ld+json">
 {

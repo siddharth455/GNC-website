@@ -257,7 +257,7 @@
             .gnc-content-container { flex-direction: column; }
             .gnc-red-card { max-width: 100%; }
             .gnc-feature-card { flex: 0 0 100%; }
-            .gnc-image-main { height: 400px; }
+            .gnc-image-main { height: 480px; }
         }
 
 
