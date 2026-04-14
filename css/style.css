@@ -1259,6 +1259,7 @@
     left: -4rem;
     right: 0;
     bottom: 0;
+    background: rgba(0, 0, 0, 0.45);
     z-index: 2;
     padding: 50px 0;
     display: flex;
@@ -1273,7 +1274,7 @@
     padding-right: 20px;
 }
 
-.pageBanner-inner__content h2 {
+.pageBanner-inner__content h3 {
     font-size: 2.5rem;
     font-weight: 700;
     line-height: 1.2;

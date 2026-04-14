@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College | Best B.Sc Forestry College in Dehradun, Uttarakhand</title>
@@ -11,113 +10,665 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
     <meta property="og:description" content="Guru Nanak College, the top college for B.Sc. Forestry in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and dedication to sustainable forestry practices, Guru Nanak College prepares students for leadership roles in environmental stewardship." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun" />
+    <meta property="og:url" content="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun"/>
     <meta property="og:site_name" content="GNC Dehradun" />
-    <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
+    <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
+    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp"/>
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
-    <link rel="stylesheet" href="css/programs.css"/>
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" href="new-assets/css/all-styles.css">
     
+    
+    
+    <style>
+        :root {
+            --gnc-orange: #ff5722;
+            --gnc-blue: #00b7ff;
+            --text-dark: #333;
+            --bs-black: #000;
+            --bs-white: #fff;
+            --flash-orange: #FB7B1C;
+            --alt-font: 'Metropolis', sans-serif;
+        }
 
-    
+        .gnc-agri-px-188 {
+            padding-left: 188px;
+            padding-right: 188px;
+        }
+
+        .gnc-agri-about-sec {
+            padding-top: 80px;
+            padding-bottom: 80px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+            overflow: visible;
+        }
+
+        .gnc-agri-about-sec::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: #ffeccc;
+            z-index: -1;
+        }
+
+        .gnc-agri-about-cov {
+            margin-top: 50px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .gnc-agri-about-cov img {
+            position: absolute;
+        }
+
+        .gnc-agri-subHeading h1,
+        .gnc-agri-subHeading h3 {
+            color: var(--bs-black);
+            font-family: var(--alt-font) !important;
+            font-size: 2.5rem;
+            line-height: 44px;
+            font-weight: 600;
+        }
+
+        .gnc-agri-subHeading h1.position-relative,
+        .gnc-agri-subHeading h3.position-relative {
+            margin-bottom: 30px;
+            padding-bottom: 30px;
+        }
+
+        .gnc-agri-subHeading h1.position-relative::after,
+        .gnc-agri-subHeading h3.position-relative::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            background: var(--bs-black);
+            height: 1px;
+            width: 40px;
+        }
+
+        .gnc-agri-subHeading p {
+            color: var(--bs-black);
+            font-family: var(--alt-font) !important;
+            line-height: 24px;
+            font-weight: 300;
+            margin-bottom: 24px;
+            text-align: justify;
+        }
+           /* --- Agriculture Edge Section Styles --- */
+        
+           .gnc-agri-edge-sec {
+           padding-top: 35px; 
+            position: relative;
+            overflow: visible;
+        }
+
+        .gnc-agri-edge-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-gap: 15px;
+            
+        }
+
+        .gnc-agri-edge-item {
+            height: 400px;
+            position: relative;
+            z-index: 2;
+            border-radius: 10px;
+            padding: 34px 28px;
+            background: #f6f6f6;
+            overflow: hidden;
+        }
+
+        .gnc-agri-edge-item h4 {
+            color: var(--bs-black);
+            font-family: var(--alt-font) !important;
+            font-size: 20px;
+            line-height: 24px;
+            font-weight: 700;
+            margin-bottom: 24px;
+        }
+
+        .gnc-agri-edge-item p {
+            color: var(--bs-black);
+            font-family: var(--alt-font) !important;
+            font-size: 14px;
+            line-height: 22px;
+            font-weight: 300;
+            margin-bottom: 0;
+        }
+
+        .gnc-agri-edge-item span {
+            color: rgba(255, 255, 255, .2);
+            font-family: var(--alt-font) !important;
+            font-size: 80px;
+            line-height: 1;
+            font-weight: 800;
+            position: absolute;
+            bottom: 34px;
+            opacity: .5;
+            background: -webkit-linear-gradient(#faf3e0 21%, #5e2440);
+            background-clip: border-box;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: color .35s;
+        }
+
+        .gnc-agri-edge-item:hover span {
+            color: rgba(255, 255, 255, .3);
+        }
+
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(2) h4,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(2) p,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(4) h4,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(4) p,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(5) h4,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(5) p,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(7) h4,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(7) p {
+            color: var(--bs-white);
+            position: relative;
+        }
+
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(2)::before,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(4)::before,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(5)::before,
+        .gnc-agri-edge-grid .gnc-agri-edge-item:nth-child(7)::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(77, 77, 77, .9);
+        }
+
+        @media (max-width: 991px) {
+            .gnc-agri-edge-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .gnc-agri-edge-item {
+                height: auto;
+                min-height: 300px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .gnc-agri-edge-grid {
+                grid-template-columns: 1fr;
+            }
+            .gnc-agri-edge-sec {
+                padding-top: 20px;
+            }
+
+            .gnc-agri-about-cov img{
+                position: relative;
+            }
+        }
+
+        @media (max-width: 1599px) {
+            .gnc-agri-subHeading h1, .gnc-agri-subHeading h3 {
+                font-size: 32px;
+                line-height: 32px;
+            }
+            .gnc-agri-subHeading p {
+                font-size: 14px;
+                line-height: 22px;
+            }
+        }
+
+        @media (max-width: 1199px) {
+            .gnc-agri-px-188 {
+                padding-left: 60px;
+                padding-right: 60px;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .gnc-agri-px-188 {
+                padding-left: 12px;
+                padding-right: 12px;
+            }
+            .gnc-agri-about-sec {
+                padding: 50px 12px;
+            }
+            .gnc-agri-subHeading h1, .gnc-agri-subHeading h3 {
+                font-size: 30px;
+                text-align:left;
+            }
+        }
+
+        body { font-family: 'Roboto', sans-serif; overflow-x: hidden; color: var(--text-dark); }
+
+        /* --- GNC BBA HERO SECTION --- */
+        .gnc-bba-hero {
+            position: relative;
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('upload/hero/agri-3.webp') no-repeat center center;
+            background-size: cover;
+            padding: 270px 0 80px; 
+            color: #fff;
+        }
+        .gnc-bba-hero .play-btn { width: 45px; height: 45px; background: var(--gnc-orange); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 15px; }
+        .gnc-bba-hero .hero-sub { font-size: 14px; font-weight: bold; background: rgba(255,255,255,0.2); padding: 2px 10px; display: inline-block; margin-bottom: 10px; }
+        .gnc-bba-hero h1 { font-size: calc(1.8rem + 1.5vw); font-weight: 400; line-height: 1.1; margin: 20px 0; }
+
+        .gnc-bba-form-card { background: #fff; padding: 30px; border-radius: 12px; color: #333; box-shadow: 0 10px 30px rgba(0,0,0,0.3); }
+        .gnc-bba-form-card h4 span { color: var(--gnc-orange); display: block; font-size: 24px; font-weight: bold; }
+        .gnc-bba-btn-apply { background: var(--gnc-orange); color: #fff; width: 100%; border: none; padding: 12px; border-radius: 4px; font-weight: bold; }
+
+        .gnc-bba-partners { display: flex; align-items: center; margin-top: 40px; gap: 30px; }
+        .gnc-bba-partners img { height: 50px; }
+
+        /* --- GNC BBA ABOUT SECTION --- */
+        .gnc-bba-abt { position: relative; background: #f1f1f1; z-index: 1;}
+        @media (min-width: 992px) {
+            .gnc-bba-abt::before {
+                content: ""; position: absolute; left: 0; top: -75px;
+                background: url('images/bba-about.webp') no-repeat;
+                background-size: cover; width: 800px; height: 1172px; z-index: -1;
+                 
+            }
+        }
+
+        .gnc-bba-msg-box { background: #f1f1f1; padding: 60px; box-shadow: 20px 20px 60px rgba(0,0,0,0.05); }
+        .gnc-bba-slashes { color: var(--gnc-orange); font-size: 2rem; font-weight: bold; }
+        .gnc-bba-quote { font-style: italic; line-height: 1.8; font-size: 1.05rem; }
+
+        .gnc-bba-stats-grid { position: relative; z-index: 5; margin-top:638px; }
+        .gnc-bba-stats-inner { background: #fff; border: 1px solid #eeeeee; }
+        .gnc-bba-stat-box { border-right: 1px solid #eeeeee; border-bottom: 1px solid #eeeeee; padding: 40px 15px; transition: 0.3s; height: 100%; }
+        .gnc-bba-stat-flex { display: flex; align-items: center; justify-content: center; }
+        .gnc-bba-stat-box a { text-decoration: none; color: inherit; display: flex; flex-direction: column; align-items: center; }
+        .gnc-bba-stat-box img { width: 55px; margin-bottom: 15px; transition: 0.3s; }
+        .gnc-bba-stat-box span { font-weight: 700; font-size: 14px; color: #555; }
+        .gnc-bba-stat-box:hover { background: #fafafa; }
+        .gnc-bba-stat-box:hover img { transform: translateY(-5px); }
+        .gnc-bba-stat-row .col-6:nth-child(even) .gnc-bba-stat-box { border-right: 0; }
+        .gnc-bba-stat-row .col-6:nth-last-child(-n+2) .gnc-bba-stat-box { border-bottom: 0; }
+
+        .gnc-bba-content-right { position: relative; padding: 40px; background: #f1f1f1; height: 100%; }
+        @media (min-width: 992px) {
+            .gnc-bba-content-right::before {
+                background: #f1f1f1; top: 0; bottom: 0; left: -134px; width: 134px; position: absolute; content: "";
+            }
+        }
+        .gnc-bba-title-line { display: inline-block; border-bottom: 1px solid #333; padding-bottom: 5px; margin-bottom: 30px; font-size: 1.8rem; font-weight: 400; }
+        .gnc-bba-scope-img { width: 370px; border-radius: 5px; float: right; margin: 0 0 20px 30px; height:250px; }
+        .gnc-bba-list li { margin-bottom: 12px; font-size: 14px; display: flex; align-items: center; }
+        .gnc-bba-list li i { color: #ccc; margin-right: 12px; font-size: 10px; }
+
+        @media (max-width: 991px) {
+            .gnc-bba-abt::before { 
+                content: ""; 
+                display: block; 
+                position: absolute; 
+                left: 0; 
+                top: 400px; 
+                width: 100%; 
+                height: 600px; 
+                background: url('images/bba-about.webp') no-repeat;
+                background-size: cover; 
+                z-index: -1;
+                filter: grayscale(100%);
+            }
+            .gnc-bba-msg-box { padding: 40px 20px; text-align: left; }
+            .gnc-bba-stats-grid { margin-top: 400px; } 
+            .gnc-bba-content-right { margin-top: 50px; padding: 20px 0; width: 100%; }
+            .gnc-bba-scope-img { float: none; width: 100%; margin: 20px 0; }
+            .gnc-bba-list { padding-left: 15px; }
+            .gnc-bba-list li { font-size: 13px; }
+            .gnc-bba-hero { padding-top: 150px; } /* Slightly less padding on mobile */
+        }
+
+
+    </style>
 </head>
-
 <body>
-    <?php
-    require "common/header.php";
-    ?>
-    <section class="pageBanner-inner">
-        <div style="background-image: url('upload/hero/agri-3.webp'); background-repeat: no-repeat; background-size: cover;">
-            <div class="pageBanner-inner_in">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 col-xl-7">
-                            <div class="pageBanner-inner__content inner-content head-sm text-md-start">
-                                <div class="upper-banner-content">
-                                    <div class="pb-flex d-flex align-items-center justify-content-center justify-content-lg-start mt-3">
-                                        <h5 class=" text-white border-right me-3 pe-3 mb-0">Bachelor of</h5>
-                                    </div>
-                                    <h3 class="mb-1 mt-3">Science in Forestry </small></h3>
-                                </div>
-                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
-                                    Apply Now
-
-                                </a>
-                                <!-- <a target="_blank" id="printButton1" target="_blank" class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0">
-                                    Download Fee Structure
-                                </a> -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="internal-form">
-                        <span id="ee-form-6">
-                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"></script>
+<?php require("common/header.php"); ?>
+<!-- GNC BBA HERO SECTION -->
+<section class="gnc-bba-hero">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-7">
+                
+                
+                <h2 class="fw-light">Department of <br><b>Agriculture Science</b></h2>
+                <p class="mt-4 mb-0 fw-bold">(B.Sc. Forestry)</p>
+                <h1>Bachelor of <br>Science in Forestry<br> at Guru Nanak College</h1>
+                <div class="mt-4 d-flex gap-2">
+                   <a href="https://application.gnc.edu.in/" target="_blank"> <button class="btn px-4 py-2 fw-bold text-white" style="background: var(--gnc-orange);">APPLY NOW</button></a>
+                    <a href="#" target="_blank" id="printButton1" target="_blank">
+                        <button class="btn px-4 py-2 fw-bold text-white" style="background: var(--gnc-blue);">Download Brochure</button>
+                    </a>
+                </div>
+                
+            </div>
+            <div class="col-md-6 col-lg-5 col-xl-3 order-last order-sm-last">
+                        <div class="internal-form">
+                           <span id="ee-form-6">
+                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
                         </span>
                     </div>
-                </div>
-            </div>
+                    </div>
         </div>
-    </section>
-    <?php require "companylogo1.php"; ?>
-    <?php require "rankingbanner.php"; ?>
-    <section class="gnc-normal-hero" style="background-color: #ffffff; padding: 60px 0;">
+    </div>
+</section>
 
-      <div class="main-container">
-        <div class="hero-layout">
-            
-            <!-- Left Text Content -->
-            <div class="hero-content-left">
-                <h2>Guru Nanak College - Best B.Sc Forestry College in Dehradun, Uttarakhand</h2>
-                <p>The Bachelor of Science in Forestry (B.Sc. Forestry) is an integral undergraduate program for
+    <section class="gnc-agri-about-sec">
+        <div class="container gnc-agri-px-188">
+            <div class="row gnc-agri-flex-cr">
+                <div class="col-12" data-aos="fade-up" data-aos-duration="600">
+                    <div class="gnc-agri-subHeading text-center text-md-start">
+                        <h1 class="mb-4">Guru Nanak College - Best B.Sc Forestry College in Dehradun, Uttarakhand<br> </h1>
+                    </div>
+                </div>
+                <div class="col-md-6" data-aos="fade-right" data-aos-delay="200" data-aos-duration="600">
+                    <div class="gnc-agri-subHeading text-center text-md-start">
+                        <p class="lead text-muted">The Bachelor of Science in Forestry (B.Sc. Forestry) is an integral undergraduate program for
                             those passionate about forest conservation, management, and the sustainable use of forest resources.
                             This four-year course at Guru Nanak College, The Best B.Sc Forestry College in Dehradun, Uttarakhand
                             offers an extensive exploration of forest ecosystems, wildlife management, and the principles of
                             silviculture. The curriculum includes subjects such as dendrology, forest economics, agroforestry, forest
                             policy and law, and environmental impact assessment.</p>
-                        <p>Students enrolled in the B.Sc. Forestry program at the GNC Dehradun, Uttarakhand will develop a deep
+                         <p class="lead text-muted">Students enrolled in the B.Sc. Forestry program at the GNC Dehradun, Uttarakhand will develop a deep
                             understanding of the scientific principles of managing forested landscapes for the continuous benefit of
                             the environment, economy, and society. The course emphasizes both theoretical knowledge and
                             practical skills, including field training in forest surveying, wildlife management, and the use of
                             geospatial technologies in forestry. This hands-on approach ensures that graduates are well-prepared to
                             address current and future challenges in forest management and conservation.</p>
-                        
-                        
-                 <a href="https://application.gnc.edu.in/" target="_blank" class="hero-btn-apply">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
+                        </p>   
+                    </div>   
+                    <div class="mt-5 gnc-agri-btnsGroup text-center text-md-start">
+                        <a href="https://application.gnc.edu.in/" class="btn btn-primary gnc-agri-btn-hoverEffect px-4 py-2 fw-bold" target="_blank" style="background: var(--gnc-orange); border: none;">Apply Now <img src="images/long-arrow-right.png" alt="Button Arrow" width="22" class="ms-2"></a>
+                    </div>                                          
+                </div> 
+                <div class="col-md-6" data-aos="fade-left" data-aos-delay="400" data-aos-duration="600">
+                    <div class="gnc-agri-subHeading text-center text-md-start mt-4 mt-md-0">
+                        <p class="lead text-muted">Graduates of the B.Sc. Forestry program from Guru Nanak College are well-prepared to explore diverse career opportunities in the field of forestry and environmental management. They can pursue roles in forest departments, wildlife conservation organizations, environmental consultancies, research institutions, and non-governmental organizations. Opportunities also exist in sectors such as biodiversity conservation, forest resource management, and eco-tourism. Furthermore, students can continue their education through advanced programs such as M.Sc. Forestry, environmental science courses, or specialized research programs, enabling them to enhance their expertise and build successful careers in the forestry and environmental sector.</p>
+                    </div> 
+                    <div class="gnc-agri-about-cov text-center text-md-start mt-4">
+                        <img src="images/horticulture-2.webp" alt="Agriculture Images" class="img-fluid rounded shadow-sm">
+                    </div>
+                </div>                 
+            </div>   
+        </div>
+    </section>
+
+   <section class="gnc-agri-edge-sec" >
+        <div class="container gnc-agri-px-188">
+            <div class="subHeading text-left" data-aos="fade-right" data-aos-duration="500">
+                <h3 class="position-relative" style="display: inline-block; padding-bottom: 15px;">Benefits of B.Sc. Forestry</h3>
+                <div class="accent-bar mx-auto mt-2 mb-4" style="width: 80px; height: 3px; background: #fff;"></div>
             </div>
+            <div class="gnc-agri-edge-grid">
 
-            <!-- Right Image Content -->
-            <div class="hero-image-right">
-                <img src="upload/infra/agri-image.webp" alt="Bsc Agriculture Showcase">
+                <div class="gnc-agri-edge-item" data-aos="fade-up" data-aos-delay="100">
+                    <h4>Comprehensive Forestry Knowledge</h4>
+                    <p>Gain an in-depth understanding of silviculture, forest management, forest ecology, and timber technology for a strong academic foundation.</p>
+                    <span>01</span>
+                </div>
+
+                <div class="gnc-agri-edge-item" data-aos="fade-up" data-aos-delay="200">
+                    <h4>Practical Field Training & Wildlife Exposure</h4>
+                    <p>Hands-on experience through regular visits to nearby forest ranges, wildlife sanctuaries, and state-of-the-art laboratories for real-world exposure.</p>
+                    <span>02</span>
+                </div>
+
+                <div class="gnc-agri-edge-item" data-aos="fade-up" data-aos-delay="300">
+                    <h4>Modern Geo-spatial Technology</h4>
+                    <p>Learn to use cutting-edge tools such as GIS, Remote Sensing, and GPS for forest mapping, inventory, and resource management.</p>
+                    <span>03</span>
+                </div>
+
+                <div class="gnc-agri-edge-item" data-aos="fade-up" data-aos-delay="400">
+                    <h4>Conservation & Biodiversity Management</h4>
+                    <p>Focus on eco-friendly techniques, forest conservation laws, and sustainable resource management to contribute to environmental protection.</p>
+                    <span>04</span>
+                </div>
+
+                <div class="gnc-agri-edge-item" data-aos="fade-up" data-aos-delay="100">
+                    <h4>Diverse Career Opportunities</h4>
+                    <p>Explore roles in the Indian Forest Service (IFS), State Forest Departments, research institutions, NGOs, and the wood-based industry.</p>
+                    <span>05</span>
+                </div>
+
+                <div class="gnc-agri-edge-item" data-aos="fade-up" data-aos-delay="200">
+                    <h4>Research & Innovation in Forestry</h4>
+                    <p>Empower yourself with the skills to conduct research in forest genetics, biotechnology, and sustainable harvesting methods.</p>
+                    <span>06</span>
+                </div>
+
+                <div class="gnc-agri-edge-item" data-aos="fade-up" data-aos-delay="300">
+                    <h4>MOU & Institutional Linkages</h4>
+                    <p>Benefit from our strong ties and MOUs with leading forestry research institutes and labs, providing exclusive opportunities for internships.</p>
+                    <span>07</span>
+                </div>
+
+                <div class="gnc-agri-edge-item" data-aos="fade-up" data-aos-delay="400">
+                    <h4>Sustainable Natural Resource Management</h4>
+                    <p>Join a vital sector dedicated to global environmental security, offering stable and impactful careers in forestry and conservation.</p>
+                    <span>08</span>
+                </div>
+
             </div>
-       </div>
+        </div>
+    </section>
 
-        
-    </div>
-</section>
+ <!-- Fees and Eligibility Section: Provides information on the fee structure and eligibility criteria for the programs -->
 
+    <style>
+        /* --- Variables & Reset --- */
+        :root {
+            --primary-color: #0f9af1;
+            --accent-color: #f39c12;
+            --text-dark: #333333;
+            --text-gray: #555555;
+            --light-bg: #f8f9fa;
+            --border-color: #dee2e6;
+            --white: #ffffff;
+        }
+
+        .gnc-bmrit-section {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        /* --- Layout --- */
+        .flex-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+        }
+
+        .col-data {
+            flex: 1 1 65%;
+            /* Takes up 65% of width */
+            min-width: 300px;
+        }
+
+        .note-box {
+            flex: 1 1 25%;
+            /* Takes up roughly 30% of width */
+            min-width: 280px;
+            background-color: var(--light-bg);
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 5px solid var(--primary-color);
+            height: fit-content;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        /* --- Typography --- */
+        .col-data h2 {
+            color: var(--primary-color);
+            font-weight: 700;
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+
+        .col-data h5 {
+            color: var(--primary-color);
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-weight: 600;
+            border-bottom: 2px solid var(--border-color);
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+
+        /* --- Download Button --- */
+        .btn-download {
+            display: inline-block;
+            background-color: var(--accent-color);
+            color: var(--white) !important;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-download:hover {
+            background-color: #e67e22;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        /* --- Tabs Styling --- */
+        .nav-tabs {
+            border-bottom: 2px solid var(--border-color);
+            margin-bottom: 20px;
+        }
+
+        .nav-tabs .nav-link {
+            border: none;
+            color: var(--text-gray);
+            font-weight: 600;
+            padding: 12px 25px;
+            transition: 0.3s;
+        }
+
+        .nav-tabs .nav-link.active {
+            color: var(--primary-color);
+            background-color: transparent;
+            border-bottom: 3px solid var(--primary-color);
+        }
+
+        .nav-tabs .nav-link:hover:not(.active) {
+            border-color: transparent;
+            color: var(--primary-color);
+            background-color: #eeeeee;
+        }
+
+        /* --- Table Styling --- */
+        .table-responsive {
+            margin-bottom: 20px;
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            background-color: var(--white);
+        }
+
+        table th,
+        table td {
+            border: 1px solid var(--border-color);
+            padding: 12px 15px;
+            text-align: left;
+            font-size: 0.95rem;
+        }
+
+        table th {
+            background-color: var(--primary-color);
+            color: var(--white);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+        }
+
+        table tbody tr:nth-child(even) {
+            background-color: #fcfcfc;
+        }
+
+        table tbody tr:hover {
+            background-color: #f1f7ff;
+        }
+
+        /* Specific styling for the bold "Net Academic Fee" row */
+        table tr td strong {
+            color: var(--primary-color);
+        }
+
+        /* --- Responsive Adjustments --- */
+        @media (max-width: 992px) {
+            .flex-container {
+                flex-direction: column;
+            }
+
+            .col-data,
+            .note-box {
+                flex: 1 1 100%;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .col-data h2 {
+                font-size: 1.5rem;
+            }
+
+            .nav-tabs .nav-link {
+                padding: 10px 15px;
+                font-size: 0.9rem;
+            }
+
+            table th,
+            table td {
+                padding: 8px 10px;
+                font-size: 0.85rem;
+            }
+        }
+    </style>
 
     <section class="gnc-bmrit-section py-5" style="background-color: #ffffff; color: var(--text-dark);">
-        
+
 
         <div class="container">
             <div class="flex-container">
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
+                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank"
+                        class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->
                     <ul class="nav nav-tabs" id="gncTabs" role="tablist">
                         <li class="nav-item">
-                            <button class="nav-link active" id="fee-tab" data-bs-toggle="tab" data-bs-target="#fee-content" type="button" role="tab">Fee Structure</button>
+                            <button class="nav-link active" id="fee-tab" data-bs-toggle="tab"
+                                data-bs-target="#fee-content" type="button" role="tab">Fee Structure</button>
                         </li>
                         <li class="nav-item">
-                            <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#other-content" type="button" role="tab">Other Fees</button>
+                            <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#other-content"
+                                type="button" role="tab">Other Fees</button>
                         </li>
                     </ul>
 
@@ -125,9 +676,10 @@
                         <!-- Tab 1: Fee Structure -->
                         <div class="tab-pane fade show active" id="fee-content" role="tabpanel">
                             <p><strong>Eligibility</strong></p>
-                            <p style="font-size: 0.9rem; line-height: 1.5;">The students who have passed 10+2 or had given senior secondary examination with Maths/Biology/Agriculture from any recognized board.<br>
-                            The minimum percentage required is 45% for GENERAL/OBC and 40% for ST/SC.</p>
-                           
+                            <p style="font-size: 0.9rem; line-height: 1.5;">The students who have passed 10+2 or had
+                                given senior secondary examination with Maths/Biology/Agriculture from any recognized
+                                board.<br>
+                                The minimum percentage required is 45% for GENERAL/OBC and 40% for ST/SC.</p>
                             <h5>All India Quota (Amount of fee details in INR)</h5>
                             <div class="table-responsive">
                                 <table>
@@ -156,11 +708,11 @@
                                             <td><strong>Net Academic Fee</strong></td>
                                             <td><strong>55,000 /- (Included Power Degree Fee)</strong></td>
                                         </tr>
-                                         <tr>
+                                        <tr>
                                             <td colspan="2">Total Fee year wise inclusive of other charges</td>
                                             <td>-</td>
                                         </tr>
-                                        
+
                                     </tbody>
                                 </table>
                             </div>
@@ -226,7 +778,8 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>(Theory Internal / External, Practical Internal / External) As per the University/Board/College Norms Payable</td>
+                                            <td>(Theory Internal / External, Practical Internal / External) As per the
+                                                University/Board/College Norms Payable</td>
                                             <td>4,800</td>
                                             <td>1,500</td>
                                         </tr>
@@ -266,7 +819,8 @@
                                             <td>1,10,000</td>
                                         </tr>
                                         <tr>
-                                            <td colspan="2">Hostel Enrollment & Furnishing Fee: Rs.5,000/- (To be paid once)</td>
+                                            <td colspan="2">Hostel Enrollment & Furnishing Fee: Rs.5,000/- (To be paid
+                                                once)</td>
                                             <td>Laundry Charges: Rs.4800/- Per Year</td>
                                         </tr>
                                     </tbody>
@@ -275,194 +829,1178 @@
                         </div>
                     </div>
 
-                   
+
                 </div>
 
-                <!-- Right Video Column  -->
-                <div class="col-video">
+                <!-- Right Video Column -->
+                <!-- <div class="col-video">
                     <div class="video-wrapper">
-                        <iframe src="https://www.youtube.com/embed/7grEw7LHZ0Q?autoplay=1&mute=1&playlist=7grEw7LHZ0Q&loop=1" title="BSC Agriculture Program Video" allowfullscreen></iframe>
-                    </div>
-                   
-                      <div class="note-box">
-                        <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Note:</h4>
-                        <ul style="padding-left: 20px; font-size: 1rem; color: var(--text-gray);">
-                            <li style="margin-bottom: 10px;">These scholarships are available in addition to merit-based scholarships:
-                                <ol style="margin-top: 8px;">
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in 1st year).</li>
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st year).</li>
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
-                                </ol>
-                            </li>
-                            <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand Domicile, Girl Child, etc.) upon approval.</li>
-                        </ul>
-                    </div>
-                     
+                        <iframe src="https://www.youtube.com/embed/GYfTrZM7YrA?autoplay=1&mute=1&playlist=GYfTrZM7YrA&loop=1" title="BSC CBZ Program Video" allowfullscreen></iframe>
+                    </div> -->
+
+                <div class="note-box">
+                    <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Note:
+                    </h4>
+                    <ul style="padding-left: 20px; font-size: 1rem; color: var(--text-gray);">
+                        <li style="margin-bottom: 10px;">These scholarships are available in addition to merit-based
+                            scholarships:
+                            <ol style="margin-top: 8px;">
+                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in
+                                    1st year).</li>
+                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st
+                                    year).</li>
+                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak
+                                    College (only in 1st year).</li>
+                            </ol>
+                        </li>
+                        <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand
+                            Domicile, Girl Child, etc.) upon approval.</li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Kalpana Chawla Section -->
+
+        <!-- Kalpana Chawla Section -->
+
+    <style>
+        /* Section Container */
+        .kc-scholarship-section {
+            position: relative;
+            width: 100%;
+            min-height: 550px;
+            display: flex;
+            align-items: center;
+            background: url('images/KC.avif') no-repeat center center;
+            background-size: cover;
+            padding: 60px 0;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        /* Orange Content Card */
+        .kc-scholarship-card {
+           
+           background-image: linear-gradient(to bottom, #FB7B1C 40%, #fedede59);
+            color: #ffffff;
+            padding: 50px;
+            max-width: 550px;
+            margin-left: auto;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            border-radius: 4px;
+            
+        }
+
+        .kc-scholarship-card h2 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-bottom: 15px;
+            line-height: 1.2;
+            text-transform: none;
+            color: #ffffff;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+        }
+
+        .kc-scholarship-card p {
+            color: #ffffff;
+        }
+
+        .kc-subtitle {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .kc-description {
+            font-size: 0.95rem;
+            line-height: 1.7;
+            margin-bottom: 30px;
+            opacity: 0.95;
+        }
+
+        /* Button Group */
+        .kc-btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        /* White Button with Orange Text */
+        .btn-kc-primary {
+            background-color: #ffffff;
+            color: #FB7B1C;
+            text-decoration: none;
+            padding: 12px 25px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 240px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-kc-primary img {
+            width: 20px;
+        }
+
+        .btn-kc-primary:hover {
+            background-color: #FB7B1C;
+            transform: translateX(5px);
+            color: #ffffff;
+        }
+
+        /* Transparent Outline Button */
+        .btn-kc-outline {
+            background-color: transparent;
+            color: #ffffff;
+            border: 1px solid #ffffff;
+            text-decoration: none;
+            padding: 12px 25px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 240px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-kc-outline:hover {
+            background-color: rgba(255, 255, 255, 0.15);
+            transform: translateX(5px);
+        }
+
+        /* Responsive view for Tablets and Mobile */
+        @media (max-width: 992px) {
+            .kc-scholarship-card {
+                max-width: 450px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .kc-scholarship-section {
+                background-position: 25% center;
+                /* Adjusts background focus for mobile */
+            }
+
+            .kc-scholarship-card {
+                margin: 0 auto;
+                /* Center the box on small screens */
+                padding: 35px 25px;
+                max-width: 90%;
+            }
+
+            .kc-scholarship-card h2 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+
+    <section class="kc-scholarship-section">
+        <div class="container">
+            <!-- Content Box -->
+            <div class="kc-scholarship-card">
+                <h2 >Kalpana Chawla Scholarship</h2>
+                <p class="kc-subtitle">A special opportunity for top-performing 5% students:</p>
+
+                <p class="kc-description">
+                    <strong>Eligibility:</strong> Students who perform the best in a calendar year (top 10% or 20% based
+                    on internal marks) and maintain 75% attendance each year will be awarded scholarships to those
+                    meritorious students. Explore our various BCA scholarships to learn more.
+                </p>
+
+                <div class="kc-btn-group">
+                    <!-- Text color inside this button is now #FB7B1C -->
+                    <a href="https://application.gnc.edu.in/" class="btn-kc-primary">
+                        APPLY NOW
+                        <img src="images/long-arrow-right.png" alt="arrow">
+                    </a>
+                    <a href="#f" class="btn-kc-outline">
+                        DOWNLOAD BROCHURE <span class="arrow">→</span>
+                    </a>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Include Bootstrap JS (Required for the tabs to click/switch) -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<!--  -->
+    <!--  -->
 
-    <!-- Kalpana Chawla Section -->
-   
-   
-<section class="gnc-simple-bento" style="background-color: #ffffff; padding-bottom:20px;">
+
+<style>
+    /* Career Opportunities  */
+
+    .pharmacy-container {
+        max-width: 1300px;
+        margin: 0 auto;
+        padding: 60px 20px;
+        display: flex;
+        gap: 50px;
+        align-items: flex-start;
+        box-sizing: border-box;
+        overflow: hidden;
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    /* --- LEFT SIDE: CONTENT --- */
+    .content-left {
+        flex: 1;
+        width: 100%;
+    }
+
+    .content-left h3 {
+        font-size: clamp(1.8rem, 5vw, 2.8rem);
+        font-weight: 900;
+        line-height: 1.2;
+        margin-bottom: 25px;
+        color: var(--primary-dark);
+        letter-spacing: -0.5px;
+    }
+
+    .content-left .intro-text {
+        font-size: 1rem;
+        line-height: 1.7;
+        color: var(--text-main);
+        margin-bottom: 20px;
+        text-align: justify;
+    }
+
+    /* --- RIGHT SIDE: PATHWAYS SLIDER --- */
+    .pathways-right {
+        flex: 1.2;
+        width: 100%;
+        min-width: 0;
+        position: relative;
+    }
+
+    .slider-wrap {
+        border-top: 1px solid #e2e8f0;
+        padding-top: 25px;
+        position: relative;
+    }
+
+    .slider-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    .slider-head span {
+        font-weight: 800;
+        text-transform: uppercase;
+        color: var(--gnc-blue);
+        font-size: 0.8rem;
+    }
+
+    .slider-view {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        height: 400px; /* Fixed height for vertical view */
+        cursor: grab;
+        touch-action: pan-y; /* Allow vertical panning */
+    }
+
+    .slider-track {
+        display: flex;
+        flex-direction: column; 
+        gap: 15px;
+        transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        will-change: transform;
+    }
+
+    .pathway-card {
+        flex: 0 0 auto;
+        width: 100%;
+        background: var(--bg-soft);
+        padding: 20px;
+        border-left: 5px solid var(--gnc-red);
+        transition: 0.3s ease;
+        box-sizing: border-box;
+    }
+
+    .pathway-card:hover {
+        background: #fff;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.07);
+        border-left-color: var(--gnc-blue);
+    }
+
+    .pathway-card h5 {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: var(--primary-dark);
+        margin: 0 0 10px 0;
+    }
+
+    .pathway-card p {
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: var(--text-main);
+        margin: 0;
+    }
+
+    .nav-ctrl { display: flex; flex-direction: column; gap: 10px; }
     
+    .btn-nav {
+        width: 42px;
+        height: 42px;
+        border: 2px solid var(--gnc-blue);
+        background: #fff;
+        color: var(--gnc-blue);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        border-radius: 50%;
+        transition: 0.3s;
+    }
 
-    <div class="gnc-bento-container">
+    .btn-nav:hover { 
+        background: var(--gnc-red); 
+        border-color: var(--gnc-red); 
+        color: #fff;
+    }
+
+    /* --- RESPONSIVE ADJUSTMENTS --- */
+    @media (max-width: 1024px) {
+        .pharmacy-container { flex-direction: column; gap: 40px; }
+        .content-left, .pathways-right { width: 100%; }
+        .slider-view { height: 350px; } /* Consistent fixed height for vertical slide */
+        .nav-ctrl { flex-direction: row; justify-content: flex-end; }
+    }
+
+    @media (max-width: 600px) {
+        .slider-view { height: 320px; }
+        .pathway-card { padding: 15px; }
+        .pathway-card h5 { font-size: 1rem; }
+        .pathway-card p { font-size: 0.85rem; }
+    }
+
+    @media (max-width: 480px) {
+        .pharmacy-container { padding: 30px 15px; }
+        .slider-head span { font-size: 0.8rem; font-weight: 600; }
+        .btn-nav { width: 36px; height: 36px; }
+    }
+</style>
+
+<section class="pharmacy-container" data-aos="fade-up">
+    <div class="content-left">
+        <h3 class="" style="color: #0f9af1;">Career Opportunities in <br>Forestry (B.Sc. Forestry)</h3>
         
-       
-        <div class="gnc-bento-item" data-aos="fade-up" data-aos-duration="600" style="background-color: rgb(3 175 255)">
-            <h2 class="gnc-bento-ian">Important Academic Notes</h2>
-            <ul class="gnc-arrow-list ">
-                <li>Examination Fees: External as per the University/Board/ College Norms Payable.</li>
-                <li>Career Development, Recruitment & Entrepreneurship: Ref - Power Degree by Career Buddy Club.</li>
-                <li>Dissertation Charges: Rs.5,000/- (To be paid in final year) Shall be Applicable for selected courses as per the university curriculum.</li>
-                <li>Transportation Fee (Optional): Applicable for transportation to and from Dehradun city & around for day scholars as per distance.</li>
-                <li>Transportation Fee (Optional): Applicable for internship/clinical posting/On-Job Training for both hostellers & day scholars.</li>
-                <li>Package seats are offered for the complete duration of course only.</li>
-            </ul>
-        </div>
-
-        <!-- RIGHT COLUMN STACK -->
-        <div class="right-stack">
-            
-            <!-- RIGHT TOP RECTANGLE: KALPANA CHAWLA -->
-            <div class="gnc-bento-item bg-very-light" data-aos="fade-right" data-aos-duration="800">
-                <h2 class="text-orange">Kalpana Chawla Scholarship</h2>
-                <p><strong>A special opportunity for top-performing 5% students:</strong></p>
-                <p>Eligibility: students, who perform the best in calendar year, 10% or 20% based on the student's internal marks and 75% attendance each year will be awarded scholarship to those meritorious students.</p>
-            </div>
-
-            <!-- RIGHT BOTTOM RECTANGLE: ADMISSION PROCEDURE -->
-            <div class="gnc-bento-item bg-light-grey" style="flex: 1;" data-aos="fade-right" data-aos-duration="800">
-                <h3 class="">Admission Procedure</h3>
-                <p>Admission to the B.Sc. Forestry program at Guru Nanak College, Dehradun, is conducted through a merit-based selection process.</p>
-                <p>Applicants are assessed based on their academic performance in the qualifying examination, followed by a counseling process to evaluate their passion and suitability for a career in forestry.</p>
-                <a href="https://application.gnc.edu.in/" target="_blank" class="gnc-simple-btn">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
-            </div>
-
-        </div>
-
+        <p class="intro-text">
+            A Bachelor of Science in Forestry opens up a wide array of career paths for students passionate about nature and conservation. Graduates can work in the Indian Forest Service (IFS), state forest departments, wildlife organizations, and various environmental NGOs. They play a crucial role in managing forest resources, wildlife conservation, and biodiversity management.
+        </p>
+        
+        <p class="intro-text">
+            For those interested in the industrial and corporate sectors, there are opportunities in timber technology, wood-based industries, and environmental consultancy. Further studies can lead to specializations in forest genetics, silviculture, or environmental management, offering advanced research and teaching positions.
+        </p>
     </div>
-</section>
-  
 
-
-
-
- 
-<!-- INTEGRATED SECTION START -->
-    <section class="acp-section">
-    <div class="container">
-        <div class="row">
-            <!-- 1. Students Image & Color Bar -->
-            <div class="col-lg-4 student-image-col">
-                <div class="red-vertical-bar"></div>
-                <img src="upload/infra/student-1.webp" alt="GNC B.Sc. Forestry Students" class="student-img-cutout">
-            </div>
-    
-            <!-- 2. Career Opportunities (Middle) -->
-            <div class="col-lg-5 ps-lg-4 acp-text-padding acp-content-col" style="padding-left: 3.5rem !important;">
-                <h3>Career Opportunities in <br>Forestry (B.Sc. Forestry)</h3>
-                <p>Graduates of the B.Sc. Forestry programs are equipped for diverse career paths in the forestry sector. They can find employment in government forest services, wildlife conservation organizations, and environmental NGOs. Opportunities also exist in forest-based industries for roles in sustainable resource management, timber production, and eco-tourism.</p>
-                
-                <p>Forestry graduates are also well-suited for research roles, contributing to studies on biodiversity, climate change, and forest ecology. Further academic pursuits in forestry or related fields can lead to careers in academia or specialized positions in forest policy and environmental consultancy.</p>
+    <div class="pathways-right">
+        <div class="slider-wrap">
+            <div class="slider-head">
+                <span>Career Pathways</span>
+                <div class="nav-ctrl">
+                    <button class="btn-nav" onclick="moveSlide(-1)" aria-label="Previous"><i class="fas fa-chevron-up"></i></button>
+                    <button class="btn-nav" onclick="moveSlide(1)" aria-label="Next"><i class="fas fa-chevron-down"></i></button>
+                </div>
             </div>
 
-            <!-- 3. Key Career Fields (Right) -->
-            <div class="col-lg-3 salient-features-col" style="padding-bottom: 2rem;">
-                <h6 class="fw-bold mb-4" style="font-size: 1rem;">B.Sc. Forestry Career Scope</h6>
-                <ul class="feature-list">
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Government Services:</b> Opportunities in government forest services and wildlife conservation departments.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>NGO Sector:</b> Working with environmental NGOs and international conservation organizations.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Forest Industry:</b> Roles in sustainable resource management, timber production, and eco-tourism.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Scientific Research:</b> Contributing to studies on biodiversity, climate change, and forest ecology.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Academia:</b> Pursuing careers in teaching and advanced academic research in forestry.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Consultancy:</b> Specialized positions in forest policy and professional environmental consultancy.</div>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
-    <!-- BLUE BANNER SECTION: WHY JOIN GNC BMRIT -->
-  <section class="why-join-blue">
-    <div class="container">
-        <div class="row">
-
-            <div class="col-lg-8">
-                <div class="why-join-content">
-                    <h3>Why Join Guru Nank College For B.Sc Forestry in Dehradun ?</h3>
-                    <p>The School of Agriculture Science at Guru Nanak College For B.Sc Forestry in Dehradun offers a comprehensive B.Sc. Forestry program that combines academic excellence with practical experience. Our commitment is to groom future leaders and professionals in forest conservation and sustainable resource management.</p>
-
-                    <ul class="check-list-white">
-                        <li class="d-flex align-items-start mb-3">
-                            <div class="ms-3">
-                                <p class="mb-0"><b>Students benefit from:</b></p>
-                            </div>
-                        </li>
-
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">A rich library with specialized resources in forestry and environmental science.</p>
-                            </div>
-                        </li>
-
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">Well-equipped laboratories and access to forest reserves for practical training.</p>
-                            </div>
-                        </li>
-
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">A faculty team comprising experienced professionals and researchers in forestry.</p>
-                            </div>
-                        </li>
-
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">Innovative teaching methodologies that integrate fieldwork, project-based learning, and interactive sessions.</p>
-                            </div>
-                        </li>
-                    </ul>
-                    
-                    <p class="text-white">We focus on holistic education, fostering skills such as critical thinking, ethical decision-making, and research aptitude. Our program also provides career counseling and placement support to assist students in navigating their career paths in forestry and environmental conservation.</p>
-
-                    <a href="https://application.gnc.edu.in/" target="_blank" class="btn-apply-white">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
+            <div class="slider-view" id="sliderView">
+                <div class="slider-track" id="sliderTrack">
+                    <div class="pathway-card">
+                        <h5><i class="fas fa-tree"></i> Forest Range Officer</h5>
+                        <p>Manage and protect forest areas, enforce laws, and oversee conservation projects.</p>
+                    </div>
+                    <div class="pathway-card">
+                        <h5><i class="fas fa-paw"></i> Wildlife Biologist</h5>
+                        <p>Study and conserve wildlife species and their natural habitats in various ecosystems.</p>
+                    </div>
+                    <div class="pathway-card">
+                        <h5><i class="fas fa-map-marked-alt"></i> GIS Specialist</h5>
+                        <p>Use geo-spatial technology for forest mapping, inventory, and resource monitoring.</p>
+                    </div>
+                    <div class="pathway-card">
+                        <h5><i class="fas fa-leaf"></i> Silviculturist</h5>
+                        <p>Focus on the growth and management of forests to ensure health and productivity.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
- 
-   
-    <!-- INTEGRATED SECTION END -->
-    <?php require "application-process.php"; ?>
-    <?php require "testimoni-2.php"; ?>
-    <?php require "common/footer.php"; ?>
+
+<script>
+    const track = document.getElementById('sliderTrack');
+    const view = document.getElementById('sliderView');
+    const items = document.querySelectorAll('.pathway-card');
+    
+    let pos = 0;
+    let autoScrollInterval; 
+    const SCROLL_SPEED = 4000;
+    const GAP = 15;
+
+    function getVisibleCount() {
+        if (window.innerWidth <= 600) return 1.2;
+        if (window.innerWidth <= 1024) return 1.5;
+        return 2.5;
+    }
+
+    function moveSlide(dir) {
+        if (items.length === 0) return;
+
+        const itemHeight = items[0].offsetHeight;
+        const totalMoveHeight = itemHeight + GAP;
+        const visibleCount = getVisibleCount();
+        
+        // Calculate max position so we don't scroll into empty space
+        // We want to be able to see the last item.
+        const maxPos = Math.max(0, items.length - Math.floor(visibleCount));
+
+        pos += dir;
+
+        if (pos > maxPos) {
+            pos = 0;
+        } else if (pos < 0) {
+            pos = maxPos;
+        }
+
+        track.style.transform = `translateY(-${pos * totalMoveHeight}px)`;
+        startAutoScroll();
+    }
+
+    function startAutoScroll() {
+        stopAutoScroll(); 
+        autoScrollInterval = setInterval(() => {
+            moveSlide(1);
+        }, SCROLL_SPEED);
+    }
+
+    function stopAutoScroll() {
+        clearInterval(autoScrollInterval);
+    }
+
+    // Touch Support
+    let touchStartY = 0;
+    let touchEndY = 0;
+
+    view.addEventListener('touchstart', e => {
+        touchStartY = e.changedTouches[0].screenY;
+        stopAutoScroll(); 
+    }, {passive: true});
+
+    view.addEventListener('touchend', e => {
+        touchEndY = e.changedTouches[0].screenY;
+        const diff = touchStartY - touchEndY;
+        if (Math.abs(diff) > 50) {
+            moveSlide(diff > 0 ? 1 : -1);
+        } else {
+            startAutoScroll();
+        }
+    }, {passive: true});
+
+    view.addEventListener('mouseenter', stopAutoScroll);
+    view.addEventListener('mouseleave', startAutoScroll);
+
+    window.addEventListener('resize', () => {
+        pos = 0;
+        track.style.transform = `translateY(0)`;
+        startAutoScroll(); 
+    });
+
+    // Initial Start
+    setTimeout(() => {
+        startAutoScroll();
+    }, 500);
+</script>
+
+<style>
+#gnc-forestry-why {
+    padding: 0px 20px;
+    background-color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.gnc-forestry-why-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+/* LEFT SIDE */
+.gnc-forestry-content-col {
+    flex: 1;
+    
+}
+
+.gnc-forestry-heading {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    color: var(--gnc-text);
+    margin-bottom: 25px;
+    font-weight: 300;
+}
+
+.gnc-forestry-heading span {
+    
+    font-weight: 700;
+    color: var(--gnc-blue);
+}
+
+.gnc-forestry-subtext {
+    color: var(--gnc-gray);
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.gnc-forestry-features-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 30px 0;
+}
+
+.gnc-forestry-features-list li {
+    color: var(--gnc-gray);
+    font-size: 1.05rem;
+    margin-bottom: 15px;
+    padding-left: 25px;
+    position: relative;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+/* Custom Bullet Point */
+.gnc-forestry-features-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 8px;
+    height: 2px;
+    background: var(--gnc-orange);
+}
+
+.gnc-forestry-footer-text {
+    color: var(--gnc-gray);
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.gnc-forestry-apply-btn {
+    display: inline-block;
+    background-color: var(--gnc-orange);
+    color: #fff;
+    padding: 15px 40px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: 0.3s;
+    letter-spacing: 1px;
+}
+
+.gnc-forestry-apply-btn:hover {
+    background-color: var(--gnc-blue);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 183, 255, 0.3);
+}
+
+/* RIGHT SIDE MOSAIC */
+.gnc-forestry-mosaic-col {
+    flex: 1.2;
+    display: flex;
+    gap: 20px;
+    height: 550px;
+    position: relative;
+}
+
+.mosaic-tall {
+    flex: 1;
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+    height: 100%;
+}
+
+.mosaic-stacked {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100%;
+}
+
+.mosaic-square {
+    flex: 1;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+}
+
+.gnc-forestry-mosaic-col img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    /* Use cover scaling with centered cropping to fill container while minimizing cut-offs */
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.mosaic-tall:hover img, .mosaic-square:hover img {
+    transform: scale(1.08);
+}
+
+.mosaic-overlay {
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: linear-gradient(to bottom, transparent 60%, rgba(15, 154, 241, 0.3));
+    pointer-events: none;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+    .gnc-forestry-why-container {
+        flex-direction: column;
+        text-align: center;
+        padding: 40px 15px;
+    }
+    .gnc-forestry-features-list li {
+        padding-left: 0;
+        text-align: left;
+    }
+    .gnc-forestry-features-list li::before {
+        display: none;
+    }
+    .gnc-forestry-mosaic-col {
+        width: 100%;
+        height: 400px;
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 600px) {
+    .gnc-forestry-mosaic-col {
+        height: 350px;
+        gap: 12px;
+    }
+    .mosaic-stacked {
+        gap: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .gnc-forestry-mosaic-col {
+        height: 300px;
+    }
+    .gnc-forestry-heading {
+        font-size: 1.8rem;
+    }
+}
+</style>
+
+ <section id="gnc-forestry-why">
+    <div class="gnc-forestry-why-container">
+        
+        <div class="gnc-forestry-content-col">
+            <h2 class="gnc-forestry-heading">Why Join Guru Nanak College For <span>B.Sc Forestry in Dehradun?</span></h2>
+            <p class="gnc-forestry-subtext">The School of Agriculture Science at Guru Nanak College For B.Sc Forestry in Dehradun offers a comprehensive B.Sc. Forestry program that combines academic excellence with practical experience. Our commitment is to groom future leaders and professionals in forest conservation and sustainable resource management.</p>
+            <p class="gnc-forestry-subtext">Students benefit from:</p>
+            
+            <ul class="gnc-forestry-features-list">
+                <li>A rich library with specialized resources in forestry and environmental science.</li>
+                <li>Well-equipped laboratories and access to forest reserves for practical training.</li>
+                <li>A faculty team comprising experienced professionals and researchers in forestry.</li>
+                <li>Innovative teaching methodologies that integrate fieldwork, project-based learning, and interactive sessions.</li>
+            </ul>
+
+            <p class="gnc-forestry-footer-text">We focus on holistic education, fostering skills such as critical thinking, ethical decision-making, and research aptitude. Our program also provides career counseling and placement support to assist students in navigating their career paths in forestry and environmental conservation.</p>
+
+            <a href="https://application.gnc.edu.in/" target="_blank" class="gnc-forestry-apply-btn">APPLY NOW</a>
+        </div>
+
+        <div class="gnc-forestry-mosaic-col">
+            <div class="mosaic-tall">
+                <img src="images/agri-2.webp" alt="Agri Hub">
+                <div class="mosaic-overlay"></div>
+            </div>
+            <div class="mosaic-stacked">
+                <div class="mosaic-square">
+                    <img src="images/horticulture-16.webp" alt="Field Session">
+                </div>
+                <div class="mosaic-square">
+                    <img src="images/horticulture-4.webp" alt="Student Group">
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- our blog section -->
+
+  <style>
+    .bba-blog-section {
+        padding: 80px 0;
+        background-color: #fff;
+    }
+    .bba-blog-section .bba-blog-prev:after,
+    .bba-blog-section .bba-blog-next:after {
+        content: '' !important;
+    }
+    .bba-blog-section .bba-blog-next svg,
+    .bba-blog-section .bba-blog-prev svg {
+        width: 24px !important;
+        height: 24px !important;
+    }
+    .bba-blog-section .bba-blog-prev,
+    .bba-blog-section .bba-blog-next {
+        position: relative !important;
+        margin: 0 !important;
+        top: auto !important;
+        left: auto !important;
+        right: auto !important;
+        width: 44px !important;
+        height: 44px !important;
+        border: 1px solid #4f46e5;
+        border-radius: 50%;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+    .bba-blog-section .bba-blog-next:hover,
+    .bba-blog-section .bba-blog-prev:hover {
+        background-color: #4f46e5;
+    }
+    .bba-blog-section .bba-blog-next:hover svg,
+    .bba-blog-section .bba-blog-prev:hover svg {
+        color: #fff !important;
+    }
+    .bba-blog-section .blog-card {
+        border-radius: 16px;
+        overflow: hidden;
+        transition: all 0.3s ease;
+        margin-bottom: 20px;
+    }
+    .bba-blog-section .blog-card img {
+        width: 100%;
+        height: 240px;
+        object-fit: contain;
+        border-radius: 16px;
+        margin-bottom: 24px;
+    }
+    .bba-blog-section .blog-card h3 {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #111827;
+        margin-bottom: 16px;
+        line-height: 1.5;
+        transition: color 0.3s ease;
+    }
+    .bba-blog-section .blog-card:hover h3 {
+        color: #4f46e5;
+    }
+    .bba-blog-section .blog-card p {
+        color: #6b7280;
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 24px;
+    }
+    .bba-blog-section .blog-card .read-more {
+        color: #4338ca;
+        font-weight: 600;
+        font-size: 1.125rem;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        text-decoration: none;
+    }
+    .bba-blog-section .section-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #111827;
+        line-height: 1.2;
+        margin-bottom: 20px;
+    }
+    .bba-blog-section .section-title span {
+        color: #4f46e5;
+    }
+    .bba-blog-section .section-desc {
+        color: #6b7280;
+        margin-bottom: 40px;
+    }
+    .bba-blog-section .view-all-btn {
+        padding: 14px 28px;
+        border: 1px solid #d1d5db;
+        border-radius: 9999px;
+        color: #111827;
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-block;
+        transition: all 0.3s ease;
+    }
+    .bba-blog-section .view-all-btn:hover {
+        background-color: #f3f4f6;
+    }
+    .bba-blog-section .slider-controls {
+        display: flex;
+        gap: 16px;
+        margin-top: 32px;
+    }
+</style>
+
+<section class="bba-blog-section">
+    <div class="container">
+        <div class="row align-items-stretch">
+            <div class="col-lg-5 d-flex flex-column justify-content-between mb-5 mb-lg-0">
+                <div class="text-center text-lg-start">
+                    <h2 class="section-title">Our latest <span>blogs</span></h2>
+                    <p class="section-desc">Welcome to our blog section, where knowledge meets inspiration. Explore insightful articles, expert tips, and the latest trends in our field.</p>
+                    <a href="blog.php" class="view-all-btn">View All</a>
+                </div>
+                <div class="slider-controls justify-content-center justify-content-lg-start">
+                    <div class="bba-blog-prev">
+                        <svg style="color: #4f46e5;" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M20.9999 12L4.99992 12M9.99992 6L4.70703 11.2929C4.3737 11.6262 4.20703 11.7929 4.20703 12C4.20703 12.2071 4.3737 12.3738 4.70703 12.7071L9.99992 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="bba-blog-next">
+                        <svg style="color: #4f46e5;" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3 12L19 12M14 18L19.2929 12.7071C19.6262 12.3738 19.7929 12.2071 19.7929 12C19.7929 11.7929 19.6262 11.6262 19.2929 11.2929L14 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="swiper bbaBlogSwiper">
+                    <div class="swiper-wrapper">
+                        <?php
+                        require_once "blog.php";
+                        $bba_blogs = array_filter($posts, function($post) {
+                            return in_array('Forestry', $post['tags']);
+                        });
+                        foreach ($bba_blogs as $post):
+                            $link = $post['url'] . ".php";
+                        ?>
+                        <div class="swiper-slide">
+                            <div class="blog-card">
+                                <img src="<?= $post['image'] ?>" alt="<?= $post['title'] ?>">
+                                <h3><?= $post['title'] ?></h3>
+                                <p><?= substr(strip_tags($post['excerpt']), 0, 120) ?>...</p>
+                                <a href="<?= $link ?>" class="read-more">
+                                    Read more
+                                    <svg width="15" height="12" viewBox="0 0 15 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M1.25 6L13.25 6M9.5 10.5L13.4697 6.53033C13.7197 6.28033 13.8447 6.15533 13.8447 6C13.8447 5.84467 13.7197 5.71967 13.4697 5.46967L9.5 1.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                        <?php endforeach; ?>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+ <!-- GNC FAQ & ASSISTANCE SECTION START -->
+<section id="gnc-faq-wrapper">
+    <style>
+        #gnc-faq-wrapper {
+            width: 100%;
+            max-width: 1200px;
+            margin: 60px auto;
+            padding: 20px;
+            display: flex;
+            gap: 50px;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: #fff;
+            box-sizing: border-box;
+        }
+
+        /* --- LEFT SIDEBAR: NEED ASSISTANCE --- */
+        .gnc-faq-sidebar {
+            width: 30%;
+            background-color: #f6f6f6;
+            padding: 40px 30px;
+            border-radius: 8px;
+            height: fit-content;
+        }
+
+        .gnc-faq-sidebar h3 {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 10px;
+            font-weight: 500;
+        }
+
+        .gnc-faq-sidebar .gnc-orange-line {
+            width: 100%;
+            height: 1px;
+            background-color: var(--gnc-orange);
+            margin-bottom: 25px;
+        }
+
+        .gnc-sidebar-text {
+            font-size: 14px;
+            color: #444;
+            line-height: 1.6;
+            margin-bottom: 25px;
+        }
+
+        .gnc-contact-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            gap: 15px;
+        }
+
+        .gnc-contact-icon {
+            width: 24px;
+            height: 24px;
+            fill: #999;
+            flex-shrink: 0;
+        }
+
+        .gnc-contact-info label {
+            display: block;
+            font-size: 12px;
+            color: #888;
+            margin-bottom: 2px;
+        }
+
+        .gnc-contact-info span {
+            display: block;
+            font-size: 15px;
+            font-weight: 700;
+            color: #000;
+        }
+
+        /* --- RIGHT CONTENT: FAQ LIST --- */
+        .gnc-faq-main {
+            width: 70%;
+        }
+
+        .gnc-faq-header {
+            margin-bottom: 40px;
+        }
+
+        .gnc-faq-header span {
+            color: var(--gnc-orange);
+            font-size: 24px;
+            font-weight: 500;
+        }
+
+        .gnc-faq-header h2 {
+            font-size: 24px;
+            color: #333;
+            display: inline;
+            font-weight: 400;
+        }
+
+        .gnc-faq-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        /* Accordion Style using <details> */
+        .gnc-faq-item {
+            border-bottom: 1px solid #ddd;
+            padding: 20px 0;
+        }
+
+        .gnc-faq-item summary {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            outline: none;
+        }
+
+        /* Orange Plus Icon */
+        .gnc-faq-item summary::before {
+            content: '+';
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 22px;
+            height: 22px;
+            background-color: var(--gnc-orange);
+            color: #fff;
+            border-radius: 50%;
+            margin-right: 15px;
+            font-size: 16px;
+            flex-shrink: 0;
+            transition: transform 0.3s ease;
+        }
+
+        .gnc-faq-item[open] summary::before {
+            content: '-';
+            background-color: #333;
+        }
+
+        .gnc-faq-answer {
+            padding: 15px 0 0 37px;
+            font-size: 14.5px;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        /* Hide default arrow in Firefox */
+        .gnc-faq-item summary::-webkit-details-marker {
+            display: none;
+        }
+
+        /* Responsive Logic */
+        @media (max-width: 900px) {
+            #gnc-faq-wrapper { flex-direction: column; }
+            .gnc-faq-sidebar, .gnc-faq-main { width: 100%; }
+        }
+    </style>
+
+    <!-- LEFT SIDEBAR: NEED ASSISTANCE -->
+    <aside class="gnc-faq-sidebar">
+        <h3>Need Assistance?</h3>
+        <div class="gnc-orange-line"></div>
+        
+        <p class="gnc-sidebar-text">
+            Secure your seat for B.Sc. Forestry Admission 2026 at Guru Nanak College, Dehradun. Apply now or book a campus visit to begin your journey in forest conservation and sustainable resource management.
+        </p>
+
+        <div class="gnc-contact-item">
+            <svg class="gnc-contact-icon" viewBox="0 0 24 24"><path d="M6.62,10.79C8.06,13.62 10.38,15.94 13.21,17.38L15.41,15.18C15.69,14.9 16.08,14.82 16.43,14.93C17.55,15.3 18.75,15.5 20,15.5A1,1 0 0,1 21,16.5V20A1,1 0 0,1 20,21A17,17 0 0,1 3,4A1,1 0 0,1 4,3H7.5A1,1 0 0,1 8.5,4C8.5,5.25 8.7,6.45 9.07,7.57C9.18,7.92 9.1,8.31 8.82,8.59L6.62,10.79Z"/></svg>
+            <div class="gnc-contact-info">
+                <label>Admission Helpline</label>
+                <span>7300900900</span>
+            </div>
+        </div>
+
+        <div class="gnc-contact-item">
+            <svg class="gnc-contact-icon" viewBox="0 0 24 24"><path d="M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.11,4 20,4M20,18H4V8L12,13L20,8V18M12,11L4,6H20L12,11Z"/></svg>
+            <div class="gnc-contact-info">
+                <label>Email Support</label>
+                <span>info@gnc.edu.in</span>
+            </div>
+        </div>
+    </aside>
+
+    <!-- RIGHT CONTENT: FAQs -->
+    <main class="gnc-faq-main">
+        <div class="gnc-faq-header">
+            <span>Need Help?</span> <h2>Frequently Asked Questions</h2>
+        </div>
+
+        <div class="gnc-faq-list">
+            <!-- Q1 -->
+            <details class="gnc-faq-item">
+                <summary>What is a Forestry course?</summary>
+                <div class="gnc-faq-answer">
+                    It is a program that teaches silviculture, forest management, wildlife conservation, and sustainable resource management.
+                </div>
+            </details>
+
+            <!-- Q2 -->
+            <details class="gnc-faq-item">
+                <summary>Who is eligible for this course?</summary>
+                <div class="gnc-faq-answer">
+                    Students who have completed 10+2 with Physics, Chemistry, and Biology/Maths/Agriculture from a recognized board can apply.
+                </div>
+            </details>
+
+            <!-- Q3 -->
+            <details class="gnc-faq-item">
+                <summary>What career options are available after completion?</summary>
+                <div class="gnc-faq-answer">
+                    Graduates can work in the Indian Forest Service (IFS), state forest departments, wildlife organizations, NGOs, and the timber industry.
+                </div>
+            </details>
+
+            <!-- Q4 -->
+            <details class="gnc-faq-item">
+                <summary>Is forestry a good career option?</summary>
+                <div class="gnc-faq-answer">
+                    Yes, with increasing focus on climate change and conservation, there is a high demand for forestry professionals globally.
+                </div>
+            </details>
+
+            <!-- Q5 -->
+            <details class="gnc-faq-item">
+                <summary>What is the average salary after this course?</summary>
+                <div class="gnc-faq-answer">
+                    Entry-level salaries start around ₹3–6 LPA and increase with experience and specialization in government or private sectors.
+                </div>
+            </details>
+
+            <!-- Q6 -->
+            <details class="gnc-faq-item">
+                <summary>Can I start my own business after this course?</summary>
+                <div class="gnc-faq-answer">
+                    Yes, you can start ventures in medicinal plant cultivation, wood-based industries, or environmental consultancy.
+                </div>
+            </details>
+
+            <!-- Q7 -->
+            <details class="gnc-faq-item">
+                <summary>Is there any entrance exam required?</summary>
+                <div class="gnc-faq-answer">
+                    Admission is primarily based on merit, though some state/national level exams may be applicable for certain quotas.
+                </div>
+            </details>
+
+            <!-- Q8 -->
+            <details class="gnc-faq-item">
+                <summary>What skills are needed for this course?</summary>
+                <div class="gnc-faq-answer">
+                    Students should have an interest in nature, physical fitness for fieldwork, analytical thinking, and a commitment to environmental conservation.
+                </div>
+            </details>
+        </div>
+    </main>
+</section>
+<!-- GNC FAQ & ASSISTANCE SECTION END -->
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 800,
+        once: true,
+        offset: 100
+    });
+    $(document).ready(function() {
 
 
-
+        var swiper = new Swiper(".bbaBlogSwiper", {
+            slidesPerView: 2,
+            spaceBetween: 30,
+            loop: true,
+            navigation: {
+                nextEl: ".bba-blog-next",
+                prevEl: ".bba-blog-prev",
+            },
+        });
+    });
+</script>
+ <?php require("common/footer.php"); ?>
 </body>
-
 </html>

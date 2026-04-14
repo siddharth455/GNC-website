@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>BCA vs BTech: Which is Better After 12th? | Guru Nanak College</title>
   <meta name="description"
-    content="Complete comparison between BCA and BTech covering eligibility, fees, duration, and career scope for students planning IT careers."/>
+    content="Complete comparison between BCA and BTech covering eligibility, fees, duration, and career scope for students planning IT careers." />
   <meta name="keywords"
     content="BCA vs BTech, Bachelor of Computer Applications, BTech Computer Science, IT careers after 12th, Guru Nanak College Dehradun" />
   <link rel="icon" type="image/webp" href="images/logog.webp">

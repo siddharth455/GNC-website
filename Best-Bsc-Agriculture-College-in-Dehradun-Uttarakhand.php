@@ -3,15 +3,15 @@
 
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Agriculture College in Dehradun, Uttarakhand</title>
+    <title>Guru Nanak College - Best Agriculture College in Dehradun, Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, recognized as the best agriculture college in Dehradun, Uttarakhand. Empowering students with knowledge and skills for agricultural excellence. Courses Offered: B.Sc Agriculture, B.Sc. Forestry, M.Sc Agronomy.">
+   <meta name="description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture programs affiliated with HNBGU & SDSUU." />
+   <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
     <link rel="canonical" href="https://www.gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Agriculture College in Dehradun, Uttarakhand" />
-    <meta property="og:description" content="Guru Nanak College, recognized as the best agriculture college in Dehradun,
-        Uttarakhand. Empowering students with knowledge and skills for agricultural excellence. Courses Offered: B.Sc Agriculture, B.Sc. Forestry, M.Sc Agronomy. " />
+    <meta property="og:description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture programs affiliated with HNBGU & SDSUU." />
     <meta property="og:url" content="https://www.gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -25,6 +25,10 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+    
+
+
 
     <style>
         :root {

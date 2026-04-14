@@ -2,12 +2,11 @@
 <html>
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Computer Science College in Dehradun, Uttarakhand</title>
+    <title>Guru Nanak College - Best Computer Science College in Dehradun, Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, the leading Computer Science college in Dehradun,
-     Uttarakhand. Experience excellence in education and prepare for a successful future. Courses Offered:
-      B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT">
+    <meta name="description" content="Guru Nanak College is the best computer science college in Dehradun, Uttarakhand, offers B.Tech Computer Science, BCA programs approved by AICTE, affiliated with UTU, with 100% placement support." />
     <link rel="canonical" href="https://gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun">
+    <meta name="keywords" content="Best Computer Science College in Dehradun, BCA College in Dehradun" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Computer Science College in Dehradun, Uttarakhand" />
@@ -25,6 +24,12 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+    <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
+
+
+
+
     <style>
         :root {
             --gnc-blue: #00b7ff;

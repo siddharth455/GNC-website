@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -1292,23 +1291,23 @@ window.addEventListener("scroll", function () {
     </div>
   </div>
 <!-- Bell -->
-<div id="admission-bell" class="admission-bell" aria-label="Notifications">
-  <i class="fa-solid fa-bell"></i>
-</div>
+<!--<div id="admission-bell" class="admission-bell" aria-label="Notifications">-->
+<!--  <i class="fa-solid fa-bell"></i>-->
+<!--</div>-->
 
 <!-- Popup -->
-<a href="https://application.gnc.edu.in/"
-   id="admission-popup"
-   class="admission-popup"
-   aria-label="Admissions Open 2026">
+<!--<a href="https://application.gnc.edu.in/"-->
+<!--   id="admission-popup"-->
+<!--   class="admission-popup"-->
+<!--   aria-label="Admissions Open 2026">-->
 
-  <div class="popup-content">
-    <strong>Admissions Open 2026</strong>
-    <p>Click to Apply Now</p>
-  </div>
+<!--  <div class="popup-content">-->
+<!--    <strong>Admissions Open 2026</strong>-->
+<!--    <p>Click to Apply Now</p>-->
+<!--  </div>-->
 
-  <button class="popup-close" aria-label="Close notification">✕</button>
-</a>
+<!--  <button class="popup-close" aria-label="Close notification">✕</button>-->
+<!--</a>-->
 
 <style>
  .admission-bell {

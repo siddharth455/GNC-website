@@ -142,7 +142,7 @@ preparation and dispensing of medications.</p>
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
+                    <a href="upload/pdf/fee/D-Pharmacy.jpeg" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->
                     <ul class="nav nav-tabs" id="gncTabs" role="tablist">
@@ -497,7 +497,7 @@ preparation and dispensing of medications.</p>
 </section>
 
     <!-- INTEGRATED SECTION END -->
-    <?php require "application-process.php"; ?>
+   <?php require "application-process.php"; ?>
     <?php require "testimoni-2.php"; ?>
     <?php require "common/footer.php"; ?>
 

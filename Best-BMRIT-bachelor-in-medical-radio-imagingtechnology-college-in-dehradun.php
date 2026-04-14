@@ -481,7 +481,7 @@
                     <!-- Left Data Column -->
                     <div class="col-data">
                         <h2>Eligibility & Fee Details</h2>
-                        <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
+                        <a href="upload/pdf/fee/BMRIT.jpeg" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
 
                         <!-- Clickable Tabs Navigation -->
                         <ul class="nav nav-tabs" id="gncTabs" role="tablist">
@@ -939,7 +939,7 @@
         </div>
     </section>
     <!-- INTEGRATED SECTION END -->
-    <?php require "application-process.php"; ?>
+   <?php require "application-process.php"; ?>
     <?php require "testimoni-2.php"; ?>
 <script>
     const bmrObserver = new IntersectionObserver((entries) => {

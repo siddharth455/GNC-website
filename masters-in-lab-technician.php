@@ -24,6 +24,456 @@
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
 
+      <style>
+          :root {
+                --primary: #0f172a;
+                /* Deep Navy */
+                --accent: #fb7b1c;
+                /* Crimson Red */
+                --glass: rgba(255, 255, 255, 0.95);
+            }
+
+
+            /* Hero Styling */
+            .hero-section {
+                padding: 30px 0 80px 0;
+                background: linear-gradient(135deg, #fff 0%, #f1f5f9 100%);
+            }
+
+            .breadcrumb-custom {
+                font-size: 0.75rem;
+                letter-spacing: 1px;
+                color: var(--accent);
+                font-weight: 700;
+            }
+
+            /* Icon Grid */
+            .quick-nav-card {
+                background: white;
+                border-radius: 20px;
+                padding: 30px;
+                box-shadow: 0 20px 40px rgba(0, 0, 0, 0.05);
+                margin-top: -60px;
+                z-index: 10;
+                position: relative;
+            }
+
+            .icon-wrapper {
+                width: 60px;
+                height: 60px;
+                background: #fff1f1;
+                color: var(--accent);
+                border-radius: 15px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 1.5rem;
+                margin: 0 auto 15px;
+                transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            }
+
+            .icon-item:hover .icon-wrapper {
+                background: var(--accent);
+                color: white;
+                transform: translateY(-10px) rotate(5deg);
+            }
+
+            /* Feature Section */
+            .content-zone {
+                background: var(--primary);
+                padding: 120px 0;
+                clip-path: ellipse(150% 100% at 50% 100%);
+            }
+
+            .premium-card {
+                background: var(--glass);
+                border: 1px solid rgba(255, 255, 255, 0.2);
+                backdrop-filter: blur(10px);
+                border-radius: 24px;
+                padding: 40px;
+                height: 100%;
+                transition: all 0.3s ease;
+            }
+
+            .premium-card:hover {
+                transform: scale(1.02);
+                box-shadow: 0 30px 60px rgba(0, 0, 0, 0.2);
+            }
+
+            .list-item {
+                padding: 12px 0;
+                border-bottom: 1px solid #eee;
+                display: flex;
+                align-items: center;
+                font-weight: 500;
+                font-size: 0.95rem;
+            }
+
+            .list-item i {
+                color: var(--accent);
+                margin-right: 15px;
+                font-size: 0.8rem;
+            }
+
+            .action-btn {
+                background: var(--primary);
+                color: white;
+                border-radius: 50px;
+                padding: 12px 30px;
+                font-weight: 700;
+                border: none;
+                transition: 0.3s;
+                margin-top: 20px;
+            }
+
+            .action-btn:hover {
+                background: var(--accent);
+                transform: translateX(5px);
+            }
+
+            /* Scroll Animation Class */
+            .reveal {
+                opacity: 0;
+                transform: translateY(30px);
+                transition: 0.8s all ease;
+            }
+
+            .reveal.active {
+                opacity: 1;
+                transform: translateY(0);
+            }
+
+            .action-btn {
+                display: inline-block;
+                padding: 10px 20px;
+                background: #fb7b1c;
+                color: #fff;
+                border-radius: 5px;
+                text-decoration: none;
+                transition: 0.3s;
+            }
+
+            .action-btn:hover {
+                background: #0f9af1;
+                color: #fff;
+            }
+            /* Kalpana Chawla Scholarship & Bento Grid */
+   .gnc-simple-bento * {
+    box-sizing: border-box;
+    border-radius: 0 !important;
+    margin: 0;
+    padding: 0;
+    border: none !important; 
+    box-shadow: none !important; 
+}
+
+.gnc-bento-container {
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1fr 1.2fr; 
+    gap: 20px;
+}
+
+.gnc-bento-item {
+    padding: 45px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gnc-bento-ian {
+    color: white;
+}
+
+.bg-light-grey { background-color: #f7f9fb; }
+.bg-very-light { background-color: #fafafa; }
+
+.gnc-simple-bento h2 {
+    font-size: clamp(1.8rem, 2.2vw, 2.5rem);
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 1.1;
+    margin-bottom: 25px;
+    letter-spacing: -1px;
+}
+
+.text-blue { color: rgb(3, 175, 255); }
+.text-orange { color: rgb(251, 123, 28); }
+
+.gnc-simple-bento p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text-gray);
+    margin-bottom: 20px;
+}
+
+.gnc-arrow-list {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.gnc-arrow-list li {
+    font-size: 0.95rem;
+    color: #fff;
+    padding: 12px 0;
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid rgba(255,255,255,0.1) !important; 
+}
+
+.gnc-arrow-list li::before {
+    content: "→";
+    color: rgb(3, 175, 255);
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+/* Right side stacker */
+.right-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.gnc-simple-btn {
+    background-color: var(--gnc-red);
+    color: white !important;
+    padding: 12px 30px;
+    border-radius: 5px !important;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 0.85rem;
+    transition: 0.3s;
+    width: fit-content;
+}
+
+@media (max-width: 1024px) {
+    .gnc-bento-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+.gnc-bmrit-wrapper {
+    background: linear-gradient(180deg, #ffffff 0%, #f0f7ff 100%);
+    padding: 20px 0;
+    overflow: hidden;
+}
+
+.fw-extrabold { font-weight: 800; }
+
+/* Career Grid - No Blank Space */
+.career-glass-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    height: 100%;
+}
+
+.career-node {
+    background: white;
+    border: 1px solid #e1e8f0;
+    padding: 25px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0 5px 15px rgba(15, 154, 241, 0.05);
+}
+
+.career-node:hover {
+    background: #0f9af1;
+    border-color: #0f9af1;
+    transform: translateY(-10px);
+}
+
+.career-node:hover .node-text h6, 
+.career-node:hover .node-text span { color: white !important; }
+
+.node-icon {
+    width: 45px; height: 45px;
+    background: #fb7b1c;
+    color: white;
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+}
+
+.node-text h6 { font-weight: 700; margin-bottom: 5px; color: #0f9af1; }
+.node-text span { font-size: 0.75rem; color: #64748b; }
+
+/* Benefits Card */
+.gnc-benefits-card {
+    background: white;
+    border-radius: 25px;
+    overflow: hidden;
+    height: 100%;
+    border: 1px solid #e1e8f0;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.05);
+}
+
+.benefits-image-wrapper {
+    position: relative;
+    height: 360px;
+}
+
+.benefits-image-wrapper img { width: 100%; height: 100%; object-fit: cover; }
+
+.benefits-overlay {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    background: linear-gradient(transparent, #fb7b1c);
+    padding: 20px; color: white;
+}
+
+.benefit-row {
+    display: flex; gap: 15px; margin-bottom: 15px;
+}
+
+.benefit-row i { color: #0f9af1; font-size: 1.2rem; margin-top: 3px; }
+.benefit-row p { font-size: 0.85rem; margin-bottom: 0; color: #475569; }
+
+/* ANIMATION STATES */
+.bmr-reveal { opacity: 0; transform: translateY(50px); transition: 0.8s all ease; }
+.bmr-item { opacity: 0; transform: scale(0.9); transition: 0.6s all ease; }
+
+.is-active { opacity: 1 !important; transform: translate(0) scale(1) !important; }
+
+@media (max-width: 768px) {
+    .career-glass-grid { grid-template-columns: 1fr; }
+}
+        /* Student Empowerment Cards */
+        .empower-card {
+            background: #ffffff;
+            border: 1px solid #edf2f7;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+        }
+
+        .empower-card:hover {
+            transform: translateX(10px);
+            border-color: #fb7b1c;
+            background: #fffcfc;
+        }
+
+        .icon-box-small {
+            width: 40px;
+            height: 40px;
+            background: #fee2e2;
+            color: #fb7b1c;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+        }
+
+        /* Collab Logo Styling */
+        .collab-logo {
+            height: 25px;
+            filter: grayscale(1) contrast(0.5);
+            opacity: 0.6;
+            transition: 0.3s;
+        }
+
+        .collab-logo:hover {
+            filter: grayscale(0) contrast(1);
+            opacity: 1;
+        }
+
+        /* Text density utility */
+        .x-small {
+            font-size: 0.75rem;
+            line-height: 1.3;
+        }
+
+        /* Container & Heading */
+        .cu-innovation-section .accent-line {
+            width: 5px;
+            height: 30px;
+            background-color: #fb7b1c;
+        }
+
+        .cu-innovation-section .x-small {
+            font-size: 0.75rem;
+        }
+
+        /* Practice List */
+        .cu-innovation-section .practice-row {
+            padding: 12px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .cu-innovation-section .check-icon {
+            width: 20px;
+            height: 20px;
+            background: #fee2e2;
+            color: #fb7b1c;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 9px;
+        }
+
+        /* Placement & Testimonial */
+        .cu-innovation-section .assessment-quote {
+            background: #f8fafc;
+            border: 1px dashed #cbd5e1;
+        }
+
+        .cu-innovation-section .collab-logo {
+            height: 30px;
+            filter: grayscale(1);
+            opacity: 0.6;
+            transition: 0.3s;
+        }
+
+        .cu-innovation-section .collab-logo:hover {
+            filter: grayscale(0);
+            opacity: 1;
+        }
+
+        /* ANIMATION CLASSES */
+        .scroll-reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s ease-out;
+        }
+
+        .scroll-item {
+            opacity: 0;
+            transform: translateX(-20px);
+            transition: all 0.5s ease-out;
+        }
+
+        /* State when visible */
+        .is-visible {
+            opacity: 1 !important;
+            transform: translate(0) !important;
+        }
+
+        .gradient-text {
+            background: linear-gradient(90deg, #fff, #9ca3af);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+
+        .text-theme {
+            color: #fb7b1c !important;
+        }
+
+         .why-join-blue {
+            background: linear-gradient(90deg, rgb(11, 87, 138) 30%, rgba(30, 34, 82, .1)), url('upload/programs/BMLT.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+        
+</style>
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -102,30 +552,140 @@
         </div>
     </section>
     
-    <?php require "companylogo1.php"; ?>
-    <?php require "rankingbanner.php"; ?>
-    <section class="gnc-normal-hero" style="background-color: #ffffff; padding: 60px 0;">
+   
 
-      <div class="main-container">
-        <div class="hero-layout">
-            
-            <!-- Left Text Content -->
-            <div class="hero-content-left">
-                <h2>Guru Nanak College - Best Master of Medical Laboratory Technology College in India</h2>
-                
-               <p>The Master of Medical Laboratory Technology (MMLT) is a two-year postgraduate program designed to prepare students for advanced roles in laboratory medicine. The curriculum provides in-depth knowledge of key subjects, including human anatomy, physiology, biochemistry, microbiology, pathology, and hematology. These core areas are crucial for analyzing human health and diagnosing diseases, laying a strong foundation for expertise in the field.</p>
-               
-                 <a href="https://application.gnc.edu.in/" target="_blank" class="hero-btn-apply">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
+
+ 
+        <!-- Hero Section -->
+
+  <section class="hero-section">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-7 animate__animated animate__fadeIn">
+                        <span class="breadcrumb-custom text-uppercase">Department of Paramedical Sciences</span>
+                        <h1 class="display-6 fw-300 my-1">Guru Nanak College - Best Master of Medical Laboratory Technology College<span style="color:var(--accent)"> Uttarakhand</span></h1>
+                       <p class="lead text-muted">The Master of Medical Laboratory Technology (MMLT) is a two-year postgraduate program designed to prepare students for advanced roles in laboratory medicine. The curriculum provides in-depth knowledge of key subjects, including human anatomy, physiology, biochemistry, microbiology, pathology, and hematology. These core areas are crucial for analyzing human health and diagnosing diseases, laying a strong foundation for expertise in the field.</p>
+                    </div>
+                    <div class="col-lg-5 text-end animate__animated animate__fadeInRight">
+             <div class="premium-card text-start shadow-sm" style="border-left: 5px solid var(--accent)">
+    <i class="fa-solid mb-3 text-muted"></i>
+    <p class="fst-italic text-secondary">
+    “ The Master of Medical Laboratory Technician program is designed to advance expertise in diagnostic laboratory sciences with a focus on research, precision, and advanced techniques. Students gain in-depth knowledge in specialized areas of pathology, microbiology, and clinical biochemistry, preparing them for leadership roles in modern healthcare laboratories.”
+    </p>
+    <h6 class="mb-0 fw-bold">Dr. Aslam Ahmed</h6>
+    <h6 class="mb-0 fw-bold">Head of Department</h6>
+</div>
+     </div>
+                    </div>
+                </div>
             </div>
-
-            <!-- Right Image Content -->
-            <div class="hero-image-right">
-                <img src="upload/infra/bmlt-image.webp" alt="GNC BMRIT Showcase">
+        </section>
+    
+           <div class="container">
+            <div class="quick-nav-card shadow">
+                <div class="row text-center g-4">
+                    <?php
+                    $nav = [
+                        ['icon' => 'fa-globe', 'title' => 'Global Ops'],
+                        ['icon' => 'fa-shuffle', 'title' => 'Exchange'],
+                        ['icon' => 'fa-piggy-bank', 'title' => 'Financing'],
+                        ['icon' => 'fa-graduation-cap', 'title' => 'Grant Aid'],
+                        ['icon' => 'fa-paper-plane', 'title' => 'Apply']
+                    ];
+                    foreach ($nav as $n):
+                    ?>
+                        <div class="col icon-item">
+                            <div class="icon-wrapper shadow-sm">
+                                <i class="fa-solid <?php echo $n['icon']; ?>"></i>
+                            </div>
+                            <p class="small fw-bold mb-0"><?php echo $n['title']; ?></p>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
             </div>
-
         </div>
-    </div>
-</section>
+
+        <section class="content-zone">
+            <div class="container">
+                <div class="row g-5">
+
+                    <div class="col-lg-4 reveal">
+                        <div class="premium-card">
+                            <h3 class="fw-800 mb-4">Academic <br><span class="text-muted">Edge</span></h3>
+                            <div class="list-item"><i class="fa-solid fa-circle"></i> Industry-Integrated Syllabus</div>
+                            <div class="list-item"><i class="fa-solid fa-circle"></i> Industry-focused programs</div>
+                            <div class="list-item"><i class="fa-solid fa-circle"></i> Modern labs and infrastructure.</div>
+                            <div class="list-item" style="border:none"><i class="fa-solid fa-circle"></i> Practical and skill-based learning</div>
+                            <button class="action-btn" onclick="window.location.href='academic-overview.php'">
+                                Explore More <i class="fa-solid fa-arrow-right ms-2"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 reveal">
+                        <div class="premium-card">
+                            <h3 class="fw-800 mb-4">Financial <br><span class="text-muted">Support</span></h3>
+                            <div class="list-item"><i class="fa-solid fa-check-double"></i> Merit-Based Fee Waivers</div>
+                            <div class="list-item"><i class="fa-solid fa-check-double"></i> Uttarakhand Domicile</div>
+                            <div class="list-item"><i class="fa-solid fa-check-double"></i> Sports Category</div>
+                            <div class="list-item" style="border:none"><i class="fa-solid fa-check-double"></i> Social Service (NCC/NSS)</div>
+                            <button class="action-btn" onclick="window.location.href='scholarships.php'">
+                                View Schemes <i class="fa-solid fa-arrow-right ms-2"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 reveal">
+                        <div class="premium-card" style="background: rgba(255,255,255,0.05); color: white; border: 1px solid rgba(255,255,255,0.1);">
+                            <h3 class="fw-800 mb-4 text-white">Department <br>At A Glance</h3>
+                            <div class="row g-2">
+                                <?php
+                                $tags = ['Clinical Labs', 'Patents', 'Alumni', 'Workshops', 'Camps', 'Seminars'];
+                                foreach ($tags as $tag):
+                                ?>
+                                    <div class="col-6">
+                                        <div class="p-2 rounded border border-secondary text-center small" style="background: rgba(255,255,255,0.05)">
+                                            <?php echo $tag; ?>
+                                        </div>
+                                    </div>
+                                <?php endforeach; ?>
+                            </div>
+                            <div class="mt-4 pt-4 border-top border-secondary">
+                                <p class="small opacity-75">Join GNC, 700+ students already shaping the future of medicine.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <script>
+            const reveals = document.querySelectorAll(".reveal");
+
+            function handleScroll() {
+                const windowHeight = window.innerHeight;
+
+                reveals.forEach((el) => {
+                    const elementTop = el.getBoundingClientRect().top;
+                    const elementBottom = el.getBoundingClientRect().bottom;
+
+                    // When element enters viewport
+                    if (elementTop < windowHeight - 100 && elementBottom > 100) {
+                        el.classList.add("active");
+                    } else {
+                        // 🔥 Force reset when leaving screen (both directions)
+                        el.classList.remove("active");
+                    }
+                });
+            }
+
+            // Run on scroll
+            window.addEventListener("scroll", handleScroll);
+
+            // Run once on load
+            handleScroll();
+        </script>
+        <?php require "rankingbanner.php"; ?>
 
 
     <section class="gnc-bmrit-section py-5" style="background-color: #ffffff; color: var(--text-dark);">
@@ -377,17 +937,235 @@
 
     </div>
 </section>
+
+<!-- Academic Innovation  -->
+<section class="cu-innovation-section my-5">
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5 scroll-reveal">
+            <div class="text-center mb-5">
+                <h6 class="text-uppercase tracking-widest text-theme fw-bold">Academic Innovation</h6>
+                <h1 class="display-3 gradient-text">Excellence Redefined</h1>
+            </div>
+        </div>
+
+        <div class="row g-0 shadow-lg rounded-4 overflow-hidden border scroll-reveal">
+
+            <div class="col-lg-7 bg-white p-4 p-md-5">
+                <div class="d-flex align-items-center mb-4">
+                    <div class="accent-line me-3"></div>
+                    <h3 class="fw-bold m-0 h4">Faculty's Best Practices</h3>
+                </div>
+
+                <div class="practice-list-container">
+                    <?php
+                    $practices = [
+                        "Advanced training in clinical diagnostics and laboratory management.",
+                        "Emphasis on research-oriented and evidence-based laboratory practices.",
+                        "Case-based learning for complex disease diagnosis and interpretation.",
+                        "Integration of advanced theory with specialized lab techniques.",
+                        "Hands-on experience with automated analyzers and molecular diagnostics.",
+                        "Interdisciplinary learning and collaboration with clinical departments.",
+                        "Outcome-based learning focused on accuracy, quality control, and innovation.",
+                        "Highly qualified faculty with research and clinical expertise."
+                    ];
+                    foreach ($practices as $index => $text):
+                    ?>
+                        <div class="practice-row d-flex align-items-center scroll-item">
+                            <span class="check-icon"><i class="fa-solid fa-check"></i></span>
+                            <p class="mb-0 ms-3 fw-semibold text-secondary small"><?php echo $text; ?></p>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
+
+                <div class="assessment-quote mt-4 p-3 rounded-3 scroll-item">
+                    <p class="mb-0 x-small text-muted">
+                        <i class="fa-solid fa-circle-info text-theme me-2"></i>
+                        <strong>Assessment Methods:</strong> Advanced practicals, research projects, case studies, viva, and continuous internal assessment.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-5 bg-light border-start p-4 p-md-5 d-flex flex-column justify-content-between">
+                <div>
+                    <h4 class="fw-bold mb-4">Student Empowerment</h4>
+
+                    <div class="empower-card mb-3 p-3 scroll-item shadow-sm">
+                        <div class="d-flex align-items-center">
+                            <div class="icon-box-small me-3">
+                                <i class="fa-solid fa-bed-pulse"></i>
+                            </div>
+                            <div>
+                                <h6 class="fw-bold mb-0 small">Advanced Clinical Exposure</h6>
+                                <p class="x-small text-muted mb-0">Work in high-end diagnostic labs and hospital laboratories.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="empower-card mb-3 p-3 scroll-item shadow-sm">
+                        <div class="d-flex align-items-center">
+                            <div class="icon-box-small me-3">
+                                <i class="fa-solid fa-certificate"></i>
+                            </div>
+                            <div>
+                                <h6 class="fw-bold mb-0 small">Specialized Certifications</h6>
+                                <p class="x-small text-muted mb-0">Training in molecular diagnostics, histopathology, and advanced lab technologies.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="empower-card mb-4 p-3 scroll-item shadow-sm">
+                        <div class="d-flex align-items-center">
+                            <div class="icon-box-small me-3">
+                                <i class="fa-solid fa-handshake-angle"></i>
+                            </div>
+                            <div>
+                                <h6 class="fw-bold mb-0 small">Industry & Research Exposure</h6>
+                                <p class="x-small text-muted mb-0">Collaborations with diagnostic labs, research centers, and healthcare institutions.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="empower-card mb-4 p-3 scroll-item shadow-sm">
+                        <div class="d-flex align-items-center">
+                            <div class="icon-box-small me-3">
+                                <div class="bg-danger-light">
+                                    <i class="fa-solid fa-microscope"></i>
+                                </div>
+                            </div>
+                            <div>
+                                <h6 class="fw-bold mb-0 small">Research & Innovation</h6>
+                                <p class="x-small text-muted mb-0">Guidance for thesis work, publications, and advanced research projects.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row g-2 scroll-item">
+                        <div class="col-6">
+                            <div class="p-2 border rounded-3 bg-white text-center">
+                                <span class="d-block fw-bold text-theme h5 mb-0">20+</span>
+                                <span class="x-small text-uppercase fw-bold text-muted">Advanced Labs</span>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="p-2 border rounded-3 bg-white text-center">
+                                <span class="d-block fw-bold text-theme h5 mb-0">100%</span>
+                                <span class="x-small text-uppercase fw-bold text-muted">Research Focus</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Career prospects -->
+<section class="gnc-bmrit-wrapper">
+    <div class="container-fluid px-lg-5">
+        
+        <div class="text-center mb-5 bmr-reveal">
+            <h2 class="fw-extrabold display-5 mb-2" style="color: #0f9af1;">Career Prospects After MMLT</h2>
+            <p class="fw-bold text-uppercase tracking-wider" style="color: #fb7b1c;">Advance Your Career in Diagnostic & Research Excellence</p>
+        </div>
+
+        <div class="row g-4">
+            <div class="col-lg-6 bmr-reveal">
+                <div class="career-glass-grid">
+
+                    <div class="career-node bmr-item">
+                        <div class="node-icon"><i class="fa-solid fa-flask"></i></div>
+                        <div class="node-text">
+                            <h6>Senior Medical Lab Technologist</h6>
+                            <span>Handle complex diagnostic procedures in advanced laboratories.</span>
+                        </div>
+                    </div>
+
+                    <div class="career-node bmr-item">
+                        <div class="node-icon"><i class="fa-solid fa-microscope"></i></div>
+                        <div class="node-text">
+                            <h6>Research Scientist</h6>
+                            <span>Work in clinical research labs and biomedical research organizations.</span>
+                        </div>
+                    </div>
+
+                    <div class="career-node bmr-item">
+                        <div class="node-icon"><i class="fa-solid fa-vial"></i></div>
+                        <div class="node-text">
+                            <h6>Quality Control Officer</h6>
+                            <span>Ensure accuracy and compliance in diagnostic laboratories.</span>
+                        </div>
+                    </div>
+
+                    <div class="career-node bmr-item">
+                        <div class="node-icon"><i class="fa-solid fa-dna"></i></div>
+                        <div class="node-text">
+                            <h6>Molecular Diagnostics Specialist</h6>
+                            <span>Specialize in genetic testing and advanced diagnostic techniques.</span>
+                        </div>
+                    </div>
+
+                    <div class="career-node bmr-item">
+                        <div class="node-icon"><i class="fa-solid fa-clipboard-check"></i></div>
+                        <div class="node-text">
+                            <h6>Lab Manager</h6>
+                            <span>Oversee laboratory operations, staff, and quality systems.</span>
+                        </div>
+                    </div>
+
+                    <div class="career-node bmr-item">
+                        <div class="node-icon"><i class="fa-solid fa-chalkboard-user"></i></div>
+                        <div class="node-text">
+                            <h6>Academic Lecturer</h6>
+                            <span>Teach and mentor undergraduate laboratory technology students.</span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-6 bmr-reveal">
+                <div class="gnc-benefits-card bmr-item">
+                    <div class="benefits-image-wrapper">
+                        <img src="upload/hero/radio-4.webp" alt="MMLT Training">
+                        <div class="benefits-overlay">
+                            <h3 class="fw-bold">Why GNC for MMLT?</h3>
+                        </div>
+                    </div>
+                    <div class="benefits-content p-4">
+                        <div class="benefit-row">
+                            <i class="fa-solid fa-circle-check"></i>
+                            <p><strong>Advanced Diagnostic Labs:</strong> Access to modern automated and molecular diagnostic equipment.</p>
+                        </div>
+                        <div class="benefit-row">
+                            <i class="fa-solid fa-circle-check"></i>
+                            <p><strong>Research Opportunities:</strong> Work on thesis, publications, and real-world research projects.</p>
+                        </div>
+                        <div class="benefit-row">
+                            <i class="fa-solid fa-circle-check"></i>
+                            <p><strong>Expert Faculty:</strong> Learn from PhD scholars and experienced laboratory professionals.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+   
 <!-- INTEGRATED SECTION START -->
-   <section class="acp-section">
+   <!-- <section class="acp-section">
     <div class="container">
         <div class="row">
-            <!-- 1. Students Image & Color Bar -->
+            
             <div class="col-lg-4 student-image-col">
                 <div class="red-vertical-bar"></div>
                 <img src="upload/infra/student-1.webp" alt="GNC MMLT Students" class="student-img-cutout">
             </div>
     
-            <!-- 2. Career Opportunities (Middle) -->
+            
             <div class="col-lg-5 ps-lg-4 acp-text-padding acp-content-col" style="padding-left: 3.5rem !important;">
                 <h3>Career Opportunities in <br>Medical Laboratory Technology (MMLT)</h3>
                 <p>Graduates of the Master of Medical Laboratory Technology (MMLT) program have extensive career opportunities in the healthcare and biomedical sectors. A key career option is working in clinical laboratories in hospitals or private diagnostic labs as medical laboratory technologists, where they perform advanced analysis of blood, urine, and other bodily fluids, aiding in disease diagnosis and treatment. Another important area of employment is in blood banks, where MMLT graduates handle the processing, testing, and storage of blood and its components, ensuring their quality and safety for transfusions.</p>
@@ -395,7 +1173,7 @@
                 <p>The pharmaceutical industry provides significant career opportunities for MMLT graduates. They can contribute to research and development, assisting in the creation of innovative drugs and medical therapies, or work in quality control, ensuring the safety and effectiveness of pharmaceutical products. Furthermore, MMLT graduates are well-equipped for roles in academic or research institutions, where they can engage in advanced medical research or train future medical laboratory professionals.</p>
             </div>
 
-            <!-- 3. Key Career Fields (Right) -->
+            
             <div class="col-lg-3 salient-features-col" style="padding-bottom: 2rem;">
                 <h6 class="fw-bold mb-4" style="font-size: 1rem;">MMLT Career Paths</h6>
                 <ul class="feature-list">
@@ -421,7 +1199,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
     <!-- BLUE BANNER SECTION: WHY JOIN GNC BMRIT -->
     <section class="why-join-blue">
@@ -494,9 +1272,58 @@
 </section>
 
     <!-- INTEGRATED SECTION END -->
-    <?php require "application-process.php"; ?>
+   <?php require "application-process.php"; ?>
     <?php require "testimoni-2.php"; ?>
     <?php require "common/footer.php"; ?>
+
+    <script>
+    const bmrObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('is-active');
+                const items = entry.target.querySelectorAll('.bmr-item');
+                items.forEach((item, index) => {
+                    setTimeout(() => item.classList.add('is-active'), index * 150);
+                });
+            } else {
+                // This removes classes when you scroll away so they re-animate
+                entry.target.classList.remove('is-active');
+                const items = entry.target.querySelectorAll('.bmr-item');
+                items.forEach(item => item.classList.remove('is-active'));
+            }
+        });
+    }, { threshold: 0.1 });
+
+    document.querySelectorAll('.bmr-reveal').forEach(el => bmrObserver.observe(el));
+</script>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                const observerOptions = {
+                    threshold: 0.15 // Trigger when 15% of the element is visible
+                };
+
+                const observer = new IntersectionObserver((entries) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            // Add visible class
+                            entry.target.classList.add("is-visible");
+
+                            // If it's the main container, animate children with delay
+                            const items = entry.target.querySelectorAll('.scroll-item');
+                            items.forEach((item, index) => {
+                                setTimeout(() => {
+                                    item.classList.add("is-visible");
+                                }, index * 100);
+                            });
+                        }
+                    });
+                }, observerOptions);
+
+                // Observe elements
+                document.querySelectorAll('.scroll-reveal').forEach(el => observer.observe(el));
+            });
+        </script>
+
 
 
 

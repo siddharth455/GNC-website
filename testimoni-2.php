@@ -11,7 +11,7 @@
     <div class="success-slider swiper">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <img src="upload/infra/testi-1.webp" />
+                <img src="assets/image/testi-1.webp"/>
                 <div class="success-overlay">
                     <h1>Avinash Takhellambam</h1>
                     <p>
@@ -30,7 +30,7 @@
             </div>
 
             <div class="swiper-slide">
-                <img src="upload/infra/testi-2.webp" />
+                <img src="assets/image/testi-2.webp" />
                 <div class="success-overlay">
                     <h1>Soni Rautan</h1>
                     <p>
@@ -49,7 +49,7 @@
             </div>
 
             <div class="swiper-slide">
-                <img src="upload/infra/testi-3.webp" />
+                <img src="assets/image/testi-3.webp" />
                 <div class="success-overlay">
                     <h1>Rishikesh Kumar</h1>
                     <p>
@@ -68,7 +68,7 @@
             </div>
 
             <div class="swiper-slide">
-                <img src="upload/infra/testi-6.webp" />
+                <img src="assets/image/testi-6.webp" />
                 <div class="success-overlay">
                     <h1>Shamsad Aalam</h1>
                     <p>
@@ -100,8 +100,6 @@
         grid-template-columns: 50% 45%;
         place-items: center;
         gap: 60px;
-        max-width: 1500px;
-        margin:  auto 80px;
         min-height: 60vh;
         padding: 40px 60px;
         overflow: hidden;
@@ -123,15 +121,15 @@
         font-family: "Comfortaa", sans-serif;
         font-size: clamp(2rem, 4vw, 3.5rem);
         margin-bottom: 24px;
-        color: #000 !important;
+        color: #000;
     }
 
     .success-info p {
         font-size: clamp(0.9rem, 3vw, 1.2rem);
         font-weight: 300;
         line-height: 1.5;
+        color: #000;
         margin-bottom: 24px;
-         color: #000 !important;
     }
 
     .success-btn {
@@ -236,7 +234,6 @@
 
         .success-showcase {
             padding: 30px;
-            margin: 0px;
         }
     }
 </style>

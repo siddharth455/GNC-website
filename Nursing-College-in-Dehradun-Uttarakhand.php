@@ -3,22 +3,205 @@
 
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best Nursing College in Dehradun & Uttarakhand | Guru Nanak College</title>
+   <title>Guru Nanak College - Best Nursing College in Dehradun, Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offering B.Sc Nursing, Post Basic B.Sc Nursing, and GNM courses—affiliated with HNBGU and approved by INC & USNC.">
-    <link rel="canonical" href="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand">
-    <meta property="og:locale" content="en_US" />
-    <meta name="keywords" content="best nursing college in Dehradun, best nursing college in Uttarakhand, top nursing college in Dehradun, BSc nursing in Uttarakhand, GNM nursing college in Dehradun, nursing admission 2025 Dehradun ">
+    <meta name="description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offers B.Sc Nursing, GNM, Post Basic B.Sc Nursing programs approved by INC & USNC, affiliated with HNBGU, with 100% placement support."/>
+    <meta name="keywords" content="Best Nursing College in Dehradun, Nursing College in Uttarakhand" />
+    <link rel="canonical" href="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
+
+    <!-- Open Graph (WhatsApp, Facebook, LinkedIn previews) -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Nursing Collegein Dehradun, Uttarakhand | Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offering B.Sc Nursing, Post Basic B.Sc Nursing, and GNM courses—affiliated with HNBGU and approved by INC & USNC." />
+    <meta property="og:title" content="Best Nursing College in Dehradun | Guru Nanak College" />
+    <meta property="og:description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offers B.Sc Nursing, GNM, Post Basic B.Sc Nursing programs approved by INC & USNC, affiliated with HNBGU, with 100% placement support" />
     <meta property="og:url" content="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
-    <meta property="og:site_name" content="GNC Dehradun" />
-    <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
+    <meta property="og:image" content="https://www.gnc.edu.in/upload/Bachelor of Science in Nursing.webp" />
+    <meta property="og:site_name" content="Guru Nanak College, Dehradun" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Best Nursing College in Dehradun | Guru Nanak College" />
+    <meta name="twitter:description" content="INC approved B.Sc Nursing, GNM & Post Basic Nursing in Dehradun. NAAC accredited. 100% placement. Apply now for 2026." />
+    <meta name="twitter:image" content="https://www.gnc.edu.in/upload/Bachelor of Science in Nursing.webp" />
+
+    
+
+
+
+
+    <!-- Breadcrumb for Google -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.gnc.edu.in/"},
+        {"@type": "ListItem", "position": 2, "name": "Programs", "item": "https://www.gnc.edu.in/"},
+        {"@type": "ListItem", "position": 3, "name": "Nursing Programs", "item": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand"}
+      ]
+    }
+    </script>
+
+    <!-- EducationalOrganization + LocalBusiness JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": ["EducationalOrganization", "LocalBusiness"],
+      "@id": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand#organization",
+      "name": "Guru Nanak College – School of Nursing",
+      "alternateName": "GNC Dehradun Nursing",
+      "description": "Guru Nanak College (GNC) School of Nursing in Dehradun is an INC and USNC approved institution affiliated with HNBGU. Since 2009, it has provided excellence in B.Sc Nursing, GNM, and Post Basic B.Sc Nursing education in Uttarakhand.",
+      "url": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand",
+      "logo": "https://www.gnc.edu.in/images/logo.webp",
+      "image": "https://www.gnc.edu.in/images/nursing-college-building.jpg",
+      "foundingDate": "2009",
+      "priceRange": "₹₹",
+      "telephone": "+91-7300900900",
+      "email": "admission@gnc.edu.in",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jhajhra, Chakrata Road",
+        "addressLocality": "Dehradun",
+        "addressRegion": "Uttarakhand",
+        "postalCode": "248007",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.3753,
+        "longitude": 77.9267
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "Indian Nursing Council",
+          "alternateName": "INC"
+        },
+        {
+          "@type": "Organization",
+          "name": "Uttarakhand State Nursing Council",
+          "alternateName": "USNC"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Nursing Programs",
+        "itemListElement": [
+          {
+            "@type": "Course",
+            "name": "B.Sc Nursing",
+            "url": "https://www.gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php"
+          },
+          {
+            "@type": "Course",
+            "name": "GNM (General Nursing and Midwifery)",
+            "url": "https://www.gnc.edu.in/best-gnm-college-in-dehradun.php"
+          },
+          {
+            "@type": "Course",
+            "name": "Post Basic B.Sc Nursing",
+            "url": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand"
+          }
+        ]
+      }
+    }
+    </script>
+
+    <!-- FAQPage JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the fee structure for B.Sc Nursing at Guru Nanak College, Dehradun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The annual tuition fee for B.Sc Nursing at Guru Nanak College, Dehradun is available on the official fee structure page. The 4-year program is affiliated with HNBGU and approved by INC. Contact the admission office at 7300900900 or visit application.gnc.edu.in for the 2026 fee details."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Guru Nanak College nursing program approved by INC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. All nursing programs at Guru Nanak College — including B.Sc Nursing, GNM, and Post Basic B.Sc Nursing — are approved by the Indian Nursing Council (INC) and recognized by the Uttarakhand State Nursing Council (USNC). The college is affiliated with Hemvati Nandan Bahuguna Garhwal University (HNBGU)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the eligibility for B.Sc Nursing admission at GNC Dehradun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Candidates must have passed 10+2 with Physics, Chemistry, Biology (PCB), and English with a minimum of 45% aggregate marks from a recognized board. Age eligibility as per INC norms applies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Guru Nanak College Dehradun provide hostel facilities for nursing students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Guru Nanak College provides separate, secure, and well-furnished hostel facilities for both male and female nursing students on campus in Jhajra, Dehradun. The hostel includes 24/7 security, a mess, Wi-Fi, and recreational facilities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the placement record for nursing graduates from GNC Dehradun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Guru Nanak College maintains 100% placement assistance for nursing graduates. Alumni are placed in multi-specialty and super-specialty hospitals across India and internationally in countries including the UK, Canada, and Gulf nations. The college has tie-ups with leading healthcare recruiters."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which hospitals are affiliated with GNC Dehradun for clinical training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Guru Nanak College has collaborations with leading healthcare institutions in Dehradun and Uttarakhand for clinical rotations. Nursing students undergo hands-on training at affiliated multi-specialty hospitals during their program, gaining real-world clinical exposure."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between B.Sc Nursing and GNM at GNC Dehradun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "B.Sc Nursing is a 4-year undergraduate degree with broader career scope including hospital administration, nursing education, and research. GNM (General Nursing and Midwifery) is a 3-year diploma program focused on clinical nursing and midwifery practice. Both are INC approved at Guru Nanak College, Dehradun."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can nursing graduates from GNC Dehradun work abroad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. GNC nursing graduates are eligible to pursue international nursing careers in the UK, Canada, Australia, and Gulf countries. The INC-approved B.Sc Nursing degree is recognized internationally. GNC provides guidance for international nursing licensing exams (NMC, NCLEX, etc.)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the admission process for nursing at Guru Nanak College 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 2026 nursing admission process at GNC Dehradun: (1) Apply online at application.gnc.edu.in, (2) Upload 10+2 marksheets and ID proof, (3) Attend counseling and document verification, (4) Pay fee and receive admission confirmation. Contact: 7300900900 or admission@gnc.edu.in."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Guru Nanak College Dehradun NAAC accredited?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Guru Nanak College, Dehradun is NAAC accredited and affiliated with Hemvati Nandan Bahuguna Garhwal University (HNBGU). The college has been providing quality healthcare education since 2009 with approvals from INC, USNC, and AICTE for various programs."
+          }
+        }
+      ]
+    }
+    </script>
     <link rel="stylesheet" href="css/programs.css"/>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
@@ -70,7 +253,111 @@
         .placement-strip img { height: 25px; filter: grayscale(100%); opacity: 0.5; transition: 0.3s; }
         .placement-strip img:hover { filter: grayscale(0%); opacity: 1; }
 
-        /* FAQ Styling */
+        #faq {
+            padding: 60px 0;
+            background-color: #f9f9f9;
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+
+        #faq h2 {
+            font-size: clamp(1.8rem, 4vw, 2.5rem);
+            font-weight: 800;
+            color: var(--text-dark);
+            margin-bottom: 10px;
+        }
+
+        #faq .lead {
+            color: var(--text-gray);
+            font-size: clamp(1rem, 2vw, 1.1rem);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        #faq [itemprop="mainEntity"] {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+
+        #faq [itemprop="mainEntity"] h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--gnc-blue);
+            padding: 20px 25px;
+            margin: 0;
+            cursor: pointer;
+            position: relative;
+            transition: background-color 0.3s ease;
+        }
+
+        #faq [itemprop="mainEntity"] h3::after {
+            content: '+';
+            position: absolute;
+            right: 25px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1.5rem;
+            color: var(--gnc-blue);
+            transition: transform 0.3s ease;
+        }
+
+        #faq [itemprop="mainEntity"].open h3 {
+            background-color: #eef7ff;
+        }
+
+        #faq [itemprop="mainEntity"].open h3::after {
+            content: '-';
+            transform: translateY(-50%) rotate(180deg);
+        }
+
+        #faq [itemprop="acceptedAnswer"] {
+            padding: 0 25px 20px;
+            font-size: 1rem;
+            color: var(--text-gray);
+            line-height: 1.6;
+            display: none; /* Hidden by default */
+        }
+
+        /* Responsive adjustments for FAQ */
+        @media (max-width: 768px) {
+            #faq h2 {
+                font-size: 2rem;
+                margin-bottom: 30px;
+            }
+            #faq [itemprop="mainEntity"] h3 {
+                font-size: 1.1rem;
+                padding: 15px 20px;
+            }
+            #faq [itemprop="mainEntity"] h3::after {
+                right: 20px;
+                font-size: 1.2rem;
+            }
+            #faq [itemprop="acceptedAnswer"] {
+                padding: 0 20px 15px;
+                font-size: 0.95rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            #faq h2 {
+                font-size: 1.7rem;
+            }
+            #faq [itemprop="mainEntity"] h3 {
+                font-size: 1rem;
+                padding: 12px 15px;
+            }
+            #faq [itemprop="mainEntity"] h3::after {
+                right: 15px;
+                font-size: 1rem;
+            }
+            #faq [itemprop="acceptedAnswer"] {
+                padding: 0 15px 12px;
+                font-size: 0.9rem;
+            }
+        }
+
         
 
         /* Global UI Elements */
@@ -663,89 +950,36 @@
     <!-- FAQs UI -->
     
 <!-- FAQs UI - Nursing Excellence -->
-<section class="section-padding bg-white" id="faqs">
+<section id="faq">
     <div class="container">
         <!-- Section Header -->
         <div class="text-center mb-5">
-            <h2 class="fw-black display-5 uppercase">Frequently Asked Questions (FAQs)</h2>
-            <p class="fw-bold text-secondary">Everything you need to know about Nursing at Guru Nanak College</p>
-            <div class="bg-gnc-blue mx-auto mt-2" style="height: 4px; width: 60px;"></div>
+            <h2 class="fw-bold">Frequently Asked Questions (FAQs)</h2>
+            <p class="lead">Everything you need to know about Nursing at Guru Nanak College</p>
         </div>
 
-        <div class="row justify-content-center">
-            <div class="col-lg-10">
-                <div class="accordion faq-accordion" id="gncFaqs">
-                    
-                    <!-- Q1 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#q1">
-                                1. What makes Guru Nanak College the best nursing college in Dehradun?
-                            </button>
-                        </h2>
-                        <div id="q1" class="accordion-collapse collapse show" data-bs-parent="#gncFaqs">
-                            <div class="accordion-body">
-                                Our strong academic record, extensive clinical partnerships with top-tier hospitals, modern simulation laboratories, and highly experienced faculty pool make GNC the premier destination for nursing education in Dehradun and across Uttarakhand.
-                            </div>
-                        </div>
-                    </div>
+        <div class="max-w-3xl mx-auto">
+            <!-- Q1 -->
+            <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                <h3 itemprop="name">What is the fee for B.Sc Nursing at GNC Dehradun?</h3>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <p itemprop="text">Annual tuition for B.Sc Nursing at Guru Nanak College is ₹ 2,00,000 for the 2026–27 session. The 4-year total cost including hostel is approximately ₹ 65,000. Contact 7300900900 for the full fee breakdown.</p>
+                </div>
+            </div>
 
-                    <!-- Q2 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q2">
-                                2. Is the nursing program approved by INC?
-                            </button>
-                        </h2>
-                        <div id="q2" class="accordion-collapse collapse" data-bs-parent="#gncFaqs">
-                            <div class="accordion-body">
-                                Yes, all our nursing programs, including B.Sc Nursing, GNM, and Post Basic Nursing, are officially approved by the <strong>Indian Nursing Council (INC)</strong> and recognized by the <strong>Uttarakhand State Nursing Council (USNC)</strong>.
-                            </div>
-                        </div>
-                    </div>
+            <!-- Q2 -->
+            <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                <h3 itemprop="name">Is GNC Dehradun nursing approved by INC?</h3>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <p itemprop="text">Yes. B.Sc Nursing, GNM, and Post Basic Nursing at GNC are approved by the Indian Nursing Council (INC) and Uttarakhand State Nursing Council (USNC), and affiliated with HNBGU.</p>
+                </div>
+            </div>
 
-                    <!-- Q3 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q3">
-                                3. What are the eligibility criteria for B.Sc Nursing?
-                            </button>
-                        </h2>
-                        <div id="q3" class="accordion-collapse collapse" data-bs-parent="#gncFaqs">
-                            <div class="accordion-body">
-                                Candidates seeking admission to B.Sc Nursing must have passed 10+2 with Physics, Chemistry, Biology (PCB) and English, securing at least 45% aggregate marks from a recognized board.
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Q4 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q4">
-                                4. Does the college provide hostel facilities?
-                            </button>
-                        </h2>
-                        <div id="q4" class="accordion-collapse collapse" data-bs-parent="#gncFaqs">
-                            <div class="accordion-body">
-                                Yes, Guru Nanak College offers separate, secure, and well-furnished hostel facilities for both boys and girls. The hostels include modern amenities, 24/7 security, and healthy mess facilities within the campus.
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Q5 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q5">
-                                5. What are the career options after completing nursing from GNC?
-                            </button>
-                        </h2>
-                        <div id="q5" class="accordion-collapse collapse" data-bs-parent="#gncFaqs">
-                            <div class="accordion-body">
-                                Graduates can pursue rewarding careers as Registered Nurses (RN), Nursing Educators, Hospital Supervisors, and Ward In-charges. GNC graduates are also highly eligible for nursing roles in the Military, Government healthcare projects, and international healthcare institutions.
-                            </div>
-                        </div>
-                    </div>
-
+            <!-- Q3 -->
+            <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                <h3 itemprop="name">What is the eligibility for B.Sc Nursing admission 2026?</h3>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <p itemprop="text">Candidates need 10+2 with PCB and English, minimum 45% marks, and must be at least 17 years old as per INC norms.</p>
                 </div>
             </div>
         </div>
@@ -922,6 +1156,13 @@
         // Run every time the window is resized
         $(window).resize(function() {
             adjustLayoutBasedOnScreenSize();
+        });
+
+        // FAQ Accordion functionality
+        $('#faq [itemprop="mainEntity"] h3').on('click', function() {
+            const parent = $(this).parent();
+            parent.toggleClass('open');
+            parent.find('[itemprop="acceptedAnswer"]').slideToggle();
         });
     });
 </script>

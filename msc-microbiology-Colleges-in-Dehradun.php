@@ -451,7 +451,7 @@ Minimum percentage required is 45% for GEN/OBC and 40% for SC/ST.</p>
     </div>
 </section>
     <!-- INTEGRATED SECTION END -->
-    <?php require "application-process.php"; ?>
+   <?php require "application-process.php"; ?>
     <?php require "testimoni-2.php"; ?>
     <?php require "common/footer.php"; ?>
 

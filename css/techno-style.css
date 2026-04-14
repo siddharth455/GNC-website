@@ -1,0 +1,1141 @@
+/* Global Styles */
+body {
+    background-color: #03060f;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+/* Header & Navbar */
+.tj-header {
+    background-color: rgba(3, 6, 15, 0.8);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.tj-nav-logo {
+    max-height:70px;
+    width: auto;
+}
+
+.tj-nav-logo-secondary {
+    max-height: 70px;
+    width: auto;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.8) !important;
+    font-weight: 500;
+    padding: 10px 15px !important;
+    transition: color 0.3s ease;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #00ffe5 !important;
+}
+
+/* Main Content Styles */
+.tj-content {
+    padding-top: 0; /* Hero banner already fills viewport height */
+}
+
+/* Hero Banner */
+.tj-hero-banner {
+    position: relative;
+    height: 100vh;
+    min-height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.tj-hero-video,
+.tj-hero-iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100vw;
+    height: 56.25vw; /* 16:9 ratio */
+    min-height: 100vh;
+    min-width: 177.77vh; /* 16:9 ratio */
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    pointer-events: none;
+}
+
+
+
+.tj-hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8); 
+    z-index: 1;
+}
+
+.tj-hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+}
+
+.tj-hero-logo {
+    max-width: 500px;
+    height: auto;
+    
+}
+
+.tj-hero-subtitle {
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: rgba(255, 255, 255, 0.9);
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.tj-hero-date-loc {
+    font-size: 32px;
+    font-weight: 600;
+    color: #00ffe5; /* Accent color */
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+}
+
+.tj-hero-btns {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.tj-btn-primary {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: #00ffe5;
+    color: #03060f;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    border: 2px solid #00ffe5;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.tj-btn-primary:hover {
+    background-color: transparent;
+    color: #00ffe5;
+}
+
+.tj-btn-outline {
+    display: inline-block;
+    padding: 12px 30px;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.tj-btn-outline:hover {
+    background-color: #ffffff;
+    color: #03060f;
+}
+
+/* Countdown Styles */
+.tj-countdown-item {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 15px 25px;
+    border-radius: 10px;
+    min-width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.tj-countdown-value {
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ff3e3e; /* Reddish glow for values like in reference */
+    text-shadow: 0 0 10px rgba(255, 62, 62, 0.5);
+    letter-spacing: 2px;
+}
+
+.tj-countdown-label {
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    opacity: 0.7;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+/* Video Controls */
+.tj-video-controls {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    z-index: 10;
+}
+
+.tj-video-btn {
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.tj-video-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: scale(1.1);
+}
+
+.tj-video-btn svg {
+    width: 20px;
+    height: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+}
+
+/* About Section */
+.tj-philosophy-section {
+    background-color: #03060f;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.tj-philosophy-subtitle {
+    font-size: 14px;
+    letter-spacing: 3px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 600;
+}
+
+.tj-philosophy-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 72px;
+    color: #ffffff;
+    line-height: 1.1;
+    font-weight: 600;
+}
+
+.tj-philosophy-heading span {
+    font-style: italic;
+    color: #00ffe5; /* Changed to theme accent color for better visibility on dark */
+}
+
+.tj-about-logo {
+    max-width: 360px;
+    width: 100%;
+    height: auto;
+}
+
+.tj-philosophy-text {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1.6;
+}
+
+/* Philosophy Staggered Images */
+.tj-philosophy-images {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    position: relative;
+}
+
+.tj-phi-image-container {
+    width: 250px;
+}
+
+.tj-single-about-image {
+    width: min(100%, 420px);
+}
+
+.tj-img-left {
+    margin-top: 50px; 
+}
+
+.tj-phi-img-wrapper {
+    width: 100%;
+    aspect-ratio: 3/4;
+    overflow: hidden;
+    margin-bottom: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.tj-phi-img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.tj-grayscale {
+    filter: none;
+    transition: none;
+}
+
+.tj-phi-image-container:hover .tj-grayscale {
+    filter: none;
+}
+
+.tj-phi-caption {
+    font-family: sans-serif;
+}
+
+.tj-phi-line {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-bottom: 10px;
+}
+
+.tj-phi-caption span {
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 600;
+}
+
+/* --- Responsive Media Queries --- */
+
+@media (max-width: 991.98px) {
+    .tj-philosophy-heading {
+        font-size: 56px;
+    }
+    .tj-phi-image-container {
+        width: 200px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .tj-philosophy-heading {
+        font-size: 42px;
+    }
+    .tj-philosophy-images {
+        gap: 15px;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .tj-phi-image-container {
+        width: 45%;
+    }
+    .tj-img-left {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 479.98px) {
+    .tj-philosophy-heading {
+        font-size: 36px;
+    }
+    .tj-philosophy-images {
+        gap: 10px;
+    }
+}
+
+/* Event USPs Section */
+.tj-event-usps {
+    position: relative;
+    color: #ffffff;
+}
+
+.tj-main-heading {
+    padding-top: 40px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.tj-usp-number {
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: center;
+    margin-bottom: 5px; /* Space between 30+ / 5000+ and the label */
+}
+
+.tj-event-usps::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(3, 6, 15, 0.85); /* Dark overlay for readability */
+}
+
+.tj-usp-point {
+    text-align: center;
+    padding: 20px;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    height: 100%;
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.tj-usp-point:hover {
+    transform: translateY(-10px);
+}
+
+.tj-usp-main {
+    display: block;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ffffff;
+    margin-bottom: 5px;
+    letter-spacing: 2px;
+}
+.tj-usp-point .tj-counter,
+.tj-usp-point .plus {
+    display: inline-block;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ffffff;
+    margin-bottom: 0;
+    letter-spacing: 3px;
+}
+
+.tj-usp-point span.plus {
+    color: #00ffe5;
+    margin-left: 2px;
+}
+
+.tj-usp-title {
+    font-size: 18px;
+    line-height: 1.2;
+    margin: 5px 0;
+    color: #00ffe5;
+    font-weight: 500;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 2px;
+}
+
+.tj-usp-sub {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.tj-usp-desc {
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    margin-top: 4px;
+}
+
+/* Custom styles for Technojashan */
+.tj-main-wrapper {
+    min-height: 100vh;
+}
+
+/* --- Responsive Media Queries --- */
+
+/* Tablets and below (991px) */
+@media (max-width: 991.98px) {
+    .tj-nav-logo {
+        max-height: 50px;
+    }
+    .tj-nav-logo-secondary {
+        max-height: 50px;
+    }
+    .navbar-collapse {
+        background: rgba(3, 6, 15, 0.95);
+        backdrop-filter: blur(15px);
+        padding: 20px;
+        margin-top: 10px;
+        border-radius: 10px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+}
+
+/* Mobile Devices (767px) */
+@media (max-width: 767.98px) {
+    .tj-hero-logo {
+        max-width: 300px;
+    }
+    .tj-hero-subtitle {
+        font-size: 18px;
+    }
+    .tj-hero-date-loc {
+        font-size: 24px;
+    }
+    .tj-hero-btns {
+        flex-direction: column;
+        width: 100%;
+        max-width: 250px;
+        margin: 0 auto;
+    }
+    .tj-btn-primary, .tj-btn-outline {
+        width: 100%;
+        margin: 0 !important;
+        margin-bottom: 10px !important;
+    }
+    .tj-countdown {
+        flex-wrap: wrap;
+        gap: 10px !important;
+    }
+    .tj-countdown-item {
+        min-width: 70px;
+        padding: 10px;
+    }
+    .tj-countdown-value {
+        font-size: 24px;
+    }
+    .tj-video-controls {
+        bottom: 20px;
+        left: 20px;
+    }
+    .tj-video-btn {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+/* Small Mobile (480px) */
+@media (max-width: 479.98px) {
+    .tj-nav-logo {
+        max-height: 40px;
+    }
+    .tj-nav-logo-secondary {
+        max-height: 40px;
+    }
+    .tj-hero-logo {
+        max-width: 240px;
+    }
+    .tj-countdown-item {
+        min-width: 65px;
+    }
+    .tj-main-heading h2 {
+        font-size: 36px;
+    }
+    .tj-usp-point span {
+        font-size: 32px;
+    }
+}
+
+/* Competition section styles (ported from aifest) */
+.pt-6 {
+    padding-top: 60px;
+}
+
+.pb-6 {
+    padding-bottom: 60px;
+}
+
+.pt-9 {
+    padding-top: 90px;
+}
+
+.pb-9 {
+    padding-bottom: 90px;
+}
+
+.events-section {
+    overflow: hidden;
+}
+
+.main-heading {
+    margin-bottom: 40px;
+}
+
+.main-heading h2 {
+    color: #fff;
+    font-size: 54px;
+    font-weight: 700;
+    z-index: 10;
+    margin-bottom: 20px;
+    line-height: 54px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.techCard img {
+    width: 100%;
+    height: 330px;
+    object-fit: cover;
+    object-position: left top;
+}
+
+.techCard {
+    position: relative;
+    transition: ease-in-out 0.4s;
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.techCard h3 {
+    font-size: 22px;
+    line-height: 26px;
+    min-height: 94px;
+    color: #fff;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.techCard .btn {
+    position: relative;
+    padding: 7px 20px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: transparent;
+    font-weight: 600;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #fff !important;
+    border-radius: 0;
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.techCard .btn:hover {
+    background: #fff !important;
+    color: #111 !important;
+}
+
+.techCard:hover {
+    backdrop-filter: blur(2px);
+}
+
+.eventCat {
+    position: absolute;
+    top: 107px;
+    left: -44px;
+    transform: rotate(-90deg);
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    padding: 0 21px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'Bebas Neue', sans-serif;
+    min-width: 130px;
+    text-align: center;
+}
+
+.event-date {
+    position: absolute;
+    top: 0;
+    background: #f95543;
+    font-size: 11px;
+    text-transform: uppercase;
+    left: 50%;
+    font-weight: 600;
+    padding: 3px 8px;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    min-width: 180px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.prize-div {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.55);
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 3px 10px;
+    bottom: 0;
+    color: #fff;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.main-event-logo {
+    position: absolute;
+    top: 25px;
+    width: 100px;
+    right: 15px;
+}
+
+.main-event-logo img {
+    height: auto !important;
+}
+
+/* Featured Events (3-up grid, no slider) */
+.tj-featured-heading h2 {
+    color: #fff;
+    font-size: 54px;
+    font-weight: 700;
+    z-index: 10;
+    margin-bottom: 20px;
+    line-height: 54px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.tj-featured-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    transition: ease-in-out 0.4s;
+    padding: 0 10px;
+    height: 100%;
+}
+
+.tj-featured-media img {
+    width: 100%;
+    height: 330px;
+    object-fit: cover;
+    object-position: left top;
+}
+
+.tj-featured-card h3 {
+    font-size: 22px;
+    line-height: 26px;
+    min-height: 94px;
+    color: #fff;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.tj-featured-cat {
+    position: absolute;
+    top: 107px;
+    left: -44px;
+    transform: rotate(-90deg);
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    padding: 0 21px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'Bebas Neue', sans-serif;
+    min-width: 130px;
+    text-align: center;
+}
+
+.tj-featured-date {
+    position: absolute;
+    top: 0;
+    background: #f95543;
+    font-size: 11px;
+    text-transform: uppercase;
+    left: 50%;
+    font-weight: 600;
+    padding: 3px 8px;
+    transform: translateX(-50%);
+    min-width: 180px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.tj-featured-prize {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.55);
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 3px 10px;
+    bottom: 0;
+    color: #fff;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.tj-featured-logo {
+    position: absolute;
+    top: 25px;
+    width: 100px;
+    right: 15px;
+}
+
+.tj-featured-logo img {
+    height: auto !important;
+}
+
+.tj-featured-details {
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px 20px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.35);
+    font-weight: 600;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #fff !important;
+    border-radius: 0;
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    text-decoration: none;
+}
+
+.tj-featured-details:hover {
+    background: #fff;
+    color: #111 !important;
+}
+
+/* Layout the Star Events cards in a 3-up row (like the reference) */
+.conclave-section__slider {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 26px 30px;
+    overflow: hidden; /* Keep 3-up layout like the reference screenshot */
+}
+
+.conclave-section__slider--item {
+    flex: 0 0 350px;
+    max-width: 350px;
+}
+
+.conclave-section__slider--item .techCard {
+    height: 100%;
+}
+
+.conclave-section__slider--item figure {
+    margin: 0;
+}
+
+/* Button style to resemble the dark “EVENT DETAILS” bar */
+.techCard .card-footer {
+    padding: 0 10px 18px;
+    margin-top: auto; /* Push "Event Details" button to the bottom */
+}
+
+.techCard .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.35) !important;
+    text-align: center;
+}
+
+@media (max-width: 991.98px) {
+    .conclave-section__slider--item {
+        flex-basis: 420px;
+        max-width: 420px;
+    }
+    .conclave-section__slider {
+        flex-wrap: wrap;
+        overflow: visible;
+    }
+}
+
+/* Sponsored By section (logos row) */
+.sponsored-section .workshop {
+    padding: 40px 20px 30px;
+}
+
+.sponsored-slider {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px 200px;
+}
+
+/* Uniform logo cells so every sponsor fits cleanly */
+.sponsored-slider > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    width: 220px;
+    height: 200px;
+    padding: 8px 12px;
+    box-sizing: border-box;
+}
+
+.sponsored-slider img {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    filter: none;
+    opacity: 1;
+    transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.sponsored-slider img:hover {
+    transform: scale(1.05);
+}
+
+/* Responsive tweaks for sponsored logos */
+@media (max-width: 991.98px) {
+    .sponsored-slider {
+        gap: 24px 32px;
+    }
+
+    .sponsored-slider > div {
+        width: 200px;
+        height: 68px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .sponsored-slider {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .sponsored-slider > div {
+        width: min(280px, 100%);
+        height: 120px;
+    }
+}
+
+/* Video section (responsive iframe) */
+.tj-video-heading h2 {
+    color: #fff;
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', sans-serif;
+    margin-bottom: 24px;
+}
+
+.tj-video-section {
+    padding: 80px 0;
+    background-color: #03060f;
+}
+
+.tj-video-section .row {
+    align-items: center;
+}
+
+.tj-video-embed {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.tj-video-embed:hover {
+    transform: translateY(-5px);
+    border-color: rgba(0, 255, 229, 0.4);
+}
+
+.tj-video-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 991.98px) {
+    .tj-video-section {
+        min-height: auto;
+        padding-top: 60px !important;
+        padding-bottom: 60px !important;
+        display: block;
+    }
+
+    .tj-video-embed {
+        height: auto;
+        aspect-ratio: 4 / 3;
+        padding-bottom: 0;
+        border-radius: 12px;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        box-shadow: 0 18px 40px rgba(0, 0, 0, 0.6);
+    }
+}
+
+/* Final CTA with scanner and sub-footer */
+.tj-final-cta {
+    padding: 72px 0 0;
+    background: linear-gradient(135deg, rgba(0, 255, 229, 0.08), rgba(3, 6, 15, 0.95));
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.tj-final-cta-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.tj-cta-left,
+.tj-cta-center {
+    flex: 1 1 0;
+}
+
+.tj-cta-right {
+    flex: 1 1 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.tj-cta-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+}
+
+.tj-cta-center h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 52px;
+    letter-spacing: 2px;
+    color: #ffffff;
+    margin-bottom: 22px;
+}
+
+.tj-cta-contact {
+    margin-top: 28px;
+}
+
+.tj-cta-contact h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    color: #00ffe5;
+}
+
+.tj-cta-contact p {
+    margin: 4px 0;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 18px;
+}
+
+.tj-contact-icon {
+    display: inline-flex;
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+    vertical-align: -3px;
+    color: #00ffe5;
+}
+
+.tj-cta-logo {
+    max-width: 160px;
+    height: auto;
+    margin-bottom: 18px;
+}
+
+.tj-cta-qr-img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.5);
+}
+
+.tj-cta-sponsored {
+    margin-top: 12px;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: sans-serif;
+}
+
+.tj-cta-sponsored a {
+    color: #00ffe5;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.tj-cta-sponsored a:hover {
+    text-decoration: underline;
+}
+
+.tj-sub-footer {
+    margin-top: 40px;
+    padding: 14px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(0, 0, 0, 0.28);
+}
+
+.tj-sub-footer p {
+    margin: 0;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
+    letter-spacing: 1px;
+}
+
+@media (max-width: 767.98px) {
+    .conclave-section__slider--item {
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+    .conclave-section__slider {
+        flex-wrap: wrap;
+        overflow: visible;
+    }
+
+    .tj-final-cta {
+        padding-top: 56px;
+    }
+
+    .tj-final-cta-inner {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .tj-cta-left,
+    .tj-cta-center,
+    .tj-cta-right {
+        flex: 1 1 100%;
+    }
+
+    .tj-cta-center h2 {
+        font-size: 36px;
+        line-height: 1.15;
+    }
+
+    .tj-cta-contact h4 {
+        font-size: 24px;
+    }
+
+    .tj-cta-contact p {
+        font-size: 16px;
+    }
+
+    .tj-cta-qr-img {
+        margin-top: 20px;
+    }
+}

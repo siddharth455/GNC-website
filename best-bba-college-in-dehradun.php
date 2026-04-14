@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <link rel="icon" type="image/webp" href="images/logog.webp">
+     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Top BBA College in Dehradun – BBA Admission 2026 | Guru Nanak College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study at the top BBA college in Dehradun. Guru Nanak College offers industry-focused BBA program, affordable fees, scholarships, and 100% placement training. Admissions open 2026.">
@@ -19,11 +18,14 @@
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
-    <link rel="stylesheet" href="css/programs.css"/>
-    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-    <script type="application/ld+json">
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="new-assets/css/all-styles.css">
+     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Course",
@@ -121,258 +123,413 @@
       ]
     }
     </script>
-
-
-
     
+    <style>
+        :root {
+            --gnc-orange: #ff5722;
+            --gnc-blue: #00b7ff;
+            
+            --text-dark: #333;
+        }
+
+        body { font-family: 'Roboto', sans-serif; overflow-x: hidden; color: var(--text-dark); }
+
+        /* --- GNC BBA HERO SECTION --- */
+        .gnc-bba-hero {
+            position: relative;
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('upload/hero/mange-1.webp') no-repeat center center;
+            background-size: cover;
+            padding: 270px 0 80px; /* Increased top padding to push content below the sticky header */
+            color: #fff;
+        }
+        .gnc-bba-hero .play-btn { width: 45px; height: 45px; background: var(--gnc-orange); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 15px; }
+        .gnc-bba-hero .hero-sub { font-size: 14px; font-weight: bold; background: rgba(255,255,255,0.2); padding: 2px 10px; display: inline-block; margin-bottom: 10px; }
+        .gnc-bba-hero h1 { font-size: calc(1.8rem + 1.5vw); font-weight: 400; line-height: 1.1; margin: 20px 0; }
+
+        .gnc-bba-form-card { background: #fff; padding: 30px; border-radius: 12px; color: #333; box-shadow: 0 10px 30px rgba(0,0,0,0.3); }
+        .gnc-bba-form-card h4 span { color: var(--gnc-orange); display: block; font-size: 24px; font-weight: bold; }
+        .gnc-bba-btn-apply { background: var(--gnc-orange); color: #fff; width: 100%; border: none; padding: 12px; border-radius: 4px; font-weight: bold; }
+
+        .gnc-bba-partners { display: flex; align-items: center; margin-top: 40px; gap: 30px; }
+        .gnc-bba-partners img { height: 50px; }
+
+        /* --- GNC BBA ABOUT SECTION --- */
+        .gnc-bba-abt { position: relative; background: #f1f1f1; z-index: 1;}
+        @media (min-width: 992px) {
+            .gnc-bba-abt::before {
+                content: ""; position: absolute; left: 0; top: -75px;
+                background: url('images/bba-about.webp') no-repeat;
+                background-size: cover; width: 800px; height: 1172px; z-index: -1;
+                 
+            }
+        }
+
+        .gnc-bba-msg-box { background: #f1f1f1; padding: 60px; box-shadow: 20px 20px 60px rgba(0,0,0,0.05); }
+        .gnc-bba-slashes { color: var(--gnc-orange); font-size: 2rem; font-weight: bold; }
+        .gnc-bba-quote { font-style: italic; line-height: 1.8; font-size: 1.05rem; }
+
+        .gnc-bba-stats-grid { position: relative; z-index: 5; margin-top:638px; }
+        .gnc-bba-stats-inner { background: #fff; border: 1px solid #eeeeee; }
+        .gnc-bba-stat-box { border-right: 1px solid #eeeeee; border-bottom: 1px solid #eeeeee; padding: 40px 15px; transition: 0.3s; height: 100%; }
+        .gnc-bba-stat-flex { display: flex; align-items: center; justify-content: center; }
+        .gnc-bba-stat-box a { text-decoration: none; color: inherit; display: flex; flex-direction: column; align-items: center; }
+        .gnc-bba-stat-box img { width: 55px; margin-bottom: 15px; transition: 0.3s; }
+        .gnc-bba-stat-box span { font-weight: 700; font-size: 14px; color: #555; }
+        .gnc-bba-stat-box:hover { background: #fafafa; }
+        .gnc-bba-stat-box:hover img { transform: translateY(-5px); }
+        .gnc-bba-stat-row .col-6:nth-child(even) .gnc-bba-stat-box { border-right: 0; }
+        .gnc-bba-stat-row .col-6:nth-last-child(-n+2) .gnc-bba-stat-box { border-bottom: 0; }
+
+        .gnc-bba-content-right { position: relative; padding: 40px; background: #f1f1f1; height: 100%; }
+        @media (min-width: 992px) {
+            .gnc-bba-content-right::before {
+                background: #f1f1f1; top: 0; bottom: 0; left: -134px; width: 134px; position: absolute; content: "";
+            }
+        }
+        .gnc-bba-title-line { display: inline-block; border-bottom: 1px solid #333; padding-bottom: 5px; margin-bottom: 30px; font-size: 1.8rem; font-weight: 400; }
+        .gnc-bba-scope-img { width: 370px; border-radius: 5px; float: right; margin: 0 0 20px 30px; height:250px; }
+        .gnc-bba-list li { margin-bottom: 12px; font-size: 14px; display: flex; align-items: center; }
+        .gnc-bba-list li i { color: #ccc; margin-right: 12px; font-size: 10px; }
+
+        @media (max-width: 991px) {
+            .gnc-bba-abt::before { 
+                content: ""; 
+                display: block; 
+                position: absolute; 
+                left: 0; 
+                top: 400px; 
+                width: 100%; 
+                height: 600px; 
+                background: url('images/bba-about.webp') no-repeat;
+                background-size: cover; 
+                z-index: -1;
+                filter: grayscale(100%);
+            }
+            .gnc-bba-msg-box { padding: 40px 20px; text-align: left; }
+            .gnc-bba-stats-grid { margin-top: 400px; } 
+            .gnc-bba-content-right { margin-top: 50px; padding: 20px 0; width: 100%; }
+            .gnc-bba-scope-img { float: none; width: 100%; margin: 20px 0; }
+            .gnc-bba-list { padding-left: 15px; }
+            .gnc-bba-list li { font-size: 13px; }
+            .gnc-bba-hero { padding-top: 150px; } /* Slightly less padding on mobile */
+        }
+
+        /* --- DEPARTMENT AT A GLANCE --- */
+        .glance-sec {
+            background: #ff5722;
+            padding: 80px 0 250px; /* Increased bottom padding to accommodate overlap */
+            position: relative;
+        }
+        .glance-slider {
+            margin-top: 50px;
+            position: relative;
+        }
+        /* Flickity buttons outside the slider */
+        .glance-slider .flickity-prev-next-button {
+            background:transparent;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            transform: translateY(-50%);
+            transition: 0.3s;
+            z-index: 10;
+        }
+        .glance-slider .flickity-prev-next-button:hover {
+            background: #fff;
+        }
+        .glance-slider .flickity-prev-next-button.previous {
+            left: -60px;
+        }
+        .glance-slider .flickity-prev-next-button.next {
+            right: -60px;
+        }
+        .glance-slider .flickity-button-icon {
+            fill: #fff;
+            transition: 0.3s;
+        }
+        .glance-slider .flickity-prev-next-button:hover .flickity-button-icon {
+            fill: #ff5722;
+        }
+        @media (max-width: 1200px) {
+            .glance-slider .flickity-prev-next-button.previous { left: -30px; }
+            .glance-slider .flickity-prev-next-button.next { right: -30px; }
+        }
+        @media (max-width: 991px) {
+            .glance-slider .flickity-prev-next-button { display: none; }
+        }
+        .glance-item {
+            width: 48%;
+            height: 400px;
+            position: relative;
+            margin-right: 20px;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .glance-item::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to top, rgba(0,0,0,0.85), transparent 60%);
+            z-index: 1;
+        }
+        .glance-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .glance-item h4 {
+            color: #fff;
+            font-size: 20px;
+            line-height: 1.4;
+            font-weight: 700;
+            position: absolute;
+            bottom: 30px;
+            left: 30px;
+            right: 30px;
+            margin: 0;
+            z-index: 2;
+        }
+        .topHighlights__numbers {
+            margin-top: 80px;
+        }
+        .tpNumbersCard {
+            text-align: center;
+            color: #fff;
+            flex: 1;
+        }
+        .tpNumbersCard .count {
+            display: block;
+            font-size: 42px;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 10px;
+        }
+        .tpNumbersCard p {
+            font-size: 14px;
+            line-height: 1.4;
+            margin: 0;
+            opacity: 0.9;
+        }
+        .plusIcon::after {
+            content: "+";
+        }
+        @media (max-width: 767px) {
+            .glance-item { width: 90%; height: 300px; }
+            .topHighlights__numbers { flex-direction: column; gap: 40px; }
+            .glance-sec { padding: 60px 0; }
+        }
+
+        /* --- EXCLUSIVE LABS --- */
+        .exclusive-labs {
+            padding: 0 0 100px; /* Removed top padding, added negative margin */
+            background: transparent; 
+            position: relative;
+            z-index: 10;
+            clear: both;
+            margin-top: -200px; 
+        }
+        .exclusive-labs h3 {
+            color: #fff !important; /* White text for contrast on orange/red background */
+        }
+        .researchLabs-slider {
+            margin-top: 50px;
+        }
+        .researchLabs-item {
+            width: 450px;
+            height: 500px;
+            position: relative;
+            margin-right: 25px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .researchLabs-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .researchLabs-item .box {
+            position: absolute;
+            inset: 0;
+            padding: 30px;
+            background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 50%, transparent 100%);
+            color: #fff;
+            transition: all 0.4s ease;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            text-align: center;
+            z-index: 2;
+        }
+        .researchLabs-item:hover .box {
+            background: rgba(255, 87, 34, 0.95);
+            justify-content: center;
+        }
+        .researchLabs-item .box .title {
+            font-size: 22px;
+            font-weight: 800;
+            margin: 0;
+            color: #fff;
+            text-transform: uppercase;
+            order: 2; /* Move title below description */
+        }
+        .researchLabs-item .box p {
+            font-size: 15px;
+            line-height: 1.6;
+            margin: 0;
+            opacity: 0;
+            max-height: 0;
+            overflow: hidden;
+            transition: all 0.4s ease;
+            order: 1; /* Move description above title */
+        }
+        .researchLabs-item:hover .box .title {
+            font-size: 28px; /* Bigger title on hover as per image */
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255,255,255,0.5);
+        }
+        .researchLabs-item:hover .box p {
+            opacity: 1;
+            max-height: 300px;
+            margin-bottom: 0;
+        }
+        @media (max-width: 767px) {
+            .researchLabs-item { width: 300px; height: 400px; }
+        }
+    </style>
 </head>
-
 <body>
-    <?php
-    require "common/header.php";
-    ?>
-    <section class="pageBanner-inner">
-        <div style="background-image: url('upload/hero/mange-1.webp'); background-repeat: no-repeat; background-size: cover;">
-            <div class="pageBanner-inner_in">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 col-xl-7">
-                            <div class="pageBanner-inner__content inner-content head-sm text-md-start">
-                                <div class="upper-banner-content">
-                                    <div class="pb-flex d-flex align-items-center justify-content-center justify-content-lg-start mt-3">
-                                        <h5 class=" text-white border-right me-3 pe-3 mb-0">Bachelor of</h5>
-                                    </div>
-                                    <h3 class="mb-1 mt-3">Business Administration</small></h3>
-                                </div>
-                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
-                                    Apply Now
-
-                                </a>
-                               <a href="upload/pdf/BBA.pdf" target="_blank" id="printButton1" target="_blank" class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0">
-                                    Download Brochure
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="internal-form">
-                        <span id="ee-form-6">
+<?php require("common/header.php"); ?>
+<!-- GNC BBA HERO SECTION -->
+<section class="gnc-bba-hero">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-7">
+                <span class="hero-sub text-uppercase">Best BBA College in Dehradun, Uttarakhand</span>
+                
+                <h2 class="fw-light">Department of <br><b>Management Studies</b></h2>
+                <p class="mt-4 mb-0 fw-bold">(BBA - Management)</p>
+                <h1>Bachelor of Business Administration<br> at Guru Nanak College</h1>
+                <div class="mt-4 d-flex gap-2">
+                   <a href="https://application.gnc.edu.in/" target="_blank"> <button class="btn px-4 py-2 fw-bold text-white" style="background: var(--gnc-orange);">APPLY NOW</button></a>
+                    <a href="upload/pdf/BBA.pdf" target="_blank" id="printButton1" target="_blank">
+                        <button class="btn px-4 py-2 fw-bold text-white" style="background: var(--gnc-blue);">Download Brochure</button>
+                    </a>
+                </div>
+                <div class="gnc-bba-partners">
+                    <img src="images/logo.webp" alt="GNC Logo">
+                    <div style="border-left: 1px solid rgba(255,255,255,0.3); height: 50px;"></div>
+                    
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-5 col-xl-3 order-last order-sm-last">
+                        <div class="internal-form">
+                           <span id="ee-form-6">
                             <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <?php require "companylogo1.php"; ?>
-    <?php require "rankingbanner.php"; ?>
-    <section class="gnc-normal-hero" style="background-color: #ffffff; padding: 60px 0;">
-
-      <div class="main-container">
-        <div class="hero-layout">
-            
-            <!-- Left Text Content -->
-            <div class="hero-content-left">
-                <h1>Guru Nanak College – <a href="https://gnc.edu.in/blog.php">Best BBA college in Dehradun</a>, Uttarakhand</h1>
-                <p>Choosing the right college is one of the most important decisions for students planning a career in business and management. If you are searching for a reliable and career-oriented BBA college in Dehradun, Guru Nanak College stands out as one of the most preferred institutions for management education in Uttarakhand.</p>
-                <p>Recognized for its academic excellence, practical learning approach, and strong placement support, Guru Nanak College offers a comprehensive Bachelor of Business Administration (BBA) program designed to prepare students for the real business world. With more than 16 years of educational experience, modern infrastructure, and industry-aligned curriculum, the college has established itself as a leading destination for students seeking <a href="https://gnc.edu.in/admissions.php">BBA admission Dehradun</a>.
-                </p>
-               <p>The program focuses on building a strong foundation in management principles, leadership skills, and business decision-making while ensuring students gain hands-on experience through internships, projects, and industry interactions.</p>
-                        
-                        
-                 <a href="https://application.gnc.edu.in/" target="_blank" class="hero-btn-apply">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
-            </div>
-
-            <!-- Right Image Content -->
-            <div class="hero-image-right">
-                <img src="upload/infra/bca.webp" alt="bba-college-dehradun-campus">
-            </div>
-       </div>
-
-        <div class="hero-layout">
-            <div class="hero-content-left">
-            <h2 class="m-2">BBA Specialisations Offered at Guru Nanak College</h2>
-                        <p>To prepare students for diverse career paths, Guru Nanak College offers specialized learning focus areas within the BBA program.</p>
-                        <p>Key learning areas include:</p>
-                        <ul>
-                            <li>•Marketing Management</li>
-                            <p>This specialization focuses on market research, consumer behavior, branding strategies, and digital marketing techniques. Students learn how to analyze market trends and develop effective promotional campaigns.</p>
-                            <li>• Finance Management</li>
-                            <p>Students gain expertise in financial planning, investment management, risk analysis, and corporate finance. This specialization prepares graduates for careers in banking, finance, and accounting.</p>
-                            <li>• Human Resource Management</li>
-                            <p>This area focuses on employee management, organizational behavior, recruitment strategies, and performance evaluation. It is ideal for students interested in HR leadership roles.</p>
-                            <li>• Business Analytics</li>
-                            <p>Students learn data-driven decision-making, statistical analysis, and business intelligence tools to solve complex organizational challenges.</p>
-                            <li>• Entrepreneurship</li>
-                            <p>This specialization prepares students to start and manage their own businesses by developing innovation, strategic planning, and leadership skills.</p>
-                           
-                        </ul>
-                        
-                 </div>
-
-                 <div class="hero-image-right">
-                <img src="upload/computer-lab.webp" alt="students-learning-bba-gnc">
-                </div>
+                    </div>
         </div>
     </div>
 </section>
 
-<section class="py-5" style="background-color: #0f9af1; color: #ffffff;">
+<!-- GNC BBA ABOUT & CONTENT SECTION -->
+<section class="gnc-bba-abt">
     <div class="container">
-        <h2 class="text-center mb-5 text-white">Benefits of Studying BBA at Guru Nanak College</h2>
-        <div class="row g-4">
-            <div class="col-md-4">
-                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
-                    <i class="fas fa-graduation-cap fa-2x mb-3 text-primary"></i>
-                    <p class="mb-0">Industry-aligned curriculum with practical learning focus</p>
+        <div class="row justify-content-between">
+            <div class="col-lg-5">
+                <!-- MESSAGE BOX -->
+                <div class="gnc-bba-msg-box">
+                    <div class="small text-uppercase mb-2">Message from</div>
+                    <div class="fw-bold mb-4">DEAN (MANAGEMENT STUDIES)</div>
+                    <div class="gnc-bba-slashes">//</div>
+                    <p class="gnc-bba-quote">“Guru Nanak College offers a comprehensive BBA program designed to equip students with modern business leadership skills, ethical values, and practical industry exposure required for the global marketplace.”</p>
+                    <div class="gnc-bba-slashes text-end">//</div>
                 </div>
-            </div>
-            <div class="col-md-4">
-                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
-                    <i class="fas fa-wallet fa-2x mb-3 text-primary"></i>
-                    <p class="mb-0">Affordable fee structure with scholarships</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
-                    <i class="fas fa-users fa-2x mb-3 text-primary"></i>
-                    <p class="mb-0">Experienced faculty and modern infrastructure</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
-                    <i class="fas fa-briefcase fa-2x mb-3 text-primary"></i>
-                    <p class="mb-0">Strong placement preparation support</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
-                    <i class="fas fa-building fa-2x mb-3 text-primary"></i>
-                    <p class="mb-0">Opportunities for internships and industry exposure</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="l-card h-100 p-4 border-0 rounded shadow-sm bg-white text-dark">
-                    <i class="fas fa-user-tie fa-2x mb-3 text-primary"></i>
-                    <p class="mb-0">Holistic personality development programs</p>
-                </div>
-            </div>
-        </div>
-        <p class="text-center mt-4 text-white-50">These features make it one of the most trusted BBA colleges in Dehradun.</p>
-    </div>
-</section>
 
-<section class="py-5 bg-white">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-12">
-                <h2 class="mb-4">Placement Support and Top Recruiters</h2>
-                <p>Guru Nanak College provides structured placement training to ensure students are industry-ready. Learn more about our <a href="https://gnc.edu.in/placement-overview.php">BBA placement support</a>.</p>
-                <p>The college offers:</p>
-                <ul class="adv-list">
-                    <li><i class="fas fa-check-circle"></i> Resume development workshops</li>
-                    <li><i class="fas fa-check-circle"></i> Mock interview sessions</li>
-                    <li><i class="fas fa-check-circle"></i> Soft skills training</li>
-                    <li><i class="fas fa-check-circle"></i> Internship opportunities</li>
-                    <li><i class="fas fa-check-circle"></i> Career counseling programs</li>
-                </ul>
-                <p class="mt-3">Students have been placed in various sectors including banking, marketing, retail, logistics, and corporate services.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="py-5" style="background-color: rgb(251 123 28); color: #ffffff;">
-    <div class="container">
-        <div class="row text-center mb-5">
-            <div class="col-12">
-                <h2 class="display-6 fw-bold text-white">BBA Subjects and Curriculum Overview</h2>
-                <div class="bg-white mx-auto mt-2" style="height: 3px; width: 80px;"></div>
-                <p class="mt-4 lead text-white-50">The curriculum at this leading BBA college in Dehradun combines theoretical knowledge with practical application to ensure holistic learning.</p>
-            </div>
-        </div>
-
-        <div class="row g-4 justify-content-center">
-            <!-- Subject Card 1 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-tasks fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Principles of Management</h6>
-                </div>
-            </div>
-            <!-- Subject Card 2 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-file-invoice-dollar fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Financial Accounting</h6>
-                </div>
-            </div>
-            <!-- Subject Card 3 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-chart-line fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Business Economics</h6>
-                </div>
-            </div>
-            <!-- Subject Card 4 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-bullhorn fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Marketing Management</h6>
-                </div>
-            </div>
-            <!-- Subject Card 5 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-users-cog fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Human Resource Management</h6>
-                </div>
-            </div>
-            <!-- Subject Card 6 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-gavel fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Business Law</h6>
-                </div>
-            </div>
-            <!-- Subject Card 7 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-user-friends fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Organizational Behavior</h6>
-                </div>
-            </div>
-            <!-- Subject Card 8 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-lightbulb fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Entrepreneurship Development</h6>
-                </div>
-            </div>
-            <!-- Subject Card 9 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-database fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Business Analytics</h6>
-                </div>
-            </div>
-            <!-- Subject Card 10 -->
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="h-100 p-3 bg-white border-0 rounded text-center shadow-sm hover-shadow">
-                    <i class="fas fa-laptop-code fa-2x mb-3" style="color: rgb(251 123 28);"></i>
-                    <h6 class="mb-0 small fw-bold text-dark">Digital Marketing Fundamentals</h6>
-                </div>
-            </div>
-        </div>
-
-        <div class="row mt-5">
-            <div class="col-lg-10 mx-auto">
-                <div class="p-4 bg-white border-start border-light border-4 rounded shadow-sm">
-                    <div class="d-flex align-items-center">
-                        <i class="fas fa-graduation-cap fa-3x me-4" style="color: rgb(251 123 28);"></i>
-                        <div>
-                            
-                            <p class="mb-0 text-muted">The program also includes projects, internships, presentations, and case studies to enhance practical skills.</p>
+                <!-- STATS GRID -->
+                <div class="gnc-bba-stats-grid">
+                    <div class="gnc-bba-stats-inner h-auto border-0 rounded-0 mb-0">
+                        <div class="row g-0 gnc-bba-stat-row">
+                            <div class="col-6 text-center">
+                                <div class="gnc-bba-stat-box gnc-bba-stat-flex">
+                                    <a href="admissions.php">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/2941/2941658.png" alt="Study Abroad">
+                                        <span>Admissions</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center">
+                                <div class="gnc-bba-stat-box gnc-bba-stat-flex">
+                                    <a href="campus-life.php">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/942/942799.png" alt="Program">
+                                        <span>Campus Life</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center">
+                                <div class="gnc-bba-stat-box gnc-bba-stat-flex">
+                                    <a href="scholarships.php">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/3135/3135706.png" alt="Loan">
+                                        <span>Scholarships</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center">
+                                <div class="gnc-bba-stat-box gnc-bba-stat-flex">
+                                    <a href="placement-overview.php">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/2490/2490332.png" alt="Scholarship">
+                                        <span>Placements</span>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GNC BBA RIGHT SIDE CONTENT -->
+            <div class="col-lg-6">
+                <div class="gnc-bba-content-right">
+                    <h2 class="fw-bold mb-4">Best BBA College in Dehradun, Uttarakhand</h2>
+                    <p class="text-muted">Choosing the right college is one of the most important decisions for students planning a career in business and management. If you are searching for a reliable and career-oriented BBA college in Dehradun, Guru Nanak College stands out as one of the most preferred institutions for management education in Uttarakhand.</p>
+                <p class="text-muted">Recognized for its academic excellence, practical learning approach, and strong placement support, Guru Nanak College offers a comprehensive Bachelor of Business Administration (BBA) program designed to prepare students for the real business world. With more than 16 years of educational experience, modern infrastructure, and industry-aligned curriculum, the college has established itself as a leading destination for students seeking <a href="https://gnc.edu.in/admissions.php">BBA admission Dehradun</a></p>
+                    
+                    <div class="gnc-bba-scope-wrap clearfix my-5">
+                        <h3 class="gnc-bba-title-line">Scope</h3>
+                        <img src="upload/hero/mang-2.webp" class="gnc-bba-scope-img" alt="BBA Scope">
+                        <p class="fst-italic text-muted small">The global management market is expanding rapidly, offering diverse opportunities in Finance, Marketing, and HR.</p>
+                        <button class="btn btn-danger btn-sm px-4 fw-bold">APPLY NOW</button>
+                    </div>
+
+                    <h3 class="gnc-bba-title-line">Job Profiles for BBA Graduates</h3>
+                    <div class="row mb-1">
+                        <div class="col-6">
+                            <ul class="gnc-bba-list">
+                                <li><i class="fas fa-arrow-right"></i> Business Consultant</li>
+                                <li><i class="fas fa-arrow-right"></i> Marketing Manager</li>
+                                <li><i class="fas fa-arrow-right"></i> HR Executive</li>
+                                <li><i class="fas fa-arrow-right"></i> Financial Analyst</li>
+                                <li><i class="fas fa-arrow-right"></i> Sales Manager</li>
+                                <li><i class="fas fa-arrow-right"></i> Operations Lead</li>
+                            </ul>
+                        </div>
+                        <div class="col-6">
+                            <ul class="gnc-bba-list">
+                                <li><i class="fas fa-arrow-right"></i> Digital Marketer</li>
+                                <li><i class="fas fa-arrow-right"></i> Supply Chain Analyst</li>
+                                <li><i class="fas fa-arrow-right"></i> Retail Manager</li>
+                                <li><i class="fas fa-arrow-right"></i> Data Analyst</li>
+                                <li><i class="fas fa-arrow-right"></i> Project Coordinator</li>
+                                <li><i class="fas fa-arrow-right"></i> Entrepreneur</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <h3 class="gnc-bba-title-line">Specializations</h3>
+                    <div class="row">
+                        <div class="col-6"><ul class="gnc-bba-list"><li><i class="fas fa-chevron-right"></i> Marketing</li><li><i class="fas fa-chevron-right"></i> Finance</li></ul></div>
+                        <div class="col-6"><ul class="gnc-bba-list"><li><i class="fas fa-chevron-right"></i> HR</li><li><i class="fas fa-chevron-right"></i> International Business</li></ul></div>
                     </div>
                 </div>
             </div>
@@ -380,39 +537,207 @@
     </div>
 </section>
 
- 
-
-<section class="py-5" style="background-color: #0f9af1; color: #ffffff;">
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-10">
-        <h2 class="display-6 fw-bold text-white mb-2">Apply for BBA Admission 2026</h2>
-        <div class="mx-auto mb-3" style="height:3px;width:80px;background:#fff;opacity:.85;"></div>
-        <p class="text-white-50 mb-1">Students looking for a reliable and career-oriented BBA college in Dehradun can apply for admission at Guru Nanak College for the 2026 session.</p>
-        <p class="text-white-50">With its focus on academic excellence, industry exposure, and career readiness, the college provides an ideal platform for students to build a successful future in business and management.</p>
-        <a href="https://application.gnc.edu.in/" target="_blank" class="btn-apply-white mt-2">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
-      </div>
-    </div>
-  </div>
-</section>
 
 
-        <section class="gnc-bmrit-section py-5" style="background-color: #ffffff; color: var(--text-dark);">
+<!-- Fees and Eligibility Section: Provides information on the fee structure and eligibility criteria for the programs -->
+
+    <style>
+        /* --- Variables & Reset --- */
+        :root {
+            --primary-color: #0f9af1;
+            --accent-color: #f39c12;
+            --text-dark: #333333;
+            --text-gray: #555555;
+            --light-bg: #f8f9fa;
+            --border-color: #dee2e6;
+            --white: #ffffff;
+        }
+
+        .gnc-bmrit-section {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        /* --- Layout --- */
+        .flex-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+        }
+
+        .col-data {
+            flex: 1 1 65%;
+            /* Takes up 65% of width */
+            min-width: 300px;
+        }
+
+        .note-box {
+            flex: 1 1 25%;
+            /* Takes up roughly 30% of width */
+            min-width: 280px;
+            background-color: var(--light-bg);
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 5px solid var(--primary-color);
+            height: fit-content;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        /* --- Typography --- */
+        .col-data h2 {
+            color: var(--primary-color);
+            font-weight: 700;
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+
+        .col-data h5 {
+            color: var(--primary-color);
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-weight: 600;
+            border-bottom: 2px solid var(--border-color);
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+
+        /* --- Download Button --- */
+        .btn-download {
+            display: inline-block;
+            background-color: var(--accent-color);
+            color: var(--white) !important;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-download:hover {
+            background-color: #e67e22;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        /* --- Tabs Styling --- */
+        .nav-tabs {
+            border-bottom: 2px solid var(--border-color);
+            margin-bottom: 20px;
+        }
+
+        .nav-tabs .nav-link {
+            border: none;
+            color: var(--text-gray);
+            font-weight: 600;
+            padding: 12px 25px;
+            transition: 0.3s;
+        }
+
+        .nav-tabs .nav-link.active {
+            color: var(--primary-color);
+            background-color: transparent;
+            border-bottom: 3px solid var(--primary-color);
+        }
+
+        .nav-tabs .nav-link:hover:not(.active) {
+            border-color: transparent;
+            color: var(--primary-color);
+            background-color: #eeeeee;
+        }
+
+        /* --- Table Styling --- */
+        .table-responsive {
+            margin-bottom: 20px;
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            background-color: var(--white);
+        }
+
+        table th,
+        table td {
+            border: 1px solid var(--border-color);
+            padding: 12px 15px;
+            text-align: left;
+            font-size: 0.95rem;
+        }
+
+        table th {
+            background-color: var(--primary-color);
+            color: var(--white);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+        }
+
+        table tbody tr:nth-child(even) {
+            background-color: #fcfcfc;
+        }
+
+        table tbody tr:hover {
+            background-color: #f1f7ff;
+        }
+
+        /* Specific styling for the bold "Net Academic Fee" row */
+        table tr td strong {
+            color: var(--primary-color);
+        }
+
+        /* --- Responsive Adjustments --- */
+        @media (max-width: 992px) {
+            .flex-container {
+                flex-direction: column;
+            }
+
+            .col-data,
+            .note-box {
+                flex: 1 1 100%;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .col-data h2 {
+                font-size: 1.5rem;
+            }
+
+            .nav-tabs .nav-link {
+                padding: 10px 15px;
+                font-size: 0.9rem;
+            }
+
+            table th,
+            table td {
+                padding: 8px 10px;
+                font-size: 0.85rem;
+            }
+        }
+    </style>
+
+    <section class="gnc-bmrit-section py-5" style="background-color: #ffffff; color: var(--text-dark);">
+
 
         <div class="container">
             <div class="flex-container">
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
+                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank"
+                        class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->
                     <ul class="nav nav-tabs" id="gncTabs" role="tablist">
                         <li class="nav-item">
-                            <button class="nav-link active" id="fee-tab" data-bs-toggle="tab" data-bs-target="#fee-content" type="button" role="tab">Fee Structure</button>
+                            <button class="nav-link active" id="fee-tab" data-bs-toggle="tab"
+                                data-bs-target="#fee-content" type="button" role="tab">Fee Structure</button>
                         </li>
                         <li class="nav-item">
-                            <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#other-content" type="button" role="tab">Other Fees</button>
+                            <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#other-content"
+                                type="button" role="tab">Other Fees</button>
                         </li>
                     </ul>
 
@@ -420,13 +745,10 @@
                         <!-- Tab 1: Fee Structure -->
                         <div class="tab-pane fade show active" id="fee-content" role="tabpanel">
                             <p><strong>Eligibility</strong></p>
-                            <p style="font-size: 0.9rem; line-height: 1.5;">Passed 10+2 (Senior Secondary Examination) from a recognized board.<br>
-                            Students from any stream (Science / Commerce / Humanities) can apply</p>
-                            <p><strong>Minimum marks required:</strong></p>
-                            <ul>
-                                <li>45% for General / OBC</li>
-                                <li>40% for SC / ST</li>
-                            </ul>
+                            <p style="font-size: 0.9rem; line-height: 1.5;">The students who have passed 10+2 or had
+                                given senior secondary examination with Maths/Biology/Agriculture from any recognized
+                                board.<br>
+                                The minimum percentage required is 45% for GENERAL/OBC and 40% for ST/SC.</p>
                             <h5>All India Quota (Amount of fee details in INR)</h5>
                             <div class="table-responsive">
                                 <table>
@@ -455,11 +777,11 @@
                                             <td><strong>Net Academic Fee</strong></td>
                                             <td><strong>45,000 /- (Included Power Degree Fee)</strong></td>
                                         </tr>
-                                         <tr>
+                                        <tr>
                                             <td colspan="2">Total Fee year wise inclusive of other charges</td>
                                             <td>-</td>
                                         </tr>
-                                        
+
                                     </tbody>
                                 </table>
                             </div>
@@ -525,7 +847,8 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>(Theory Internal / External, Practical Internal / External) As per the University/Board/College Norms Payable</td>
+                                            <td>(Theory Internal / External, Practical Internal / External) As per the
+                                                University/Board/College Norms Payable</td>
                                             <td>4,800</td>
                                             <td>1,500</td>
                                         </tr>
@@ -533,7 +856,7 @@
                                 </table>
                             </div>
 
-                            <h5>Optional Fee Per Year (INR)</h5>
+                            <h5>Optional Fee Par Year (INR)</h5>
                             <div class="table-responsive">
                                 <table>
                                     <thead>
@@ -565,7 +888,8 @@
                                             <td>1,10,000</td>
                                         </tr>
                                         <tr>
-                                            <td colspan="2">Hostel Enrollment & Furnishing Fee: Rs.5,000/- (To be paid once)</td>
+                                            <td colspan="2">Hostel Enrollment & Furnishing Fee: Rs.5,000/- (To be paid
+                                                once)</td>
                                             <td>Laundry Charges: Rs.4800/- Per Year</td>
                                         </tr>
                                     </tbody>
@@ -574,7 +898,7 @@
                         </div>
                     </div>
 
-                   
+
                 </div>
 
                 <!-- Right Video Column -->
@@ -582,444 +906,984 @@
                     <div class="video-wrapper">
                         <iframe src="https://www.youtube.com/embed/GYfTrZM7YrA?autoplay=1&mute=1&playlist=GYfTrZM7YrA&loop=1" title="BSC CBZ Program Video" allowfullscreen></iframe>
                     </div> -->
-                   
-                      <div class="note-box">
-                        <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Note:</h4>
-                        <ul style="padding-left: 20px; font-size: 1rem; color: var(--text-gray);">
-                            <li style="margin-bottom: 10px;">These scholarships are available in addition to merit-based scholarships:
-                                <ol style="margin-top: 8px;">
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in 1st year).</li>
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st year).</li>
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
-                                </ol>
-                            </li>
-                            <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand Domicile, Girl Child, etc.) upon approval.</li>
-                        </ul>
-                    </div>
-                     
+
+                <div class="note-box">
+                    <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Note:
+                    </h4>
+                    <ul style="padding-left: 20px; font-size: 1rem; color: var(--text-gray);">
+                        <li style="margin-bottom: 10px;">These scholarships are available in addition to merit-based
+                            scholarships:
+                            <ol style="margin-top: 8px;">
+                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in
+                                    1st year).</li>
+                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st
+                                    year).</li>
+                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak
+                                    College (only in 1st year).</li>
+                            </ol>
+                        </li>
+                        <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand
+                            Domicile, Girl Child, etc.) upon approval.</li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- Kalpana Chawla Section -->
+
+        <!-- Kalpana Chawla Section -->
+
+    <style>
+        /* Section Container */
+        .kc-scholarship-section {
+            position: relative;
+            width: 100%;
+            min-height: 550px;
+            display: flex;
+            align-items: center;
+            background: url('images/KC.avif') no-repeat center center;
+            background-size: cover;
+            padding: 60px 0;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        /* Orange Content Card */
+        .kc-scholarship-card {
+           
+           background-image: linear-gradient(to bottom, #FB7B1C 40%, #fedede59);
+            color: #ffffff;
+            padding: 50px;
+            max-width: 550px;
+            margin-left: auto;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            border-radius: 4px;
+            
+        }
+
+        .kc-scholarship-card h2 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-bottom: 15px;
+            line-height: 1.2;
+            text-transform: none;
+            color: #ffffff;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+        }
+
+        .kc-scholarship-card p {
+            color: #ffffff;
+        }
+
+        .kc-subtitle {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .kc-description {
+            font-size: 0.95rem;
+            line-height: 1.7;
+            margin-bottom: 30px;
+            opacity: 0.95;
+        }
+
+        /* Button Group */
+        .kc-btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        /* White Button with Orange Text */
+        .btn-kc-primary {
+            background-color: #ffffff;
+            color: #FB7B1C;
+            text-decoration: none;
+            padding: 12px 25px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 240px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-kc-primary img {
+            width: 20px;
+        }
+
+        .btn-kc-primary:hover {
+            background-color: #FB7B1C;
+            transform: translateX(5px);
+            color: #ffffff;
+        }
+
+        /* Transparent Outline Button */
+        .btn-kc-outline {
+            background-color: transparent;
+            color: #ffffff;
+            border: 1px solid #ffffff;
+            text-decoration: none;
+            padding: 12px 25px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 240px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-kc-outline:hover {
+            background-color: rgba(255, 255, 255, 0.15);
+            transform: translateX(5px);
+        }
+
+        /* Responsive view for Tablets and Mobile */
+        @media (max-width: 992px) {
+            .kc-scholarship-card {
+                max-width: 450px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .kc-scholarship-section {
+                background-position: 25% center;
+                /* Adjusts background focus for mobile */
+            }
+
+            .kc-scholarship-card {
+                margin: 0 auto;
+                /* Center the box on small screens */
+                padding: 35px 25px;
+                max-width: 90%;
+            }
+
+            .kc-scholarship-card h2 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+
+    <section class="kc-scholarship-section">
+        <div class="container">
+            <!-- Content Box -->
+            <div class="kc-scholarship-card">
+                <h2 >Kalpana Chawla Scholarship</h2>
+                <p class="kc-subtitle">A special opportunity for top-performing 5% students:</p>
+
+                <p class="kc-description">
+                    <strong>Eligibility:</strong> Students who perform the best in a calendar year (top 10% or 20% based
+                    on internal marks) and maintain 75% attendance each year will be awarded scholarships to those
+                    meritorious students. Explore our various BCA scholarships to learn more.
+                </p>
+
+                <div class="kc-btn-group">
+                    <!-- Text color inside this button is now #FB7B1C -->
+                    <a href="https://application.gnc.edu.in/" class="btn-kc-primary">
+                        APPLY NOW
+                        <img src="images/long-arrow-right.png" alt="arrow">
+                    </a>
+                    <a href="upload/pdf/BBA.pdf" class="btn-kc-outline">
+                        DOWNLOAD BROCHURE <span class="arrow">→</span>
+                    </a>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Include Bootstrap JS (Required for the tabs to click/switch) -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Kalpana Chawla Section -->
-   
-   
-<section class="gnc-simple-bento" style="background-color: #ffffff; padding-bottom:20px;">
-    
-
-    <div class="gnc-bento-container">
-        
-       
-        <div class="gnc-bento-item" data-aos="fade-up" data-aos-duration="600" style="background-color: rgb(3 175 255)">
-            <h2 class="gnc-bento-ian">Important Academic Notes</h2>
-            <ul class="gnc-arrow-list ">
-                <li>Examination Fees: External as per the University/Board/ College Norms Payable.</li>
-                <li>Career Development, Recruitment & Entrepreneurship: Ref - Power Degree by Career Buddy Club.</li>
-                <li>Dissertation Charges: Rs.5,000/- (To be paid in final year) Shall be Applicable for selected courses as per the university curriculum.</li>
-                <li>Transportation Fee (Optional): Applicable for transportation to and from Dehradun city & around for day scholars as per distance.</li>
-                <li>Transportation Fee (Optional): Applicable for internship/clinical posting/On-Job Training for both hostellers & day scholars.</li>
-                <li>Package seats are offered for the complete duration of course only.</li>
-            </ul>
-        </div>
-
-        <!-- RIGHT COLUMN STACK -->
-        <div class="right-stack">
-            
-            <!-- RIGHT TOP RECTANGLE: KALPANA CHAWLA -->
-            <div class="gnc-bento-item bg-very-light" data-aos="fade-right" data-aos-duration="800">
-                <h2 class="text-orange">Kalpana Chawla Scholarship</h2>
-                <p><strong>A special opportunity for top-performing 5% students:</strong></p>
-                <p>Eligibility: students, who perform the best in calendar year, 10% or 20% based on the student's internal marks and 75% attendance each year will be awarded scholarship to those meritorious students. Explore our various <a href="https://gnc.edu.in/scholarships.php">BBA scholarships</a>.</p>
-            </div>
-
-            <!-- RIGHT BOTTOM RECTANGLE: ADMISSION PROCEDURE -->
-            <div class="gnc-bento-item bg-light-grey" style="flex: 1;" data-aos="fade-right" data-aos-duration="800">
-                <h3 class="">Admission Procedure</h3>
-                <p>Admission to the BBA program at Guru Nanak College, Dehradun, is primarily based on academic merit. The selection process involves evaluating the candidate's performance in their 10+2 examination, regardless of the stream (Science, Commerce, or Humanities). For details, review our <a href="https://gnc.edu.in/admissions.php">BBA admission Dehradun</a> guidelines.</p>
-                <p>The college may also conduct counseling session to assess the candidates' inclination towards business and management studies.</p>
-                <a href="https://application.gnc.edu.in/" target="_blank" class="gnc-simple-btn">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
-            </div>
-
-        </div>
-
-    </div>
-</section>
-  
-
-  
- <!-- Main BBA Details Section -->
-<section class="gnc-bba-section py-5">
-    <div class="container">
-        <div class="row align-items-center">
-            <!-- LEFT COLUMN: Key Details -->
-            <div class="col-lg-6">
-                <h3 class="highlights-title">BBA Course Details at Guru Nanak College</h3>
-                <p class="text-muted small mb-3">The Bachelor of Business Administration program at Guru Nanak College is a three-year undergraduate degree designed to build strong managerial and entrepreneurial skills.</p>
-                
-                <ul class="scope-list">
-                    <li><i class="fas fa-calendar-alt" style="color:#ff0000;"></i> <b>Course Duration:</b> The program spans three years, divided into six semesters, covering core management subjects and practical training components.</li>
-                    <li><i class="fas fa-graduation-cap" style="color:#ff0000;"></i> <b>Eligibility Criteria:</b>Students who have completed 10+2 from any recognized board can apply. Candidates from Science, Commerce, or Humanities streams are eligible.</li>
-                    <li><i class="fas fa-percentage" style="color:#ff0000;"></i> <b>Minimum required marks:</b> 45% for General and OBC categories, 40% for SC and ST categories.</li>
-                    <li><i class="fas fa-user-check" style="color:#ff0000;"></i><b>Admission Process</b>Admission is based on academic merit. The college may also conduct counseling sessions to evaluate students’ interest in management studies.</li>
+    <!-- DEPARTMENT AT A GLANCE -->
+    <section class="glance-sec">
+        <div class="container px-md-5">
+            <div class="text-center mb-5">
+                <h3 class="text-white fw-bold fs-1">Seminars & Industrial Visits</h3>
+            </div> 
+            <div class="glance-slider">
+                <div class="glance-item">
+                    <img src="upload/infra/bba-3.webp" alt="Industry Oriented Curriculum">
+                    <h4>Hands-on Industrial Visits Bridging Academic Knowledge with Practical Experience</h4>
                     
-                    <li><i class="fas fa-user-check" style="color:#ff0000;"></i> <b>Course Fee:</b>The annual fee for the BBA program is affordable and competitive compared to other BBA colleges in Dehradun, making it accessible to a wide range of students.</li>
-                    <li><i class="fas fa-map-marker-alt" style="color:#ff0000;"></i> <b>Location:</b> Dehradun, Uttarakhand</li>
-                </ul>
-                <a href="#" class="brochure-red-btn mt-3">DOWNLOAD BROCHURE <i class="fas fa-arrow-right ms-2"></i></a>
-            </div>
-
-            <!-- RIGHT COLUMN: Slider -->
-            <div class="col-lg-6 mt-4 mt-lg-0">
-                <div class="slider-wrapper">
-                    <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 3000, "prevNextButtons": false }'>
-                        <div class="carousel-cell">
-                            <img src="upload/infra/seminar_bba_1.webp" alt="bba-classroom-dehradun" class="img-fluid rounded shadow">
-                        </div>
-                        <div class="carousel-cell">
-                            <img src="upload/infra/seminar_bba_2.webp" alt="business-students-presentation" class="img-fluid rounded shadow">
-                        </div>
-                    </div>
+                </div>
+                <div class="glance-item">
+                    <img src="upload/infra/seminar_bba_1.webp" alt="Choice Based Credit System">
+                    <h4>Interactive Seminars and Workshops Led by Industry Experts and Professionals</h4>
+                </div>
+                <div class="glance-item">
+                    <img src="upload/infra/industry-3.png" alt="Project Based Learning">
+                    <h4>Practical Industry Learning Designed to Build Skills for Real Business Environments</h4>
+                </div>
+                <div class="glance-item">
+                    <img src="upload/infra/bba-1.webp" alt="Open Electives">
+                    <h4>Industry-Oriented Learning Through Expert Sessions and Professional Insights</h4>
+                </div>
+                <div class="glance-item">
+                    <img src="upload/infra/bba-2.webp" alt="Premium Placements">
+                    <h4>Enhancing Student Exposure Through Corporate Visits and Real-World Interactions</h4>
                 </div>
             </div>
+            <!-- <div class="topHighlights__numbers d-flex justify-content-between" id="counter-section1">
+                <div class="tpNumbersCard">
+                    <span class="count plusIcon" data-count="21000">0</span>
+                    <p>Publications in National &<br> International Journals</p>
+                </div>
+                <div class="tpNumbersCard">
+                    <span class="count plusIcon" data-count="5300">0</span>
+                    <p>Patents filed by Guru Nanak<br> College Successfully</p>
+                </div>
+                <div class="tpNumbersCard">
+                    <span class="count plusIcon" data-count="200">0</span>
+                    <p>Departmental Research<br> Groups</p>
+                </div>
+                <div class="tpNumbersCard">
+                    <span class="count plusIcon" data-count="15">0</span>
+                    <p>Industry-Collaborated<br> Centres of Excellence</p>
+                </div>
+            </div>             -->
         </div>
+    </section>
 
-        <div class="row mt-5">
-            <!-- LEFT COLUMN: Honor of GNC -->
-            <div class="col-lg-6">
-                <h4 class="laurels-title mb-4">Honor of Guru Nanak College</h4>
-                <div class="row g-3">
-                    <div class="col-6">
-                        <div class="l-card h-100">
-                            <span class="l-rank"><strong>16+</strong></span>
-                            <p class="small mb-0">Years of academic excellence since 2009, delivering quality education.</p>
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="l-card h-100">
-                           <span class="l-rank"><strong>100%</strong></span>
-                            <p class="small mb-0">Placement support through structured training and internships.</p>
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="l-card h-100">
-                             <span class="l-rank"><strong>INDUSTRY</strong></span>
-                           <p class="small mb-0">Industry-aligned curriculum with corporate tie-ups and practical training.</p>
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="l-card h-100">
-                             <span class="l-rank"><strong>NAAC</strong></span>
-                            <p class="small mb-0">Accredited campus ensuring quality standards and modern infrastructure.</p>
-                        </div>
-                    </div>
+    <!-- EXCLUSIVE LABS -->
+    <section class="exclusive-labs">
+        <div class="container">
+            <div class="researchLabs-slider">
+                <div class="researchLabs-item">
+                    <img src="upload/computer-lab.webp" alt="Computer Lab">
+                    <div class="box">
+                        <h3 class="title">Computer Lab</h3>
+                        <p>"The sophisticated computer labs feature up-to-date computers configured with the latest software, providing individual access for every student."</p>    
+                    </div>                        
+                </div>                 
+                <div class="researchLabs-item">
+                    <img src="upload/lib.webp" alt="Grand Libraries">
+                    <div class="box">
+                        <h3 class="title">Grand Libraries</h3>
+                        <p>Guru Nanak College offers a well-equipped library with physical and digital resources supporting academic excellence.</p>    
+                    </div>                        
+                </div>     
+                                 
+                <div class="researchLabs-item">
+                    <img src="upload/infra/3l.webp" alt="Medical Facilities">
+                    <div class="box">
+                        <h3 class="title">Medical Facilities</h3>
+                        <p>Guru Nanak College provides prompt and reliable healthcare for students through partnerships
+                            with top local hospitals.</p>     
+                    </div>                        
                 </div>
+                <div class="researchLabs-item">
+                    <img src="upload/infra/5l.webp" alt="Home-like Hostels">
+                    <div class="box">
+                        <h3 class="title">Home-like Hostels</h3>
+                        <p>Guru Nanak College offers safe and comfortable on-campus hostels for boys and girls, with
+                            single to four-bed occupancy options.</p>
+                    </div>                        
+                </div>  
+                     
+            </div>
+        </div>     
+    </section>
+
+  <section class="gnc-advantages-section">
+    <div class="container">
+        <div class="subHeading text-center mb-5">
+            <h3 class="text-white position-relative">Advantages of BBA at GNC</h3>
+        </div>
+        
+        <div class="gnc-advantages-grid">
+            <!-- Item 01 -->
+            <div class="gnc-advantage-item item-light">
+                <h4>Industry-Oriented & Practical Curriculum</h4>
+                <p>The BBA curriculum is designed in alignment with modern business and industry requirements, covering management principles, marketing strategies, finance, and entrepreneurship to prepare students for real-world challenges.</p>
+                <span class="card-number">01</span>
             </div>
 
-            <!-- RIGHT COLUMN: Advantages -->
-            <div class="col-lg-6 ps-lg-5 mt-5 mt-lg-0">
-                <h2 class="laurels-title mb-4">Why Guru Nanak College is the Best BBA College in Dehradun?</h2>
-                <ul class="adv-list">
-                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i> Guru Nanak College has earned a strong reputation as a top BBA college in Dehradun due to its commitment to academic quality, industry relevance, and career development.</li>
-                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i>The college follows an industry-aligned curriculum that focuses on practical learning rather than theoretical education alone. Students gain real-world exposure through internships, live projects, workshops, and industrial visits.</li>
-                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i> Another key strength is its experienced faculty. The teaching team includes qualified academicians and industry professionals who provide personalized guidance and mentorship.</li>
-                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i>Guru Nanak College also offers strong placement training support. Students receive career counseling, resume development assistance, mock interview preparation, and skill-development training throughout the program.</li>
-                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i> Affordability is another factor that makes it one of the best BBA colleges in Dehradun. The college provides a transparent fee structure along with merit-based scholarships to support deserving students.</li>
-                    <li><i class="fas fa-thumbs-up me-2 text-danger"></i>With a student-centric learning environment and focus on holistic development, Guru Nanak College prepares students to succeed in competitive business environments.</li>
-                </ul>
+            <!-- Item 02 -->
+            <div class="gnc-advantage-item item-dark">
+                <h4>Experienced Faculty & Modern Learning Environment</h4>
+                <p>Students are guided by experienced faculty members with academic and industry expertise, supported by modern classrooms, digital tools, and a collaborative learning environment.</p>
+                <span class="card-number">02</span>
+            </div>
+
+            <!-- Item 03 -->
+            <div class="gnc-advantage-item item-light">
+                <h4>Case Studies & Real Business Exposure</h4>
+                <p>Students learn through real-world case studies, business simulations, and practical assignments that develop analytical thinking and decision-making skills.</p>
+                <span class="card-number">03</span>
+            </div>
+
+            <!-- Item 04 -->
+            <div class="gnc-advantage-item item-dark">
+                <h4>Skill-Based Learning & Leadership Development</h4>
+                <p>The program focuses on communication, leadership, teamwork, and problem-solving skills essential for success in corporate and business environments.</p>
+                <span class="card-number">04</span>
+            </div>
+
+            <!-- Item 05 -->
+            <div class="gnc-advantage-item item-light">
+                <h4>Workshops & Industry Interaction</h4>
+                <p>Regular workshops, guest lectures, and seminars by industry experts help students stay updated with current business trends and practices.</p>
+                <span class="card-number">05</span>
+            </div>
+
+            <!-- Item 06 -->
+            <div class="gnc-advantage-item item-dark">
+                <h4>Internships & Corporate Exposure</h4>
+                <p>Students gain hands-on experience through internships with companies, startups, and corporate organizations to understand real business operations.</p>
+                <span class="card-number">06</span>
+            </div>
+
+            <!-- Item 07 -->
+            <div class="gnc-advantage-item item-light">
+                <h4>Entrepreneurship & Business Development Focus</h4>
+                <p>The program encourages entrepreneurial thinking, helping students develop business ideas, startup strategies, and innovation skills.</p>
+                <span class="card-number">07</span>
+            </div>
+
+            <!-- Item 08 -->
+            <div class="gnc-advantage-item item-dark">
+                <h4>Placement Support & Career Guidance</h4>
+                <p>Dedicated placement support includes resume building, mock interviews, aptitude training, and connections with top recruiters across industries.</p>
+                <span class="card-number">08</span>
             </div>
         </div>
     </div>
 </section>
-
-<!-- INDUSTRIAL VISIT SLIDER SECTION -->
 <style>
-    /* Minimal CSS to ensure images are uniform and large */
-    .carousel-item img {
-        height: 500px; /* Adjust height to make images larger */
-        object-fit: contain;
+    :root {
+        --gnc-orange: rgb(251, 123, 28);
+        --gnc-blue: rgb(0, 31, 103);
     }
-    .carousel-control-prev, .carousel-control-next {
-        width: 5%; /* Keeps controls from overlapping images */
+
+    .gnc-advantages-section {
+        padding: 80px 0;
+        /* Replace image path if needed */
+        background: linear-gradient(rgba(0, 31, 103, 0.8), rgba(0, 31, 103, 0.8)), url('images/bca-adv.JPG');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .gnc-advantages-section .subHeading h3 {
+        font-size: 2.5rem;
+        font-weight: 800;
+        margin-bottom: 50px;
+        color: #fff;
+        text-transform: uppercase;
+    }
+
+    .gnc-advantages-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+    }
+
+    .gnc-advantage-item {
+        position: relative;
+        padding: 40px 25px;
+        border-radius: 8px;
+        height: 320px; /* Uniform height */
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        transition: transform 0.3s ease;
+        z-index: 1;
+    }
+
+    .gnc-advantage-item:hover {
+        transform: translateY(-10px);
+    }
+
+    /* Alternating Light Cards */
+    .item-light {
+        background-color: #fdf4e3;
+        color: #333;
+    }
+
+    /* Alternating Dark Cards (GNC Orange) */
+    .item-dark {
+        background-color: var(--gnc-orange);
+        color: #fff;
+    }
+
+    .gnc-advantage-item h4 {
+        font-size: 1.2rem;
+        font-weight: 700;
+        margin-bottom: 15px;
+        line-height: 1.3;
+        z-index: 2;
+    }
+
+    .gnc-advantage-item p {
+        font-size: 0.9rem;
+        line-height: 1.6;
+        margin: 0;
+        z-index: 2;
+    }
+
+    /* Large Layered Numbers */
+    .card-number {
+        position: absolute;
+        bottom: -10px;
+        left: 10px;
+        font-size: 6rem;
+        font-weight: 900;
+        opacity: 0.15;
+        line-height: 1;
+        z-index: 0;
+        pointer-events: none;
+    }
+
+    .item-light .card-number {
+        color: var(--gnc-blue);
+    }
+
+    .item-dark .card-number {
+        color: #fff;
+    }
+
+    /* Responsive Adjustments */
+    @media (max-width: 1200px) {
+        .gnc-advantages-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    @media (max-width: 768px) {
+        .gnc-advantages-section .subHeading h3 {
+            font-size: 1.8rem;
+        }
+        .gnc-advantages-grid {
+            grid-template-columns: 1fr;
+        }
+        .gnc-advantage-item {
+            height: auto;
+            min-height: 250px;
+        }
+    }
+</style>
+<!-- our blog section -->
+
+  <style>
+    .bba-blog-section {
+        padding: 80px 0;
+        background-color: #fff;
+    }
+    .bba-blog-section .bba-blog-prev:after,
+    .bba-blog-section .bba-blog-next:after {
+        content: '' !important;
+    }
+    .bba-blog-section .bba-blog-next svg,
+    .bba-blog-section .bba-blog-prev svg {
+        width: 24px !important;
+        height: 24px !important;
+    }
+    .bba-blog-section .bba-blog-prev,
+    .bba-blog-section .bba-blog-next {
+        position: relative !important;
+        margin: 0 !important;
+        top: auto !important;
+        left: auto !important;
+        right: auto !important;
+        width: 44px !important;
+        height: 44px !important;
+        border: 1px solid #4f46e5;
+        border-radius: 50%;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+    .bba-blog-section .bba-blog-next:hover,
+    .bba-blog-section .bba-blog-prev:hover {
+        background-color: #4f46e5;
+    }
+    .bba-blog-section .bba-blog-next:hover svg,
+    .bba-blog-section .bba-blog-prev:hover svg {
+        color: #fff !important;
+    }
+    .bba-blog-section .blog-card {
+        border-radius: 16px;
+        overflow: hidden;
+        transition: all 0.3s ease;
+        margin-bottom: 20px;
+    }
+    .bba-blog-section .blog-card img {
+        width: 100%;
+        height: 240px;
+        object-fit: contain;
+        border-radius: 16px;
+        margin-bottom: 24px;
+    }
+    .bba-blog-section .blog-card h3 {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #111827;
+        margin-bottom: 16px;
+        line-height: 1.5;
+        transition: color 0.3s ease;
+    }
+    .bba-blog-section .blog-card:hover h3 {
+        color: #4f46e5;
+    }
+    .bba-blog-section .blog-card p {
+        color: #6b7280;
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 24px;
+    }
+    .bba-blog-section .blog-card .read-more {
+        color: #4338ca;
+        font-weight: 600;
+        font-size: 1.125rem;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        text-decoration: none;
+    }
+    .bba-blog-section .section-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #111827;
+        line-height: 1.2;
+        margin-bottom: 20px;
+    }
+    .bba-blog-section .section-title span {
+        color: #4f46e5;
+    }
+    .bba-blog-section .section-desc {
+        color: #6b7280;
+        margin-bottom: 40px;
+    }
+    .bba-blog-section .view-all-btn {
+        padding: 14px 28px;
+        border: 1px solid #d1d5db;
+        border-radius: 9999px;
+        color: #111827;
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-block;
+        transition: all 0.3s ease;
+    }
+    .bba-blog-section .view-all-btn:hover {
+        background-color: #f3f4f6;
+    }
+    .bba-blog-section .slider-controls {
+        display: flex;
+        gap: 16px;
+        margin-top: 32px;
     }
 </style>
 
-<section class="py-5 bg-light">
+<section class="bba-blog-section">
     <div class="container">
-        <h2 class="text-center fw-bold mb-5">Industrial Visit</h2>
-
-        <div id="industryCarousel" class="carousel slide" data-bs-ride="carousel">
-            <!-- Indicators/Dots -->
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#industryCarousel" data-bs-slide-to="0" class="active" aria-current="true"></button>
-                <button type="button" data-bs-target="#industryCarousel" data-bs-slide-to="1"></button>
-                <button type="button" data-bs-target="#industryCarousel" data-bs-slide-to="2"></button>
-                <button type="button" data-bs-target="#industryCarousel" data-bs-slide-to="3"></button>
-            </div>
-
-            <div class="carousel-inner shadow rounded bg-white">
-                <!-- Slide 1 -->
-                <div class="carousel-item active">
-                    <div class="row g-0">
-                        <div class="col-12 col-md-6">
-                            <img src="upload/infra/industry-2.png" class="w-100" alt="placement-training-gnc">
-                        </div>
-                        <div class="col-md-6 d-none d-md-block border-start border-white border-4">
-                            <img src="upload/infra/industry-6.png" class="w-100" alt="Industry 2">
-                        </div>
-                    </div>
+        <div class="row align-items-stretch">
+            <div class="col-lg-5 d-flex flex-column justify-content-between mb-5 mb-lg-0">
+                <div class="text-center text-lg-start">
+                    <h2 class="section-title">Our latest <span>blogs</span></h2>
+                    <p class="section-desc">Welcome to our blog section, where knowledge meets inspiration. Explore insightful articles, expert tips, and the latest trends in our field.</p>
+                    <a href="blog.php" class="view-all-btn">View All</a>
                 </div>
-
-                <!-- Slide 2 -->
-                <div class="carousel-item">
-                    <div class="row g-0">
-                        <div class="col-12 col-md-6">
-                            <img src="upload/infra/industry-3.png" class="w-100" alt="Industry 3">
-                        </div>
-                        <div class="col-md-6 d-none d-md-block border-start border-white border-4">
-                            <img src="upload/infra/industry-4.png" class="w-100" alt="Industry 4">
-                        </div>
+                <div class="slider-controls justify-content-center justify-content-lg-start">
+                    <div class="bba-blog-prev">
+                        <svg style="color: #4f46e5;" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M20.9999 12L4.99992 12M9.99992 6L4.70703 11.2929C4.3737 11.6262 4.20703 11.7929 4.20703 12C4.20703 12.2071 4.3737 12.3738 4.70703 12.7071L9.99992 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
                     </div>
-                </div>
-
-                <!-- Slide 3 -->
-                <div class="carousel-item">
-                    <div class="row g-0">
-                        <div class="col-12 col-md-6">
-                            <img src="upload/infra/industry-5.png" class="w-100" alt="Industry 5">
-                        </div>
-                        <div class="col-md-6 d-none d-md-block border-start border-white border-4">
-                            <img src="upload/infra/industry-6.png" class="w-100" alt="Industry 6">
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Slide 4 -->
-                <div class="carousel-item">
-                    <div class="row g-0">
-                        <div class="col-12 col-md-6">
-                            <img src="upload/infra/industry-3.png" class="w-100" alt="Industry 7">
-                        </div>
-                        <div class="col-md-6 d-none d-md-block border-start border-white border-4">
-                            <img src="upload/infra/industry-8.png" class="w-100" alt="Industry 8">
-                        </div>
+                    <div class="bba-blog-next">
+                        <svg style="color: #4f46e5;" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3 12L19 12M14 18L19.2929 12.7071C19.6262 12.3738 19.7929 12.2071 19.7929 12C19.7929 11.7929 19.6262 11.6262 19.2929 11.2929L14 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
                     </div>
                 </div>
             </div>
-  
-            <!-- Left and Right Controls-->
-            <button class="carousel-control-prev" type="button" data-bs-target="#industryCarousel" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon bg-dark rounded-circle p-3" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#industryCarousel" data-bs-slide="next">
-                <span class="carousel-control-next-icon bg-dark rounded-circle p-3" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
+            <div class="col-lg-7">
+                <div class="swiper bbaBlogSwiper">
+                    <div class="swiper-wrapper">
+                        <?php
+                        require_once "blog.php";
+                        $bba_blogs = array_filter($posts, function($post) {
+                            return in_array('BBA', $post['tags']);
+                        });
+                        foreach ($bba_blogs as $post):
+                            $link = $post['url'] . ".php";
+                        ?>
+                        <div class="swiper-slide">
+                            <div class="blog-card">
+                                <img src="<?= $post['image'] ?>" alt="<?= $post['title'] ?>">
+                                <h3><?= $post['title'] ?></h3>
+                                <p><?= substr(strip_tags($post['excerpt']), 0, 120) ?>...</p>
+                                <a href="<?= $link ?>" class="read-more">
+                                    Read more
+                                    <svg width="15" height="12" viewBox="0 0 15 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M1.25 6L13.25 6M9.5 10.5L13.4697 6.53033C13.7197 6.28033 13.8447 6.15533 13.8447 6C13.8447 5.84467 13.7197 5.71967 13.4697 5.46967L9.5 1.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                        <?php endforeach; ?>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
- 
-<!-- INTEGRATED SECTION START -->
-     <section class="acp-section">
-    <div class="container">
-        <div class="row">
-            <!-- 1. Students Image & Color Bar -->
-            <div class="col-lg-4 student-image-col">
-                <div class="red-vertical-bar"></div>
-                <img src="upload/infra/student-1.webp" alt="GNC BBA Students" class="student-img-cutout">
+
+<section class="gnc-faq-assistance">
+  <div class="gnc-container">
+    <div class="gnc-row">
+
+      <div class="gnc-col-assist">
+        <div class="assist-box">
+          <div class="assist-badge">Support</div>
+          <h4>Need Assistance?</h4>
+          <p>Have questions about BBA admission, fees, or career opportunities? Our team is here to help you.</p>
+
+          <ul class="assist-list">
+            <li><span class="check">✔</span> Admission Guidance</li>
+            <li><span class="check">✔</span> Course & Fee Details</li>
+            <li><span class="check">✔</span> Career Counseling</li>
+            <li><span class="check">✔</span> Scholarship Support</li>
+          </ul>
+
+          <a href="https://application.gnc.edu.in/" target="_blank" class="assist-btn">Apply Now &rarr;</a>
+        </div>
+      </div>
+
+      <div class="gnc-col-faq">
+        <h3 class="faq-main-title">BBA Frequently Asked Questions</h3>
+
+        <div class="faq-wrapper">
+          <div class="faq-item">
+            <button class="faq-question">
+              What is the duration of the BBA course?
+              <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-answer">
+              <p>The BBA program is a 3-year undergraduate course divided into six semesters, designed to provide a strong foundation in business management.</p>
             </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              What is the eligibility for BBA admission?
+              <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-answer">
+              <p>Students must have completed 10+2 from any recognized board (CBSE, ICSE, or State Board) with the minimum required marks as per university norms.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              Does the college provide placement support?
+              <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-answer">
+              <p>Yes, Guru Nanak College provides dedicated placement training, including soft skills development, mock interviews, and direct connections with top industrial recruiters.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              Are internships included in the BBA program?
+              <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-answer">
+              <p>Absolutely. Internships are a core part of the curriculum, ensuring students gain real-world business experience and industry exposure before graduating.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              What career options are available after BBA?
+              <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-answer">
+              <p>Graduates can explore diverse roles in Marketing, HR, Finance, and Operations, or choose to pursue higher studies like an MBA or PGDM.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<style>
+/* Modern Scoped Styles */
+.gnc-faq-assistance {
+  background: #fdfdfd;
+  padding: 80px 20px;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+.gnc-container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.gnc-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+/* Sidebar Styling */
+.gnc-col-assist {
+  flex: 1;
+  min-width: 300px;
+}
+
+.assist-box {
+  background: #FB7B1C; /* Brand Orange */
+  color: #fff;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(251, 123, 28, 0.2);
+  position: sticky;
+  top: 20px;
+}
+
+.assist-badge {
+  background: rgba(255, 255, 255, 0.2);
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 50px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.assist-box h4 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.assist-box p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+.assist-list {
+  list-style: none;
+  padding: 0;
+  margin: 25px 0;
+}
+
+.assist-list li {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  font-size: 0.95rem;
+}
+
+.check {
+  margin-right: 10px;
+  background: rgba(255, 255, 255, 0.25);
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 0.7rem;
+}
+
+.assist-btn {
+  display: block;
+  text-align: center;
+  background: #fff;
+  color: #FB7B1C;
+  padding: 15px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 700;
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.assist-btn:hover {
+  transform: translateY(-5px);
+  background: #f8f8f8;
+}
+
+/* FAQ Styling */
+.gnc-col-faq {
+  flex: 2;
+  min-width: 320px;
+}
+
+.faq-main-title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #1a1a1a;
+  margin-bottom: 30px;
+}
+
+.faq-item {
+  background: #fff;
+  border: 1px solid #eaeaea;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  transition: all 0.3s ease;
+}
+
+.faq-item:hover {
+  border-color: #FB7B1C;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.03);
+}
+
+.faq-question {
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  padding: 20px 25px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #333;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  outline: none;
+}
+
+.faq-icon {
+  font-size: 1.5rem;
+  color: #FB7B1C;
+  transition: transform 0.3s ease;
+}
+
+.faq-item.active .faq-icon {
+  transform: rotate(45deg);
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s cubic-bezier(0, 1, 0, 1);
+  padding: 0 25px;
+}
+
+.faq-item.active .faq-answer {
+  max-height: 1000px;
+  transition: max-height 0.4s cubic-bezier(1, 0, 1, 0);
+  padding-bottom: 25px;
+}
+
+.faq-answer p {
+  color: #666;
+  line-height: 1.7;
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* Responsive */
+@media (max-width: 991px) {
+  .gnc-row { flex-direction: column; }
+  .assist-box { position: static; }
+}
+</style>
+<?php require "common/footer.php"; ?>
+<script>
+document.querySelectorAll('.faq-question').forEach(button => {
+  button.addEventListener('click', () => {
+    const faqItem = button.parentElement;
     
-            <!-- 2. Career Opportunities (Middle) -->
-            <div class="col-lg-5 ps-lg-4 acp-text-padding acp-content-col" style="padding-left: 3.5rem !important;">
-                <h3>Career Opportunities in <br>Business Administration (BBA)</h3>
-                <p>After completing the BBA program from Guru Nanak College, graduates can explore a variety of career paths across industries. They are well-equipped for Common Career Roles such as Management Trainee, Marketing Executive, Sales or Business Development Executive, Human Resource Executive, and Operations Coordinator.</p>
-                
-                <p>Furthermore, graduates have strong Higher Education Pathways available to them, including pursuing an MBA (Master of Business Administration), PGDM or other specialized management programs. This degree also provides a solid foundation for those interested in Entrepreneurship and startup-focused programs.</p>
-            </div>
+    // Toggle active class
+    faqItem.classList.toggle('active');
+    
+    // Optional: Close other FAQs when one opens
+    /*
+    document.querySelectorAll('.faq-item').forEach(item => {
+      if (item !== faqItem) item.classList.remove('active');
+    });
+    */
+  });
+});
+</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.glance-slider').flickity({
+            pageDots: false,
+            autoPlay: true,
+            draggable: true,
+            contain: true,
+            prevNextButtons: true,
+            arrowShape: { 
+              x0: 10,
+              x1: 60, y1: 50,
+              x2: 65, y2: 45,
+              x3: 20
+            }      
+        }); 
 
-            <!-- 3. Key Career Fields (Right) -->
-            <div class="col-lg-3 salient-features-col" style="padding-bottom: 2rem;">
-                <h6 class="fw-bold mb-4" style="font-size: 1rem;">Career Scope After BBA</h6>
-                <p>A BBA degree opens doors to numerous career opportunities across industries. Graduates from top BBA colleges in Dehradun can explore roles such as:</p>
-                <ul class="feature-list">
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Management Trainee</b></div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Marketing Executive</b></div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Human Resource Executive</b></div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Business Development Executive</b></div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Operations Coordinator</b></div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Financial Analyst</b></div>
-                    </li>
-                </ul>
-                <p>Students can also pursue higher education options such as MBA, PGDM, or specialized management programs to advance their careers.</p>
-                <p>Entrepreneurship is another promising pathway for BBA graduates who wish to start their own ventures.</p>
-            </div>
-        </div>
-    </div>
-</section>
-    <!-- BLUE BANNER SECTION: WHY JOIN GNC BMRIT -->
-   <section class="why-join-blue">
-    <div class="container">
-        <div class="row">
+        function animateCounter(element, start, end, duration) {
+            let current = start;
+            const increment = (end - start) / (duration / 50);
+            const interval = setInterval(() => {
+                current += increment;
+                if (current >= end) {
+                    clearInterval(interval);
+                    current = end;
+                }
+                element.textContent = Math.floor(current);
+            }, 50);
+        }
 
-            <div class="col-lg-8">
-                <div class="why-join-content">
-                    <h2>Why Choose BBA in Dehradun?</h2>
-                    <p>Dehradun has rapidly emerged as one of India’s most popular education hubs, attracting students from across the country. Pursuing a BBA from a reputed BBA college in Dehradun offers several advantages.</p>
+        function observeCountersInSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            if (!section) return;
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const counters = entry.target.querySelectorAll('.count');
+                        counters.forEach(counter => {
+                            if (!counter.classList.contains('animated')) {
+                                const endValue = parseInt(counter.getAttribute('data-count'), 10); 
+                                animateCounter(counter, 0, endValue, 2000); 
+                                counter.classList.add('animated');
+                            }
+                        });
+                    }
+                });
+            }, { threshold: 0.5 });
+            observer.observe(section);
+        }
+        observeCountersInSection('counter-section1');
 
-                    <ul class="check-list-white">
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">One of the biggest benefits is the city’s growing corporate exposure. Dehradun hosts numerous companies, startups, and industrial hubs, providing students with internship opportunities and real-world business insights.</p>
-                            </div>
-                        </li>
+        $('.researchLabs-slider').flickity({
+            cellAlign: 'left',
+            pageDots: false,
+            autoPlay: true,
+            draggable: true,
+            wrapAround: true,
+            freeScroll: true,
+            contain: true,
+            prevNextButtons: true
+        });
 
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">Another major advantage is affordability. Compared to metro cities, pursuing a BBA course in Dehradun is more cost-effective while still offering high-quality education, modern facilities, and excellent faculty support.</p>
-                            </div>
-                        </li>
-
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">The city also provides a safe and student-friendly environment, making it ideal for outstation students. Additionally, Dehradun’s proximity to major business centers such as Delhi NCR enhances career opportunities for management students.</p>
-                            </div>
-                        </li>
-
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">These factors make the city a preferred destination for students looking for the best BBA college in Dehradun.</p>
-                            </div>
-                        </li>
-
-                        
-                    </ul>
-                   
-
-                    <a href="https://application.gnc.edu.in/" target="_blank" class="btn-apply-white">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-  <!-- FAQ SECTION -->
-
-  <section class="faq-section py-5">
-    <div class="container">
-        <h2 class="mb-4">Frequently Asked Questions – <a href="admissions.php">BBA Admission Dehradun</a></h2>
-        <div class="accordion" id="accordionBBA">
-            <!-- FAQ 1 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        <strong>Q1. Which is the best BBA college in Dehradun?</strong>
-                    </button>
-                </h2>
-                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionBBA">
-                    <div class="accordion-body">
-                       Guru Nanak College is widely recognized for its industry-focused curriculum, affordable fees, and strong placement support.
-                    </div>
-                </div>
-            </div>
-
-            <!-- FAQ 2 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        <strong>Q2. What is the eligibility for BBA admission in Dehradun?</strong>
-                    </button>
-                </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionBBA">
-                    <div class="accordion-body">
-                       Students must have completed 10+2 from a recognized board with minimum required marks.
-                    </div>
-                </div>
-            </div>
-
-            <!-- FAQ 3 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        <strong>Q3. What is the duration of the BBA course?</strong>
-                    </button>
-                </h2>
-                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionBBA">
-                    <div class="accordion-body">
-                       The BBA program is a three-year undergraduate degree.
-                    </div>
-                </div>
-            </div>
-
-            <!-- FAQ 4 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingFour">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                        <strong>Q4. What career opportunities are available after BBA?</strong>
-                    </button>
-                </h2>
-                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionBBA">
-                    <div class="accordion-body">
-                       Graduates can pursue careers in marketing, HR, finance, operations, or continue with MBA studies.
-                    </div>
-                </div>
-            </div>
-
-            <!-- FAQ 5 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingFive">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                        <strong>Q5. Is BBA a good career option?</strong>
-                    </button>
-                </h2>
-                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionBBA">
-                    <div class="accordion-body">
-                        Yes, BBA provides a strong foundation for management careers and entrepreneurship opportunities.
-                    </div>
-                </div>
-            </div>
-
-            <!-- FAQ 6 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingSix">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                        <strong>Q6. What is the fee structure for BBA in Dehradun?</strong>
-                    </button>
-                </h2>
-                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionBBA">
-                    <div class="accordion-body">
-                        Guru Nanak College offers one of the most affordable fee structures among BBA colleges in Dehradun.
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-   
-    <!-- INTEGRATED SECTION END -->
-    <?php require "application-process.php"; ?>
-    <?php require "testimoni-2.php"; ?>
-    <?php require "common/footer.php"; ?>
-
-
-
+        var swiper = new Swiper(".bbaBlogSwiper", {
+            slidesPerView: 2,
+            spaceBetween: 30,
+            loop: true,
+            navigation: {
+                nextEl: ".bba-blog-next",
+                prevEl: ".bba-blog-prev",
+            },
+        });
+    });
+</script>
 </body>
 </html>

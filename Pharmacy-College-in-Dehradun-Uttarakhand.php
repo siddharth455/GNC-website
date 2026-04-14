@@ -3,15 +3,15 @@
 
 <head>
   <link rel="icon" type="image/webp" href="images/logog.webp">
-<title>Best Pharmacy Colleges in Dehradun & Uttarakhand 2026 | Guru Nanak College</title>
+<title>Guru Nanak College - Best Pharmacy College in Dehradun, Uttarakhand</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Guru Nanak College ranks among the best pharmacy colleges in Dehradun and Uttarakhand, offering B.Pharm & D.Pharm with modern labs and placements. Admissions open for 2026.">
+<meta name="description" content="Guru Nanak College is the best pharmacy college in Dehradun, Uttarakhand, offers B.Pharm, D.Pharm, Lateral Entry B.Pharm programs approved by PCI & AICTE, affiliated with HNBGU, with 100% placement support."/>
 <link rel="canonical" href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
-<meta name="keywords" content="Best Pharmacy College in Dehradun, Best Pharmacy College in Uttarakhand">
+<meta name="keywords" content="Best Pharmacy College in Dehradun, Pharmacy College in Uttarakhand" />
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Best Pharmacy College in Dehradun, Uttarakhand | Guru Nanak College">
-<meta property="og:description" content="Guru Nanak College is among the best pharmacy colleges in Dehradun and Uttarakhand offering B.Pharm & D.Pharm with modern labs and placements.">
+<meta property="og:description" content="Guru Nanak College is the best pharmacy college in Dehradun, Uttarakhand, offers B.Pharm, D.Pharm, Lateral Entry B.Pharm programs approved by PCI & AICTE, affiliated with HNBGU, with 100% placement support.">
 <meta property="og:url" content="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
 <meta property="og:site_name" content="GNC Dehradun">
 <meta property="og:image" content="https://www.gnc.edu.in/assets/images/pharmacy-campus.jpg">
@@ -27,6 +27,11 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+    
+
+
+
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -366,8 +371,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-<section class="campus-placement-section">
-    <!-- LEFT PANEL: Info & Recruiter Bar -->
+<!-- <section class="campus-placement-section">
+    
     <div class="panel-left" data-aos="fade-right" data-aos-duration="600">
         <div class="panel-content-top">
             <span class="category-label">Campus Placements</span>
@@ -376,12 +381,12 @@
                 Our dedicated career advisory and placement team provides comprehensive career counselling to identify the unique and distinctive goals of our pharmacy graduates.
             </p>
             
-            <!-- Arrow Button -->
+            
             <a href="#" class="btn-circle-arrow">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </a>
 
-            <!-- Stats Grid -->
+           
             <div class="stats-row">
                 <div class="stat-unit">
                     <span class="stat-val">460</span>
@@ -393,10 +398,10 @@
                     <span class="stat-desc">drives hosted on<br>campus</span>
                 </div>
             </div>
-        </div>
+        </div> -->
 
-        <!-- Recruiter Bar with Dividers -->
-        <div class="recruiter-logobar">
+        
+        <!-- <div class="recruiter-logobar">
             <div class="swiper recruiterLogoSwiper">
                 <div class="swiper-wrapper">
                     <?php for ($i = 1; $i <= 31; $i++) : ?>
@@ -407,14 +412,14 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
-    <!-- RIGHT PANEL: Testimonial Sidebar -->
-    <aside class="panel-right" data-aos="fade-left" data-aos-duration="600">
+   
+    <!-- <aside class="panel-right" data-aos="fade-left" data-aos-duration="600">
         <div class="swiper testimonialSwiper">
-            <div class="swiper-wrapper">
-                <!-- Slide 1 -->
-                <div class="swiper-slide">
+            <div class="swiper-wrapper"> -->
+                
+                <!-- <div class="swiper-slide">
                     <div class="testi-wrap">
                         <div class="quote-symbol">“</div>
                         <p class="quote-text">A heartfelt thank you to Guru Nanak College and the pharmacy team for their invaluable support in my placement journey. The guidance was exceptional. ⊕</p>
@@ -423,9 +428,9 @@
                             <p>Alumni Name: <strong>Deepakshi</strong></p>
                             <p>Course: <strong>B.Pharm</strong></p>
                             <p>Batch: <strong>2022-24</strong></p>
-                        </div>
+                        </div> -->
                         
-                        <div class="hired-at">
+                        <!-- <div class="hired-at">
                             <img src="upload/31.webp" alt="KPMG">
                         </div>
 
@@ -433,9 +438,9 @@
                             <img src="upload/infra/testi-1.webp" alt="Deepakshi">
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Slide 2 -->
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <div class="testi-wrap">
                         <div class="quote-symbol">“</div>
                         <p class="quote-text">The placement cell worked tirelessly to ensure we got opportunities in top pharmaceutical companies. Grateful for the industry mentorship. ⊕</p>
@@ -444,9 +449,9 @@
                             <p>Alumni Name: <strong>Rahul Singh</strong></p>
                             <p>Course: <strong>D.Pharm</strong></p>
                             <p>Batch: <strong>2021-23</strong></p>
-                        </div>
+                        </div> -->
 
-                        <div class="hired-at">
+                        <!-- <div class="hired-at">
                             <img src="upload/35.webp" alt="Logo">
                         </div>
 
@@ -455,22 +460,22 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
-            <!-- Navigation -->
-            <div class="testi-nav">
+           
+            <!-- <div class="testi-nav">
                 <button class="nav-prev"><span></span></button>
                 <button class="nav-next"><span></span></button>
             </div>
-        </div>
+        </div> -->
 
-        <!-- Vertical Tab -->
-        <div class="vertical-tab-enquiry">Admission Enquiry</div>
+        
+        <!-- <div class="vertical-tab-enquiry">Admission Enquiry</div>
     </aside>
-</section>
+</section>  -->
 
 <style>
-    /* Exact Colors & Fonts */
+    
     :root {
         --blue-bg: #003b5c;
         --gold-bg: #c1b272;
@@ -485,7 +490,7 @@
         overflow: hidden;
     }
 
-    /* LEFT PANEL STYLES */
+    
     .panel-left {
         flex: 1.8;
         background: linear-gradient(rgba(0, 59, 92, 0.85), rgba(0, 59, 92, 0.85)), 
@@ -515,7 +520,7 @@
     .stat-desc { font-size: 0.9rem; line-height: 1.2; text-transform: lowercase; }
     .stat-sep { width: 1px; height: 70px; background: rgba(255,255,255,0.4); }
 
-    /* LOGO BAR STYLES */
+   
     .recruiter-logobar {
         background: rgba(0,0,0,0.25);
         padding: 30px 0;
@@ -529,7 +534,7 @@
     .recruiter-item img { max-height: 35px; filter: brightness(0) invert(1); opacity: 0.85; transition: 0.3s; }
     .recruiter-item:hover img { opacity: 1; }
 
-    /* RIGHT PANEL STYLES (GOLD) */
+   
     .panel-right {
         flex: 1;
         background-color: var(--gold-bg);
@@ -560,7 +565,7 @@
     .nav-prev::before { content: '‹'; font-size: 2rem; }
     .nav-next::before { content: '›'; font-size: 2rem; }
 
-    /* ENQUIRY TAB */
+   
     .vertical-tab-enquiry {
         position: absolute; right: 0; top: 50%;
         transform: rotate(-90deg) translateX(50%);
@@ -579,39 +584,6 @@
     }
 </style>
 
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        // Logo Slider
-        new Swiper(".recruiterLogoSwiper", {
-            slidesPerView: 2,
-            spaceBetween: 0,
-            loop: true,
-            autoplay: { delay: 3000 },
-            breakpoints: {
-                768: { slidesPerView: 3 },
-                1024: { slidesPerView: 5 }
-            }
-        });
-
-        // Testimonial Fade Slider
-        new Swiper(".testimonialSwiper", {
-            effect: "fade",
-            fadeEffect: { crossFade: true },
-            loop: true,
-            navigation: {
-                nextEl: ".nav-next",
-                prevEl: ".nav-prev",
-            },
-        });
-    });
-</script>
-   
-
-
-
-
-
-   <!-- GNC Edge Advantage - Pharmacy Updated -->
 <section class="section-padding bg-light" id="edge">
     <div class="container">
         <div class="text-center mb-5" data-aos="fade-up" data-aos-duration="600">
@@ -714,7 +686,7 @@
     </div>
 </section>
    
-<!-- Programs Section -->
+
 
 <!-- Program Sections -->
 <section class="section-padding" id="courses">
@@ -1243,15 +1215,15 @@
         }
 
         // 2. Testimonial Slider (Fade Effect)
-        if ($('.testimonialSlider').length) {
-            new Swiper(".testimonialSlider", {
+        if ($('.testimonialSwiper').length) {
+            new Swiper(".testimonialSwiper", {
                 effect: "fade",
                 fadeEffect: { crossFade: true },
                 loop: true,
                 autoplay: { delay: 5000 },
                 navigation: {
-                    nextEl: ".next-testi",
-                    prevEl: ".prev-testi",
+                    nextEl: ".nav-next",
+                    prevEl: ".nav-prev",
                 },
             });
         }

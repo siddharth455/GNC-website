@@ -2,9 +2,9 @@
 <html>
 
 <head>
-  <title>Guru Nanak College – Best Pharmacy & Nursing College in Dehradun</title>
-  <meta name="description" content="Guru Nanak College (GNC), Dehradun's best educational institute, dedicated to
-excellence in academics and holistic development.">
+ <title>Guru Nanak College - Best College in Dehradun, Uttarakhand</title>
+  <meta name="description" content="Guru Nanak College is the best college in Dehradun, Uttarakhand, offers Nursing, Pharmacy, Paramedical, Agriculture, BCA, BBA, B.Tech, Life Sciences, Hotel Management, diploma programs & more." />
+  <meta name="keywords" content="Best College in Dehradun, Guru Nanak College Dehradun" />
   <link rel="canonical" href="https://gnc.edu.in/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/webp" href="images/logog.webp">
@@ -22,6 +22,11 @@ excellence in academics and holistic development." />
   <meta property="og:image:height" content="256" />
   <meta property="og:image:type" content="image/webp" />
   <meta name="google-site-verification" content="4oZQLwduQZa07Iq8KyESZJZJnyU7AlZMqXf7u3HqhTA" />
+
+
+
+
+
  
 </head>
 
@@ -2004,6 +2009,7 @@ excellence in academics and holistic development." />
                   <div class="menu-programs-list__graduates">
                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
                       <li><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Computer Applications (BCA)</a></li>
+                      <li><a href="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand" class="program-link">B.Tech Computer Science</a></li>
                     </ul>
                   </div>
                 </div>
@@ -2207,6 +2213,7 @@ excellence in academics and holistic development." />
                 <div class="menu-programs-list__graduates">
                   <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
                     <li><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Computer Applications (BCA)</a></li>
+                     <li><a href="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand" class="program-link">B.Tech Computer Science </a></li>
                   </ul>
                 </div>
               </div>
@@ -2757,42 +2764,29 @@ document.addEventListener("DOMContentLoaded", () => {
   </section>
   <?php require "research-sample.php"; ?>
   <?php
-/* =========================================
-   MANUAL BLOG DATA (EDIT ONLY THIS SECTION)
-   Latest blog FIRST
-========================================= */
-$blogs = [
-  [
-    "title" => "Top Paramedical Courses After 12th in India | GNC Dehradun",
-    "date"  => "20 August 2025",
-    "image" => "upload/blog/1.webp",
-    "link"  => "Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun.php"
-  ],
-  [
-    "title" => "Top 5 BCA Colleges in Dehradun in 2025 – Courses, Fees, Eligibility & Placements",
-    "date"  => "21 July 2025",
-    "image" => "upload/blog/2.webp",
-    "link"  => "top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php"
-  ],
-  [
-    "title" => "Top 5 BPT Colleges in Dehradun – Your Ultimate Guide by GNC College Dehradun",
-    "date"  => "30 June 2025",
-    "image" => "upload/blog/3.webp",
-    "link"  => "top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php"
-  ],
-  [
-    "title" => "Guru Nanak College Receives INC Approval for B.Sc. Nursing Program",
-    "date"  => "09 June 2025",
-    "image" => "upload/blog/6.webp",
-    "link"  => "guru-nanak-college-receives-inc-approval-for-b-sc-nursing-program.php"
-  ],
-  [
-    "title" => "Top 5 Nursing Colleges in Dehradun",
-    "date"  => "27 June 2025",
-    "image" => "upload/blog/4.webp",
-    "link"  => "top-5-nursing-colleges-in-dehradun.php"
-  ]
-];
+// Latest Blogs pulled from `blog.php` (data only). No UI change in this section.
+require_once __DIR__ . "/blog.php";
+
+$blogs = [];
+$latest = array_slice($posts, 0, 5); // `blog.php` already sorts newest first
+
+foreach ($latest as $p) {
+  $date = $p["date"] ?? "";
+  $dateFormatted = $date;
+  if (!empty($date)) {
+    $ts = strtotime($date);
+    if ($ts !== false) {
+      $dateFormatted = date("d F Y", $ts); // e.g. 20 August 2025
+    }
+  }
+
+  $blogs[] = [
+    "title" => $p["title"] ?? "",
+    "date" => $dateFormatted,
+    "image" => $p["image"] ?? "",
+    "link" => !empty($p["url"]) ? urlencode($p["url"]) . ".php" : ""
+  ];
+}
 ?>
 
 <section class="mdublog-section">
@@ -2923,9 +2917,10 @@ $blogs = [
 }
 
 .mdublog-featured-img {
-  height: 346px;
-  background-size: cover;
-  background-position: center;
+   height: 348px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .mdublog-featured-content {
   padding: 20px;
@@ -2944,6 +2939,13 @@ $blogs = [
     width: 48%;
     height: auto;
   }
+
+  .mdublog-img{
+    height: 160px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 }
 </style>
 
@@ -2961,7 +2963,7 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
   <?php require "testimoni-2.php"; ?>
-  <?php require "application-process.php"; ?>
+ <?php require "application-process.php"; ?>
   <?php require "common/footer.php"; ?>
   <script>
     jQuery(document).ready(function($) {

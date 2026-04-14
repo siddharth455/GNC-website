@@ -1,6 +1,39 @@
 [
+    
     {
         "id": 1,
+        "slug": "world-optometry-day-2026",
+        "title": "World Optometry Day 2026",
+        "date": "2026 March 26",
+        "image": "upload/gnc-events/World-opto/image-3.jpeg",
+        "shortDescription": "World Optometry Day 2026 at Guru Nanak College featured an insightful session by Dr. Pooja Sharma, along with student presentations, poster displays, a quiz competition, and cultural performances.",
+        "fullDescription": "World Optometry Day 2026 at Guru Nanak College was celebrated with an engaging and insightful session led by Dr. Pooja Sharma, HoD Optometry at Amritsar Eye Clinic and Fellow in Contact Lens from LV Prasad Eye Institute, Hyderabad, with over 10 years of experience. The event featured student presentations, poster showcases, an interactive quiz competition, and vibrant cultural performances, making it a perfect blend of learning and celebration.",
+        "gallery": [
+            "upload/gnc-events/World-opto/image-1.jpeg",
+            "upload/gnc-events/World-opto/image-2.jpeg",
+            "upload/gnc-events/World-opto/image-3.jpeg",
+            "upload/gnc-events/World-opto/image-4.jpeg",
+            "upload/gnc-events/World-opto/image-5.jpeg",
+            "upload/gnc-events/World-opto/image-6.jpeg",
+            "upload/gnc-events/World-opto/image-7.jpeg",
+            "upload/gnc-events/World-opto/image-8.jpeg",
+            "upload/gnc-events/World-opto/image-10.jpeg",
+            "upload/gnc-events/World-opto/image-11.jpeg",
+            "upload/gnc-events/World-opto/image-12.jpeg",   
+            "upload/gnc-events/World-opto/image-13.jpeg",
+            "upload/gnc-events/World-opto/image-14.jpeg",
+            "upload/gnc-events/World-opto/image-15.jpeg",
+            "upload/gnc-events/World-opto/image-16.jpeg",
+            "upload/gnc-events/World-opto/image-17.jpeg",
+            "upload/gnc-events/World-opto/image-18.jpeg",
+            "upload/gnc-events/World-opto/image-19.jpeg"
+        ]
+    },
+    
+    
+    
+    {
+        "id": 2,
         "slug": "vidya-abhyaas-3",
         "title": "Vidya Abhyaas–III",
         "date": "2026 February 02 - 2026 February 07",
@@ -19,23 +52,7 @@
             "upload/gnc-events/Vidya Abhyas-3/image-10.webp"
         ]
     },
-    {
-        "id": 2,
-        "slug": "republic-day-celebration",
-        "title": "Republic Day Celebration 2026",
-        "date": "2026 January 26",
-        "image": "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?q=80&w=2070&auto=format&fit=crop",
-        "shortDescription": "May the sacred festival of Lohri fill your life with warmth, prosperity, and joy! Let’s celebrate the harvest season with gratitude, dance around the bonfire, and welcome new beginnings together.",
-        "fullDescription": "Guru Nanak College, Dehradun proudly celebrated the 77th Republic Day of India, commemorating the historic moment when the Constitution of India came into force on 26th January 1950, marking India’s emergence as a sovereign, democratic republic.<br><br>The celebration served as a reminder of the sacrifices made by our freedom fighters and the visionary leadership that laid the foundation of the nation’s democratic framework. The event highlighted the core constitutional values of justice, liberty, equality, and fraternity, which continue to guide India’s progress and unity.<br><br>The program included patriotic reflections, addresses emphasizing constitutional awareness, and activities aimed at instilling a sense of national pride and civic responsibility among students. Faculty members and students came together to honor the spirit of democracy and reaffirm their commitment to upholding the ideals enshrined in the Constitution.<br><br>The Republic Day celebration at Guru Nanak College fostered patriotism, respect for national values, and awareness of citizens’ duties, inspiring the youth to contribute responsibly towards the nation’s growth.",
-        "gallery": [
-            "https://images.unsplash.com/photo-1563842183-568ebba6382b?q=80&w=2070&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1563842183-11270258167f?q=80&w=2070&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1590333333596-f283f56e9bb3?q=80&w=2069&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=2070&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1528642463366-82ea7730e5d0?q=80&w=2070&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=2070&auto=format&fit=crop"
-        ]
-    },
+    
     {
         "id": 3,
         "slug": "lohri-celebration",
@@ -702,4 +719,5 @@
             "upload/gnc-events/Vidya Aarambh/image-10.webp"
         ]
     }
+     
 ]

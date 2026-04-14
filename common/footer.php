@@ -100,7 +100,7 @@
 
         </div>
     </div>
-
+<script src="https://extraaedgeresources.blob.core.windows.net/documents/applycbc/Chatbot/js/chat.vidyaai.js"></script>
 </footer>
 <a href="https://application.gnc.edu.in/" class="apply-now-btn">Apply Now</a>
 <style>

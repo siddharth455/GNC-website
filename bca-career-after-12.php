@@ -537,18 +537,18 @@ loading="lazy">
 <p>Students who continuously upgrade their technical skills and stay updated with industry trends can build successful careers in these advanced domains.</p>
 
 <h2 id="why-gnc">VII. Why Study BCA at Guru Nanak College Dehradun</h2>
- <p>Choosing the right institution is an important factor in building a successful academic and professional career. Guru Nanak College Dehradun is recognized as one of the leading institutions offering computer application programs in Uttarakhand.</p>
- <p>The<strong> Bachelor of Computer Applications at Guru Nanak College, Dehradun </strong>is designed to provide students with strong technical knowledge and practical exposure to modern technologies.</p>
- <p>Key highlights of the program include:</p>
- <ul>
- <li>Industry-oriented curriculum aligned with current IT trends</li>
- <li>Experienced faculty members with academic and industry expertise</li>
- <li>Advanced computer laboratories and technical infrastructure</li>
- <li>Internship and project opportunities for real-world experience</li>
- <li>Placement support and career development training</li>
- </ul>
- <p>These features help students develop the skills and confidence needed to succeed in the competitive technology industry.</p>
- <p>Students interested in pursuing the BCA program can explore detailed information about<strong> admission procedures, course structure, eligibility criteria, and career opportunities </strong>through the official website of Guru Nanak College Dehradun.</p>
+<p>Choosing the right institution is an important factor in building a successful academic and professional career. Guru Nanak College Dehradun is recognized as one of the leading institutions offering computer application programs in Uttarakhand.</p>
+<p>The<strong> Bachelor of Computer Applications at Guru Nanak College, Dehradun </strong>is designed to provide students with strong technical knowledge and practical exposure to modern technologies.</p>
+<p>Key highlights of the program include:</p>
+<ul>
+<li>Industry-oriented curriculum aligned with current IT trends</li>
+<li>Experienced faculty members with academic and industry expertise</li>
+<li>Advanced computer laboratories and technical infrastructure</li>
+<li>Internship and project opportunities for real-world experience</li>
+<li>Placement support and career development training</li>
+</ul>
+<p>These features help students develop the skills and confidence needed to succeed in the competitive technology industry.</p>
+<p>Students interested in pursuing the BCA program can explore detailed information about<strong> admission procedures, course structure, eligibility criteria, and career opportunities </strong>through the official website of Guru Nanak College Dehradun.</p>
 
 <h2 id="conclusion">VIII. Conclusion</h2>
 <p>The <strong> Bachelor of Computer Applications (BCA) </strong>is one of the most promising undergraduate programs for students who want to build careers in the rapidly evolving technology sector. The program provides strong programming knowledge, practical IT skills, and diverse career opportunities in the software and digital industries.</p>

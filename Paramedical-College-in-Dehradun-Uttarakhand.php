@@ -2,21 +2,22 @@
 <html>
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best Paramedical College in Dehradun, Uttarakhand | Guru Nanak College</title>
+     <title>Guru Nanak College - Best Paramedical College in Dehradun, Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Welcome to the School of Paramedical Sciences at Guru Nanak College, Dehradun. We are the best paramedical college in Dehradun, Uttarakhand, offering specialized programs tailored to meet the demands of modern medicine.">
+    <meta name="description" content="Guru Nanak College is the best paramedical college in Dehradun, Uttarakhand, offers BPT, BMLT, BMRIT, Optometry, Operation Theatre Technology, MPT programs approved by AICTE & affiliated with HNBGU." />
+    <meta name="keywords" content="Best Paramedical College in Dehradun, Paramedical College in Uttarakhand" />
     <link rel="canonical" href="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical College in Dehradun, Uttarakhand | Guru Nanak College" />
-    <meta property="og:description" content="Welcome to the School of Paramedical Sciences at Guru Nanak College, Dehradun. We are the best paramedical college in Dehradun, Uttarakhand, offering specialized programs tailored to meet the demands of modern medicine." />
+    <meta property="og:title" content="Best Paramedical College in Dehradun | Admission 2026 – Guru Nanak College" />
+    <meta property="og:description" content="Guru Nanak College is the best paramedical college in Dehradun, Uttarakhand, offers BPT, BMLT, BMRIT, Optometry, Operation Theatre Technology, MPT programs approved by AICTE & affiliated with HNBGU." />
     <meta property="og:url" content="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
+    <meta property="og:image:width" content="383"/>
+    <meta property="og:image:height" content="256"/>
+    <meta property="og:image:type" content="image/webp"/>
     <link rel="stylesheet" href="css/programs.css"/>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
@@ -26,27 +27,129 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    
+
+   
+
+
+
+
+
     
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Service",
-  "serviceType": "Paramedical Courses",
-  "url": "https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand.php",
-  "provider": {
+[
+  {
+    "@context": "https://schema.org",
     "@type": "CollegeOrUniversity",
     "name": "Guru Nanak College, Dehradun",
-    "url": "https://www.gnc.edu.in/"
+    "url": "https://www.gnc.edu.in/",
+    "logo": "https://www.gnc.edu.in/images/logo.png",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+91-7300900909",
+      "contactType": "admissions",
+      "areaServed": "IN",
+      "availableLanguage": ["en", "hi"]
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Jhajhra, Chakrata Rd",
+      "addressLocality": "Dehradun",
+      "addressRegion": "Uttarakhand",
+      "postalCode": "248007",
+      "addressCountry": "IN"
+    },
+    "sameAs": [
+      "https://www.facebook.com/gncmh",
+      "https://www.instagram.com/gncdehradun/",
+      "https://twitter.com/gncdehradun"
+    ]
   },
-  "description": "Paramedical diploma and degree programs including BMLT, OTT, Physiotherapy and Allied Health Sciences with clinical and lab training.",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.1",
-    "reviewCount": "54",
-    "bestRating": "5",
-    "worstRating": "1"
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOccupationalProgram",
+    "name": "Paramedical Courses",
+    "description": "Paramedical programs at Guru Nanak College Dehradun offering clinical training in BMLT, BPT, Radiology and more.",
+    "provider": {
+      "@type": "CollegeOrUniversity",
+      "name": "Guru Nanak College",
+      "url": "https://gnc.edu.in"
+    },
+    "timeToComplete": "P3Y/P4Y",
+    "educationalCredentialAwarded": "Bachelor Degree"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which is the best paramedical college in Dehradun?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Guru Nanak College is one of the best paramedical colleges in Dehradun offering practical training, modern labs, and placement support."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are paramedical courses after 12th?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Students can pursue BMLT, BPT, Radiology, OTT, and Optometry after completing 12th with PCB."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the duration of paramedical courses?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most paramedical programs are 3 to 4 years long, including internships."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does Guru Nanak College provide clinical training?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, the college provides hands-on clinical training through hospital internships and laboratory sessions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are career options after paramedical courses?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Students can work in hospitals, diagnostic labs, clinics, and healthcare organizations."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://gnc.edu.in"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Programs",
+        "item": "https://gnc.edu.in/programs"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Paramedical",
+        "item": "https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand"
+      }
+    ]
   }
-}
+]
 </script>
 
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -295,14 +398,12 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-7">
                     <h6 class="text-gnc-blue fw-black uppercase mb-2">School of Paramedical</h6>
-                    <h2 class="fw-black mb-4 display-6">Best Paramedical Colleges in Dehradun, Uttarakhand.</h2>
+                    <h2 class="fw-black mb-4 display-6">Best Paramedical College in Dehradun – Admission 2026</h2>
                     <div class="accent-bar mb-4"></div>
                     <div class="text-secondary leading-relaxed space-y-4">
-                        <p>Welcome to the School of Paramedical Sciences at Guru Nanak College, Dehradun! The Best Paramedical College in Dehradun, Uttarakhand. Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Paramedical Sciences focuses on skill-based training, clinical expertise, and holistic development for future healthcare support professionals.</p>
-                        <p>We offer a range of specialized programs tailored to meet the demands of modern medicine. Our Bachelor of Medical Laboratory Technology (BMLT) program equips students with the knowledge and skills required to perform laboratory tests and analyses that are crucial for the accurate diagnosis and treatment of diseases. For aspiring surgical technologists, our B.Sc. Operation Theatre Technology (OTT) program provides expertise in operating room procedures, assisting surgeons, and ensuring patient safety.</p>
-                        <p>If you're interested in medical imaging, our Bachelor of Medical Radio Diagnosis And Imaging Technology program trains students in the use of cutting-edge imaging equipment, such as X-rays, MRIs, and CT scans. Those who wish to become skilled physiotherapists can pursue our Bachelor of Physiotherapy (BPT) program, which prepares students to help individuals regain their mobility and lead healthier lives through therapeutic exercises and interventions.</p>
-                        <p>Explore the fascinating world of eye care and vision science through our B.Sc. Optometry program, and learn to provide essential eye care services. Finally, our Diploma in Dialysis Technology program teaches the art and science of renal care, preparing graduates to operate dialysis machines and provide critical support to patients with kidney-related conditions.</p>
-                        <p>At our institution, you'll benefit from experienced faculty, state-of-the-art facilities, industry collaborations, and a holistic approach to education. We emphasize not only technical knowledge but also soft skills, ethics, and professionalism. With the healthcare industry constantly evolving, our graduates are well-positioned to secure rewarding careers in hospitals, clinics, diagnostic centers, and more.</p>
+                        <p>A paramedical course is a healthcare-focused program that prepares students for careers in medical laboratories, radiology, physiotherapy, operation theatre technology, and clinical support services. It combines theoretical knowledge with hands-on clinical training to develop skilled healthcare professionals.</p>
+                        <p>If you are searching for the best paramedical college in Dehradun, Guru Nanak College offers industry-focused programs with advanced laboratories, hospital training, and strong placement support.</p>
+                    <p>Guru Nanak College is located in Jhajhra, Chakrata Road, Dehradun, Uttarakhand, making it a preferred choice for paramedical education in Dehradun.</p>
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -393,14 +494,13 @@
             <div class="gnc-flex-layout"> 
                 <div class="gnc-text-column"> 
                     <div class="gnc-section-header" data-aos="fade-right"> 
-                        <h2 class="mb-5">Why Join Paramedical Sciences?</h2> 
-                        <p>The Paramedical Sciences program at Guru Nanak College is designed to provide students with a deep understanding of healthcare systems and their applications in various medical fields. This program transforms students into skilled professionals equipped with theoretical knowledge and practical expertise in medical lab technology, radiology, physiotherapy, and more.</p> 
-                        <p><strong>Well-equipped laboratories where students perform regular practical sessions to understand diagnostic techniques and medical procedures.</p> 
-                        <p><strong>Qualified and experienced faculty members guide students through theoretical concepts as well as practical laboratory work.</p> 
-                        <p>The curriculum focuses on practical exposure, allowing students to develop essential technical skills required in paramedical professions.</p> 
-                        <p>Programs emphasize discipline, technical skills, and professional ethics required for working in healthcare laboratories and hospitals.</p> 
+                        <h2 class="mb-5">Why Choose Paramedical Courses in Dehradun ?</h2> 
+                        <p class="text-secondary leading-relaxed">Dehradun has emerged as a leading hub for education and healthcare studies. With access to reputed hospitals, diagnostic centers, and healthcare institutions, students gain valuable practical exposure during their academic journey.</p>
+<p class="text-secondary leading-relaxed">Paramedical courses are highly career-oriented and offer early job opportunities. With the rapid growth of the healthcare industry, skilled paramedical professionals are in high demand across India and globally.</p>
+              <p class="text-secondary leading-relaxed">Students pursuing paramedical courses in Dehradun benefit from a balanced learning environment, combining academic knowledge with real-world clinical training.
+</p> 
                     </div>  
-                                            
+                                           
                 </div> 
                 <div class="gnc-placement-column"> 
                     <div class="gnc-placement-wrapper" style="background-image: url('images/sport-1.webp');" data-aos="fade-up"> 
@@ -484,8 +584,8 @@
     <section class="section-padding"  id="courses">
     <div class="container">
         <div class="text-center mb-5" style="background-color: #ff5722;">
-            <h2 class="fw-bold display-5 text-white">Programs Offered</h2>
-            <p class="fw-bold text-white">Paramedical Courses Offered at Guru Nanak College, Dehradun</p>
+            <h2 class="fw-bold display-5 text-white">Paramedical Courses Offered</h2>
+            <p class="fw-bold text-white"></p>
         </div>
 
         <div class="card border-0 shadow-lg overflow-hidden">
@@ -505,20 +605,20 @@
                                 <h5 class="fw-black mb-3">Bachelor of Medical Laboratory Technology (BMLT)</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
                                     <li><i class="fas fa-clock text-info me-2"></i>Duration: 3 Years + 6 Months Internship</li>
-                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (min. 45%)</li>
+                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                 </ul>
-                                <p class="small text-muted mt-3 mb-4">Career Scope: Medical Lab Technologist, Lab Supervisor, Quality Control Officer, Pathology Lab Manager</p>
+                                <p class="small text-muted mt-3 mb-4">Career Scope: Medical Lab Technologist, Lab Supervisor, Pathology Lab Manager</p>
                                 <a href="Best-bmlt-college-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4">
                             <div class="p-4 border rounded-3 h-100 hover-shadow transition d-flex flex-column">
-                                <h5 class="fw-black mb-3">Bachelor of Medical Radio Diagnosis & Imaging Technology (BMRIT)</h5>
+                                <h5 class="fw-black mb-3">Bachelor of Medical Radiology and Imaging Technology (BMRIT)</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
                                     <li><i class="fas fa-clock text-info me-2"></i>Duration: 3 Years + 6 Months Internship</li>
-                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (min. 45%)</li>
+                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                 </ul>
-                                <p class="small text-muted mt-3 mb-4">Career Scope: Radiology Technologist, CT/MRI Technician, Imaging Specialist, Radiographer</p>
+                                <p class="small text-muted mt-3 mb-4">Career Scope: Radiology Technician, MRI/CT Scan Specialist</p>
                                 <a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                             </div>
                         </div>
@@ -527,9 +627,9 @@
                                 <h5 class="fw-black mb-3">Bachelor of Operation Theatre Technology (BOTT)</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
                                     <li><i class="fas fa-clock text-info me-2"></i>Duration: 3 Years + 6 Months Internship</li>
-                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (min. 45%)</li>
+                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                 </ul>
-                                <p class="small text-muted mt-3 mb-4">Career Scope: OT Technician, Surgical Assistant, Anaesthesia Technologist, OT Manager</p>
+                                <p class="small text-muted mt-3 mb-4">Career Scope: OT Technician, Surgical Assistant</p>
                                 <a href="Best-operation-theatre-technology-colleges-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                             </div>
                         </div>
@@ -538,9 +638,9 @@
                                 <h5 class="fw-black mb-3">Bachelor of Physiotherapy (BPT)</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
                                     <li><i class="fas fa-clock text-info me-2"></i>Duration: 4.5 Years (Including Internship)</li>
-                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (min. 50%)</li>
+                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 50%)</li>
                                 </ul>
-                                <p class="small text-muted mt-3 mb-4">Career Scope: Physiotherapist, Sports Rehab Specialist, Orthopedic Consultant, Rehabilitation Expert</p>
+                                <p class="small text-muted mt-3 mb-4">Career Scope: Physiotherapist, Rehabilitation Specialist</p>
                                 <a href="Best-BPT-college-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                             </div>
                         </div>
@@ -549,9 +649,9 @@
                                 <h5 class="fw-black mb-3">Bachelor of Science in Optometry</h5>
                                 <ul class="list-unstyled small fw-bold text-secondary space-y-2">
                                     <li><i class="fas fa-clock text-info me-2"></i>Duration: 4 Years</li>
-                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (min. 45%)</li>
+                                    <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                 </ul>
-                                <p class="small text-muted mt-3 mb-4">Career Scope: Optometrist, Vision Consultant, Clinical Optician, Optical Lab Specialist</p>
+                                <p class="small text-muted mt-3 mb-4">Career Scope: Optometrist, Vision Consultant</p>
                                 <a href="Best-bsc-optometry-College-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                             </div>
                         </div>
@@ -608,259 +708,291 @@
     .space-y-3 > li + li { margin-top: 0.75rem; }
 </style>
 
+<!-- PARAMEDICAL CAREER & CLINICAL TRAINING SECTION START --> 
 
+ <style>
 
-
-
-
-
-<!-- PARAMEDICAL CAREER & CLINICAL TRAINING SECTION START -->
-
-<style>
-
-.gnc-career-section{
-padding:0px 0;
-background:#f9fafb;
+/* --- CAREER SCOPE & CLINICAL TRAINING --- */
+.gnc-career-section {
+    padding: 80px 0;
+    background: #f8fafc;
 }
 
-.gnc-career-title{
-font-weight:800;
-font-size:38px;
-text-align:center;
-margin-bottom:10px;
+.gnc-career-title {
+    font-weight: 900;
+    font-size: clamp(2rem, 5vw, 2.8rem);
+    text-align: center;
+    margin-bottom: 15px;
+    color: var(--primary-dark);
 }
 
-.gnc-career-title span{
-color:#ff5722;
+.gnc-career-title span {
+    color: var(--primary-orange);
 }
 
-.gnc-career-sub{
-text-align:center;
-max-width:850px;
-margin:auto;
-color:#6b7280;
-margin-bottom:50px;
+.gnc-career-sub {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 60px;
+    color: var(--text-gray);
+    font-size: 1.1rem;
+    line-height: 1.6;
 }
 
-.gnc-career-grid{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
-gap:25px;
-margin-top:30px;
+.gnc-career-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
 }
 
-.gnc-career-card{
-background:#fff;
-padding:30px;
-border-radius:10px;
-box-shadow:0 8px 20px rgba(0,0,0,0.06);
-text-align:center;
-transition:all .35s ease;
-border:1px solid #eee;
-}
-
-.gnc-career-card:hover{
-transform:translateY(-8px);
-box-shadow:0 20px 35px rgba(0,0,0,0.08);
-}
-
-.gnc-career-icon{
-font-size:38px;
-color:#ff5722;
-margin-bottom:15px;
-}
-
-.gnc-career-card h4{
-font-weight:700;
-font-size:18px;
-margin-bottom:8px;
-}
-
-.gnc-career-card p{
-font-size:14px;
-color:#6b7280;
-}
-
-.gnc-clinical-area{
-margin-top:70px;
-display:grid;
-grid-template-columns:1fr 1fr;
-gap:50px;
-align-items:stretch;
-}
-
-.gnc-clinical-area .carousel,
-.gnc-clinical-area .flickity-viewport {
-    height: 100% !important;
-}
-
-.gnc-clinical-area .carousel-cell {
-    width: 100%;
+.gnc-career-card {
+    background: #ffffff;
+    padding: 40px 30px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    text-align: left;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
     height: 100%;
 }
 
-.gnc-clinical-area img{
-width:100%;
-height: 100%;
-object-fit: cover;
-border-radius:12px;
-box-shadow:0 15px 30px rgba(0,0,0,0.15);
+.gnc-career-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+    border-color: var(--gnc-blue);
 }
 
-.gnc-clinical-content h3{
-font-weight:800;
-font-size:30px;
-margin-bottom:15px;
+.gnc-career-icon {
+    font-size: 2.5rem;
+    color: var(--gnc-blue);
+    margin-bottom: 25px;
+    background: rgba(0, 183, 255, 0.1);
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
 }
 
-.gnc-clinical-content span{
-color:#ff5722;
+.gnc-career-card h4 {
+    font-weight: 800;
+    font-size: 1.25rem;
+    margin-bottom: 12px;
+    color: var(--primary-dark);
 }
 
-.gnc-clinical-content p{
-color:#6b7280;
-margin-bottom:20px;
+.gnc-career-card p {
+    font-size: 0.95rem;
+    color: var(--text-gray);
+    margin: 0;
+    line-height: 1.5;
 }
 
-.gnc-clinical-list{
-list-style:none;
-padding:0;
+.employment-tag {
+    background: #fff;
+    padding: 12px 25px;
+    border-radius: 50px;
+    border: 1px solid #e2e8f0;
+    font-weight: 700;
+    color: var(--primary-dark);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+    transition: all 0.3s ease;
 }
 
-.gnc-clinical-list li{
-margin-bottom:12px;
-font-size:15px;
-color:#444;
+.employment-tag:hover {
+    background: var(--gnc-blue);
+    color: #fff;
+    border-color: var(--gnc-blue);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 183, 255, 0.2);
 }
 
-.gnc-clinical-list i{
-color:#22c55e;
-margin-right:8px;
+/* Clinical Area */
+
+.gnc-clinical-area {
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 60px;
+    align-items: center;
 }
 
-.gnc-salary-box{
-background:#ff5722;
-color:#fff;
-padding:25px;
-border-radius:8px;
-margin-top:30px;
-font-weight:600;
+.gnc-clinical-media {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 
-@media(max-width:900px){
 
-.gnc-clinical-area{
-grid-template-columns:1fr;
+.gnc-clinical-media .carousel,
+.gnc-clinical-media .flickity-viewport {
+    height: 450px !important;
 }
 
-.gnc-career-title{
-font-size:30px;
+.gnc-clinical-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
+.gnc-clinical-content h3 {
+    font-weight: 900;
+    font-size: 2.2rem;
+    margin-bottom: 25px;
+    position: relative;
+    padding-bottom: 15px;
 }
+
+.gnc-clinical-content h3::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 4px;
+    background: var(--primary-orange);
+    border-radius: 2px;
+}
+
+.gnc-clinical-list {
+    list-style: none;
+    padding: 0;
+    margin: 30px 0;
+}
+
+.gnc-clinical-list li {
+    margin-bottom: 18px;
+    font-size: 1.05rem;
+    color: var(--text-dark);
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+.gnc-clinical-list i {
+    color: #10b981;
+    margin-right: 15px;
+    font-size: 1.2rem;
+}
+
+.gnc-salary-box {
+    background: linear-gradient(135deg, var(--primary-orange) 0%, #d32f2f 100%);
+    color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    margin-top: 35px;
+    box-shadow: 0 10px 20px rgba(255, 87, 34, 0.3);
+}
+
+.gnc-salary-box h5 {
+    color: #fff;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.gnc-salary-box p {
+    color: rgba(255,255,255,0.9);
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+@media (max-width: 991px) {
+    .gnc-clinical-area {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+    .gnc-career-title { font-size: 2.2rem; }
+}
+
 
 </style>
 
 <section class="gnc-career-section">
-
-<div class="container">
-
-<h2 class="gnc-career-title">
-Career Opportunities in <span>Paramedical Sciences</span>
-</h2>
-
-<p class="gnc-career-sub">
-Paramedical professionals are an essential pillar of the healthcare industry. Students graduating from Guru Nanak College gain hands-on training and clinical experience that prepares them to work in hospitals, laboratories, diagnostic centers, and rehabilitation clinics across India and abroad.
-</p>
-
-<div class="gnc-career-grid">
-
-<div class="gnc-career-card">
-<div class="gnc-career-icon"><i class="fas fa-flask"></i></div>
-<h4>Medical Lab Technologist</h4>
-<p>Perform laboratory tests, analyze samples, and assist doctors in accurate medical diagnosis.</p>
-</div>
-
-<div class="gnc-career-card">
-<div class="gnc-career-icon"><i class="fas fa-x-ray"></i></div>
-<h4>Radiology Technician</h4>
-<p>Operate imaging equipment such as MRI, CT Scan, and X-ray machines.</p>
-</div>
-
-<div class="gnc-career-card">
-<div class="gnc-career-icon"><i class="fas fa-user-md"></i></div>
-<h4>Physiotherapist</h4>
-<p>Help patients recover mobility and strength through physical rehabilitation therapies.</p>
-</div>
-
-<div class="gnc-career-card">
-<div class="gnc-career-icon"><i class="fas fa-procedures"></i></div>
-<h4>OT Technician</h4>
-<p>Assist surgeons during operations and manage operation theatre equipment.</p>
-</div>
-
-<div class="gnc-career-card">
-<div class="gnc-career-icon"><i class="fas fa-eye"></i></div>
-<h4>Optometrist</h4>
-<p>Diagnose vision issues and provide eye care solutions including lenses and treatments.</p>
-</div>
-
-<div class="gnc-career-card">
-<div class="gnc-career-icon"><i class="fas fa-hospital"></i></div>
-<h4>Healthcare Specialist</h4>
-<p>Work in hospitals, clinics, and rehabilitation centers supporting medical teams.</p>
-</div>
-
-</div>
+    <div class="container">
+        <h2 class="gnc-career-title">Career Scope After <span>Paramedical Courses</span></h2>
+        <p class="gnc-career-sub">Paramedical professionals are an essential part of the healthcare system. With increasing demand, this field offers strong career growth and stability.</p>
+        
+        <h5 class="text-center fw-bold mb-4" style="color: var(--gnc-blue); text-transform: uppercase; letter-spacing: 2px;">Career Opportunities include:</h5>
 
 
-<div class="gnc-clinical-area">
+        <div class="gnc-career-grid">
+            <div class="gnc-career-card" data-aos="fade-up">
+                <div class="gnc-career-icon"><i class="fas fa-microscope"></i></div>
+                <h4>Medical Lab Technologist</h4>
+                <p>Run complex diagnostic tests, analyze samples, and assist doctors in accurate disease diagnosis.</p>
+            </div>
+            <div class="gnc-career-card" data-aos="fade-up" data-aos-delay="100">
+                <div class="gnc-career-icon"><i class="fas fa-x-ray"></i></div>
+                <h4>Radiology Technician</h4>
+                <p>Operate advanced imaging equipment like X-rays, CT scans, and MRIs to help identify internal medical issues.</p>
+            </div>
+            <div class="gnc-career-card" data-aos="fade-up" data-aos-delay="200">
+                <div class="gnc-career-icon"><i class="fas fa-user-md"></i></div>
+                <h4>Physiotherapist</h4>
+                <p>Help patients recover from injuries, surgeries, or chronic conditions through specialized physical therapies.</p>
+            </div>
+            <div class="gnc-career-card" data-aos="fade-up" data-aos-delay="300">
+                <div class="gnc-career-icon"><i class="fas fa-procedures"></i></div>
+                <h4>OT Technician</h4>
+                <p>Ensure seamless surgical procedures by preparing operation theatres and assisting surgeons during operations.</p>
+            </div>
+            <div class="gnc-career-card" data-aos="fade-up" data-aos-delay="400">
+                <div class="gnc-career-icon"><i class="fas fa-eye"></i></div>
+                <h4>Optometrist</h4>
+                <p>Provide primary eye care, conduct vision tests, and prescribe corrective lenses for vision improvement.</p>
+            </div>
+            <div class="gnc-career-card" data-aos="fade-up" data-aos-delay="500">
+                <div class="gnc-career-icon"><i class="fas fa-hospital-alt"></i></div>
+                <h4>Healthcare Specialist</h4>
+                <p>Work in administrative and specialized roles across hospitals, research labs, and diagnostic centers.</p>
+            </div>
+        </div>
 
-<div>
-<div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true, "imagesLoaded": true, "pageDots": false, "setGallerySize": false }'>
-    <div class="carousel-cell"><img src="images/image-1.webp" alt="Clinical Training 1"></div>
-    <div class="carousel-cell"><img src="images/image-2.webp" alt="Clinical Training 2"></div>
-    <div class="carousel-cell"><img src="images/image-3.webp" alt="Clinical Training 3"></div>
-    <div class="carousel-cell"><img src="images/image-4.webp" alt="Clinical Training 4"></div>
-    <div class="carousel-cell"><img src="images/image-5.webp" alt="Clinical Training 5"></div>
-</div>
-</div>
+        <div class="mt-5 pt-4">
+            <h5 class="text-center fw-bold mb-4" style="color: var(--gnc-blue); text-transform: uppercase; letter-spacing: 2px;">Employment Areas include:</h5>
+            <div class="d-flex flex-wrap justify-content-center gap-3">
+                <div class="employment-tag" data-aos="zoom-in">Hospitals</div>
+                <div class="employment-tag" data-aos="zoom-in" data-aos-delay="100">Diagnostic Laboratories</div>
+                <div class="employment-tag" data-aos="zoom-in" data-aos-delay="200">Clinics</div>
+                <div class="employment-tag" data-aos="zoom-in" data-aos-delay="300">Rehabilitation Centers</div>
+                <div class="employment-tag" data-aos="zoom-in" data-aos-delay="400">Research Organizations</div>
+            </div>
+        </div>
 
-<div class="gnc-clinical-content">
 
-<h3>
-Clinical Training & <span>Hospital Exposure</span>
-</h3>
+        <div class="gnc-clinical-area">
+            <div class="gnc-clinical-media" data-aos="fade-right">
+                <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true, "imagesLoaded": true, "pageDots": true, "prevNextButtons": false }'>
+                    <div class="carousel-cell"><img src="images/para-slide-1.webp" alt="Clinical Training 1"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-2.webp" alt="Clinical Training 2"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-3.webp" alt="Clinical Training 3"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-4.webp" alt="Clinical Training 4"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-5.webp" alt="Clinical Training 5"></div>
+                </div>
+            </div>
 
-<p>
-At Guru Nanak College Dehradun, paramedical education combines theoretical learning with real clinical exposure. Students gain practical experience through advanced laboratories, hospital training, and medical workshops.
-</p>
+            <div class="gnc-clinical-content" data-aos="fade-left">
+                <h3>Clinical Training and <span>Hospital Exposure</span></h3>
+                <p>Clinical exposure is a key component of paramedical education at Guru Nanak College.</p>
+                <p>Students gain hands-on experience through:</p>
+                <ul class="gnc-clinical-list">
+                    <li><i class="fas fa-check-circle"></i> Advanced diagnostic laboratories</li>
+                    <li><i class="fas fa-check-circle"></i> Hospital-based internships</li>
+                    <li><i class="fas fa-check-circle"></i> Real-time patient interaction</li>
+                    <li><i class="fas fa-check-circle"></i> Training on modern medical equipment</li>
+                    <li><i class="fas fa-check-circle"></i> Clinical workshops and case studies</li>
+                </ul>
+                <p class="small text-secondary">Guru Nanak College is located in Jhajhra, Chakrata Road, Dehradun, Uttarakhand, providing access to healthcare institutions that enhance practical learning.</p>
+                
+            </div>
 
-<ul class="gnc-clinical-list">
-
-<li><i class="fas fa-check-circle"></i> Hands-on training in diagnostic laboratories</li>
-
-<li><i class="fas fa-check-circle"></i> Clinical exposure through hospital internships</li>
-
-<li><i class="fas fa-check-circle"></i> Training on modern medical equipment</li>
-
-<li><i class="fas fa-check-circle"></i> Case studies and patient care training</li>
-
-<li><i class="fas fa-check-circle"></i> Workshops conducted by healthcare professionals</li>
-
-</ul>
-
-<div class="gnc-salary-box">
-Graduates from Guru Nanak College gain strong clinical skills and professional exposure, opening opportunities in hospitals, diagnostic laboratories, rehabilitation centers, and healthcare organizations across India.
-</div>
-
-</div>
-
-</div>
-
-</div>
-
+        </div>
+    </div>
 </section>
+
 
 <!-- PARAMEDICAL CAREER & CLINICAL TRAINING SECTION END -->
 
@@ -965,171 +1097,471 @@ Graduates from Guru Nanak College gain strong clinical skills and professional e
     <div class="container">
         <div class="text-center mb-5">
             <h2 class="fw-black display-5">
-            Why Choose Guru Nanak College <br>for <span style="color: var(--primary-orange);">Paramedical Education </span>
+                Why Guru Nanak College is the <br>
+                <span style="color: var(--primary-orange);">Best Paramedical College in Dehradun</span>
             </h2>
+            <p class="mt-3 text-secondary mx-auto" style="max-width: 750px;">
+              Guru Nanak College has established itself as one of the top paramedical colleges in Dehradun by focusing on academic excellence, practical training, and student development.
+            </p>
+            <p class="text-secondary mx-auto" style="max-width: 750px;">
+                Located in Jhajhra, Chakrata Road, Dehradun, Uttarakhand, the college provides a well-connected and student-friendly campus environment.
+            </p>
             <div class="accent-bar mx-auto mt-2" style="width: 100px;"></div>
         </div>
+
         <div class="why-choose-gnc-cards-grid">
-            <!-- Card 1 --> 
- <div class="gnc-butterfly-card"> 
- <div class="card-icon-area"> 
- <i class="fas fa-university card-icon"></i> 
- </div> 
- <div class="card-contents"> 
- <h5>University Affiliation</h5> 
- <ul> 
- <li><span>Recognized Excellence:</span> Guru Nanak College is affiliated with Hemvati Nandan Bahuguna Garhwal University (HNBGU).</li> 
- <li>Programs follow approved academic standards for paramedical education.</li> 
- <li>Degrees are recognized across hospitals, healthcare institutions, and research organizations.</li> 
- </ul> 
- </div> 
- </div> 
- 
- 
- <!-- Card 2 --> 
- <div class="gnc-butterfly-card"> 
- <div class="card-icon-area"> 
- <i class="fas fa-microscope card-icon"></i> 
- </div> 
- <div class="card-contents"> 
- <h5>Modern Infrastructure</h5> 
- <ul> 
- <li><span>Smart Learning:</span> Advanced laboratories equipped with modern diagnostic instruments.</li> 
- <li>Digital classrooms and library resources for academic research.</li> 
- <li>Dedicated practical labs for radiology, pathology, physiotherapy, and optometry training.</li> 
- </ul> 
- </div> 
- </div> 
- 
- 
- <!-- Card 3 --> 
- <div class="gnc-butterfly-card"> 
- <div class="card-icon-area"> 
- <i class="fas fa-user-md card-icon"></i> 
- </div> 
- <div class="card-contents"> 
- <h5>Expert Faculty</h5> 
- <ul> 
- <li><span>Academic Mentorship:</span> Experienced professors and healthcare professionals guide students.</li> 
- <li>Faculty members bring real-world clinical experience into classroom teaching.</li> 
- <li>Regular workshops and seminars are conducted by industry experts.</li> 
- </ul> 
- </div> 
- </div> 
- 
- 
- <!-- Card 4 --> 
- <div class="gnc-butterfly-card"> 
- <div class="card-icon-area"> 
- <i class="fas fa-hospital-user card-icon"></i> 
- </div> 
- <div class="card-contents"> 
- <h5>Clinical Exposure</h5> 
- <ul> 
- <li><span>Hospital Network:</span> Hands-on training through affiliated hospitals and diagnostic labs.</li> 
- <li>Students gain practical experience in operation theatres, pathology labs, and radiology departments.</li> 
- <li>Clinical internships prepare students for real healthcare environments.</li> 
- </ul> 
- </div> 
- </div> 
- 
- 
- <!-- Card 5 --> 
- <div class="gnc-butterfly-card"> 
- <div class="card-icon-area"> 
- <i class="fas fa-briefcase-medical card-icon"></i> 
- </div> 
- <div class="card-contents"> 
- <h5>Placement Assistance</h5> 
- <ul> 
- <li><span>Career Support:</span> Dedicated placement support for paramedical graduates.</li> 
- <li>Connections with hospitals, diagnostic laboratories, and healthcare organizations.</li> 
- <li>Guidance for internships, job placements, and higher studies.</li> 
- </ul> 
- </div> 
- </div> 
- 
- 
- <!-- Card 6 --> 
- <div class="gnc-butterfly-card"> 
- <div class="card-icon-area"> 
- <i class="fas fa-user-tie card-icon"></i> 
- </div> 
- <div class="card-contents"> 
- <h5>Professional Development</h5> 
- <ul> 
- <li><span>Holistic Growth:</span> Focus on professional ethics and healthcare responsibility.</li> 
- <li>Training in communication skills, teamwork, and patient care.</li> 
- <li>Workshops and personality development programs to enhance career readiness.</li> 
- </ul> 
- </div> 
- </div>
+
+            <!-- Card 1 -->
+            <div class="gnc-butterfly-card">
+                <div class="card-icon-area">
+                    <i class="fas fa-university card-icon"></i>
+                </div>
+                <div class="card-contents">
+                    <h5>University Affiliation</h5>
+                    <ul>
+                        <li><span>Recognized Institution:</span>Affiliated with Hemvati Nandan Bahuguna Garhwal University (HNBGU) </li>
+                        <li>NAAC Accredited Institution </li>
+                        <li>Degrees recognized across hospitals, healthcare institutions, and research organizations.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="gnc-butterfly-card">
+                <div class="card-icon-area">
+                    <i class="fas fa-microscope card-icon"></i>
+                </div>
+                <div class="card-contents">
+                    <h5>Modern Infrastructure</h5>
+                    <ul>
+                        <li>Advanced laboratories with modern medical equipment </li>
+                        <li>Industry-aligned paramedical curriculum </li>
+                        <li>Dedicated labs for pathology, radiology, physiotherapy, and optometry.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="gnc-butterfly-card">
+                <div class="card-icon-area">
+                    <i class="fas fa-user-md card-icon"></i>
+                </div>
+                <div class="card-contents">
+                    <h5>Expert Faculty</h5>
+                    <ul>
+                        <li>Experienced faculty from healthcare and medical fields.</li>
+                        <li>Real-world clinical knowledge integrated into teaching.</li>
+                        <li>Regular seminars, workshops, and guest lectures.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="gnc-butterfly-card">
+                <div class="card-icon-area">
+                    <i class="fas fa-hospital-user card-icon"></i>
+                </div>
+                <div class="card-contents">
+                    <h5>Clinical Exposure</h5>
+                    <ul>
+                        <li><span>Hospital Training:</span> Strong clinical and hospital-based training programs.</li>
+                        <li>Hands-on experience in labs, operation theatres, and diagnostic centers.</li>
+                        <li>Strong clinical and hospital-based training </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="gnc-butterfly-card">
+                <div class="card-icon-area">
+                    <i class="fas fa-briefcase-medical card-icon"></i>
+                </div>
+                <div class="card-contents">
+                    <h5>Placement Assistance</h5>
+                    <ul>
+                        <li>Dedicated placement assistance programs </li>
+                        <li>Strong connections with hospitals, labs, and healthcare companies.</li>
+                        <li>Guidance for jobs, internships, and higher education.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="gnc-butterfly-card">
+                <div class="card-icon-area">
+                    <i class="fas fa-hand-holding-usd card-icon"></i>
+                </div>
+                <div class="card-contents">
+                    <h5>Affordable Education & Scholarships</h5>
+                    <ul>
+                        <li><span>Student-Friendly Fees:</span>Affordable fee structure with scholarship opportunities </li>
+                        <li>Scholarship opportunities for deserving students.</li>
+                        <li>Located in Jhajhra, Dehradun with a well-connected campus.</li>
+                    </ul>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
+ 
+<style>
+    .gnc-bento-section {
+        max-width: 1440px;
+        margin: 0 auto;
+        padding: 0 40px 100px;
+        display: grid;
+        grid-template-columns: 1.5fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 30px;
+    }
 
+    .bento-card {
+        padding: 50px;
+        background: var(--bg-soft);
+        border: 1px solid #e2e8f0;
+    }
+
+    /* --- CAREER SCOPE --- */
+    .scope-card {
+        grid-row: span 2;
+        background: #fff;
+    }
+
+    .scope-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px;
+        margin-top: 30px;
+    }
+
+    .scope-item {
+        padding: 20px;
+        border-bottom: 3px solid var(--gnc-blue);
+        background: var(--bg-soft);
+    }
+
+    .scope-item h4 { margin-bottom: 8px; color: var(--primary-dark); }
+    .scope-item span { font-size: 0.85rem; color: var(--text-main); font-weight: 500; }
+
+    /* --- PLACEMENT SUPPORT --- */
+    .placement-card {
+        background: var(--gnc-blue);
+        color: white;
+    }
+
+    .placement-card h3 { color: white; margin-bottom: 20px; }
     
-   
+    .stats-row {
+        display: flex;
+        gap: 30px;
+        margin-top: 25px;
+    }
 
-    <!-- Placement Success Section -->
-    <!-- <section class="section-padding bg-light" id="research">
-        <div class="container">
-            <div class="text-center mb-5">
-                <p class="text-gnc-blue fw-black uppercase small tracking-widest mb-2">Institutional Excellence</p>
-                <h2 class="fw-black mb-1">Proud Hub of Researchers</h2>
-                <h3 class="fw-black text-secondary">Ranked Among <span class="text-gnc-red">The World's Top 2% Scientists</span></h3>
-            </div>
-            <div class="row g-5 mt-5">
-                <div class="col-md-4 text-center">
-                    <img src="https://i.pravatar.cc/150?u=m1" class="rounded-circle shadow border-4 border-white mb-4" width="160" alt="Scientist">
-                    <h4 class="fw-black mb-1">Dr. Mehta Singh</h4>
-                    <p class="text-gnc-blue fw-bold uppercase small mb-3">Associate Professor</p>
-                    <div class="badge bg-white text-dark border px-3 py-2 fw-bold"><i class="fas fa-file-alt text-danger me-2"></i> 150+ Research Papers</div>
-                </div>
-                <div class="col-md-4 text-center">
-                    <img src="upload/extra/Syamli.webp" class="rounded-circle shadow border-4 border-white mb-4" width="260" alt="Scientist">
-                    <h4 class="fw-black mb-1">Dr. Syamli  Kakkar</h4>
-                    <p class="text-gnc-blue fw-bold uppercase small mb-3">Professor</p>
-                    <div class="badge bg-white text-dark border px-3 py-2 fw-bold"><i class="fas fa-file-alt text-danger me-2"></i> 75+ Research Articles</div>
-                </div>
-                <div class="col-md-4 text-center">
-                    <img src="" class="rounded-circle shadow border-4 border-white mb-4" width="160" alt="Scientist">
-                    <h4 class="fw-black mb-1">Dr. Kaushik</h4>
-                    <p class="text-gnc-blue fw-bold uppercase small mb-3">Assistant Professor</p>
-                    <div class="badge bg-white text-dark border px-3 py-2 fw-bold"><i class="fas fa-file-alt text-danger me-2"></i> 240+ Research Citations</div>
-                </div>
-            </div>
+    .stat-item b { font-size: 1.8rem; display: block; }
 
-            <div class="mt-5 pt-5 border-top">
-                <div class="row g-5">
-                    <div class="col-lg-6">
-                        <h4 class="fw-black mb-4">Placements & Career Opportunities</h4>
-                        <ul class="space-y-4 text-secondary fw-bold">
-                            <li class="d-flex gap-3"><i class="fas fa-check-circle text-success mt-1"></i> Guru Nanak College ensures 100% placement assistance for all paramedical graduates.</li>
-                            <li class="d-flex gap-3"><i class="fas fa-check-circle text-success mt-1"></i> Our alumni are placed in reputed hospitals, diagnostic centers, rehabilitation facilities, and research organizations in India and abroad.</li>
-                            <li class="d-flex gap-3"><i class="fas fa-check-circle text-success mt-1"></i> GNC graduates are recognized for their technical excellence, professionalism, and compassionate healthcare service.</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6">
-                        <h4 class="fw-black mb-4">Facilities at Guru Nanak College</h4>
-                        <div class="row g-3 fw-bold text-secondary">
-                            <div class="col-6"><i class="fas fa-chalkboard-teacher text-danger me-2"></i> Smart classrooms</div>
-                            <div class="col-6"><i class="fas fa-flask text-danger me-2"></i> Advanced labs</div>
-                            <div class="col-6"><i class="fas fa-hospital text-danger me-2"></i> Affiliated hospitals</div>
-                            <div class="col-6"><i class="fas fa-home text-danger me-2"></i> Separate hostels</div>
-                            <div class="col-6"><i class="fas fa-bus text-danger me-2"></i> Transport services</div>
-                            <div class="col-6"><i class="fas fa-wifi text-danger me-2"></i> Wi-Fi campus</div>
-                            <div class="col-6"><i class="fas fa-book text-danger me-2"></i> E-library</div>
-                            <div class="col-6"><i class="fas fa-utensils text-danger me-2"></i> Cafeteria & Sports</div>
-                        </div>
-                    </div>
-                </div>
+    /* --- WHY CHOOSE GNC --- */
+    .why-card {
+        background: white;
+        border: 1px solid #e2e8f0;
+    }
+
+    .why-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 25px;
+    }
+
+    .why-tag {
+        padding: 8px 18px;
+        background: #f1f5f9;
+        border-radius: 50px;
+        font-size: 0.85rem;
+        font-weight: 700;
+        color: var(--primary-dark);
+    }
+
+    @media (max-width: 1024px) {
+        .gnc-bento-section { grid-template-columns: 1fr; }
+    }
+</style>
+
+<style>
+    :root {
+        --gnc-red: rgb(251 123-28);  
+        --gnc-blue: rgb(3 175 255); 
+        --primary-dark: #0f172a;
+        --text-main: #475569;
+        --glass-bg: #ffffff;
+        --card-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    }
+
+    .gnc-container {
+        max-width: 1300px;
+        margin: 0 auto;
+        padding: 60px 20px;
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    .gnc-h2 {
+        font-size: clamp(1.8rem, 5vw, 2.5rem);
+        font-weight: 800;
+        color: var(--primary-dark);
+        margin-bottom: 35px;
+        border-left: 6px solid var(--gnc-red);
+        padding-left: 20px;
+        line-height: 1.2;
+    }
+
+    /* --- SECTION 1: CURRICULUM & LEARNING --- */
+    .curriculum-wrapper {
+        display: grid;
+        grid-template-columns: 1.2fr 1fr;
+        gap: 30px;
+    }
+
+    .theory-card {
+        background: var(--glass-bg);
+        border: 1px solid #e2e8f0;
+        padding: 40px;
+        box-shadow: var(--card-shadow);
+    }
+
+    .subjects-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 15px;
+        margin-top: 25px;
+    }
+
+    .subject-pill {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 12px 15px;
+        background: #f8fafc;
+        border-left: 3px solid var(--gnc-blue);
+        font-weight: 600;
+        font-size: 0.95rem;
+        color: var(--primary-dark);
+    }
+
+    .learning-approach-sidebar {
+        background: var(--primary-dark);
+        color: white;
+        padding: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .approach-step {
+        position: relative;
+        padding-left: 30px;
+        margin-bottom: 25px;
+        font-size: 1.05rem;
+        line-height: 1.5;
+    }
+
+    .approach-step::before {
+        content: '→';
+        position: absolute;
+        left: 0;
+        color: var(--gnc-red);
+        font-weight: bold;
+    }
+
+    /* --- SECTION 2: PLACEMENT SUPPORT --- */
+    .placement-showcase {
+        margin-top: 40px;
+        background: linear-gradient(135deg, var(--gnc-blue) 0%, #0056b3 100%);
+        border-radius: 4px;
+        padding: 60px 40px;
+        color: white;
+        display: grid;
+        grid-template-columns: 1fr 1.5fr;
+        gap: 40px;
+        align-items: center;
+    }
+
+    .placement-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .placement-item {
+        background: rgba(255,255,255,0.1);
+        backdrop-filter: blur(10px);
+        padding: 25px;
+        border: 1px solid rgba(255,255,255,0.2);
+        transition: 0.3s ease;
+    }
+
+    .placement-item:hover { background: rgba(255,255,255,0.2); }
+
+    .placement-item h4 {
+        font-size: 1.1rem;
+        margin-bottom: 8px;
+        color: #fff;
+    }
+
+    .placement-item p {
+        font-size: 0.85rem;
+        opacity: 0.9;
+        line-height: 1.4;
+    }
+
+    /* --- SECTION 3: WHY CHOOSE GNC --- */
+    .why-gnc-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .why-card {
+        background: white;
+        border: 1px solid #e2e8f0;
+        padding: 30px 20px;
+        text-align: center;
+        transition: all 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .why-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 30px rgba(0,0,0,0.08);
+        border-color: var(--gnc-red);
+    }
+
+    .why-card i {
+        font-size: 2.2rem;
+        color: var(--gnc-blue);
+    }
+
+    .why-card span {
+        font-weight: 700;
+        font-size: 0.95rem;
+        color: var(--primary-dark);
+        line-height: 1.3;
+    }
+
+    /* --- MOBILE RESPONSIVENESS --- */
+    @media (max-width: 1024px) {
+        .curriculum-wrapper { grid-template-columns: 1fr; }
+        .placement-showcase { grid-template-columns: 1fr; text-align: center; }
+        .why-gnc-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 640px) {
+        .placement-grid { grid-template-columns: 1fr; }
+        .why-gnc-grid { grid-template-columns: 1fr; }
+        .subjects-grid { grid-template-columns: 1fr; }
+        .gnc-h2 { border-left-width: 4px; padding-left: 15px; }
+        .placement-showcase { padding: 40px 20px; }
+        .theory-card, .learning-approach-sidebar { padding: 30px 20px; }
+    }
+</style>
+
+<div class="gnc-container">
+    <h2 class="gnc-h2">Curriculum and Learning Approach</h2>
+    <div class="curriculum-wrapper">
+        <div class="theory-card">
+            <p style="color: var(--text-main); line-height: 1.8;">The paramedical curriculum at Guru Nanak College is designed to combine theoretical knowledge with practical exposure, ensuring students are industry-ready.</p>
+            <h4 style="margin-top: 30px; color: var(--gnc-red); text-transform: uppercase; letter-spacing: 1px;">Core subjects include:</h4>
+            <div class="subjects-grid">
+                <div class="subject-pill"><i class="fas fa-microscope"></i> Human Anatomy and Physiology</div>
+                <div class="subject-pill"><i class="fas fa-flask"></i> Biochemistry and Pathology</div>
+                <div class="subject-pill"><i class="fas fa-dna"></i> Microbiology</div>
+                <div class="subject-pill"><i class="fas fa-x-ray"></i> Medical Imaging Techniques</div>
+                <div class="subject-pill"><i class="fas fa-notes-medical"></i> Clinical Procedures</div>
+                <div class="subject-pill"><i class="fas fa-user-shield"></i> Patient Care and Healthcare Ethics</div>
             </div>
         </div>
-    </section> -->
+        <div class="learning-approach-sidebar">
+            <h4 style="font-size: 1.5rem; margin-bottom: 30px;">Learning approach includes:</h4>
+            <div class="approach-step">Practical lab sessions using modern equipment</div>
+            <div class="approach-step">Case-based learning</div>
+            <div class="approach-step">Workshops and seminars by healthcare professionals</div>
+            <div class="approach-step">Industry-oriented training modules</div>
+        </div>
+    </div>
+</div>
+
+<div class="gnc-container" style="padding-top: 0;">
+    <div class="placement-showcase">
+        <div>
+            <h2 style="color: white; font-size: 2.2rem; margin-bottom: 15px;">Placement Support</h2>
+            <p style="opacity: 0.9; line-height: 1.6;">Guru Nanak College provides dedicated placement support to help students build successful careers.</p>
+        </div>
+        <div class="placement-grid">
+            <div class="placement-item">
+                <h4>Industry Connections</h4>
+                <p>With hospitals and healthcare organizations</p>
+            </div>
+            <div class="placement-item">
+                <h4>Internships</h4>
+                <p>Exclusive internship opportunities</p>
+            </div>
+            <div class="placement-item">
+                <h4>Placement Training</h4>
+                <p>Interview preparation modules</p>
+            </div>
+            <div class="placement-item">
+                <h4>Mentorship</h4>
+                <p>Career guidance and mentorship</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="gnc-container">
+    <h2 class="gnc-h2">Why Students Choose Guru Nanak College</h2>
+    <div class="why-gnc-grid">
+        <div class="why-card">
+            <i class="fas fa-award"></i>
+            <span>16+ Years of Academic Excellence</span>
+        </div>
+        <div class="why-card">
+            <i class="fas fa-university"></i>
+            <span>NAAC Accredited Institution</span>
+        </div>
+        <div class="why-card">
+            <i class="fas fa-book"></i>
+            <span>Industry-Oriented Curriculum</span>
+        </div>
+        <div class="why-card">
+            <i class="fas fa-vial"></i>
+            <span>Modern Medical Laboratories</span>
+        </div>
+        <div class="why-card">
+            <i class="fas fa-chalkboard-teacher"></i>
+            <span>Experienced Faculty</span>
+        </div>
+        <div class="why-card">
+            <i class="fas fa-hospital-user"></i>
+            <span>Strong Clinical Exposure</span>
+        </div>
+        <div class="why-card">
+            <i class="fas fa-user-graduate"></i>
+            <span>Placement Assistance Programs</span>
+        </div>
+        <div class="why-card">
+            <i class="fas fa-hand-holding-usd"></i>
+            <span>Scholarships Available</span>
+        </div>
+    </div>
+</div>sss
 
 
-   <!-- FAQs UI -->
+
+
+<!-- FAQs UI -->
     <section class="section-padding bg-white" id="faqs">
         <div class="container">
             <div class="text-center mb-5">
@@ -1143,12 +1575,12 @@ Graduates from Guru Nanak College gain strong clinical skills and professional e
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#q1">
-                                    1. Why choose Guru Nanak College for Paramedical courses?
+                                    1. Which is the best paramedical college in Dehradun?
                                 </button>
                             </h2>
                             <div id="q1" class="accordion-collapse collapse show" data-bs-parent="#gncFaqs">
                                 <div class="accordion-body">
-                                    Industry-relevant training, modern labs, experienced faculty, and strong clinical exposure, making it one of the best paramedical colleges in Dehradun and Uttarakhand.
+                                    Guru Nanak College is one of the best paramedical colleges in Dehradun offering practical training, modern labs, and placement support.
                                 </div>
                             </div>
                         </div>
@@ -1156,12 +1588,12 @@ Graduates from Guru Nanak College gain strong clinical skills and professional e
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q2">
-                                    2. Are the paramedical courses approved and recognized?
+                                    2. What are paramedical courses after 12th?
                                 </button>
                             </h2>
                             <div id="q2" class="accordion-collapse collapse" data-bs-parent="#gncFaqs">
                                 <div class="accordion-body">
-                                    Yes, all paramedical programs are recognized by HNBGU and approved by the respective regulatory bodies.
+                                    Students can pursue BMLT, BPT, Radiology, OTT, and Optometry after completing 12th with PCB.
                                 </div>
                             </div>
                         </div>
@@ -1169,12 +1601,12 @@ Graduates from Guru Nanak College gain strong clinical skills and professional e
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q3">
-                                    3. What is the eligibility for undergraduate paramedical programs?
+                                    3. What is the duration of paramedical courses?
                                 </button>
                             </h2>
                             <div id="q3" class="accordion-collapse collapse" data-bs-parent="#gncFaqs">
                                 <div class="accordion-body">
-                                    Candidates must have passed 10+2 with PCB (Physics, Chemistry, Biology) with at least 45% marks.
+                                    Most paramedical programs are 3 to 4 years long, including internships.
                                 </div>
                             </div>
                         </div>
@@ -1182,12 +1614,12 @@ Graduates from Guru Nanak College gain strong clinical skills and professional e
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q4">
-                                    4. Does the college provide practical and clinical training?
+                                    4. Does Guru Nanak College provide clinical training?
                                 </button>
                             </h2>
                             <div id="q4" class="accordion-collapse collapse" data-bs-parent="#gncFaqs">
                                 <div class="accordion-body">
-                                    Yes, students receive hands-on training in affiliated hospitals, diagnostic centers, and rehabilitation institutions.
+                                    Yes, the college provides hands-on clinical training through hospital internships and laboratory sessions.
                                 </div>
                             </div>
                         </div>
@@ -1195,12 +1627,12 @@ Graduates from Guru Nanak College gain strong clinical skills and professional e
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q5">
-                                    5. What are the career opportunities after completing paramedical courses?
+                                    5. What are career options after paramedical courses?
                                 </button>
                             </h2>
                             <div id="q5" class="accordion-collapse collapse" data-bs-parent="#gncFaqs">
                                 <div class="accordion-body">
-                                    Graduates can work in hospitals, labs, diagnostic centers, and rehabilitation clinics or pursue postgraduate and research programs.
+                                    Students can work in hospitals, diagnostic labs, clinics, and healthcare organizations.
                                 </div>
                             </div>
                         </div>
@@ -1235,15 +1667,18 @@ Graduates from Guru Nanak College gain strong clinical skills and professional e
         </div>
     </section> -->
 
-    <!-- Brochure Section -->
+    <!-- Apply Now Section -->
    <section style="background-color: #ff5722;" class="py-5">
     <div class="container py-3">
         <div class="row align-items-center">
             <div class="col-lg-8 text-white">
-                <h2 class="fw-black mb-3" style="font-weight: 900; font-family: 'Montserrat', sans-serif;">Download Official Brochure</h2>
-                <p class="mb-4 opacity-90 leading-relaxed" style="font-weight: 500; font-size: 1.05rem; line-height: 1.6;">
-                    To download the brochure, simply click on the "Download" button. We recommend saving it on your device and referring to it whenever necessary. Our aim is to maintain transparency in all our processes, and we believe that providing clear information about our offerings is a step in that direction.
-                </p>
+                <h2 class="fw-black mb-3" style="font-weight: 900; font-family: 'Montserrat', sans-serif;">Apply Now for Paramedical Admission 2026</h2>
+                <div class="mb-4 opacity-90 leading-relaxed" style="font-weight: 500; font-size: 1.05rem; line-height: 1.6;">
+                    <p class="mb-2">Apply now for paramedical admission in Dehradun at Guru Nanak College.</p>
+                    <p class="mb-1"><i class="fas fa-phone-alt me-2"></i><strong>Call:</strong> 7300900900</p>
+                    <p class="mb-1"><i class="fas fa-map-marker-alt me-2"></i><strong>Visit:</strong> Jhajhra, Chakrata Road, Dehradun, Uttarakhand</p>
+                    <p class="mt-3 fw-bold" style="color: #fff; font-size: 1.1rem;">Admissions open for 2026. Limited seats available.</p>
+                </div>
                 <div class="d-flex flex-wrap gap-3">
                     <a href="upload/gnc-brochure.pdf" class="btn btn-white bg-white px-5 py-3 fw-black" style="color: #ff5722; font-weight: 900; border-radius: 4px;">DOWNLOAD BROCHURE</a>
                     <a href="https://application.gnc.edu.in/" class="btn btn-outline-light px-5 py-3 fw-black" style="font-weight: 900; border-radius: 4px;">APPLY ONLINE</a>

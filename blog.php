@@ -1,7 +1,5 @@
 <?php
-// index.php - Static Blog Index (HTML + PHP + JS)
-// Replace/extend the $posts array with your real posts or generate it from files/db.
-// Each post should have: id, title, slug, date, readingTime, excerpt, author(name,avatar), tags(array), image(optional), featured(bool)
+
 
 $posts = [
  
@@ -148,7 +146,7 @@ programs for aspiring business leaders.',
     'date' => '2024-12-31',
     'excerpt' => 'Guru Nanak College offers a robust B.Sc. Agriculture program that covers a wide range of topics crucial for a successful career in agriculture.',
     'author' => ['name' => 'GNC Dehradun'],
-    'tags' => ['Agriculture'],
+    'tags' => ['Agriculture','B.Sc. Agriculture'],
     'image' => 'upload/blog/13.webp',
     'featured' => false
   ],
@@ -174,18 +172,6 @@ programs for aspiring business leaders.',
     'image' => 'upload/blog/15.webp',
     'featured' => false
   ],
-
-  [
-    'id' => 15,
-    'title' => 'Best M.Sc in Horticulture College in Dehradun: Guru Nanak College',
-    'url' => 'best-m-sc-in-horticulture-college-in-dehradun-guru-nanak-college',
-    'date' => '2024-12-10',
-    'excerpt' => 'Guru Nanak College (GNC), known for its lush green landscapes and educational excellence, stands out as one of the premier institutions for pursuing a Master of Science in Horticulture in Dehradun.',
-    'author' => ['name' => 'GNC Dehradun'],
-    'tags' => ['Agriculture', 'Horticulture'],
-    'image' => 'upload/blog/15.webp',
-    'featured' => false
-  ],
   [
     'id' => 16,
     'title' => 'Best Hotel Management Colleges in Dehradun in 2026: Guru Nanak College',
@@ -195,7 +181,7 @@ programs for aspiring business leaders.',
     'author' => ['name' => 'GNC Dehradun'],
     'tags' => ['Hotel Management'],
     'image' => 'upload/blog/hm-banner.webp',
-    'featured' => true
+    'featured' => false
   ],
    [
     'id' => 17,
@@ -206,19 +192,9 @@ programs for aspiring business leaders.',
     'author' => ['name' => 'GNC Dehradun'],
     'tags' => ['BCA', 'BTech'],
     'image' => 'upload/blog/bcavsbtech.webp',
-    'featured' => true
+    'featured' => false
   ],
-   [
-    'id' => 19,
-    'title' => 'Why BCA is One of the Best Career Options After 12th',
-    'url' => 'bca-career-after-12',
-    'date' => '2026-03-16',
-    'excerpt' => 'Discover why Bachelor of Computer Applications (BCA) is a top career choice after 12th, including eligibility, skills, job roles, and future opportunities in the IT industry.',
-    'author' => ['name' => 'GNC Dehradun'],
-    'tags' => ['BCA'],
-    'image' => 'upload/blog/why-bca.webp',
-    'featured' => true
-  ],
+   
    [
     'id' => 18,
     'title' => 'BBA vs BCom: Which Course is Better After 12th?',
@@ -227,10 +203,32 @@ programs for aspiring business leaders.',
     'excerpt' => 'Complete comparison between BBA and BCom covering eligibility, subjects, career opportunities, and which course is better after 12th for business careers.',
     'author' => ['name' => 'GNC Dehradun'],
     'tags' => ['BBA', 'BCom'],
-    'image' => 'upload/blog/bba-vs-bcom.webp',
+    'image' => 'upload/blog/bca-vs-bcom.webp',
+    'featured' => false
+  ],
+  [
+    'id' => 19,
+    'title' => 'Why BCA is One of the Best Career Options After 12th',
+    'url' => 'bca-career-after-12',
+    'date' => '2026-03-16',
+    'excerpt' => 'Discover why Bachelor of Computer Applications (BCA) is a top career choice after 12th, including eligibility, skills, job roles, and future opportunities in the IT industry.',
+    'author' => ['name' => 'GNC Dehradun'],
+    'tags' => ['BCA'],
+    'image' => 'upload/blog/why-bca.webp',
+    'featured' =>false
+  ],
+  [
+    'id' => 21,
+    'title' => 'Top Paramedical Courses After 12th in India (2026): Career Scope, Salary & Admission at GNC Dehradun',
+    'url' => 'top-paramedical-courses-after-12th-dehradun-2026',
+    'date' => '2026-03-30',
+    'excerpt' => 'Explore the best paramedical courses after 12th in Dehradun for 2026. Get details on career scope, salary, and admission at Guru Nanak College.',
+    'author' => ['name' => 'GNC Dehradun'],
+    'tags' => ['Paramedical'],
+    'image' => 'upload/blog/para-blog-26.webp',
     'featured' => true
   ],
-  
+
 ];
 
 // Sort posts by date (newest first)
@@ -245,7 +243,7 @@ foreach ($posts as $p) {
     $allTags[$t] = true;
 }
 $allTags = array_keys($allTags);
-?>
+if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
 <!doctype html>
 <html lang="en">
 
@@ -945,3 +943,4 @@ $allTags = array_keys($allTags);
   });
 
 </script>
+<?php endif; ?>

@@ -2,7 +2,7 @@
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
 <section class="ranking-sec gnc-legacy-integration">
-    <div class="container">
+    <div class="container px-188 px-1399 h-100">
         <div class="row h-100 align-items-end">
             
             <!-- LEFT: STUDENT IMAGE -->
@@ -17,8 +17,8 @@
                 <div class="row h-49 align-items-center">
                     <div class="col-sm-7">
                         <div class="legacy-badge-wrapper" data-aos="fade-up" data-aos-duration="600">
-                            <div class="v-label">Est. 2009</div>
-                            <div class="big-num">16<span>+</span></div>
+                            <div class="v-label"></div>
+                            <div class="big-num">24<span>+</span></div>
                             <div class="nirf-info">
                                 <span class="nirf-h">YEARS OF <br><span class="txt-orange">ACADEMIC</span></span>
                                 <span class="nirf-p">EXCELLENCE</span>
