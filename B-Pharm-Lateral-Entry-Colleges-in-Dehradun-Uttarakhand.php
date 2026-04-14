@@ -48,9 +48,6 @@
                                     Apply Now
 
                                 </a>
-                                <a target="_blank" id="printButton1" target="_blank" class="cu-btn cu-btn-100 cu-btn-white bg-danger text-center mt-0">
-                                    Download Fee Structure
-                                </a>
                             </div>
                         </div>
                     </div>

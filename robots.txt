@@ -1,4 +1,6 @@
 User-agent: *
-Allow: *
+Allow: /
 Disallow: /staff.gnc.edu.in/
 Disallow: /student.gnc.edu.in/
+
+Sitemap: https://gnc.edu.in/sitemap.xml
