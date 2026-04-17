@@ -1,1409 +1,791 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best B.Sc Nursing College in Dehradun, Uttarakhand</title>
+    <link rel="icon" type="image/webp" href="images/logog.webp">
+    <title>Top GNM Nursing College in Dehradun | GNC Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, the top B.Sc Nursing college in Dehradun, Uttarakhand. Known for its comprehensive curriculum, expert faculty, and state-of-the-art clinical training, Guru Nanak College prepares future nursing professionals to excel in the healthcare industry with compassion and excellence.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun">
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
-    <meta property="og:description" content="Guru Nanak College, the top B.Sc Nursing college in Dehradun, Uttarakhand. Known for its comprehensive curriculum, expert faculty, and state-of-the-art clinical training, Guru Nanak College prepares future nursing professionals to excel in the healthcare industry with compassion and excellence." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun" />
-    <meta property="og:site_name" content="GNC Dehradun" />
-    <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
-     <link rel="stylesheet" href="css/programs.css"/>
-    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <meta name="description" content="Guru Nanak College, Dehradun's best Nursing & Midway (GNM) institution. With a comprehensive curriculum, experienced faculty, and hands-on clinical training, Guru Nanak College nurtures future nursing professionals ready to make a difference in healthcare.">
+    <link rel="canonical" href="https://gnc.edu.in/best-gnm-college-in-dehradun">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,300&family=Playfair+Display:ital,wght@0,700;0,800;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Course",
-      "name": "B.Sc Nursing",
-      "description": "4-year undergraduate nursing degree approved by Indian Nursing Council (INC), affiliated with HNBGU. Covers clinical nursing, community health, obstetrics, paediatrics, and medical-surgical nursing with hospital rotations.",
-      "provider": {
-        "@type": "EducationalOrganization",
-        "name": "Guru Nanak College, Dehradun",
-        "url": "https://www.gnc.edu.in"
-      },
-      "url": "https://www.gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php",
-      "courseCode": "BSC-NURS",
-      "educationalCredentialAwarded": "Bachelor of Science in Nursing (B.Sc Nursing)",
-      "timeToComplete": "P4Y",
-      "occupationalCategory": "Registered Nurse",
-      "hasCourseInstance": {
-        "@type": "CourseInstance",
-        "courseMode": "on-site",
-        "duration": "P4Y",
-        "inLanguage": "en",
-        "startDate": "2026-07-01",
-        "location": {
-          "@type": "Place",
-          "name": "Guru Nanak College Campus",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Dehradun",
-            "addressRegion": "Uttarakhand",
-            "postalCode": "248007",
-            "addressCountry": "IN"
-          }
+    <style>
+        :root {
+            --orange: #fb7b1c;
+            --blue: #007bff;
+            --dark: #0d1117;
+            --mid: #1a2233;
+            --text: #2c3347;
+            --text-light: #5a6480;
+            --white: #ffffff;
+            --off-white: #f8f9fc;
+            --card-bg: #ffffff;
+            --border: rgba(0,0,0,0.08);
         }
-      },
-      "offers": {
-        "@type": "Offer",
-        "category": "Tuition",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2026-04-01"
-      },
-      "coursePrerequisites": "10+2 with Physics, Chemistry, Biology and English with minimum 45% aggregate marks"
-    }
-    </script>
 
-<style>
-/* ============================================================
-   CSS VARIABLES & RESET
-============================================================ */
-:root{
-  --blue:#0f9af1;
-  --blue-dark:#0b7dc4;
-  --blue-light:#e8f6ff;
-  --orange:#fd7e14;
-  --orange-dark:#e06b0a;
-  --orange-light:#fff3e8;
-  --dark:#0a1628;
-  --dark2:#12243d;
-  --text:#334155;
-  --text-light:#64748b;
-  --white:#ffffff;
-  --grey:#f4f7fb;
-  --border:#e2ecf8;
-  --shadow-blue:0 12px 40px rgba(15,154,241,.18);
-  --shadow-orange:0 12px 40px rgba(253,126,20,.18);
-  --shadow-sm:0 4px 16px rgba(10,22,40,.08);
-  --shadow-md:0 10px 40px rgba(10,22,40,.12);
-  --r:14px;
-  --r-lg:22px;
-}
-*{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth;}
-body{font-family:'Nunito Sans',sans-serif;color:var(--text);overflow-x:hidden;}
-img{max-width:100%;display:block}
-img { max-width: 100%; height: auto; }
-[data-aos] {
-  max-width: 100%;
-  overflow-x: hidden;
-}
-[data-aos="fade-left"] {
-  transform: translateX(-30px);
-}
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
-[data-aos="fade-right"] {
-  transform: translateX(30px);
-}
-@media (max-width: 768px) {
-  .g-5 {
-    --bs-gutter-x: 1.5rem;
-  }
-}
-a{text-decoration:none}
-ul{list-style:none}
+        html { scroll-behavior: smooth; }
 
-/* ============================================================
-   TYPOGRAPHY
-============================================================ */
-.g-tag{
-  display:inline-flex;align-items:center;gap:8px;
-  font-family:'Nunito',sans-serif;font-size:11px;font-weight:800;
-  letter-spacing:2.5px;text-transform:uppercase;color:var(--orange);margin-bottom:12px;
-}
-.g-tag::before{content:'';width:24px;height:3px;border-radius:99px;background:var(--orange);flex-shrink:0}
-.g-heading{
-  font-family:'Nunito',sans-serif;
-  font-size:clamp(26px,3vw,44px);
-  color:var(--dark);line-height:1.18;font-weight:900;margin-bottom:14px;
-}
-.g-heading em{font-style:normal;color:var(--blue)}
-.g-heading .acc{color:var(--orange)}
-.g-sub{font-size:15px;color:var(--text-light);line-height:1.8;max-width:560px}
+        body {
+            font-family: 'DM Sans', sans-serif;
+            color: var(--text);
+            background: var(--white);
+            overflow-x: hidden;
+        }
 
-/* ============================================================
-   UTILITY
-============================================================ */
-.g-sec{padding:90px 0;position:relative;overflow:hidden}
-.g-wrap{max-width:1200px;margin:0 auto;padding:0 40px}
-.g-btn{
-  display:inline-flex;align-items:center;gap:8px;
-  padding:13px 28px;border-radius:50px;
-  font-family:'Nunito',sans-serif;font-weight:800;font-size:14px;
-  transition:all .25s;cursor:pointer;border:none;
-}
-.g-btn-blue{background:var(--blue);color:#fff;box-shadow:var(--shadow-blue)}
-.g-btn-blue:hover{background:var(--blue-dark);color:#fff;transform:translateY(-3px);box-shadow:0 18px 44px rgba(15,154,241,.32)}
-.g-btn-orange{background:var(--orange);color:#fff;box-shadow:var(--shadow-orange)}
-.g-btn-orange:hover{background:var(--orange-dark);color:#fff;transform:translateY(-3px);box-shadow:0 18px 44px rgba(253,126,20,.32)}
-.g-btn-outline{background:transparent;color:var(--dark);border:2px solid var(--dark)}
-.g-btn-outline:hover{background:var(--dark);color:#fff;transform:translateY(-3px)}
-.g-btn-white{background:#fff;color:var(--blue)}
-.g-btn-white:hover{background:var(--blue-light);color:var(--blue);transform:translateY(-3px)}
+        /* ── SCROLL ANIMATIONS ── */
+        .reveal {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: opacity 0.7s cubic-bezier(.22,1,.36,1), transform 0.7s cubic-bezier(.22,1,.36,1);
+        }
+        .reveal.revealed { opacity: 1; transform: none; }
+        .reveal-left  { opacity: 0; transform: translateX(-50px); transition: opacity 0.7s cubic-bezier(.22,1,.36,1), transform 0.7s cubic-bezier(.22,1,.36,1); }
+        .reveal-right { opacity: 0; transform: translateX(50px);  transition: opacity 0.7s cubic-bezier(.22,1,.36,1), transform 0.7s cubic-bezier(.22,1,.36,1); }
+        .reveal-left.revealed, .reveal-right.revealed { opacity: 1; transform: none; }
+        .reveal-scale { opacity: 0; transform: scale(0.88); transition: opacity 0.6s ease, transform 0.6s cubic-bezier(.34,1.56,.64,1); }
+        .reveal-scale.revealed { opacity: 1; transform: scale(1); }
 
-/* ============================================================
-   SCROLL ANIMATIONS
-============================================================ */
-[data-ani]{opacity:0;transition:opacity .65s ease,transform .65s ease}
-[data-ani="up"]{transform:translateY(48px)}
-[data-ani="left"]{transform:translateX(-55px)}
-[data-ani="right"]{transform:translateX(55px)}
-[data-ani="scale"]{transform:scale(.9)}
-[data-ani].on{opacity:1;transform:none}
-[data-delay="1"]{transition-delay:.1s}[data-delay="2"]{transition-delay:.2s}
-[data-delay="3"]{transition-delay:.3s}[data-delay="4"]{transition-delay:.4s}
-[data-delay="5"]{transition-delay:.5s}[data-delay="6"]{transition-delay:.6s}
+        .delay-1 { transition-delay: 0.1s !important; }
+        .delay-2 { transition-delay: 0.2s !important; }
+        .delay-3 { transition-delay: 0.3s !important; }
+        .delay-4 { transition-delay: 0.4s !important; }
+        .delay-5 { transition-delay: 0.5s !important; }
+        .delay-6 { transition-delay: 0.6s !important; }
 
-/* ============================================================
-   HERO
-============================================================ */
-.hero{
-  position:relative;min-height:88vh;
-  display:flex;align-items:center;
-  background:linear-gradient(120deg,var(--dark) 0%,var(--dark2) 100%);
-  overflow:hidden;
-}
-.hero-bg{
-  position:absolute;inset:0;
-  background-image:url('upload/bsc-nursing-head.webp');
-  background-size:cover;background-position:center;
-  opacity:.18;
-}
-.hero-dots{
-  position:absolute;inset:0;
-  background-image:radial-gradient(rgba(15,154,241,.15) 1.5px,transparent 1.5px);
-  background-size:36px 36px;pointer-events:none;
-}
-.hero-glow{
-  position:absolute;width:600px;height:600px;border-radius:50%;
-  background:radial-gradient(circle,rgba(15,154,241,.25) 0%,transparent 70%);
-  right:-100px;top:-100px;pointer-events:none;
-}
-.hero-glow2{
-  position:absolute;width:400px;height:400px;border-radius:50%;
-  background:radial-gradient(circle,rgba(253,126,20,.18) 0%,transparent 70%);
-  left:-80px;bottom:-80px;pointer-events:none;
-}
-.hero-inner{position:relative;z-index:2;display:grid;grid-template-columns:1fr 420px;gap:60px;align-items:center;width:100%;max-width:1200px;margin:0 auto;padding:230px 40px 40px}
-.hero-badge{
-  display:inline-flex;align-items:center;gap:8px;
-  background:rgba(15,154,241,.18);border:1px solid rgba(15,154,241,.35);
-  color:var(--blue);border-radius:50px;padding:7px 16px;
-  font-family:'Nunito',sans-serif;font-size:11px;font-weight:800;
-  letter-spacing:1.5px;text-transform:uppercase;margin-bottom:20px;
-}
-.hero-badge i{font-size:10px}
-.hero h1{
-  font-family:'Nunito',sans-serif;font-weight:900;
-  font-size:clamp(32px,4.5vw,60px);
-  color:#fff;line-height:1.1;margin-bottom:20px;
-}
-.hero h1 span{color:var(--blue)}
-.hero h1 .acc{color:var(--orange)}
-.hero-desc{font-size:16px;color:rgba(255,255,255,.7);line-height:1.78;margin-bottom:30px;max-width:540px}
-.hero-btns{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:40px}
-.hero-pills{display:flex;flex-wrap:wrap;gap:10px}
-.hero-pill{
-  display:flex;align-items:center;gap:7px;
-  background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);
-  border-radius:50px;padding:8px 16px;font-size:12px;
-  color:rgba(255,255,255,.8);font-weight:600;
-}
-.hero-pill i{color:var(--blue);font-size:11px}
-/* hero form card */
-.hero-form-card{    
-  border-radius:var(--r-lg);
-  padding: 26px;
-  align-self:start;
-}
-.hf-row{margin-bottom:14px}
-.hf-row label{display:block;font-size:11px;font-weight:700;color:rgba(255,255,255,.6);margin-bottom:5px;letter-spacing:.5px;text-transform:uppercase}
-.hf-row input,.hf-row select{
-  width:100%;padding:11px 16px;border-radius:10px;
-  background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);
-  color:#fff;font-family:'Nunito Sans',sans-serif;font-size:14px;
-  outline:none;transition:border-color .2s,background .2s;
-}
-.hf-row input::placeholder{color:rgba(255,255,255,.35)}
-.hf-row input:focus,.hf-row select:focus{border-color:var(--blue);background:rgba(15,154,241,.1)}
-.hf-row select option{background:var(--dark);color:#fff}
-.hf-submit{
-  width:100%;padding:14px;border-radius:12px;border:none;
-  background:linear-gradient(90deg,var(--blue),var(--orange));
-  color:#fff;font-family:'Nunito',sans-serif;font-weight:800;font-size:15px;
-  cursor:pointer;transition:opacity .2s,transform .2s;margin-top:6px;
-}
-.hf-submit:hover{opacity:.9;transform:translateY(-2px)}
-.hf-note{text-align:center;font-size:11px;color:rgba(255,255,255,.4);margin-top:10px}
+        /* ── HERO BANNER ── */
+        .page-banner {
+            position: relative;
+            min-height: 520px;
+            display: flex;
+            align-items: center;
+            overflow: hidden;
+            background: var(--dark);
+        }
+        .page-banner__bg {
+            position: absolute; inset: 0;
+            background-image: url('upload/gnm-head.webp');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.35;
+            transform: scale(1.05);
+            animation: kenBurns 18s ease-in-out infinite alternate;
+        }
+        @keyframes kenBurns {
+            0%   { transform: scale(1.05) translateX(0); }
+            100% { transform: scale(1.12) translateX(-20px); }
+        }
+        .page-banner__overlay {
+            position: absolute; inset: 0;
+            background: linear-gradient(120deg, rgba(0,0,0,0.85) 40%, rgba(0,123,255,0.18) 100%);
+        }
+        .page-banner__content {
+            position: relative; z-index: 2;
+            max-width: 1200px; margin: 0 auto;
+            padding: 80px 24px 80px;
+            display: flex; align-items: center; gap: 60px;
+        }
+        .banner-text { flex: 1; }
+        .banner-tag {
+            display: inline-flex; align-items: center; gap: 8px;
+            background: rgba(251,123,28,0.15);
+            border: 1px solid rgba(251,123,28,0.4);
+            color: var(--orange);
+            font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase;
+            padding: 6px 14px; border-radius: 100px;
+            margin-bottom: 18px;
+            animation: fadeSlideDown 0.7s ease both;
+        }
+        .banner-tag::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--orange); display: block; animation: pulse 1.8s infinite; }
+        @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.5;transform:scale(1.5)} }
+        @keyframes fadeSlideDown { from{opacity:0;transform:translateY(-20px)} to{opacity:1;transform:none} }
 
-/* ============================================================
-   TICKER
-============================================================ */
-.g-ticker{background:linear-gradient(90deg,var(--blue-dark),var(--blue));overflow:hidden;padding:0}
-.g-ticker-track{display:flex;white-space:nowrap;animation:tickerRun 28s linear infinite}
-.g-ticker-track:hover{animation-play-state:paused}
-.g-ticker-item{
-  display:inline-flex;align-items:center;gap:10px;
-  padding:16px 32px;border-right:1px solid rgba(255,255,255,.15);
-  font-size:12px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;
-  color:rgba(255,255,255,.8);white-space:nowrap;
-}
-.g-ticker-item span{font-family:'Nunito',sans-serif;font-size:20px;font-weight:900;color:#fff;line-height:1}
-.g-ticker-sep{color:var(--orange);font-size:18px;font-weight:900;padding:0 4px}
-@keyframes tickerRun{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+        .banner-title {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(2rem, 4.5vw, 3.6rem);
+            color: var(--white);
+            line-height: 1.15;
+            margin-bottom: 16px;
+            animation: fadeSlideUp 0.8s 0.1s ease both;
+        }
+        .banner-title span { color: var(--orange); }
+        @keyframes fadeSlideUp { from{opacity:0;transform:translateY(30px)} to{opacity:1;transform:none} }
 
-/* ============================================================
-   STATS BAND
-============================================================ */
-.stats-band{background:var(--grey);padding:50px 0}
-.stats-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px}
-.stat-card{
-  background:#fff;border-radius:var(--r);padding:28px 24px;text-align:center;
-  border:1.5px solid var(--border);transition:all .3s;position:relative;overflow:hidden;
-}
-.stat-card::after{
-  content:'';position:absolute;bottom:0;left:0;right:0;height:3px;
-  background:linear-gradient(90deg,var(--blue),var(--orange));
-  transform:scaleX(0);transform-origin:left;transition:transform .35s;
-}
-.stat-card:hover{transform:translateY(-6px);box-shadow:var(--shadow-md);border-color:var(--blue)}
-.stat-card:hover::after{transform:scaleX(1)}
-.stat-num{
-  font-family:'Nunito',sans-serif;font-size:40px;font-weight:900;
-  background:linear-gradient(135deg,var(--blue),var(--orange));
-  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
-  line-height:1;margin-bottom:6px;
-}
-.stat-label{font-size:13px;font-weight:700;color:var(--text);margin-bottom:3px}
-.stat-sub{font-size:11px;color:var(--text-light)}
+        .banner-subtitle {
+            color: rgba(255,255,255,0.7);
+            font-size: 1rem; line-height: 1.7;
+            max-width: 480px; margin-bottom: 30px;
+            animation: fadeSlideUp 0.8s 0.2s ease both;
+        }
+        .banner-btns { display: flex; gap: 12px; flex-wrap: wrap; animation: fadeSlideUp 0.8s 0.3s ease both; }
 
-/* ============================================================
-   ABOUT
-============================================================ */
-.about-sec{background:#fff}
-.about-grid{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:center}
-.about-imgs{position:relative;height:500px}
-.about-img-main{
-  position:absolute;top:0;left:0;width:73%;height:88%;
-  border-radius:20px;overflow:hidden;box-shadow:var(--shadow-md);
-}
-.about-img-main img,.about-img-sub img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .6s}
-.about-img-main:hover img,.about-img-sub:hover img{transform:scale(1.05)}
-.about-img-sub{
-  position:absolute;bottom:0;right:0;width:54%;height:56%;
-  border-radius:16px;overflow:hidden;border:5px solid #fff;box-shadow:var(--shadow-md);
-}
-.about-badge{
-  position:absolute;top:28px;right:-8px;z-index:2;
-  background:linear-gradient(135deg,var(--blue),var(--blue-dark));
-  color:#fff;border-radius:16px;padding:18px 22px;text-align:center;
-  box-shadow:var(--shadow-blue);
-}
-.about-badge strong{font-family:'Nunito',sans-serif;font-size:32px;font-weight:900;color:#fff;display:block;line-height:1}
-.about-badge span{font-size:11px;color:rgba(255,255,255,.75);letter-spacing:.5px}
-.about-desc p{font-size:15px;color:var(--text-light);line-height:1.85;margin-bottom:14px}
-.check-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:26px}
-.check-item{
-  display:flex;align-items:center;gap:10px;
-  background:var(--grey);border-radius:12px;padding:12px 14px;
-  border:1.5px solid var(--border);transition:all .25s;
-}
-.check-item:hover{background:var(--blue-light);border-color:var(--blue);transform:translateY(-2px)}
-.check-ico{
-  width:32px;height:32px;border-radius:9px;
-  background:linear-gradient(135deg,var(--blue),var(--blue-dark));
-  color:#fff;display:flex;align-items:center;justify-content:center;font-size:13px;flex-shrink:0;
-}
-.check-item:nth-child(even) .check-ico{background:linear-gradient(135deg,var(--orange),var(--orange-dark))}
-.check-text{font-size:13px;color:var(--dark);font-weight:700}
+        .btn-primary-gnc {
+            display: inline-flex; align-items: center; gap: 8px;
+            background: linear-gradient(135deg, var(--orange), #ff5c00);
+            color: #fff; font-weight: 700; font-size: 0.92rem;
+            padding: 13px 28px; border-radius: 8px;
+            text-decoration: none; border: none; cursor: pointer;
+            box-shadow: 0 8px 24px rgba(251,123,28,0.35);
+            transition: transform 0.25s, box-shadow 0.25s;
+        }
+        .btn-primary-gnc:hover { transform: translateY(-3px); box-shadow: 0 14px 32px rgba(251,123,28,0.45); }
 
-/* ============================================================
-   HIGHLIGHTS
-============================================================ */
-.hl-sec{background:linear-gradient(135deg,var(--dark) 0%,var(--dark2) 100%);position:relative;overflow:hidden}
-.hl-sec::before{
-  content:'';position:absolute;right:-150px;top:-150px;
-  width:500px;height:500px;border-radius:50%;
-  background:radial-gradient(circle,rgba(15,154,241,.15) 0%,transparent 70%);
-}
-.hl-sec::after{
-  content:'';position:absolute;left:-100px;bottom:-100px;
-  width:400px;height:400px;border-radius:50%;
-  background:radial-gradient(circle,rgba(253,126,20,.1) 0%,transparent 70%);
-}
-.hl-sec .g-tag{color:var(--orange)}
-.hl-sec .g-tag::before{background:var(--orange)}
-.hl-sec .g-heading{color:#fff}
-.hl-sec .g-sub{color:rgba(255,255,255,.6)}
-.hl-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;margin-top:46px;position:relative;z-index:1}
-.hl-card{
-  background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);
-  border-radius:20px;padding:30px 22px;text-align:center;
-  transition:all .3s;cursor:default;position:relative;overflow:hidden;
-}
-.hl-card:hover{background:rgba(15,154,241,.12);transform:translateY(-8px);border-color:rgba(15,154,241,.4);box-shadow:0 20px 50px rgba(15,154,241,.15)}
-.hl-ico{
-  width:64px;height:64px;border-radius:18px;
-  background:rgba(255,255,255,.08);
-  display:flex;align-items:center;justify-content:center;
-  font-size:28px;margin:0 auto 18px;transition:all .3s;
-}
-.hl-card:hover .hl-ico{background:rgba(15,154,241,.25)}
-.hl-title{font-family:'Nunito',sans-serif;font-size:15px;font-weight:800;color:#fff;margin-bottom:8px}
-.hl-desc{font-size:13px;color:rgba(255,255,255,.55);line-height:1.62}
+        .btn-secondary-gnc {
+            display: inline-flex; align-items: center; gap: 8px;
+            background: rgba(255,255,255,0.1); backdrop-filter: blur(8px);
+            color: #fff; font-weight: 600; font-size: 0.92rem;
+            padding: 13px 28px; border-radius: 8px;
+            text-decoration: none; border: 1px solid rgba(255,255,255,0.25);
+            transition: background 0.25s, transform 0.25s;
+        }
+        .btn-secondary-gnc:hover { background: rgba(255,255,255,0.18); transform: translateY(-3px); }
 
-/* ============================================================
-   CURRICULUM — INTERACTIVE TABS
-============================================================ */
-.curr-sec{background:var(--dark);position:relative;overflow:hidden}
-.curr-sec::before{
-  content:'';position:absolute;right:-200px;top:-200px;width:600px;height:600px;border-radius:50%;
-  background:rgba(255,255,255,.025);pointer-events:none;
-}
-.curr-sec .g-tag{color:var(--orange)}
-.curr-sec .g-tag::before{background:var(--orange)}
-.curr-sec .g-heading{color:#fff}
-.curr-sec .g-sub{color:rgba(255,255,255,.55)}
-.curr-tabs{display:flex;gap:8px;flex-wrap:wrap;margin-top:40px;margin-bottom:32px;position:relative;z-index:1}
-.curr-tab-btn{
-  padding:10px 24px;border-radius:50px;border:1.5px solid rgba(255,255,255,.15);
-  background:rgba(255,255,255,.06);color:rgba(255,255,255,.65);
-  font-family:'Nunito',sans-serif;font-size:13px;font-weight:700;cursor:pointer;
-  transition:all .25s;
-}
-.curr-tab-btn.active,.curr-tab-btn:hover{background:var(--blue);color:#fff;border-color:var(--blue);box-shadow:0 6px 20px rgba(15,154,241,.3)}
-.curr-pane{display:none;position:relative;z-index:1}
-.curr-pane.active{display:grid;grid-template-columns:1fr 1fr;gap:28px;animation:fadeUp .4s ease}
-@keyframes fadeUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:none}}
-.curr-content{
-  background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);
-  border-radius:20px;padding:32px;
-}
-.curr-year-badge{
-  display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.5px;
-  text-transform:uppercase;color:var(--orange);background:rgba(253,126,20,.12);
-  border-radius:50px;padding:5px 14px;margin-bottom:14px;
-}
-.curr-year-title{font-family:'Nunito',sans-serif;font-size:18px;font-weight:800;color:#fff;margin-bottom:16px}
-.curr-topics{padding:0;display:grid;grid-template-columns:1fr 1fr;gap:8px}
-.curr-topics li{
-  font-size:13px;color:rgba(255,255,255,.65);
-  display:flex;align-items:center;gap:8px;padding:8px 10px;
-  background:rgba(255,255,255,.04);border-radius:8px;
-  transition:background .2s,color .2s;
-}
-.curr-topics li:hover{background:rgba(15,154,241,.15);color:rgba(255,255,255,.9)}
-.curr-topics li i{color:var(--blue);font-size:10px;flex-shrink:0}
-.curr-sidebar{
-  background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);
-  border-radius:20px;padding:32px;display:flex;flex-direction:column;justify-content:space-between;
-}
-.curr-sidebar h4{font-family:'Nunito',sans-serif;font-size:17px;font-weight:800;color:#fff;margin-bottom:18px}
-.curr-feature{
-  display:flex;align-items:center;gap:14px;padding:14px;
-  background:rgba(255,255,255,.05);border-radius:12px;margin-bottom:10px;
-  transition:background .2s;
-}
-.curr-feature:hover{background:rgba(15,154,241,.15)}
-.curr-feature-ico{
-  width:36px;height:36px;border-radius:9px;
-  background:linear-gradient(135deg,var(--blue),var(--orange));
-  display:flex;align-items:center;justify-content:center;color:#fff;font-size:14px;flex-shrink:0;
-}
-.curr-feature-text{font-size:13px;color:rgba(255,255,255,.75);font-weight:600}
-.curr-cta{
-  padding:20px;border-radius:14px;
-  background:linear-gradient(135deg,var(--blue),var(--orange));
-  text-align:center;margin-top:16px;
-}
-.curr-cta p{font-size:13px;color:rgba(255,255,255,.85);margin-bottom:12px}
-.curr-cta a{
-  display:inline-flex;align-items:center;gap:6px;
-  background:#fff;color:var(--blue);
-  padding:9px 20px;border-radius:50px;font-family:'Nunito',sans-serif;font-size:13px;font-weight:800;
-  transition:all .2s;
-}
-.curr-cta a:hover{background:var(--blue-light)}
+        /* Banner Stats */
+        .banner-stats {
+            display: flex; gap: 24px; flex-wrap: wrap;
+            margin-top: 36px; padding-top: 30px;
+            border-top: 1px solid rgba(255,255,255,0.12);
+            animation: fadeSlideUp 0.8s 0.4s ease both;
+        }
+        .stat-item { text-align: left; }
+        .stat-num { font-family:'Playfair Display',serif; font-size: 2rem; font-weight: 800; color: var(--orange); line-height: 1; }
+        .stat-label { font-size: 0.78rem; color: rgba(255,255,255,0.55); margin-top: 4px; text-transform: uppercase; letter-spacing: .08em; }
 
-/* ============================================================
-   FEE & ELIGIBILITY
-============================================================ */
-.fee-sec{background:var(--grey)}
-.fee-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:40px;align-items:start}
-.fee-box{
-  background:#fff;border-radius:var(--r-lg);padding:38px;
-  box-shadow:var(--shadow-sm);border:1.5px solid var(--border);
-}
-.fee-box h3{font-family:'Nunito',sans-serif;font-size:22px;font-weight:900;color:var(--dark);margin-bottom:22px}
-.fee-tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px}
-.fee-tab-btn{
-  padding:9px 20px;border-radius:50px;border:1.5px solid var(--border);
-  background:#f4f7fb;font-family:'Nunito',sans-serif;font-size:13px;font-weight:700;
-  color:var(--text-light);cursor:pointer;transition:all .2s;
-}
-.fee-tab-btn.active,.fee-tab-btn:hover{background:var(--blue);color:#fff;border-color:var(--blue);box-shadow:0 6px 18px rgba(15,154,241,.25)}
-.fee-pane{display:none}
-.fee-pane.active{display:block;animation:fadeUp .35s ease}
-.elig-note{
-  background:linear-gradient(90deg,var(--blue-light),#fff);
-  border-left:4px solid var(--blue);border-radius:0 12px 12px 0;
-  padding:14px 18px;font-size:13.5px;color:var(--dark);line-height:1.6;margin-bottom:18px;
-}
-.g-table{width:100%;border-collapse:collapse;font-size:13.5px;margin-bottom:20px;border-radius:12px;overflow:hidden}
-.g-table thead tr{background:linear-gradient(90deg,var(--dark),var(--dark2))}
-.g-table th{padding:12px 14px;color:#fff;font-weight:700;font-size:12px;letter-spacing:.4px;text-align:left}
-.g-table td{padding:11px 14px;color:var(--text);border-bottom:1px solid var(--border)}
-.g-table tbody tr:hover{background:var(--blue-light)}
-.dl-btn{
-  display:inline-flex;align-items:center;gap:8px;
-  padding:10px 22px;background:var(--dark);color:#fff;
-  border-radius:50px;font-family:'Nunito',sans-serif;font-size:13px;font-weight:700;
-  transition:all .2s;margin-bottom:22px;
-}
-.dl-btn:hover{background:var(--blue);transform:translateY(-2px);color:#fff;box-shadow:var(--shadow-blue)}
+        /* Banner image card */
+        .banner-image-card {
+            flex: 0 0 380px; position: relative;
+            animation: fadeSlideUp 0.9s 0.3s ease both;
+        }
+        .banner-image-card img {
+            width: 100%; border-radius: 16px;
+            box-shadow: 0 30px 70px rgba(0,0,0,0.5);
+            display: block;
+        }
+        .banner-image-card::before {
+            content: ''; position: absolute;
+            inset: -10px -10px auto auto; width: 80px; height: 80px;
+            background: var(--orange); border-radius: 50%; opacity: 0.15;
+            z-index: -1;
+        }
 
-/* video + note card */
-.vid-wrap{border-radius:var(--r-lg);overflow:hidden;box-shadow:var(--shadow-md);margin-bottom:20px;aspect-ratio:16/9;position:relative}
-.vid-wrap iframe{position:absolute;inset:0;width:100%;height:100%;border:none}
-.note-card{background:#fff;border-radius:var(--r);padding:22px;border:1.5px solid var(--border);box-shadow:var(--shadow-sm)}
-.note-card h4{font-family:'Nunito',sans-serif;font-size:16px;font-weight:900;color:var(--dark);margin-bottom:12px}
-.note-card ul{padding-left:0}
-.note-card li{
-  display:flex;align-items:flex-start;gap:8px;
-  font-size:13px;color:var(--text-light);line-height:1.6;padding:6px 0;
-  border-bottom:1px solid var(--border);
-}
-.note-card li:last-child{border-bottom:none}
-.note-card li i{color:var(--orange);font-size:11px;margin-top:4px;flex-shrink:0}
+        /* ── ABOUT SECTION ── */
+        .about-section {
+            background: var(--off-white);
+            padding: 70px 24px;
+        }
+        .container-gnc { max-width: 1200px; margin: 0 auto; }
 
-/* ============================================================
-   SCHOLARSHIPS
-============================================================ */
-.scholar-sec{background:#fff}
-.sc-cards{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin-top:46px}
-.sc-card{
-  border-radius:var(--r-lg);padding:26px 16px;text-align:center;
-  border:1.5px solid var(--border);background:var(--grey);
-  position:relative;overflow:hidden;transition:all .3s;cursor:default;
-}
-.sc-card::before{
-  content:'';position:absolute;inset:0;
-  background:linear-gradient(135deg,var(--blue),var(--orange));
-  opacity:0;transition:opacity .35s;
-}
-.sc-card:hover{transform:translateY(-8px);box-shadow:var(--shadow-blue);border-color:var(--blue)}
-.sc-card:hover::before{opacity:1}
-.sc-card:hover .sc-pct,.sc-card:hover .sc-range,.sc-card:hover .sc-lbl{color:#fff}
-.sc-pct{
-  font-family:'Nunito',sans-serif;font-size:42px;font-weight:900;
-  color:var(--blue);line-height:1;margin-bottom:6px;position:relative;z-index:1;transition:color .3s;
-}
-.sc-card.featured .sc-pct{color:var(--orange)}
-.sc-range{font-size:11px;color:var(--text-light);margin-bottom:6px;position:relative;z-index:1;font-weight:600;transition:color .3s}
-.sc-lbl{font-size:12px;font-weight:800;color:var(--dark);position:relative;z-index:1;transition:color .3s}
-.extra-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:26px}
-.ex-item{
-  display:flex;align-items:center;gap:12px;
-  padding:14px 16px;border-radius:12px;background:var(--grey);border:1.5px solid var(--border);transition:all .25s;
-}
-.ex-item:hover{transform:translateX(6px);background:var(--blue-light);border-color:var(--blue)}
-.ex-ico{width:36px;height:36px;border-radius:9px;background:linear-gradient(135deg,var(--blue),var(--orange));color:#fff;display:flex;align-items:center;justify-content:center;font-size:14px;flex-shrink:0}
-.ex-text{font-size:13px;color:var(--dark);font-weight:700}
+        .section-label {
+            display: inline-block;
+            font-size: 0.75rem; font-weight: 700; letter-spacing: .14em;
+            text-transform: uppercase; color: var(--orange);
+            margin-bottom: 10px;
+        }
+        .section-label::before { content: '— '; }
 
-/* ============================================================
-   CAMPUS
-============================================================ */
-.campus-sec{background:var(--grey)}
-.mosaic{display:grid;grid-template-columns:1fr 1fr 1fr;grid-template-rows:240px 240px;gap:14px;margin-top:48px}
-.mosaic-item{border-radius:var(--r);overflow:hidden;position:relative}
-.mosaic-item.big{grid-row:span 2}
-.mosaic-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s}
-.mosaic-item:hover img{transform:scale(1.06)}
-.mosaic-cap{
-  position:absolute;inset:0;
-  background:linear-gradient(180deg,transparent 50%,rgba(10,22,40,.75));
-  opacity:0;transition:opacity .3s;display:flex;align-items:flex-end;padding:16px;
-}
-.mosaic-item:hover .mosaic-cap{opacity:1}
-.mosaic-lbl{
-  font-family:'Nunito',sans-serif;font-size:14px;font-weight:800;color:#fff;
-  transform:translateY(8px);transition:transform .3s;
-}
-.mosaic-item:hover .mosaic-lbl{transform:translateY(0)}
-.cf-row{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:24px}
-.cf-item{
-  text-align:center;padding:22px 14px;border-radius:var(--r);
-  border:1.5px solid var(--border);background:#fff;transition:all .3s;
-}
-.cf-item:hover{transform:translateY(-5px);box-shadow:var(--shadow-md);border-color:var(--blue)}
-.cf-ico{font-size:28px;margin-bottom:10px}
-.cf-title{font-family:'Nunito',sans-serif;font-size:13px;font-weight:800;color:var(--dark);margin-bottom:3px}
-.cf-sub{font-size:12px;color:var(--text-light)}
+        .section-title {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(1.7rem, 3vw, 2.5rem);
+            color: var(--dark); line-height: 1.2; margin-bottom: 16px;
+        }
+        .section-title span { color: var(--blue); }
 
-/* ============================================================
-   CAREER
-============================================================ */
-.career-sec{background:#fff}
-.career-grid{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:center}
-.career-imgs{position:relative;height:500px}
-.career-img1{position:absolute;top:0;left:0;width:68%;height:78%;border-radius:20px;overflow:hidden;box-shadow:var(--shadow-md)}
-.career-img1 img,.career-img2 img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .6s}
-.career-img1:hover img,.career-img2:hover img{transform:scale(1.05)}
-.career-img2{position:absolute;bottom:0;right:0;width:55%;height:52%;border-radius:16px;overflow:hidden;border:5px solid #fff;box-shadow:var(--shadow-md)}
-.career-badge{
-  position:absolute;top:32px;right:-4px;z-index:2;
-  background:linear-gradient(135deg,var(--orange),var(--orange-dark));
-  color:#fff;border-radius:14px;padding:16px 20px;text-align:center;box-shadow:var(--shadow-orange);
-}
-.career-badge strong{font-family:'Nunito',sans-serif;font-size:26px;font-weight:900;color:#fff;display:block}
-.career-badge span{font-size:11px;color:rgba(255,255,255,.8);font-weight:700}
-.career-list{display:grid;gap:12px}
-.career-item{
-  display:flex;align-items:flex-start;gap:14px;
-  padding:16px 18px;background:var(--grey);border-radius:12px;
-  border:1.5px solid var(--border);transition:all .3s;
-}
-.career-item:hover{transform:translateX(6px);border-color:var(--blue);box-shadow:var(--shadow-blue);background:#fff}
-.career-ico{
-  width:40px;height:40px;border-radius:10px;
-  background:var(--blue-light);color:var(--blue);
-  display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0;transition:all .3s;
-}
-.career-item:hover .career-ico{background:var(--blue);color:#fff}
-.career-title{font-family:'Nunito',sans-serif;font-size:14px;font-weight:800;color:var(--dark);margin-bottom:3px}
-.career-desc{font-size:13px;color:var(--text-light);line-height:1.5}
+        .about-grid {
+            display: grid; grid-template-columns: 1fr 1fr; gap: 60px;
+            align-items: center;
+        }
+        .about-text p {
+            color: var(--text-light); line-height: 1.8; font-size: 1rem; margin-bottom: 16px;
+        }
+        .about-image { position: relative; }
+        .about-image img { width: 100%; border-radius: 16px; display: block; }
+        .about-image-badge {
+            position: absolute; bottom: -20px; right: -20px;
+            background: linear-gradient(135deg, var(--orange), #ff5c00);
+            color: white; padding: 18px 22px; border-radius: 12px;
+            text-align: center; box-shadow: 0 12px 30px rgba(251,123,28,0.3);
+        }
+        .about-image-badge strong { display: block; font-size: 1.8rem; font-weight: 800; line-height: 1; }
+        .about-image-badge span { font-size: 0.7rem; opacity: .85; text-transform: uppercase; letter-spacing: .05em; }
 
-/* ============================================================
-   BENTO
-============================================================ */
-.bento-wrap{background:var(--grey);padding:90px 0}
-.bento-grid{display:grid;grid-template-columns:1.35fr 1fr;gap:24px}
-.bento-notes{
-  background:linear-gradient(135deg,var(--dark),var(--dark2));
-  border-radius:var(--r-lg);padding:38px;grid-row:span 2;
-  border:1px solid rgba(15,154,241,.2);box-shadow:var(--shadow-blue);
-}
-.bento-notes h3{font-family:'Nunito',sans-serif;font-size:22px;font-weight:900;color:#fff;margin-bottom:22px}
-.notes-list li{
-  font-size:14px;color:rgba(255,255,255,.78);
-  padding:11px 0;border-bottom:1px solid rgba(255,255,255,.08);
-  display:flex;gap:10px;line-height:1.55;
-}
-.notes-list li:last-child{border-bottom:none}
-.notes-list li i{color:var(--orange);flex-shrink:0;margin-top:3px;font-size:12px}
-.kalpana-card{
-  background:#fff;border-radius:var(--r-lg);padding:30px;
-  border:1.5px solid var(--border);box-shadow:var(--shadow-sm);
-}
-.kalpana-card .g-tag{color:var(--orange)}
-.kalpana-card .g-tag::before{background:var(--orange)}
-.kalpana-card h3{font-family:'Nunito',sans-serif;font-size:19px;font-weight:900;color:var(--dark);margin-bottom:8px}
-.kalpana-card p{font-size:14px;color:var(--text-light);line-height:1.72}
-.admission-card{
-  background:linear-gradient(135deg,var(--blue),var(--blue-dark));
-  border-radius:var(--r-lg);padding:30px;
-  display:flex;flex-direction:column;justify-content:space-between;
-  box-shadow:var(--shadow-blue);
-}
-.admission-card h3{font-family:'Nunito',sans-serif;font-size:20px;font-weight:900;color:#fff;margin-bottom:8px}
-.admission-card p{font-size:14px;color:rgba(255,255,255,.7);line-height:1.7;margin-bottom:20px}
+        /* ── FEE + ELIGIBILITY ── */
+        .fee-section {
+            background: var(--white);
+            padding: 70px 24px;
+        }
+        .fee-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 50px; align-items: start; }
 
-/* ============================================================
-   WHY GNC
-============================================================ */
-.why-sec{background:var(--dark);position:relative;overflow:hidden}
-.why-sec::before{
-  content:'';position:absolute;width:700px;height:700px;border-radius:50%;
-  background:radial-gradient(circle,rgba(15,154,241,.12) 0%,transparent 70%);
-  top:-200px;right:-150px;pointer-events:none;
-}
-.why-inner{display:grid;grid-template-columns:1fr 1fr;gap:80px;align-items:center}
-.why-sec .g-tag{color:var(--orange)}
-.why-sec .g-tag::before{background:var(--orange)}
-.why-sec .g-heading{color:#fff}
-.why-text p{font-size:15px;color:rgba(255,255,255,.68);line-height:1.82;margin-bottom:14px}
-.why-list{padding:0;margin:20px 0 28px}
-.why-list li{
-  display:flex;align-items:flex-start;gap:14px;
-  padding:12px 0;border-bottom:1px solid rgba(255,255,255,.08);
-  font-size:14px;color:rgba(255,255,255,.82);line-height:1.5;
-}
-.why-chk{
-  width:22px;height:22px;border-radius:50%;
-  background:rgba(15,154,241,.18);border:1.5px solid var(--blue);
-  display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;
-}
-.why-chk i{font-size:9px;color:var(--blue)}
-.why-imgs{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:220px 220px;gap:12px}
-.why-imgs div{border-radius:14px;overflow:hidden}
-.why-imgs div img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s}
-.why-imgs div:hover img{transform:scale(1.06)}
-.why-imgs div:first-child{grid-row:span 2;border-radius:18px}
+        .tab-nav {
+            display: flex; gap: 0; margin-bottom: 24px;
+            border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+        }
+        .tab-btn {
+            flex: 1; padding: 12px 20px; font-size: 0.88rem; font-weight: 600;
+            background: none; border: none; cursor: pointer; color: var(--text-light);
+            transition: all 0.25s; font-family: 'DM Sans', sans-serif;
+        }
+        .tab-btn.active { background: linear-gradient(135deg, var(--orange), #ff5c00); color: white; }
 
-/* ============================================================
-   PROCESS STEPS
-============================================================ */
-.process-sec{background:#fff}
-.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;margin-top:56px;position:relative}
-.steps::before{
-  content:'';position:absolute;top:35px;left:12%;right:12%;height:2px;
-  background:linear-gradient(90deg,var(--blue),var(--orange));z-index:0;
-}
-.step{text-align:center;position:relative;z-index:1}
-.step-num{
-  width:70px;height:70px;border-radius:50%;background:#fff;
-  border:3px solid var(--blue);
-  font-family:'Nunito',sans-serif;font-size:24px;font-weight:900;color:var(--blue);
-  display:flex;align-items:center;justify-content:center;
-  margin:0 auto 20px;box-shadow:var(--shadow-blue);transition:all .3s;
-}
-.step:hover .step-num{background:linear-gradient(135deg,var(--blue),var(--orange));color:#fff;border-color:transparent;transform:scale(1.12)}
-.step-title{font-family:'Nunito',sans-serif;font-size:15px;font-weight:800;color:var(--dark);margin-bottom:8px}
-.step-desc{font-size:13px;color:var(--text-light);line-height:1.6;padding:0 8px}
+        .tab-pane-gnc { display: none; }
+        .tab-pane-gnc.active { display: block; }
 
-/* ============================================================
-   INTERACTIVE FAQ
-============================================================ */
-.faq-sec{background:var(--grey)}
-.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:46px}
-.faq-item{
-  background:#fff;border-radius:14px;border:1.5px solid var(--border);
-  overflow:hidden;transition:border-color .25s,box-shadow .25s;
-}
-.faq-item.open{border-color:var(--blue);box-shadow:0 6px 24px rgba(15,154,241,.12)}
-.faq-q{
-  display:flex;align-items:center;justify-content:space-between;gap:12px;
-  padding:18px 20px;cursor:pointer;
-  font-family:'Nunito',sans-serif;font-size:14px;font-weight:800;color:var(--dark);
-  transition:color .2s;user-select:none;
-}
-.faq-item.open .faq-q{color:var(--blue)}
-.faq-q-ico{
-  width:28px;height:28px;border-radius:50%;border:1.5px solid var(--border);
-  display:flex;align-items:center;justify-content:center;
-  font-size:12px;color:var(--text-light);flex-shrink:0;transition:all .25s;
-}
-.faq-item.open .faq-q-ico{background:var(--blue);border-color:var(--blue);color:#fff;transform:rotate(45deg)}
-.faq-a{
-  max-height:0;overflow:hidden;transition:max-height .4s ease,padding .3s;
-  font-size:13.5px;color:var(--text-light);line-height:1.72;padding:0 20px;
-}
-.faq-item.open .faq-a{max-height:200px;padding:0 20px 18px}
+        .eligibility-box {
+            background: linear-gradient(135deg, #eef6ff, #dceeff);
+            border-left: 4px solid var(--blue);
+            border-radius: 10px; padding: 18px 20px; margin-bottom: 20px;
+            font-size: 0.9rem; line-height: 1.7; color: var(--text);
+        }
+        .eligibility-box p { margin-bottom: 8px; }
+        .eligibility-box p:last-child { margin: 0; }
 
-/* ============================================================
-   CTA
-============================================================ */
-.cta-sec{
-  padding:80px 0;text-align:center;position:relative;overflow:hidden;
-  background:linear-gradient(135deg,var(--blue),var(--orange));
-}
-.cta-sec::before{
-  content:'';position:absolute;width:500px;height:500px;border-radius:50%;
-  background:rgba(255,255,255,.08);top:-200px;right:-100px;pointer-events:none;
-}
-.cta-sec::after{
-  content:'';position:absolute;width:350px;height:350px;border-radius:50%;
-  background:rgba(255,255,255,.06);bottom:-150px;left:-80px;pointer-events:none;
-}
-.cta-sec h2{font-family:'Nunito',sans-serif;font-size:clamp(26px,3.5vw,42px);font-weight:900;color:#fff;margin-bottom:14px;position:relative;z-index:1}
-.cta-sec p{font-size:16px;color:rgba(255,255,255,.85);margin-bottom:32px;position:relative;z-index:1}
-.cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}
-.cta-btn-white{
-  padding:14px 32px;border-radius:50px;background:#fff;color:var(--blue);
-  font-family:'Nunito',sans-serif;font-weight:900;font-size:15px;
-  transition:all .2s;box-shadow:0 8px 24px rgba(0,0,0,.15);
-}
-.cta-btn-white:hover{background:var(--blue-light);transform:translateY(-3px);color:var(--blue)}
-.cta-btn-dark{
-  padding:14px 32px;border-radius:50px;background:rgba(10,22,40,.4);color:#fff;
-  font-family:'Nunito',sans-serif;font-weight:800;font-size:15px;border:2px solid rgba(255,255,255,.4);
-  transition:all .2s;
-}
-.cta-btn-dark:hover{background:rgba(10,22,40,.7);transform:translateY(-3px);color:#fff}
+        .fee-table {
+            width: 100%; border-collapse: collapse; font-size: 0.88rem; margin-bottom: 20px;
+        }
+        .fee-table th {
+            background: var(--dark); color: white; padding: 11px 14px; text-align: left; font-weight: 600;
+        }
+        .fee-table td { padding: 10px 14px; border-bottom: 1px solid var(--border); }
+        .fee-table tr:last-child td { border: none; }
+        .fee-table tr:hover td { background: #f5f7fa; }
+        .fee-table .note-row td { background: #fffbf5; font-size: 0.8rem; color: var(--text-light); }
 
-/* ============================================================
-   RESPONSIVE
-============================================================ */
-@media(max-width:1024px){
-  .hero-inner{grid-template-columns:1fr;gap:40px; padding: 180px 15px;}
-  .hero-form-card{max-width:360px}
-  .hl-grid{grid-template-columns:1fr 1fr}
-  .curr-pane.active{grid-template-columns:1fr}
-  .sc-cards{grid-template-columns:repeat(3,1fr)}
-  .cf-row{grid-template-columns:1fr 1fr}
-  .why-inner{grid-template-columns:1fr}
-  .why-imgs{display:none}
-}
-@media(max-width:768px){
-  .about-grid,.fee-grid,.career-grid,.bento-grid{grid-template-columns:1fr}
-  .about-imgs{height:320px}
-  .about-badge{display:none}
-  .hl-grid,.steps{grid-template-columns:1fr 1fr}
-  .steps::before{display:none}
-  .sc-cards{grid-template-columns:1fr 1fr}
-  .extra-grid{grid-template-columns:1fr}
-  .mosaic{grid-template-columns:1fr 1fr;grid-template-rows:200px 200px 200px}
-  .mosaic-item.big{grid-row:span 1}
-  .cf-row{grid-template-columns:1fr 1fr}
-  .g-wrap{padding:0 20px}
-  .check-grid{grid-template-columns:1fr}
-  .career-imgs{height:320px}
-  .career-badge{display:none}
-  .bento-notes{grid-row:span 1}
-  .faq-grid{grid-template-columns:1fr}
-  .stats-grid{grid-template-columns:1fr 1fr}
-}
-@media(max-width:500px){
-  .hl-grid,.steps,.sc-cards{grid-template-columns:1fr}
-  .curr-tabs{gap:6px}
-  .hero-pills{gap:6px}
-}
-/* Curriculum image gallery */
-.curr-pane-gallery.active{display:block;animation:fadeUp .4s ease}
-.curr-gallery{
-  display:grid;
-  grid-template-columns:repeat(4,1fr);
-  gap:14px;
-}
-.curr-gallery-item{
-  position:relative;border-radius:12px;overflow:hidden;
-  aspect-ratio:4/3;cursor:pointer;
-}
-.curr-gallery-item img{
-  width:100%;height:100%;object-fit:cover;display:block;
-  transition:transform .45s ease;
-}
-.curr-gallery-item:hover img{transform:scale(1.08)}
-.curr-gallery-cap{
-  position:absolute;bottom:0;left:0;right:0;
-  padding:10px 12px;
-  background:linear-gradient(0deg,rgba(10,22,40,.85) 0%,transparent 100%);
-  font-family:'Nunito',sans-serif;font-size:12px;font-weight:700;
-  color:#fff;opacity:0;transform:translateY(6px);
-  transition:opacity .3s,transform .3s;
-}
-.curr-gallery-item:hover .curr-gallery-cap{opacity:1;transform:translateY(0)}
-</style>
+        .scholarship-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 10px; }
+        .sch-card {
+            background: linear-gradient(135deg, var(--off-white), #eef2f8);
+            border-radius: 10px; padding: 14px 12px; text-align: center;
+            border: 1px solid var(--border);
+            transition: transform 0.25s, box-shadow 0.25s;
+        }
+        .sch-card:hover { transform: translateY(-4px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); }
+        .sch-card .pct { font-size: 1.5rem; font-weight: 800; color: var(--orange); display: block; }
+        .sch-card .range { font-size: 0.7rem; color: var(--text-light); margin-top: 4px; }
+
+        /* Video + Note */
+        .video-wrap {
+            border-radius: 16px; overflow: hidden;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.12);
+            aspect-ratio: 16/9; margin-bottom: 20px;
+        }
+        .video-wrap iframe { width: 100%; height: 100%; border: none; }
+
+        .note-card {
+            background: linear-gradient(135deg, var(--dark), var(--mid));
+            border-radius: 14px; padding: 24px;
+            color: white;
+        }
+        .note-card h4 { font-size: 1rem; font-weight: 700; margin-bottom: 14px; color: var(--orange); }
+        .note-card li { margin-bottom: 10px; font-size: 0.88rem; color: rgba(255,255,255,0.75); padding-left: 18px; position: relative; }
+        .note-card li::before { content: '›'; position: absolute; left: 0; color: var(--orange); font-weight: 700; }
+        .note-card ol { margin: 8px 0 0 16px; }
+        .note-card ol li::before { display: none; }
+        .note-card ol li { list-style: decimal; padding-left: 0; }
+
+        /* ── ACADEMIC NOTES ── */
+        .academic-section {
+            padding: 70px 24px;
+            background: linear-gradient(135deg, var(--dark) 0%, var(--mid) 100%);
+            position: relative; overflow: hidden;
+        }
+        .academic-section::before {
+            content: '';
+            position: absolute; top: -100px; right: -100px;
+            width: 400px; height: 400px; border-radius: 50%;
+            background: radial-gradient(circle, rgba(251,123,28,0.12), transparent 70%);
+        }
+        .academic-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; }
+
+        .ac-card {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px; padding: 28px;
+            backdrop-filter: blur(10px);
+            transition: transform 0.3s, border-color 0.3s, background 0.3s;
+        }
+        .ac-card:hover { transform: translateY(-6px); border-color: var(--orange); background: rgba(255,255,255,0.08); }
+        .ac-card.wide { grid-column: span 2; }
+        .ac-icon { width: 44px; height: 44px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 16px; font-size: 1.1rem; }
+        .ac-icon.orange { background: rgba(251,123,28,0.2); color: var(--orange); }
+        .ac-icon.blue   { background: rgba(0,123,255,0.2); color: var(--blue); }
+        .ac-card h4 { font-size: 1rem; font-weight: 700; color: white; margin-bottom: 12px; }
+        .ac-card ul { padding: 0; list-style: none; }
+        .ac-card ul li {
+            font-size: 0.85rem; color: rgba(255,255,255,0.65);
+            padding: 7px 0; border-bottom: 1px solid rgba(255,255,255,0.06);
+            padding-left: 16px; position: relative;
+        }
+        .ac-card ul li:last-child { border: none; }
+        .ac-card ul li::before { content: '›'; position: absolute; left: 0; color: var(--orange); }
+        .ac-card p { font-size: 0.88rem; color: rgba(255,255,255,0.65); line-height: 1.7; }
+        .ac-card .highlight { color: var(--orange); font-weight: 700; }
+
+        /* ── CAREER SECTION ── */
+        .career-section { padding: 70px 24px; background: var(--off-white); }
+        .career-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; }
+        .career-text p { font-size: 1rem; color: var(--text-light); line-height: 1.8; margin-bottom: 14px; }
+
+        .career-cards-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 24px; }
+        .career-card {
+            background: white; border-radius: 12px; padding: 18px;
+            border: 1px solid var(--border);
+            display: flex; gap: 14px; align-items: flex-start;
+            transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+        }
+        .career-card:hover { transform: translateY(-4px); box-shadow: 0 10px 28px rgba(0,0,0,0.08); border-color: var(--orange); }
+        .career-icon { width: 40px; height: 40px; border-radius: 10px; background: linear-gradient(135deg, rgba(251,123,28,0.12), rgba(251,123,28,0.05)); display: flex; align-items: center; justify-content: center; flex-shrink: 0; color: var(--orange); }
+        .career-card h5 { font-size: 0.85rem; font-weight: 700; color: var(--dark); margin-bottom: 4px; }
+        .career-card p { font-size: 0.78rem; color: var(--text-light); line-height: 1.5; margin: 0; }
+
+        /* ── WHY JOIN ── */
+        .why-section {
+            padding: 70px 24px;
+            background: linear-gradient(135deg, var(--blue) 0%, #0050cc 100%);
+            position: relative; overflow: hidden;
+        }
+        .why-section::after {
+            content: '';
+            position: absolute; bottom: -80px; right: -80px;
+            width: 300px; height: 300px; border-radius: 50%;
+            background: rgba(255,255,255,0.05);
+        }
+        .why-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 60px; align-items: center; }
+        .why-text .section-title { color: white; }
+        .why-text .section-label { color: rgba(255,255,255,0.7); }
+        .why-text p { color: rgba(255,255,255,0.75); line-height: 1.8; font-size: 1rem; margin-bottom: 16px; }
+
+        .benefits-list { display: grid; grid-template-columns: 1fr; gap: 12px; margin-top: 20px; }
+        .benefit-item {
+            display: flex; align-items: flex-start; gap: 14px;
+            background: rgba(255,255,255,0.08); border-radius: 10px; padding: 14px 16px;
+            border: 1px solid rgba(255,255,255,0.12);
+            transition: background 0.25s, transform 0.25s;
+        }
+        .benefit-item:hover { background: rgba(255,255,255,0.14); transform: translateX(6px); }
+        .benefit-check { width: 28px; height: 28px; border-radius: 50%; background: rgba(251,123,28,0.25); color: var(--orange); display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 0.75rem; }
+        .benefit-item p { color: rgba(255,255,255,0.8); font-size: 0.88rem; line-height: 1.6; margin: 0; }
+
+        .why-image-card { position: relative; }
+        .why-image-card img { width: 100%; border-radius: 20px; display: block; box-shadow: 0 30px 60px rgba(0,0,0,0.3); }
+        .why-floating-badge {
+            position: absolute; top: -16px; right: -16px;
+            background: var(--orange); color: white;
+            padding: 14px 20px; border-radius: 12px;
+            font-weight: 800; font-size: 1.6rem; line-height: 1;
+            box-shadow: 0 10px 28px rgba(251,123,28,0.4);
+        }
+        .why-floating-badge small { display: block; font-size: 0.7rem; font-weight: 400; opacity: .8; margin-top: 2px; }
+
+        /* ── ADMISSION PROCESS ── */
+        .admission-section { padding: 70px 24px; background: white; }
+        .steps-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 24px; margin-top: 48px; position: relative; }
+        .steps-grid::before {
+            content: ''; position: absolute; top: 28px; left: 10%; right: 10%;
+            height: 2px; background: linear-gradient(90deg, var(--orange), var(--blue));
+            z-index: 0;
+        }
+        .step-card {
+            position: relative; z-index: 1; text-align: center;
+            transition: transform 0.3s;
+        }
+        .step-card:hover { transform: translateY(-8px); }
+        .step-num {
+            width: 56px; height: 56px; border-radius: 50%;
+            background: linear-gradient(135deg, var(--orange), #ff5c00);
+            color: white; font-weight: 800; font-size: 1.2rem;
+            display: flex; align-items: center; justify-content: center;
+            margin: 0 auto 18px; box-shadow: 0 8px 22px rgba(251,123,28,0.35);
+        }
+        .step-card h5 { font-size: 0.9rem; font-weight: 700; color: var(--dark); margin-bottom: 8px; }
+        .step-card p { font-size: 0.8rem; color: var(--text-light); line-height: 1.6; }
+
+        /* ── CTA STRIP ── */
+        .cta-strip {
+            background: linear-gradient(135deg, var(--orange), #ff5c00);
+            padding: 50px 24px;
+            text-align: center;
+        }
+        .cta-strip h2 { font-family: 'Playfair Display',serif; font-size: clamp(1.6rem,3vw,2.4rem); color: white; margin-bottom: 10px; }
+        .cta-strip p { color: rgba(255,255,255,0.85); margin-bottom: 24px; font-size: 1rem; }
+        .btn-white-gnc {
+            display: inline-flex; align-items: center; gap: 8px;
+            background: white; color: var(--orange); font-weight: 700; font-size: 0.95rem;
+            padding: 14px 32px; border-radius: 8px; text-decoration: none;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+            transition: transform 0.25s, box-shadow 0.25s;
+        }
+        .btn-white-gnc:hover { transform: translateY(-3px); box-shadow: 0 14px 36px rgba(0,0,0,0.2); }
+
+        /* ── DOWNLOAD FEE BTN ── */
+        .btn-download-gnc {
+            display: inline-flex; align-items: center; gap: 8px;
+            background: linear-gradient(135deg, var(--blue), #0050cc);
+            color: white; font-weight: 600; font-size: 0.85rem;
+            padding: 10px 20px; border-radius: 8px; text-decoration: none;
+            margin-bottom: 20px;
+            box-shadow: 0 6px 18px rgba(0,123,255,0.25);
+            transition: transform 0.2s;
+        }
+        .btn-download-gnc:hover { transform: translateY(-2px); }
+
+        /* ── RESPONSIVE ── */
+        @media (max-width: 1024px) {
+            .page-banner__content { flex-direction: column; }
+            .banner-image-card { display: none; }
+            .about-grid, .fee-grid, .career-grid, .why-grid { grid-template-columns: 1fr; }
+            .academic-grid { grid-template-columns: 1fr; }
+            .ac-card.wide { grid-column: span 1; }
+            .steps-grid { grid-template-columns: 1fr 1fr; }
+            .steps-grid::before { display: none; }
+        }
+        @media (max-width: 640px) {
+            .career-cards-grid { grid-template-columns: 1fr; }
+            .scholarship-grid { grid-template-columns: 1fr 1fr; }
+            .steps-grid { grid-template-columns: 1fr; }
+            .tab-nav { flex-direction: column; }
+        }
+    </style>
 </head>
 <body>
 
-<?php require "common/header.php"; ?>
-<main style="overflow-x: hidden; position: relative; width: 100%;">
-
-<!-- ══════════════ HERO ══════════════ -->
-<section class="hero">
-  <div class="hero-bg"></div>
-  <div class="hero-dots"></div>
-  <div class="hero-glow"></div>
-  <div class="hero-glow2"></div>
-  <div class="hero-inner">
-    <div>
-      <div class="hero-badge"><i class="fas fa-award"></i> INC Approved · HNBGU Affiliated</div>
-      <h1>Bachelor of <span>Science in</span><br><span class="acc">Nursing</span></h1>
-      <p class="hero-desc">Join Guru Nanak College — Dehradun's most trusted name in healthcare education. A 4-year program built to transform you into a compassionate, clinically skilled nursing professional.</p>
-      <div class="hero-btns">
-        <a href="https://application.gnc.edu.in/" target="_blank" class="g-btn g-btn-blue">Apply Now 2026 <i class="fas fa-arrow-right"></i></a>
-        <a href="upload/pdf/nursing.pdf" target="_blank" class="g-btn g-btn-white"><i class="fas fa-download"></i> Download Brochure</a>
-      </div>
-      <div class="hero-pills">
-        <div class="hero-pill"><i class="fas fa-clock"></i> 4-Year Program</div>
-        <div class="hero-pill"><i class="fas fa-indian-rupee-sign"></i> ₹2L/Year</div>
-        <div class="hero-pill"><i class="fas fa-graduation-cap"></i> 95%+ Placement</div>
-        <div class="hero-pill"><i class="fas fa-globe"></i> Global Career Scope</div>
-        <div class="hero-pill"><i class="fas fa-medal"></i> 20% Max Scholarship</div>
-      </div>
+<!-- ═══════════════════════════════ HERO BANNER ════════════════════════════ -->
+<section class="page-banner">
+    <div class="page-banner__bg"></div>
+    <div class="page-banner__overlay"></div>
+    <div class="page-banner__content">
+        <div class="banner-text">
+            <div class="banner-tag">Healthcare Education</div>
+            <h1 class="banner-title">General Nursing &<br><span>Midwifery (GNM)</span></h1>
+            <p class="banner-subtitle">A comprehensive diploma program shaping compassionate, skilled nursing professionals ready to transform healthcare in India and globally.</p>
+            <div class="banner-btns">
+                <a href="https://application.gnc.edu.in/" target="_blank" class="btn-primary-gnc">Apply Now <i class="fas fa-arrow-right"></i></a>
+                <a href="upload/pdf/GNM.pdf" target="_blank" class="btn-secondary-gnc"><i class="fas fa-download"></i> Download Brochure</a>
+            </div>
+            <div class="banner-stats">
+                <div class="stat-item">
+                    <div class="stat-num">3 Yrs</div>
+                    <div class="stat-label">Diploma Duration</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-num">40%</div>
+                    <div class="stat-label">Min. Eligibility</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-num">₹1.25L</div>
+                    <div class="stat-label">Per Year Fee</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-num">100%</div>
+                    <div class="stat-label">Placement Support</div>
+                </div>
+            </div>
+        </div>
+        <div class="banner-image-card">
+            <img src="upload/infra/gnm.webp" alt="GNM Nursing at GNC Dehradun">
+        </div>
     </div>
-    <div class="hero-form-card">
-  <span id="ee-form-6">
-    <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
-  </span>
-</div>
-  </div>
 </section>
 
-<!-- ══════════════ TICKER ══════════════ -->
-<div class="g-ticker">
-  <div class="g-ticker-track">
-    <div class="g-ticker-item"><span>4 Yrs</span> Undergraduate Program</div>
-    <div class="g-ticker-item"><span>INC</span> Approved</div>
-    <div class="g-ticker-item"><span>HNBGU</span> Affiliated</div>
-    <div class="g-ticker-item"><span>95%+</span> Placement Rate</div>
-    <div class="g-ticker-item"><span>2000+</span> Alumni Worldwide</div>
-    <div class="g-ticker-item"><span>₹2L</span> Annual Fee</div>
-    <div class="g-ticker-item"><span>20%</span> Merit Scholarship</div>
-    <div class="g-ticker-item"><span>TFW</span> 95%+ Students</div>
-    <div class="g-ticker-item"><span>4 Yrs</span> Undergraduate Program</div>
-    <div class="g-ticker-item"><span>INC</span> Approved</div>
-    <div class="g-ticker-item"><span>HNBGU</span> Affiliated</div>
-    <div class="g-ticker-item"><span>95%+</span> Placement Rate</div>
-    <div class="g-ticker-item"><span>2000+</span> Alumni Worldwide</div>
-    <div class="g-ticker-item"><span>₹2L</span> Annual Fee</div>
-    <div class="g-ticker-item"><span>20%</span> Merit Scholarship</div>
-    <div class="g-ticker-item"><span>TFW</span> 95%+ Students</div>
-  </div>
-</div>
-
-<?php require "companylogo1.php"; ?>
-
-<!-- ══════════════ STATS BAND ══════════════ -->
-<div class="stats-band">
-  <div class="g-wrap">
-    <div class="stats-grid">
-      <div class="stat-card" data-ani="up" data-delay="1">
-        <div class="stat-num" data-count="2000">0+</div>
-        <div class="stat-label">Alumni Worldwide</div>
-        <div class="stat-sub">Placed across India & abroad</div>
-      </div>
-      <div class="stat-card" data-ani="up" data-delay="2">
-        <div class="stat-num">95%+</div>
-        <div class="stat-label">Placement Record</div>
-        <div class="stat-sub">Consistent year on year</div>
-      </div>
-      <div class="stat-card" data-ani="up" data-delay="3">
-        <div class="stat-num">₹8L+</div>
-        <div class="stat-label">Avg Starting Package</div>
-        <div class="stat-sub">Top placements exceed ₹12L</div>
-      </div>
-      <div class="stat-card" data-ani="up" data-delay="4">
-        <div class="stat-num">20%</div>
-        <div class="stat-label">Max Scholarship</div>
-        <div class="stat-sub">For Uttarakhand domicile</div>
-      </div>
+<!-- ═══════════════════════════════ ABOUT ════════════════════════════════ -->
+<section class="about-section">
+    <div class="container-gnc">
+        <div class="about-grid">
+            <div class="about-text reveal-left">
+                <span class="section-label">About the Program</span>
+                <h2 class="section-title">Best GNM College in<br><span>Dehradun, Uttarakhand</span></h2>
+                <p>General Nursing and Midwifery (GNM) is an essential healthcare course designed for individuals aspiring to enter the nursing and midwifery profession. This diploma program, which usually spans three years, encompasses a comprehensive curriculum that combines theoretical knowledge with extensive practical training.</p>
+                <p>The GNM course aims to prepare students to deliver high-quality care in various healthcare settings. It covers a wide range of subjects, including human anatomy, physiology, nutrition, psychology, and principles of nursing. The program also focuses on maternal and child health, providing specialized training in midwifery.</p>
+                <a href="https://application.gnc.edu.in/" target="_blank" class="btn-primary-gnc" style="margin-top:8px;">Apply Now <i class="fas fa-arrow-right"></i></a>
+            </div>
+            <div class="about-image reveal-right">
+                <img src="upload/infra/gnm.webp" alt="GNM Students at GNC">
+                <div class="about-image-badge reveal-scale delay-3">
+                    <strong>Guru Nanak</strong>
+                    <span>College, Dehradun</span>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
-
-<!-- ══════════════ ABOUT ══════════════ -->
-<section class="g-sec about-sec">
-  <div class="g-wrap">
-    <div class="about-grid">
-      <div class="about-imgs" data-ani="left">
-        <div class="about-img-main"><img src="upload/infra/nursing-3.jpg" alt="BSc Nursing at GNC Dehradun"></div>
-        <div class="about-img-sub"><img src="upload/infra/nursing-2.jpg" alt="GNC Nursing Students"></div>
-        <div class="about-badge"><strong>4+</strong><span>Years of Excellence</span></div>
-      </div>
-      <div data-ani="right">
-        <p class="g-tag">About the Program</p>
-        <h2 class="g-heading">Guru Nanak College — Best <em>BSc Nursing</em> College in <span class="acc">Dehradun</span></h2>
-        <div class="about-desc">
-          <p>The Bachelor of Science in Nursing (BSc Nursing) is a four-year undergraduate degree that prepares students for a career in nursing — a vital component of the healthcare sector. This program offers comprehensive education and training in nursing and healthcare practices, focusing on patient care, health promotion, and disease prevention.</p>
-          <p>Over the course of the program, students gain in-depth knowledge in human anatomy, physiology, microbiology, and psychology, along with extensive clinical training in real healthcare settings.</p>
-        </div>
-        <div class="check-grid">
-          <div class="check-item" data-ani="up" data-delay="1"><div class="check-ico"><i class="fas fa-flask"></i></div><div class="check-text">Advanced Lab Training</div></div>
-          <div class="check-item" data-ani="up" data-delay="2"><div class="check-ico"><i class="fas fa-hospital"></i></div><div class="check-text">Hospital Rotations</div></div>
-          <div class="check-item" data-ani="up" data-delay="3"><div class="check-ico"><i class="fas fa-user-md"></i></div><div class="check-text">Expert Faculty</div></div>
-          <div class="check-item" data-ani="up" data-delay="4"><div class="check-ico"><i class="fas fa-briefcase"></i></div><div class="check-text">Placement Support</div></div>
-          <div class="check-item" data-ani="up" data-delay="5"><div class="check-ico"><i class="fas fa-globe"></i></div><div class="check-text">Global Exposure</div></div>
-          <div class="check-item" data-ani="up" data-delay="6"><div class="check-ico"><i class="fas fa-heart"></i></div><div class="check-text">Value-Based Education</div></div>
-        </div>
-        <div style="margin-top:28px;display:flex;gap:12px;flex-wrap:wrap">
-          <a href="https://application.gnc.edu.in/" target="_blank" class="g-btn g-btn-blue">Apply Now <i class="fas fa-arrow-right"></i></a>
-          <a href="upload/pdf/nursing.pdf" target="_blank" class="g-btn g-btn-outline"><i class="fas fa-download"></i> Brochure</a>
-        </div>
-      </div>
-    </div>
-  </div>
 </section>
 
-<!-- ══════════════ HIGHLIGHTS ══════════════ -->
-<section class="g-sec hl-sec">
-  <div class="g-wrap">
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:end;margin-bottom:10px">
-      <div data-ani="left">
-        <p class="g-tag">Why This Program</p>
-        <h2 class="g-heading" style="color:#fff">Program <em style="color:var(--blue)">Highlights</em></h2>
-      </div>
-      <p class="g-sub" style="color:rgba(255,255,255,.6)" data-ani="right">A structured, hands-on program designed to build clinically competent and compassionate nursing professionals ready for global healthcare.</p>
+<!-- ═══════════════════════════════ FEE + ELIGIBILITY ════════════════════ -->
+<section class="fee-section">
+    <div class="container-gnc">
+        <div class="fee-grid">
+            <!-- Left: Fee Details -->
+            <div class="reveal-left">
+                <span class="section-label">Fee & Eligibility</span>
+                <h2 class="section-title">Eligibility &<br><span>Fee Structure</span></h2>
+                <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" class="btn-download-gnc"><i class="fas fa-file-pdf"></i> Download Fee Structure 2026-27</a>
+
+                <!-- Tabs -->
+                <div class="tab-nav">
+                    <button class="tab-btn active" onclick="switchTab('fee')">Fee Structure</button>
+                    <button class="tab-btn" onclick="switchTab('hostel')">Hostel Fees</button>
+                </div>
+
+                <!-- Tab: Fee -->
+                <div class="tab-pane-gnc active" id="tab-fee">
+                    <div class="eligibility-box">
+                        <p><strong>Eligibility Criteria</strong></p>
+                        <p>10+2 with English and minimum 40% marks at the qualifying examination from any recognized board. Candidates from State Open School / NIOS are also eligible. Science is preferable.</p>
+                        <p>10+2 with English (40%) in vocational ANM course from Indian Nursing Council recognized school, or Vocational Stream – Health Care Science from recognized CBSE board.</p>
+                    </div>
+                    <h5 style="font-size:.85rem;font-weight:700;margin-bottom:10px;color:var(--dark);">All India Quota — Fee in INR</h5>
+                    <table class="fee-table">
+                        <thead><tr><th>Heads</th><th>Course Fee (Per Year)</th></tr></thead>
+                        <tbody>
+                            <tr><td>Total Package Fee</td><td><strong>₹1,25,000</strong></td></tr>
+                            <tr class="note-row"><td colspan="2">Includes: Registration, Admission, Lab, Library, Medical Consultation & Ambulance, ERP Membership, Hospital Training, Uniform Charges.</td></tr>
+                        </tbody>
+                    </table>
+                    <h5 style="font-size:.85rem;font-weight:700;margin:18px 0 10px;color:var(--dark);">Merit Based Scholarships (12th %)</h5>
+                    <div class="scholarship-grid">
+                        <div class="sch-card reveal-scale delay-1"><span class="pct">10%</span><div class="range">65 – 74.99%</div></div>
+                        <div class="sch-card reveal-scale delay-2"><span class="pct">15%</span><div class="range">75 – 84.99%</div></div>
+                        <div class="sch-card reveal-scale delay-3"><span class="pct">20%</span><div class="range">85 – 94.99%</div></div>
+                        <div class="sch-card reveal-scale delay-4"><span class="pct" style="font-size:1rem;">TFW</span><div class="range">95% & above</div></div>
+                    </div>
+                </div>
+
+                <!-- Tab: Hostel -->
+                <div class="tab-pane-gnc" id="tab-hostel">
+                    <h5 style="font-size:.85rem;font-weight:700;margin-bottom:10px;color:var(--dark);">Hostel Fee Per Year (INR)</h5>
+                    <table class="fee-table">
+                        <thead><tr><th>Room Type</th><th>Without Package</th><th>With Package</th></tr></thead>
+                        <tbody>
+                            <tr><td>Four Sharing</td><td>₹65,000</td><td>₹58,000</td></tr>
+                            <tr><td>Three Sharing</td><td>₹78,000</td><td>₹70,000</td></tr>
+                            <tr><td>Two Sharing</td><td>₹90,000</td><td>₹80,000</td></tr>
+                            <tr class="note-row"><td colspan="3">Hostel Enrollment & Furnishing: ₹5,000/- (Once) | Laundry: ₹4,800/- Per Year</td></tr>
+                            <tr class="note-row"><td colspan="3"><strong>Note:</strong> Package seats are for the complete duration of the course only.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Right: Video + Notes -->
+            <div class="reveal-right">
+                <div class="video-wrap">
+                    <iframe src="https://www.youtube.com/embed/VVkrWNioLT4?autoplay=1&mute=1&playlist=VVkrWNioLT4&loop=1" title="GNM Program Video" allowfullscreen></iframe>
+                </div>
+                <div class="note-card">
+                    <h4>Additional Scholarships Available</h4>
+                    <ul>
+                        <li>These scholarships can be combined with merit-based scholarships:
+                            <ol>
+                                <li>10% — Uttarakhand Domicile</li>
+                                <li>10% — Girl Child</li>
+                                <li>10% — Orphan Student</li>
+                                <li>10% — Sports Achievement</li>
+                                <li>10% — Siblings enrolled at GNC</li>
+                            </ol>
+                        </li>
+                        <li><strong style="color:#fff;">Note:</strong> Merit & additional scholarships apply to first year only, subject to Scholarship Committee approval.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="hl-grid">
-      <div class="hl-card" data-ani="up" data-delay="1"><div class="hl-ico">🏛️</div><div class="hl-title">INC Approved</div><div class="hl-desc">Fully approved by the Indian Nursing Council with recognized credentials across India and abroad.</div></div>
-      <div class="hl-card" data-ani="up" data-delay="2"><div class="hl-ico">🔬</div><div class="hl-title">Simulation Labs</div><div class="hl-desc">State-of-the-art simulation labs mimicking real ICU, OT, and ward environments for safe skill building.</div></div>
-      <div class="hl-card" data-ani="up" data-delay="3"><div class="hl-ico">🏥</div><div class="hl-title">Clinical Rotations</div><div class="hl-desc">Mandatory hospital postings from Year 1 across Medicine, Surgery, OBG, Pediatrics and more.</div></div>
-      <div class="hl-card" data-ani="up" data-delay="4"><div class="hl-ico">🌍</div><div class="hl-title">Global Career Scope</div><div class="hl-desc">BSc Nursing graduates are in high demand in GCC, UK, USA, Canada, and Australia.</div></div>
-    </div>
-  </div>
 </section>
 
-<!-- ══════════════ CURRICULUM — INTERACTIVE YEAR TABS ══════════════ -->
-<section class="g-sec curr-sec">
-  <div class="g-wrap">
-    <div style="text-align:center;max-width:600px;margin:0 auto" data-ani="up">
-      <p class="g-tag">What You'll Learn</p>
-      <h2 class="g-heading" style="color:#fff">4-Year <em style="color:var(--blue)">Curriculum</em> Breakdown</h2>
-      <p class="g-sub" style="margin:0 auto;color:rgba(255,255,255,.55)">Click any year to explore the subjects and clinical experiences for that year.</p>
+<!-- ═══════════════════════════════ ACADEMIC NOTES ══════════════════════ -->
+<section class="academic-section">
+    <div class="container-gnc">
+        <div style="text-align:center;margin-bottom:48px;" class="reveal">
+            <span class="section-label" style="color:rgba(255,255,255,0.6);">Important Information</span>
+            <h2 class="section-title" style="color:white;">Academic Notes &<br><span style="color:var(--orange);">Kalpana Chawla Scholarship</span></h2>
+        </div>
+        <div class="academic-grid">
+            <div class="ac-card wide reveal-left">
+                <div class="ac-icon orange"><i class="fas fa-info-circle"></i></div>
+                <h4>Important Academic Notes</h4>
+                <ul>
+                    <li>Examination Fees: External as per University/Board/College norms — payable separately.</li>
+                    <li>Career Development, Recruitment & Entrepreneurship: Power Degree by Career Buddy Club.</li>
+                    <li>Dissertation Charges: ₹5,000/- in final year (for applicable courses per university curriculum).</li>
+                    <li>Transportation Fee (Optional): For day scholars to/from Dehradun city — charged as per distance.</li>
+                    <li>Transportation Fee (Optional): For internship/clinical posting/OJT for hostellers & day scholars.</li>
+                    <li>Package seats are offered for the complete duration of the course only.</li>
+                </ul>
+            </div>
+            <div class="reveal-right">
+                <div class="ac-card" style="height:100%;">
+                    <div class="ac-icon orange"><i class="fas fa-star"></i></div>
+                    <h4>Kalpana Chawla Scholarship</h4>
+                    <p style="margin-bottom:12px;"><span class="highlight">Special opportunity</span> for top-performing 5% students each calendar year.</p>
+                    <p><strong style="color:rgba(255,255,255,0.9);">Eligibility:</strong></p>
+                    <p>Students who perform best in the calendar year are awarded <strong style="color:var(--orange);">10% or 20% scholarship</strong> based on internal marks and a minimum 75% attendance each year.</p>
+                    <div style="margin-top:20px;padding:14px;background:rgba(251,123,28,0.1);border-radius:10px;border:1px solid rgba(251,123,28,0.2);">
+                        <p style="font-size:0.8rem;color:rgba(255,255,255,0.7);">Rewarding academic excellence and consistent dedication.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="curr-tabs">
-      <button class="curr-tab-btn active" onclick="switchCurr(this,'cy1')">Year 1 — Foundations</button>
-      <button class="curr-tab-btn" onclick="switchCurr(this,'cy2')">Year 2 — Clinical Sciences</button>
-      <button class="curr-tab-btn" onclick="switchCurr(this,'cy3')">Year 3 — Speciality Nursing</button>
-      <button class="curr-tab-btn" onclick="switchCurr(this,'cy4')">Year 4 — Advanced Practice</button>
-      <button class="curr-tab-btn" onclick="switchCurr(this,'cy5')">Clinical Posting</button>
-    </div>
-    <!-- Year 1 -->
-    <div id="cy1" class="curr-pane active">
-      <div class="curr-content">
-        <div class="curr-year-badge">Year 1</div>
-        <div class="curr-year-title">Foundations of Nursing</div>
-        <ul class="curr-topics">
-          <li><i class="fas fa-circle"></i> Anatomy &amp; Physiology</li>
-          <li><i class="fas fa-circle"></i> Nutrition &amp; Biochemistry</li>
-          <li><i class="fas fa-circle"></i> Microbiology</li>
-          <li><i class="fas fa-circle"></i> Psychology</li>
-          <li><i class="fas fa-circle"></i> Fundamentals of Nursing</li>
-          <li><i class="fas fa-circle"></i> First Aid &amp; Community Health</li>
-        </ul>
-      </div>
-      <div class="curr-sidebar">
-        <div>
-          <h4>Year 1 Outcomes</h4>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-brain"></i></div><div class="curr-feature-text">Build strong foundational science knowledge for clinical application</div></div>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-hands-helping"></i></div><div class="curr-feature-text">Learn basic patient care techniques and first-aid procedures</div></div>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-hospital"></i></div><div class="curr-feature-text">Begin introductory clinical postings in hospital settings</div></div>
-        </div>
-        <div class="curr-cta">
-          <p>Interested in our curriculum details?</p>
-          <a href="upload/pdf/nursing.pdf" target="_blank"><i class="fas fa-download"></i> Download Brochure</a>
-        </div>
-      </div>
-    </div>
-    <!-- Year 2 -->
-    <div id="cy2" class="curr-pane">
-      <div class="curr-content">
-        <div class="curr-year-badge">Year 2</div>
-        <div class="curr-year-title">Clinical Sciences</div>
-        <ul class="curr-topics">
-          <li><i class="fas fa-circle"></i> Medical-Surgical Nursing I</li>
-          <li><i class="fas fa-circle"></i> Pharmacology</li>
-          <li><i class="fas fa-circle"></i> Pathology &amp; Genetics</li>
-          <li><i class="fas fa-circle"></i> Community Health Nursing I</li>
-          <li><i class="fas fa-circle"></i> Communication &amp; Education</li>
-          <li><i class="fas fa-circle"></i> Clinical Posting (Ward)</li>
-        </ul>
-      </div>
-      <div class="curr-sidebar">
-        <div>
-          <h4>Year 2 Outcomes</h4>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-pills"></i></div><div class="curr-feature-text">Understand pharmacology and safe medication administration</div></div>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-stethoscope"></i></div><div class="curr-feature-text">Deliver evidence-based medical-surgical nursing care</div></div>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-users"></i></div><div class="curr-feature-text">Develop community health nursing skills and assessment tools</div></div>
-        </div>
-        <div class="curr-cta">
-          <p>Interested in our curriculum details?</p>
-          <a href="upload/pdf/nursing.pdf" target="_blank"><i class="fas fa-download"></i> Download Brochure</a>
-        </div>
-      </div>
-    </div>
-    <!-- Year 3 -->
-    <div id="cy3" class="curr-pane">
-      <div class="curr-content">
-        <div class="curr-year-badge">Year 3</div>
-        <div class="curr-year-title">Speciality Nursing</div>
-        <ul class="curr-topics">
-          <li><i class="fas fa-circle"></i> Medical-Surgical Nursing II</li>
-          <li><i class="fas fa-circle"></i> Child Health Nursing</li>
-          <li><i class="fas fa-circle"></i> Mental Health Nursing</li>
-          <li><i class="fas fa-circle"></i> Midwifery &amp; OBG Nursing</li>
-          <li><i class="fas fa-circle"></i> Research Methodology</li>
-          <li><i class="fas fa-circle"></i> Hospital Internship</li>
-        </ul>
-      </div>
-      <div class="curr-sidebar">
-        <div>
-          <h4>Year 3 Outcomes</h4>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-baby"></i></div><div class="curr-feature-text">Specialize in pediatrics, OBG, and mental health nursing</div></div>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-microscope"></i></div><div class="curr-feature-text">Conduct basic nursing research and evidence-based studies</div></div>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-hospital-user"></i></div><div class="curr-feature-text">Complete supervised clinical internship in multiple departments</div></div>
-        </div>
-        <div class="curr-cta">
-          <p>Interested in our curriculum details?</p>
-          <a href="upload/pdf/nursing.pdf" target="_blank"><i class="fas fa-download"></i> Download Brochure</a>
-        </div>
-      </div>
-    </div>
-    <!-- Year 4 -->
-    <div id="cy4" class="curr-pane">
-      <div class="curr-content">
-        <div class="curr-year-badge">Year 4</div>
-        <div class="curr-year-title">Advanced Practice</div>
-        <ul class="curr-topics">
-          <li><i class="fas fa-circle"></i> Critical Care Nursing</li>
-          <li><i class="fas fa-circle"></i> Nursing Management &amp; Admin</li>
-          <li><i class="fas fa-circle"></i> Community Health Nursing II</li>
-          <li><i class="fas fa-circle"></i> Dissertation Project</li>
-          <li><i class="fas fa-circle"></i> Internship (6 Months)</li>
-          <li><i class="fas fa-circle"></i> Placement Preparation</li>
-        </ul>
-      </div>
-      <div class="curr-sidebar">
-        <div>
-          <h4>Year 4 Outcomes</h4>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-heartbeat"></i></div><div class="curr-feature-text">Master critical care and advanced clinical nursing procedures</div></div>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-tasks"></i></div><div class="curr-feature-text">Develop nursing management and leadership capabilities</div></div>
-          <div class="curr-feature"><div class="curr-feature-ico"><i class="fas fa-briefcase"></i></div><div class="curr-feature-text">Complete 6-month internship and placement-ready preparation</div></div>
-        </div>
-        <div class="curr-cta">
-          <p>Interested in our curriculum details?</p>
-          <a href="upload/pdf/nursing.pdf" target="_blank"><i class="fas fa-download"></i> Download Brochure</a>
-        </div>
-      </div>
-    </div>
-    <!-- clinical posting -->
-     <div id="cy5" class="curr-pane curr-pane-gallery">
-  <div class="curr-gallery">
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-2.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-11.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"> </div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-12.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-5.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-6.webp" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-13.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-9.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-10.webp" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-  </div>
-</div>
-  </div>
 </section>
 
-<!-- ══════════════ FEE & ELIGIBILITY ══════════════ -->
-<section class="g-sec fee-sec">
-  <div class="g-wrap">
-    <div data-ani="up" style="margin-bottom:40px">
-      <p class="g-tag">Admissions 2026–27</p>
-      <h2 class="g-heading">Eligibility &amp; <em>Fee Details</em></h2>
-    </div>
-    <div class="fee-grid">
-      <div class="fee-box" data-ani="left">
-        <h3>Fee Structure &amp; Eligibility</h3>
-        <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" class="dl-btn"><i class="fas fa-download"></i> Download Fee Structure</a>
-        <div class="fee-tabs">
-          <button class="fee-tab-btn active" onclick="switchFeeTab(this,'ftab-fee')">Fee Structure</button>
-          <button class="fee-tab-btn" onclick="switchFeeTab(this,'ftab-hostel')">Hostel Fees</button>
+<!-- ═══════════════════════════════ CAREER SCOPE ════════════════════════ -->
+<section class="career-section">
+    <div class="container-gnc">
+        <div class="career-grid">
+            <div class="career-text reveal-left">
+                <span class="section-label">Career Opportunities</span>
+                <h2 class="section-title">Career Scope in<br><span>Nursing (GNM)</span></h2>
+                <p>Graduates of General Nursing and Midwifery (GNM) have diverse career opportunities in the healthcare sector. They can work as Registered Nurses in hospitals, clinics, and community health centers, providing patient care and support.</p>
+                <p>GNM graduates can also enter nursing education, teaching future nurses, or take up administrative roles like nursing supervisors. Opportunities extend to industrial and home care nursing, and for those looking internationally, there's a high demand for skilled nurses abroad.</p>
+                <a href="https://application.gnc.edu.in/" target="_blank" class="btn-primary-gnc" style="margin-top:12px;">Apply Now <i class="fas fa-arrow-right"></i></a>
+            </div>
+            <div class="reveal-right">
+                <img src="upload/infra/student-1.webp" alt="GNM Students" style="width:100%;border-radius:16px;margin-bottom:24px;box-shadow:0 20px 50px rgba(0,0,0,0.1);">
+                <div class="career-cards-grid">
+                    <div class="career-card reveal delay-1">
+                        <div class="career-icon"><i class="fas fa-hospital"></i></div>
+                        <div><h5>Registered Nurse</h5><p>Hospitals, clinics, and community health centers.</p></div>
+                    </div>
+                    <div class="career-card reveal delay-2">
+                        <div class="career-icon"><i class="fas fa-stethoscope"></i></div>
+                        <div><h5>Clinical Specialization</h5><p>Pediatrics, critical care with added training.</p></div>
+                    </div>
+                    <div class="career-card reveal delay-3">
+                        <div class="career-icon"><i class="fas fa-heartbeat"></i></div>
+                        <div><h5>Public Health</h5><p>Community education & wellness campaigns.</p></div>
+                    </div>
+                    <div class="career-card reveal delay-4">
+                        <div class="career-icon"><i class="fas fa-globe"></i></div>
+                        <div><h5>International Demand</h5><p>High-demand nursing roles globally.</p></div>
+                    </div>
+                    <div class="career-card reveal delay-5">
+                        <div class="career-icon"><i class="fas fa-chalkboard-teacher"></i></div>
+                        <div><h5>Education & Admin</h5><p>Teaching or nursing supervisor roles.</p></div>
+                    </div>
+                    <div class="career-card reveal delay-6">
+                        <div class="career-icon"><i class="fas fa-home"></i></div>
+                        <div><h5>Home & Industrial</h5><p>Private home care and corporate nursing.</p></div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div id="ftab-fee" class="fee-pane active">
-          <div class="elig-note"><strong>Eligibility:</strong> 10+2 with Physics, Chemistry &amp; Biology.<br>Min. <strong>50%</strong> (General) · <strong>45%</strong> (SC/ST)</div>
-          <h5 style="font-family:'Nunito',sans-serif;font-size:14px;color:var(--dark);margin:0 0 10px;font-weight:800">All India Quota — Course Fee (INR)</h5>
-          <table class="g-table">
-            <thead><tr><th>Fee Head</th><th>Per Year</th></tr></thead>
-            <tbody>
-              <tr><td>Fee (All Inclusive)</td><td><strong>₹2,00,000</strong></td></tr>
-              <tr><td colspan="2" style="font-size:12px;color:var(--text-light);line-height:1.6">Includes: Registration, Counseling, Admission, Lab, Library, Medical Consultation, Ambulance, ERP, Hospital Visit, Transport, Uniform, Education Tour, Workshops, Gymnasium, Clubs, Cultural Events</td></tr>
-            </tbody>
-          </table>
-          <h5 style="font-family:'Nunito',sans-serif;font-size:14px;color:var(--dark);margin:0 0 10px;font-weight:800">Merit Scholarships (1st Year · Uttarakhand Domicile)</h5>
-          <table class="g-table">
-            <thead><tr><th>65–75%</th><th>75–85%</th><th>85–95%</th><th>95%+</th><th>Sports</th></tr></thead>
-            <tbody><tr><td>10%</td><td>15%</td><td>20%</td><td>TFW</td><td>10%</td></tr></tbody>
-          </table>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════ WHY JOIN ════════════════════════════ -->
+<section class="why-section">
+    <div class="container-gnc">
+        <div class="why-grid">
+            <div class="why-text reveal-left">
+                <span class="section-label" style="color:rgba(255,255,255,0.6);">Why Choose Us</span>
+                <h2 class="section-title" style="color:white;">Why Join Guru Nanak College<br><span style="color:var(--orange);">for GNM in Dehradun?</span></h2>
+                <p>At the School of Nursing, a part of the renowned Guru Nanak College in Dehradun, we commit ourselves to delivering exceptional education in nursing sciences. Our aim is to cultivate proficient professionals who are well-prepared to meet global healthcare challenges.</p>
+                <div class="benefits-list">
+                    <div class="benefit-item reveal delay-1">
+                        <div class="benefit-check"><i class="fas fa-check"></i></div>
+                        <p>A rich, centrally managed library with extensive academic resources.</p>
+                    </div>
+                    <div class="benefit-item reveal delay-2">
+                        <div class="benefit-check"><i class="fas fa-check"></i></div>
+                        <p>Modern laboratories outfitted with cutting-edge medical technology.</p>
+                    </div>
+                    <div class="benefit-item reveal delay-3">
+                        <div class="benefit-check"><i class="fas fa-check"></i></div>
+                        <p>Faculty comprising highly qualified and seasoned healthcare professionals.</p>
+                    </div>
+                    <div class="benefit-item reveal delay-4">
+                        <div class="benefit-check"><i class="fas fa-check"></i></div>
+                        <p>Value-based education with critical thinking, problem-solving, and research focus.</p>
+                    </div>
+                    <div class="benefit-item reveal delay-5">
+                        <div class="benefit-check"><i class="fas fa-check"></i></div>
+                        <p>Comprehensive placement training for thriving careers in nursing & healthcare.</p>
+                    </div>
+                </div>
+                <a href="https://application.gnc.edu.in/" target="_blank" class="btn-white-gnc" style="margin-top:28px;">Apply Now <i class="fas fa-arrow-right"></i></a>
+            </div>
+            <div class="why-image-card reveal-right">
+                <img src="upload/infra/gnm.webp" alt="GNC Nursing Campus">
+                <div class="why-floating-badge reveal-scale delay-3">
+                    #1
+                    <small>GNM College<br>Dehradun</small>
+                </div>
+            </div>
         </div>
-        <div id="ftab-hostel" class="fee-pane">
-          <table class="g-table">
-            <thead><tr><th>Room Type</th><th>Without Package</th><th>With Package</th></tr></thead>
-            <tbody>
-              <tr><td>Four Sharing</td><td>₹65,000</td><td>₹58,000</td></tr>
-              <tr><td>Three Sharing</td><td>₹78,000</td><td>₹70,000</td></tr>
-              <tr><td>Two Sharing</td><td>₹90,000</td><td>₹80,000</td></tr>
-              <tr><td>Single Room</td><td>₹1,20,000</td><td>₹1,10,000</td></tr>
-              <tr><td colspan="3" style="font-size:12px;color:var(--text-light)">Enrollment &amp; Furnishing: ₹5,000 (one-time) | Laundry: ₹4,800/year</td></tr>
-            </tbody>
-          </table>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════ ADMISSION STEPS ═════════════════════ -->
+<section class="admission-section">
+    <div class="container-gnc">
+        <div style="text-align:center;" class="reveal">
+            <span class="section-label">Get Started</span>
+            <h2 class="section-title">Admission <span>Procedure</span></h2>
+            <p style="color:var(--text-light);max-width:480px;margin:12px auto 0;">Admission is determined by a merit-based selection process considering marks in the qualifying examination, followed by university counselling.</p>
         </div>
-      </div>
-      <div data-ani="right">
-        <div class="vid-wrap">
-          <iframe src="https://www.youtube.com/embed/PpkHaa1lPjI?si=4OwoU7hdHJDseIZ0" title="BSc Nursing Program Video" allowfullscreen></iframe>
+        <div class="steps-grid">
+            <div class="step-card reveal delay-1">
+                <div class="step-num">01</div>
+                <h5>Fill Application</h5>
+                <p>Complete the online application form with your personal and academic details.</p>
+            </div>
+            <div class="step-card reveal delay-2">
+                <div class="step-num">02</div>
+                <h5>Merit Selection</h5>
+                <p>Shortlisting is based on marks obtained in qualifying examination (10+2).</p>
+            </div>
+            <div class="step-card reveal delay-3">
+                <div class="step-num">03</div>
+                <h5>Counselling</h5>
+                <p>Attend university-conducted counselling to assess eligibility and finalize seat.</p>
+            </div>
+            <div class="step-card reveal delay-4">
+                <div class="step-num">04</div>
+                <h5>Confirm Admission</h5>
+                <p>Submit required documents and fee to secure your admission at GNC.</p>
+            </div>
         </div>
-        <div class="note-card">
-          <h4>Additional Scholarship Notes</h4>
-          <ul>
-            <li><i class="fas fa-check-circle"></i> 10% extra on Tuition Fee for <strong>Girl Candidates</strong> (1st year)</li>
-            <li><i class="fas fa-check-circle"></i> 10% extra for <strong>Orphan Students</strong> (1st year)</li>
-            <li><i class="fas fa-check-circle"></i> 10% extra for <strong>Sibling of GNC Students</strong> (1st year)</li>
-            <li><i class="fas fa-check-circle"></i> Scholarships can be combined subject to approval</li>
-            <li><i class="fas fa-check-circle"></i> Package seats for complete course duration only</li>
-          </ul>
-        </div>
-      </div>
     </div>
-  </div>
 </section>
 
-<!-- ══════════════ SCHOLARSHIPS ══════════════ -->
-<section class="g-sec scholar-sec">
-  <div class="g-wrap">
-    <div style="text-align:center;max-width:560px;margin:0 auto" data-ani="up">
-      <p class="g-tag">Financial Aid</p>
-      <h2 class="g-heading">Scholarships &amp; <em>Fee Waivers</em></h2>
-      <p class="g-sub" style="margin:0 auto">Merit-based scholarships for first-year Uttarakhand domicile students based on 12th grade marks.</p>
+<!-- ═══════════════════════════════ CTA STRIP ═══════════════════════════ -->
+<section class="cta-strip reveal">
+    <div class="container-gnc">
+        <h2>Begin Your Nursing Career at GNC Dehradun</h2>
+        <p>Limited seats available — Apply now for the 2026-27 academic year.</p>
+        <a href="https://application.gnc.edu.in/" target="_blank" class="btn-white-gnc">Apply Now <i class="fas fa-arrow-right"></i></a>
     </div>
-    <div class="sc-cards">
-      <div class="sc-card" data-ani="up" data-delay="1"><div class="sc-pct">10%</div><div class="sc-range">65% – 75% marks</div><div class="sc-lbl">Merit Scholarship</div></div>
-      <div class="sc-card" data-ani="up" data-delay="2"><div class="sc-pct">15%</div><div class="sc-range">75% – 85% marks</div><div class="sc-lbl">Merit Scholarship</div></div>
-      <div class="sc-card" data-ani="up" data-delay="3"><div class="sc-pct">20%</div><div class="sc-range">85% – 95% marks</div><div class="sc-lbl">Merit Scholarship</div></div>
-      <div class="sc-card featured" data-ani="up" data-delay="4"><div class="sc-pct">TFW</div><div class="sc-range">95% and above</div><div class="sc-lbl">Tuition Fee Waiver</div></div>
-      <div class="sc-card" data-ani="up" data-delay="5"><div class="sc-pct">10%</div><div class="sc-range">Sports Category</div><div class="sc-lbl">Sports Scholarship</div></div>
-    </div>
-    <div class="extra-grid">
-      <div class="ex-item" data-ani="up" data-delay="1"><div class="ex-ico"><i class="fas fa-female"></i></div><div class="ex-text">10% extra for Girl Candidates (1st year on tuition fee)</div></div>
-      <div class="ex-item" data-ani="up" data-delay="2"><div class="ex-ico"><i class="fas fa-hand-holding-heart"></i></div><div class="ex-text">10% extra for Orphan Students (1st year on tuition fee)</div></div>
-      <div class="ex-item" data-ani="up" data-delay="3"><div class="ex-ico"><i class="fas fa-users"></i></div><div class="ex-text">10% extra for GNC Siblings (1st year on tuition fee)</div></div>
-    </div>
-  </div>
 </section>
 
-<!-- ══════════════ CAMPUS / INFRASTRUCTURE ══════════════ -->
-<section class="g-sec campus-sec">
-  <div class="g-wrap">
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:end" data-ani="up">
-      <div>
-        <p class="g-tag">Our Campus</p>
-        <h2 class="g-heading">World-Class <em>Infrastructure</em></h2>
-      </div>
-      <p class="g-sub">A campus built for the future of healthcare education — modern labs, simulation centres, a central library, and fully-equipped hostels in Dehradun.</p>
-    </div>
-    <div class="mosaic" data-ani="up">
-      <div class="mosaic-item big"><img src="upload/infra/nursing-7.jpg" alt="Nursing Department GNC"><div class="mosaic-cap"><div class="mosaic-lbl">Nursing Department</div></div></div>
-      <div class="mosaic-item"><img src="upload/infra/scholarship-admission.webp" alt="Student Life at GNC"><div class="mosaic-cap"><div class="mosaic-lbl">Student Life</div></div></div>
-      <div class="mosaic-item"><img src="upload/infra/nursing-6.webp" alt="GNC Simulation Lab"><div class="mosaic-cap"><div class="mosaic-lbl">Simulation Lab</div></div></div>
-      <div class="mosaic-item"><img src="upload/infra/nursing-4.jpg" alt="GNC Library"><div class="mosaic-cap"><div class="mosaic-lbl">Central Library</div></div></div>
-      <div class="mosaic-item"><img src="upload/infra/nursing-5.jpg" alt="Clinical Training GNC"><div class="mosaic-cap"><div class="mosaic-lbl">Clinical Training</div></div></div>
-    </div>
-    <div class="cf-row">
-      <div class="cf-item" data-ani="up" data-delay="1"><div class="cf-ico">📚</div><div class="cf-title">Central Library</div><div class="cf-sub">10,000+ books &amp; e-journals</div></div>
-      <div class="cf-item" data-ani="up" data-delay="2"><div class="cf-ico">🔬</div><div class="cf-title">Modern Labs</div><div class="cf-sub">Anatomy, Skill &amp; Simulation</div></div>
-      <div class="cf-item" data-ani="up" data-delay="3"><div class="cf-ico">🏠</div><div class="cf-title">Hostel Facility</div><div class="cf-sub">Separate boys &amp; girls hostels</div></div>
-      <div class="cf-item" data-ani="up" data-delay="4"><div class="cf-ico">🏋️</div><div class="cf-title">Sports &amp; Gym</div><div class="cf-sub">Full gymnasium &amp; sports ground</div></div>
-    </div>
-  </div>
-</section>
-
-<!-- ══════════════ CAREER ══════════════ -->
-<section class="g-sec career-sec">
-  <div class="g-wrap">
-    <div class="career-grid">
-      <div class="career-imgs" data-ani="left">
-        <div class="career-img1"><img src="upload/infra/nursing-10.webp" alt="Nursing Career GNC"></div>
-        <div class="career-img2"><img src="upload/infra/nursing-9.jpg" alt="GNC Nursing Student"></div>
-        <div class="career-badge"><strong>₹8L+</strong><span>Avg Starting Package</span></div>
-      </div>
-      <div data-ani="right">
-        <p class="g-tag">After Graduation</p>
-        <h2 class="g-heading">Career <em>Opportunities</em></h2>
-        <p class="g-sub" style="margin-bottom:22px">BSc Nursing graduates step into diverse, rewarding career paths across India and globally.</p>
-        <div class="career-list">
-          <div class="career-item" data-ani="up" data-delay="1"><div class="career-ico"><i class="fas fa-hospital-user"></i></div><div><div class="career-title">Registered Nurse (RN)</div><div class="career-desc">Direct patient care in hospitals, clinics, and community centres.</div></div></div>
-          <div class="career-item" data-ani="up" data-delay="2"><div class="career-ico"><i class="fas fa-baby"></i></div><div><div class="career-title">Specialized Nursing</div><div class="career-desc">Pediatrics, Oncology, ICU, Emergency, and OBG specialisations.</div></div></div>
-          <div class="career-item" data-ani="up" data-delay="3"><div class="career-ico"><i class="fas fa-tasks"></i></div><div><div class="career-title">Nursing Management</div><div class="career-desc">Lead clinical departments and shape hospital operations and policies.</div></div></div>
-          <div class="career-item" data-ani="up" data-delay="4"><div class="career-ico"><i class="fas fa-globe-asia"></i></div><div><div class="career-title">International Nursing</div><div class="career-desc">GCC, UK, Canada, and Australia actively recruit Indian nurses.</div></div></div>
-          <div class="career-item" data-ani="up" data-delay="5"><div class="career-ico"><i class="fas fa-microscope"></i></div><div><div class="career-title">Public Health &amp; Research</div><div class="career-desc">Contribute to national health initiatives and pharmaceutical research.</div></div></div>
-          <div class="career-item" data-ani="up" data-delay="6"><div class="career-ico"><i class="fas fa-balance-scale"></i></div><div><div class="career-title">Legal Nurse Consultant</div><div class="career-desc">Bridge healthcare and legal sectors with clinical expertise.</div></div></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ══════════════ BENTO ══════════════ -->
-<section class="bento-wrap">
-  <div class="g-wrap">
-    <div class="bento-grid">
-      <div class="bento-notes" data-ani="left">
-        <h3>Important Academic Notes</h3>
-        <ul class="notes-list">
-          <li><i class="fas fa-angle-right"></i> Examination Fees: External as per University/Board/College norms payable separately.</li>
-          <li><i class="fas fa-angle-right"></i> Career Development &amp; Recruitment: Power Degree by Career Buddy Club.</li>
-          <li><i class="fas fa-angle-right"></i> Dissertation Charges: ₹5,000/- (payable in final year) for applicable courses.</li>
-          <li><i class="fas fa-angle-right"></i> Transportation (Optional): Applicable for Dehradun city &amp; around for day scholars.</li>
-          <li><i class="fas fa-angle-right"></i> Transportation (Optional): For internship/clinical posting for hostellers &amp; day scholars.</li>
-          <li><i class="fas fa-angle-right"></i> Package seats offered for complete course duration only.</li>
-        </ul>
-      </div>
-      <div style="display:flex;flex-direction:column;gap:20px">
-        <div class="kalpana-card" data-ani="right" data-delay="1">
-          <p class="g-tag">⭐ Special Award</p>
-          <h3>Kalpana Chawla Scholarship</h3>
-          <p>Awarded to the top 5% of students based on internal marks and 75% attendance. Winners receive 10% or 20% scholarship each calendar year — celebrating academic brilliance inspired by India's first woman astronaut.</p>
-        </div>
-        <div class="admission-card" data-ani="right" data-delay="2">
-          <div>
-            <h3>Admission Procedure</h3>
-            <p>Merit-based selection using qualifying examination marks, followed by university counselling to assess eligibility and confirm your seat.</p>
-          </div>
-          <a href="https://application.gnc.edu.in/" target="_blank" class="g-btn g-btn-orange" style="align-self:flex-start">Apply Now <i class="fas fa-arrow-right"></i></a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ══════════════ WHY GNC ══════════════ -->
-<section class="g-sec why-sec">
-  <div class="g-wrap">
-    <div class="why-inner">
-      <div class="why-text" data-ani="left">
-        <p class="g-tag">Why Choose Us</p>
-        <h2 class="g-heading" style="color:#fff">Why Join Guru Nanak College for <em style="color:var(--blue)">BSc Nursing</em>?</h2>
-        <p>At the School of Nursing, part of the renowned Guru Nanak College in Dehradun, we deliver exceptional education in nursing sciences, cultivating professionals ready to meet global healthcare challenges.</p>
-        <ul class="why-list">
-          <li><div class="why-chk"><i class="fas fa-check"></i></div>Rich, centrally managed library with extensive resources and digital access.</li>
-          <li><div class="why-chk"><i class="fas fa-check"></i></div>Modern laboratories outfitted with cutting-edge simulation technology.</li>
-          <li><div class="why-chk"><i class="fas fa-check"></i></div>Faculty comprising highly qualified and experienced clinicians.</li>
-          <li><div class="why-chk"><i class="fas fa-check"></i></div>Innovative teaching blending case-based, flipped classroom &amp; digital methods.</li>
-          <li><div class="why-chk"><i class="fas fa-check"></i></div>Value-based education: critical thinking, ethics, and compassionate care.</li>
-          <li><div class="why-chk"><i class="fas fa-check"></i></div>Comprehensive placement training with direct hospital recruitment drives.</li>
-        </ul>
-        <a href="https://application.gnc.edu.in/" target="_blank" class="g-btn g-btn-orange">Apply Now <i class="fas fa-arrow-right"></i></a>
-      </div>
-      <div class="why-imgs" data-ani="right">
-        <div><img src="upload/infra/nursing-8.webp" alt="GNC Campus Nursing"></div>
-        <div><img src="upload/infra/sports.webp" alt="GNC Students"></div>
-        <div><img src="upload/infra/convocation.webp" alt="GNC Labs"></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ══════════════ PROCESS STEPS ══════════════ -->
-<section class="g-sec process-sec">
-  <div class="g-wrap">
-    <div style="text-align:center;max-width:520px;margin:0 auto" data-ani="up">
-      <p class="g-tag">How to Apply</p>
-      <h2 class="g-heading">Admission <em>Process</em></h2>
-    </div>
-    <div class="steps">
-      <div class="step" data-ani="up" data-delay="1"><div class="step-num">1</div><div class="step-title">Apply Online</div><div class="step-desc">Visit application.gnc.edu.in and fill out the application form with your academic details.</div></div>
-      <div class="step" data-ani="up" data-delay="2"><div class="step-num">2</div><div class="step-title">Document Verification</div><div class="step-desc">Submit 10+2 marksheets, ID proof, photos and other required documents for review.</div></div>
-      <div class="step" data-ani="up" data-delay="3"><div class="step-num">3</div><div class="step-title">Merit Counselling</div><div class="step-desc">Attend university counselling where your merit rank and eligibility are formally assessed.</div></div>
-      <div class="step" data-ani="up" data-delay="4"><div class="step-num">4</div><div class="step-title">Fee &amp; Enrolment</div><div class="step-desc">Pay the admission fee and complete enrolment to confirm your seat in the program.</div></div>
-    </div>
-  </div>
-</section>
-
-<!-- ══════════════ FAQ — INTERACTIVE ACCORDION ══════════════ -->
-<section class="g-sec faq-sec">
-  <div class="g-wrap">
-    <div style="text-align:center;max-width:520px;margin:0 auto" data-ani="up">
-      <p class="g-tag">Got Questions?</p>
-      <h2 class="g-heading">Frequently Asked <em>Questions</em></h2>
-    </div>
-    <div class="faq-grid" data-ani="up">
-      <div class="faq-item">
-        <div class="faq-q" onclick="toggleFaq(this)"><span>What is the eligibility for BSc Nursing at GNC?</span><div class="faq-q-ico"><i class="fas fa-plus"></i></div></div>
-        <div class="faq-a">Students must have completed 10+2 with Physics, Chemistry, and Biology as core subjects. A minimum of 50% aggregate marks is required for General category and 45% for SC/ST candidates.</div>
-      </div>
-      <div class="faq-item">
-        <div class="faq-q" onclick="toggleFaq(this)"><span>Is BSc Nursing at GNC approved by INC?</span><div class="faq-q-ico"><i class="fas fa-plus"></i></div></div>
-        <div class="faq-a">Yes, the BSc Nursing program at Guru Nanak College is fully approved by the Indian Nursing Council (INC) and is affiliated with Hemvati Nandan Bahuguna Garhwal University (HNBGU).</div>
-      </div>
-      <div class="faq-item">
-        <div class="faq-q" onclick="toggleFaq(this)"><span>What is the total fee for 4 years?</span><div class="faq-q-ico"><i class="fas fa-plus"></i></div></div>
-        <div class="faq-a">The all-inclusive course fee is ₹2,00,000 per year. Over 4 years, the total course fee is ₹8,00,000. This includes registration, lab, library, transport, uniforms, events, and more. Hostel fees are additional.</div>
-      </div>
-      <div class="faq-item">
-        <div class="faq-q" onclick="toggleFaq(this)"><span>Are scholarships available for BSc Nursing?</span><div class="faq-q-ico"><i class="fas fa-plus"></i></div></div>
-        <div class="faq-a">Yes! Merit scholarships range from 10% to Tuition Fee Waiver (TFW) for Uttarakhand domicile students. Extra 10% is available for girl candidates, orphan students, and GNC siblings. Scholarships can be combined.</div>
-      </div>
-      <div class="faq-item">
-        <div class="faq-q" onclick="toggleFaq(this)"><span>What are the career options after BSc Nursing?</span><div class="faq-q-ico"><i class="fas fa-plus"></i></div></div>
-        <div class="faq-a">Graduates can pursue careers as Registered Nurses, ICU/ER specialists, nursing managers, community health workers, or international nursing roles in GCC, UK, USA, Canada, and Australia.</div>
-      </div>
-      <div class="faq-item">
-        <div class="faq-q" onclick="toggleFaq(this)"><span>Is hostel facility available at GNC?</span><div class="faq-q-ico"><i class="fas fa-plus"></i></div></div>
-        <div class="faq-a">Yes, GNC has separate fully-equipped hostels for boys and girls. Room options include single, double, triple, and four-sharing with and without meal packages. One-time enrollment fee is ₹5,000.</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ══════════════ CTA BANNER ══════════════ -->
-<section class="cta-sec" data-ani="scale">
-  <div class="g-wrap">
-    <h2>Start Your Nursing Journey Today 🩺</h2>
-    <p>Join Guru Nanak College — where compassion meets clinical excellence. Admissions open for 2026.</p>
-    <div class="cta-btns">
-      <a href="https://application.gnc.edu.in/" target="_blank" class="cta-btn-white">Apply Now for 2026 →</a>
-      <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" class="cta-btn-dark"><i class="fas fa-download"></i> Fee Structure PDF</a>
-    </div>
-  </div>
-</section>
-
-<?php require "testimoni-2.php"; ?>
-</main>
-<?php require "common/footer.php"; ?>
-
+<!-- ═══════════════════════════════ JS ══════════════════════════════════ -->
 <script>
-/* Scroll Animations */
-(function(){
-  var els = document.querySelectorAll('[data-ani]');
-  var io = new IntersectionObserver(function(entries){
-    entries.forEach(function(e){
-      if(e.isIntersecting) e.target.classList.add('on');
-      else e.target.classList.remove('on');
-    });
-  },{threshold:0.1,rootMargin:'0px 0px -40px 0px'});
-  els.forEach(function(el){ io.observe(el); });
-})();
+    /* ── Intersection Observer for scroll animations ── */
+    const revealEls = document.querySelectorAll('.reveal, .reveal-left, .reveal-right, .reveal-scale');
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('revealed');
+                observer.unobserve(entry.target);
+            }
+        });
+    }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
 
-/* Fee Tabs */
-function switchFeeTab(btn, id){
-  document.querySelectorAll('.fee-tab-btn').forEach(b=>b.classList.remove('active'));
-  document.querySelectorAll('.fee-pane').forEach(p=>p.classList.remove('active'));
-  btn.classList.add('active');
-  document.getElementById(id).classList.add('active');
-}
+    revealEls.forEach(el => observer.observe(el));
 
-/* Curriculum Tabs */
-function switchCurr(btn, id){
-  document.querySelectorAll('.curr-tab-btn').forEach(b=>b.classList.remove('active'));
-  document.querySelectorAll('.curr-pane').forEach(p=>p.classList.remove('active'));
-  btn.classList.add('active');
-  document.getElementById(id).classList.add('active');
-}
-
-/* FAQ Accordion */
-function toggleFaq(el){
-  var item = el.closest('.faq-item');
-  var isOpen = item.classList.contains('open');
-  document.querySelectorAll('.faq-item').forEach(i=>i.classList.remove('open'));
-  if(!isOpen) item.classList.add('open');
-}
-
-/* Animated Counters */
-function animateCounter(el){
-  var target = parseInt(el.dataset.count);
-  if(!target) return;
-  var current = 0;
-  var step = Math.ceil(target / 60);
-  var timer = setInterval(function(){
-    current = Math.min(current + step, target);
-    el.textContent = current.toLocaleString() + '+';
-    if(current >= target) clearInterval(timer);
-  }, 25);
-}
-var counterIO = new IntersectionObserver(function(entries){
-  entries.forEach(function(e){
-    if(e.isIntersecting){
-      animateCounter(e.target);
-      counterIO.unobserve(e.target);
+    /* ── Tab Switch ── */
+    function switchTab(tab) {
+        document.querySelectorAll('.tab-pane-gnc').forEach(p => p.classList.remove('active'));
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.getElementById('tab-' + tab).classList.add('active');
+        event.target.classList.add('active');
     }
-  });
-},{threshold:0.5});
-document.querySelectorAll('[data-count]').forEach(el=>counterIO.observe(el));
+
+    /* ── Stagger card animations on reveal ── */
+    document.querySelectorAll('.career-cards-grid, .benefits-list, .steps-grid').forEach(grid => {
+        const items = grid.querySelectorAll('.career-card, .benefit-item, .step-card, .sch-card');
+        items.forEach((item, i) => {
+            item.style.transitionDelay = (i * 0.08) + 's';
+        });
+    });
 </script>
+
 </body>
 </html>

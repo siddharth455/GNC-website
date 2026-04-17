@@ -31,6 +31,7 @@ excellence in academics and holistic development." />
 </head>
 
 <body>
+  <main style="overflow-x: hidden; position: relative; width: 100%;">
   <?php
   require "common/header.php";
   ?>
@@ -3093,6 +3094,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
   </script>
+  </main>
 </body>
 
 </html>
