@@ -17,7 +17,7 @@
     "author":{"@type":"Organization","name":"Gurunanak College"},
     "datePublished":"2025-03-25",
     "image":"/upload/blog/12.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/post/best-pharmacy-college-in-dehradun/"}
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/best-pharmacy-college-in-dehradun-gurunanak-college"}
   }
   </script>
 

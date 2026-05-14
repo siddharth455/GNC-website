@@ -6,18 +6,18 @@
     <title>Top B.Sc Optometry College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Explore the premier Bachelor of Optometry program at Guru Nanak College in Dehradun, Uttarakhand Offering cutting-edge training, experienced faculty, and state-of-the-art facilities, GNC prepares students for successful careers in optometry.">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/Best-bsc-optometry-College-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Top B.Sc Optometry College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Explore the premier Bachelor of Optometry program at Guru Nanak College in Dehradun, Uttarakhand Offering cutting-edge training, experienced faculty, and state-of-the-art facilities, GNC prepares students for successful careers in optometry." />
-    <meta property="og:url" content="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun" />
+    <meta property="og:url" content="https://gnc.edu.in/Best-bsc-optometry-College-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:image:type" content="image/webp"/>
     <link rel="stylesheet" href="css/programs.css"/>
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -666,7 +666,7 @@
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee/Optometry.jpeg" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
+                    <a href="upload/pdf/fee/Bsc Opto.jpeg" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->
                     <ul class="nav nav-tabs" id="gncTabs" role="tablist">

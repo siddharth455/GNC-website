@@ -7,16 +7,17 @@
     <title>About US | GNC - Leading Institute in Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="GNC, the leading institute in Dehradun, established in 2009, offers a range of educational programs designed to empower students.">
-    <link rel="canonical" href="https://www.gnc.edu.in/about-us">
-
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="GNC - Leading Institute in Dehradun" />
-    <meta property="og:description" content="GNC offers educational programs designed to empower students since 2009." />
-    <meta property="og:url" content="https://www.gnc.edu.in/about-us" />
-    <meta property="og:site_name" content="GNC Dehradun" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-
+    <link rel="canonical" href="https://gnc.edu.in/about-us">
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="GNC - Leading Institute in Dehradun"/>
+    <meta property="og:description" content="GNC offers educational programs designed to empower students since 2009."/>
+    <meta property="og:url" content="https://gnc.edu.in/about-us"/>
+    <meta property="og:site_name" content="GNC Dehradun"/>
+    <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:image:type" content="image/webp"/>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">

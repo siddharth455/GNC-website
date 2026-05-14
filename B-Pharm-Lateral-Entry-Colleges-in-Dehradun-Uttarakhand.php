@@ -1,129 +1,1393 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 
 <head>
-    <link rel="icon" type="image/webp" href="images/logog.webp">
+     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Best B.Pharma Lateral Entry College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Step into a world of pharmaceutical excellence at Guru Nanak College, the premier destination for B.Pharma (Lateral Entry) in Dehradun, Uttarakhand. With an innovative curriculum,renowned faculty, and state-of-the-art facilities, Guru Nanak College propels students into successful careers in pharmacy.">
     <link rel="canonical" href="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Best B.Pharm Lateral Entry College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Step into a world of pharmaceutical excellence at Guru Nanak College, the premier destination for B.Pharma (Lateral Entry) in Dehradun, Uttarakhand. With an innovative curriculum,renowned faculty, and state-of-the-art facilities, Guru Nanak College propels students into successful careers in pharmacy." />
     <meta property="og:url" content="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
     <link rel="stylesheet" href="css/programs.css"/>
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;600;700;800&family=Syne:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link href="new-assets/css/all-styles.css" rel="stylesheet">
+    <script src="new-assets/js/all-scripts.js"></script>
 
+    <style>
+        /* --- Root Variables & Design Tokens --- */
+        :root {
+            --ink: #00192d;
+            --ink-2: #1e293b;
+            --paper: #ffffff;
+            --acid: #FB7B1C;
+            --fire: #0f9af1;
+            --sky: #0f9af1;
+            --fog: #f4f7fa;
+            --ghost: rgba(255,255,255,0.06);
+            
+            --bs-white: #fff;
+            --bs-black: #222;
+            --alt-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            --gnc-orange: #ff5722;
+            --gnc-blue: #00b7ff;
+            --primary-color: #0f9af1;
+            --accent-color: #f39c12;
+            --text-dark: #333333;
+            --text-gray: #555555;
+            --light-bg: #f8f9fa;
+            --border-color: #dee2e6;
+        }
 
-    
+        /* --- Section Utilities --- */
+        .section-label {
+            font-family: var(--font-ui);
+            font-size: 0.7rem;
+            font-weight: 700;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            color: var(--acid);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .section-label::before {
+            content: '';
+            display: block;
+            width: 30px;
+            height: 2px;
+            background: var(--acid);
+        }
+
+        .section-title-about {
+            font-family: var(--font-display);
+            font-size: 2.5rem;
+            line-height: 1.2;
+            letter-spacing: -1px;
+            color: var(--ink);
+            margin-bottom: 30px;
+        }
+
+        .section-title-about .accent {
+            color: var(--acid);
+        }
+
+        .section-title-about .outline {
+            -webkit-text-stroke: 1px rgba(10, 14, 26, 0.15);
+            color: transparent;
+        }
+
+        /* --- Scroll reveal --- */
+        .reveal {
+            opacity: 0;
+            transform: translateY(50px);
+            transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .reveal-left {
+            opacity: 0;
+            transform: translateX(-50px);
+            transition: all 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal-left.visible {
+            opacity: 1;
+            transform: translateX(0);
+        }
+
+        /* Delay utilities */
+        .d1 {
+            transition-delay: 0.1s;
+        }
+
+        .d2 {
+            transition-delay: 0.2s;
+        }
+
+        .d3 {
+            transition-delay: 0.3s;
+        }
+
+        .d4 {
+            transition-delay: 0.4s;
+        }
+
+        /* --- About Section --- */
+        .about-section {
+            padding: 120px 5%;
+            background: linear-gradient(rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.92)), url('images/stude-4.jpeg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .about-noise {
+            position: absolute;
+            inset: 0;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+            opacity: 0.1;
+            pointer-events: none;
+        }
+
+        .about-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            align-items: stretch;
+        }
+
+        .about-left {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .about-image-wrap {
+            position: relative;
+            aspect-ratio: 1 / 1.05;
+            overflow: hidden;
+            background: var(--ink);
+            height: 100%;
+        }
+
+        .about-right {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100%;
+        }
+
+        .about-image-wrap img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: grayscale(10%);
+            transition: transform 0.6s ease;
+        }
+
+        .about-image-wrap:hover img {
+            transform: scale(1.04);
+        }
+
+        .about-image-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to top, rgba(10, 14, 26, 0.2) 0%, transparent 50%);
+        }
+
+        .about-image-tag {
+            position: absolute;
+            bottom: 24px;
+            left: 24px;
+            background: var(--acid);
+            color: var(--ink);
+            padding: 10px 18px;
+            font-family: var(--font-ui);
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .about-right p {
+            font-size: 1.15rem;
+            color: var(--ink);
+            opacity: 0.8;
+            line-height: 1.8;
+            margin-bottom: 24px;
+        }
+
+        .about-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 32px;
+        }
+
+        .about-tag {
+            border: 1px solid rgba(10, 14, 26, 0.1);
+            padding: 8px 18px;
+            font-family: var(--font-ui);
+            font-size: 0.75rem;
+            letter-spacing: 1px;
+            color: var(--ink);
+            opacity: 0.6;
+            transition: all 0.2s;
+        }
+
+        .about-tag:hover {
+            border-color: var(--acid);
+            color: var(--acid);
+            background: rgba(251, 123, 28, 0.05);
+        }
+
+        @media (max-width: 900px) {
+            .about-grid {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+            .about-image-wrap {
+                aspect-ratio: 16 / 9; 
+                height: auto;
+            }
+        }
+
+        /* --- Page Scope Wrapper --- */
+        .gnc-mb-page-wrapper {
+            font-family: var(--alt-font);
+            color: var(--text-dark);
+            line-height: 1.6;
+            overflow-x: hidden;
+            background-color: #fff;
+        }
+
+        /* --- Action Controls --- */
+        .btn-gnc {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 12px 30px;
+            font-weight: 700;
+            border-radius: 6px;
+            transition: 0.3s ease;
+            text-decoration: none;
+            gap: 10px;
+        }
+
+        .btn-gnc-primary {
+            background: var(--gnc-orange);
+            color: #fff;
+            border: 1px solid var(--gnc-orange);
+        }
+
+        .btn-gnc-primary:hover {
+            background: #e64a19;
+            transform: translateY(-2px);
+            color: #fff;
+        }
+
+        /* --- Hero Section --- */
+        .gnc-mb-hero {
+            position: relative;
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('upload/hero/13.webp') no-repeat center center;
+            background-size: cover;
+            padding: 270px 0 80px;
+            color: #fff;
+        }
+
+        .gnc-mb-hero .gnc-mb-hero-h1 {
+            font-size: calc(1.8rem + 1.5vw);
+            font-weight: 400;
+            line-height: 1.1;
+            margin: 20px 0;
+        }
+
+        .gnc-mb-hero .d-flex {
+            gap: 15px;
+        }
+
+        /* --- Form Widget --- */
+        .internal-form {
+            position: relative;
+            z-index: 10;
+        }
+
+        /* --- Marquee Section --- */
+        .marquee-section {
+            background: #FB7B1C; 
+            padding: 16px 0;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+        .marquee-track {
+            display: inline-flex;
+            animation: marquee 60s linear infinite;
+        }
+        .marquee-track span {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.1rem;
+            letter-spacing: 3px;
+            color: #00192d;
+            padding: 0 40px;
+        }
+        .marquee-track .dot {
+            color: #0f9af1;
+            padding: 0 10px;
+        }
+        @keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+        .content-wrapper {
+            max-width: 1350px;
+            margin: 60px auto;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 50px;
+        }
+
+        .text-section h1 {
+            font-size: clamp(2rem, 3vw, 2.5rem);
+            font-weight: 800;
+            margin-bottom: 25px;
+            line-height: 1.2;
+            color: var(--text-dark);
+        }
+
+        .text-section p {
+            color: var(--text-gray);
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        .director-message {
+            border-left: 4px solid var(--gnc-orange);
+            padding: 30px;
+            background: #f8f9fa;
+            height: fit-content;
+        }
+
+        .director-message .label {
+            font-size: 12px;
+            color: var(--gnc-orange);
+            text-transform: uppercase;
+            font-weight: 700;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .director-message h2 {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 20px;
+            color: var(--text-dark);
+        }
+
+        .director-message blockquote {
+            font-style: italic;
+            color: var(--text-gray);
+            line-height: 1.7;
+            margin: 0;
+            font-size: 1.05rem;
+        }
+
+        @media (min-width: 1024px) {
+            .content-wrapper {
+                grid-template-columns: 2fr 1fr;
+            }
+        }
+
+        .about-noise {
+            position: absolute; inset: 0;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+            opacity: 0.1;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        /* --- Global Utility Styles (Needed for migrated sections) --- */
+        .pharmacy-label {
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: var(--gnc-orange);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .pharmacy-label::before { content: ''; width: 24px; height: 1px; background: currentColor; }
+
+        .pharmacy-title {
+            
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            line-height: 1;
+            font-weight: 800;
+            /* letter-spacing: -1px; */
+        }
+        .pharmacy-title .accent { color: var(--gnc-orange); }
+        .pharmacy-title .outline { -webkit-text-stroke: 1px rgba(10,14,26,0.15); color: transparent; }
+
+        /* --- Curriculum Gallery Styles --- */
+        .curriculum-gallery {
+            padding: 100px 5% 60px;
+            background: var(--ink);
+            overflow: hidden;
+        }
+        .curriculum-gallery .pharmacy-title { color: var(--paper); }
+        .curriculum-gallery .pharmacy-title .outline { -webkit-text-stroke: 1px rgba(255,255,255,0.15); }
+        .curriculum-header {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+             margin-bottom: 60px;
+        }
+        .curriculum-header > div:first-child {
+            flex: 0 1 40%;
+        }
+        .curriculum-summary {
+            flex: 0 1 45%;
+        }
+        .curriculum-summary p {
+            font-size: 1.25rem;
+            color: var(--paper);
+            opacity: 0.7;
+            line-height: 1.6;
+        }
+        .curriculum-viewport {
+            overflow-x: auto;
+            padding-bottom: 20px;
+            scrollbar-width: thin;
+            scrollbar-color: var(--acid) rgba(255,255,255,0.05);
+            cursor: grab;
+        }
+        .curriculum-viewport:active { cursor: grabbing; }
+        .curriculum-viewport::-webkit-scrollbar { height: 3px; }
+        .curriculum-viewport::-webkit-scrollbar-track { background: rgba(255,255,255,0.05); }
+        .curriculum-viewport::-webkit-scrollbar-thumb { background: var(--acid); }
+        .curriculum-list {
+            display: flex;
+            gap: 20px;
+            padding: 10px 0;
+            width: max-content;
+        }
+        .curriculum-item {
+            width: 260px;
+            padding: 40px 32px;
+            border: 1px solid rgba(255,255,255,0.1);
+            background: rgba(255,255,255,0.03);
+            flex-shrink: 0;
+            transition: all 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+        .curriculum-item::before {
+            content: '';
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 3px;
+            background: var(--acid);
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.3s;
+        }
+        .curriculum-item:hover { background: rgba(255,255,255,0.05); transform: translateY(-6px); border-color: var(--acid); }
+        .curriculum-item:hover::before { transform: scaleX(1); }
+        .curriculum-step {
+            font-family: 'Playfair Display', serif;
+            font-size: 3rem;
+            color: rgba(255,255,255,0.06);
+            line-height: 1;
+            margin-bottom: 20px;
+        }
+        .curriculum-symbol {
+            font-size: 1.8rem;
+            margin-bottom: 16px;
+        }
+        .curriculum-title {
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--paper);
+            margin-bottom: 12px;
+            line-height: 1.3;
+        }
+        .curriculum-info {
+            font-size: 0.8rem;
+            color: var(--paper);
+            opacity: 0.5;
+            line-height: 1.6;
+        }
+        .curriculum-guide {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-top: 20px;
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.7rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: rgba(245,242,235,0.25);
+        }
+        .hint-arrow { font-size: 1.2rem; animation: bounceX 1.5s infinite; }
+        @keyframes bounceX { 0%,100% { transform: translateX(0); } 50% { transform: translateX(8px); } }
+
+        @media (max-width: 1024px) {
+            .curriculum-header { flex-direction: column; gap: 30px; align-items: flex-start; }
+            .curriculum-header > div:first-child, .curriculum-summary { flex: 0 1 100%; }
+        }
+
+        /* --- Fee & Video Content Section --- */
+        .gnc-mb-section-heading .gnc-mb-title-h2 {
+            font-weight: 700;
+            margin-bottom: 20px;
+            font-size: 2rem;
+            color: var(--primary-color);
+        }
+        .gnc-mb-fees {
+            padding: 80px 0;
+            background: #fff;
+        }
+        .gnc-mb-fee-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+        }
+
+        .gnc-mb-fee-col {
+            flex: 1 1 65%;
+            min-width: 300px;
+        }
+
+        .gnc-mb-video-sidebar {
+            flex: 1 1 25%;
+            min-width: 280px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .gnc-mb-note-card {
+            background: var(--light-bg);
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 5px solid var(--primary-color);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        .gnc-mb-btn-fee-download {
+            display: inline-block;
+            background: var(--accent-color);
+            color: #fff !important;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-weight: 600;
+            margin-bottom: 30px;
+            transition: 0.3s;
+            text-decoration: none;
+        }
+
+        .gnc-mb-fee-nav .nav-link {
+            border: none;
+            font-weight: 600;
+            padding: 12px 25px;
+            color: var(--text-gray);
+        }
+
+        .gnc-mb-fee-nav .nav-link.active {
+            color: var(--primary-color);
+            border-bottom: 3px solid var(--primary-color);
+            background: none;
+        }
+
+        .gnc-mb-fee-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            background: #fff;
+        }
+
+        .gnc-mb-fee-table th,
+        .gnc-mb-fee-table td {
+            border: 1px solid var(--border-color);
+            padding: 12px 15px;
+            text-align: left;
+            font-size: 0.95rem;
+        }
+
+        .gnc-mb-fee-table th {
+            background-color: var(--primary-color);
+            color: #fff;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+        }
+
+        .gnc-mb-fee-table tbody tr:nth-child(even) {
+            background-color: #fcfcfc;
+        }
+
+        .gnc-mb-fee-table tbody tr:hover {
+            background-color: #f1f7ff;
+        }
+
+        .gnc-mb-fee-table td strong {
+            color: var(--primary-color);
+        }
+
+        /* --- Video Sidebar Card --- */
+        .video-promo-card {
+            padding: 0;
+            box-shadow: none;
+        }
+
+        .video-btn-play {
+            color: #000;
+            font-weight: 800;
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            text-decoration: none;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            cursor: pointer;
+        }
+
+        .video-play-icon {
+            width: 45px;
+            height: 45px;
+            background: red;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .video-thumb-link {
+            display: block;
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 25px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+        }
+
+        .video-thumb-link img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        @media (max-width: 991px) {
+            .gnc-mb-fee-container {
+                flex-direction: column;
+            }
+
+            .gnc-mb-fee-col,
+            .gnc-mb-video-sidebar {
+                flex-basis: 100%;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .gnc-mb-fee-col .gnc-mb-title-h2 {
+                font-size: 1.5rem;
+            }
+
+            .gnc-mb-fee-nav .nav-link {
+                padding: 10px 15px;
+                font-size: 0.9rem;
+            }
+
+            .gnc-mb-fee-table th,
+            .gnc-mb-fee-table td {
+                padding: 8px 10px;
+                font-size: 0.85rem;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .btn-gnc {
+                display: block !important;
+                max-width: 180px !important;
+                width: 100% !important;
+                margin: 10px auto !important;
+                text-align: center !important;
+                padding: 10px 20px !important;
+                font-size: 14px !important;
+            }
+
+            .mt-4.d-flex {
+                flex-direction: column;
+                align-items: flex-start !important;
+                gap: 0 !important;
+            }
+
+            .gnc-mb-hero {
+                text-align: left !important;
+            }
+
+            .gnc-mb-hero .btn-gnc {
+                margin: 5px 0 !important;
+            }
+        }
+
+        /* --- Pharmacy Career Opportunities Section --- */
+        .pharmacy-container {
+            max-width: 1250px;
+            margin: 0 auto;
+            padding: 60px 20px;
+            display: flex;
+            gap: 45px;
+            align-items: stretch;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+
+        .grid-left {
+            flex: 1;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: repeat(2, 1fr);
+            gap: 12px;
+            width: 100%;
+        }
+
+        .grid-left .img-box {
+            overflow: hidden;
+            background: #f1f5f9;
+            border-radius: 10px;
+            height: 100%;
+        }
+
+        .grid-left .img-box img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.6s ease;
+            display: block;
+        }
+
+        .content-right {
+            flex: 1;
+            width: 100%;
+            min-width: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .content-right h3 {
+            font-size: clamp(1.6rem, 4.5vw, 2.6rem);
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 15px;
+            color: var(--bs-black);
+            letter-spacing: -0.5px;
+        }
+
+        .content-right .intro-text {
+            font-size: 1.1rem;
+            line-height: 1.5;
+            color: var(--text-gray);
+            margin-bottom: 12px;
+        }
+
+        .slider-wrap {
+            margin-top: 25px;
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+            position: relative;
+        }
+
+        .slider-head {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .slider-head span {
+            font-weight: 800;
+            text-transform: uppercase;
+            color: var(--gnc-blue);
+            font-size: 0.8rem;
+        }
+
+        .slider-view {
+            overflow: hidden;
+            width: 100%;
+            cursor: grab;
+        }
+
+        .slider-track {
+            display: flex;
+            gap: 15px;
+            transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            will-change: transform;
+        }
+
+        .pathway-card {
+            flex: 0 0 300px;
+            background: var(--light-bg);
+            padding: 22px;
+            border-left: 4px solid var(--gnc-orange);
+            transition: 0.3s ease;
+            box-sizing: border-box;
+        }
+
+        .pathway-card:hover {
+            background: #fff;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.07);
+            border-left-color: var(--gnc-blue);
+        }
+
+        .pathway-card h5 {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 1.05rem;
+            color: var(--bs-black);
+            margin: 0 0 8px 0;
+            font-weight: 700;
+        }
+
+        .pathway-card p {
+            font-size: 0.88rem;
+            line-height: 1.5;
+            color: var(--text-gray);
+            margin: 0;
+        }
+
+        .nav-ctrl {
+            display: flex;
+            gap: 8px;
+        }
+
+        .btn-nav {
+            width: 36px;
+            height: 36px;
+            border: 2px solid var(--gnc-blue);
+            background: #fff;
+            color: var(--gnc-blue);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            border-radius: 50%;
+            transition: 0.3s;
+        }
+
+        .btn-nav:hover {
+            background: var(--gnc-orange);
+            color: #fff;
+            border-color: var(--gnc-orange);
+        }
+
+        @media (max-width: 1024px) {
+            .pharmacy-container {
+                flex-direction: column;
+                gap: 30px;
+                align-items: center;
+            }
+
+            .grid-left {
+                order: 2;
+                grid-template-rows: repeat(2, auto);
+            }
+
+            .grid-left .img-box {
+                aspect-ratio: 1 / 1;
+            }
+
+            .content-right {
+                order: 1;
+            }
+
+            .pathway-card {
+                flex: 0 0 85%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .pharmacy-container {
+                padding: 40px 15px;
+            }
+
+            .grid-left {
+                gap: 8px;
+            }
+
+            .pathway-card {
+                flex: 0 0 calc(100vw - 60px);
+            }
+
+            .slider-head span {
+                font-size: 0.7rem;
+            }
+        }
+
+        /* New CSS for Why Choose Us Section */
+        #why-choose-us-new {
+            background: linear-gradient(135deg, #00192d, #003366);
+            color: #fff;
+            padding: 80px 0;
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow: hidden;
+            margin-top:2rem;
+            margin-bottom: 2rem;
+        }
+
+        #why-choose-us-new::before {
+            content: '';
+            position: absolute;
+            top: -50px;
+            left: -50px;
+            width: 200px;
+            height: 200px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            transform: rotate(45deg);
+        }
+
+        #why-choose-us-new::after {
+            content: '';
+            position: absolute;
+            bottom: -50px;
+            right: -50px;
+            width: 200px;
+            height: 200px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            transform: rotate(45deg);
+        }
+
+        .why-choose-us-container {
+            max-width: 1320px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .why-choose-us-layout {
+            display: grid;
+            grid-template-columns: 0.8fr 1.2fr;
+            gap: 50px;
+            align-items: center;
+        }
+
+        .why-choose-us-images {
+            position: relative;
+            height: 500px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .image-stack {
+            position: relative;
+            width: 100%;
+            max-width: 450px;
+            height: 100%;
+        }
+
+        .stack-img {
+            position: absolute;
+            width: 320px;
+            height: 320px;
+            object-fit: cover;
+            border-radius: 15px;
+            border: 5px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .stack-img.img-1 {
+            top: 0;
+            left: 0;
+            z-index: 1;
+        }
+
+        .stack-img.img-2 {
+            top: 260px;
+            left: 155px;
+            z-index: 2;
+        }
+
+        .why-choose-us-content {
+            padding-left: 20px;
+            padding-top: 1rem;
+        }
+
+        .why-choose-us-title {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            font-weight: 700;
+            margin-bottom: 15px;
+            line-height: 1.1;
+        }
+
+        .why-choose-us-description {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 40px;
+            opacity: 0.8;
+        }
+
+        .why-choose-us-features-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .feature-list-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 15px;
+        }
+
+        .feature-tick {
+            flex-shrink: 0;
+            width: 24px;
+            height: 24px;
+            background: #FB7B1C; /* GNC Orange */
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 4px;
+            box-shadow: 0 4px 10px rgba(251, 123, 28, 0.3);
+        }
+
+        .feature-tick i {
+            color: #fff;
+            font-size: 12px;
+        }
+
+        .feature-content {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .feature-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin: 0;
+            color: #fff;
+        }
+
+        .feature-text {
+            font-size: 1.05rem;
+            line-height: 1.5;
+            opacity: 0.85;
+            margin: 0;
+        }
+
+        /* Responsive for Why Choose Us */
+        @media (max-width: 992px) {
+            .why-choose-us-layout {
+                grid-template-columns: 1fr;
+                text-align: left;
+            }
+            .why-choose-us-images {
+                height: 400px;
+                margin-bottom: 40px;
+                justify-content: flex-start;
+            }
+            .image-stack {
+                margin: 0;
+            }
+            .stack-img {
+                width: 240px;
+                height: 240px;
+            }
+            .stack-img.img-1 {
+                top: 0;
+                left: 0;
+            }
+            .stack-img.img-2 {
+                top: 150px;
+                left: 150px;
+            }
+            .why-choose-us-content {
+                padding-left: 0;
+            }
+            .why-choose-us-features-grid {
+                grid-template-columns: 1fr;
+            }
+            .feature-item {
+                align-items: flex-start;
+            }
+        }
+
+        @media (max-width: 576px) {
+            #why-choose-us-new {
+                padding: 60px 0;
+            }
+            .why-choose-us-images {
+                height: 280px;
+                justify-content: flex-start;
+            }
+            .image-stack {
+                margin: 0;
+            }
+            .stack-img {
+                width: 230px;
+                height: 230px;
+            }
+            .stack-img.img-1 {
+                top: 0;
+                left: 0;
+            }
+            .stack-img.img-2 {
+                top: 150px;
+                left: 150px;
+            }
+            .why-choose-us-title {
+                font-size: 2rem;
+            }
+            .why-choose-us-description {
+                font-size: 1rem;
+            }
+            .feature-icon {
+                font-size: 2rem;
+            }
+            .feature-title {
+                font-size: 1.1rem;
+            }
+            .feature-text {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
 </head>
-
 <body>
-    <?php
-    require "common/header.php";
-    ?>
-   <section class="pageBanner-inner">
-        <div style="background-image: url('upload/B-Pharma-head.webp'); background-repeat: no-repeat; background-size: cover;">
-            <div class="pageBanner-inner_in">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 col-xl-7">
-                            <div class="pageBanner-inner__content inner-content head-sm text-md-start">
-                                <div class="upper-banner-content">
-                                    <div class="pb-flex d-flex align-items-center justify-content-center justify-content-lg-start mt-3">
-                                        <h5 class=" text-white border-right me-3 pe-3 mb-0">Lateral Entry in</h5>
-                                    </div>
-                                    <h3 class="mb-1 mt-3">B.Pharm</small></h3>
-                                </div>
-                                <a href="https://application.gnc.edu.in/" target="_blank" class="cu-btn cu-btn-100 text-center mt-2 mb-2">
-                                    Apply Now
+    <?php require("common/header.php"); ?>
 
-                                </a>
-                            </div>
-                        </div>
+    <!-- 1. Hero Section -->
+    <section class="gnc-mb-hero">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <h2 class="fw-light" data-aos="fade-right" data-aos-duration="500">School of <br><b>Pharmaceutical
+                            Sciences</b></h2>
+                    <p class="mt-4 mb-0 fw-bold" data-aos="fade-right" data-aos-duration="600">(B.Pharm Lateral Entry)</p>
+                    <h1 class="gnc-mb-hero-h1" data-aos="fade-right" data-aos-duration="700">Bachelor of <br>Pharmacy<br> Lateral Entry at Guru Nanak College</h1>
+                    <div class="mt-4 d-flex" data-aos="fade-up" data-aos-duration="800">
+                        <a href="https://application.gnc.edu.in/" target="_blank" class="btn-gnc btn-gnc-primary">
+                            APPLY NOW 2026-27
+                        </a>
+                        <a href="upload/pdf/b-pharma.pdf" target="_blank" class="btn-gnc btn-gnc-primary">
+                            Download Brochure
+                        </a>
                     </div>
+                </div>
+                <div class="col-md-6 col-lg-5 col-xl-3">
                     <div class="internal-form">
                         <span id="ee-form-6">
-                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js" defer></script>
+                            <script
+                                src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applycbc/ee-form-widget/form-6/widget.js"
+                                defer></script>
                         </span>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    
-    <?php require "companylogo1.php"; ?>
-    <?php require "rankingbanner.php"; ?>
-    <section class="gnc-normal-hero" style="background-color: #ffffff; padding: 60px 0;">
 
-      <div class="main-container">
-        <div class="hero-layout">
-            
-            <!-- Left Text Content -->
-            <div class="hero-content-left">
-                <h2>Guru Nanak College - Best Lateral Entry in B. Pharm College in Dehradun, Uttarakhand</h2>
-                
-                          <p>Lateral Entry into the Bachelor of Pharmacy (B.Pharm) program at Guru Nanak College - Best
-                            Lateral Entry in B.Pharm College in Dehradun, Uttarakhand is a pathway designed for students who have
-                            already completed a Diploma in Pharmacy (D.Pharm) or a similar qualification. This entry method allows
-                            these students to directly join the B.Pharm program in the second year, effectively bypassing the first year of the standard curriculum.</p>
-                        <p>The program at Guru Nanak College focuses on advanced pharmaceutical sciences, covering critical
-                            subjects like pharmacology, pharmaceutical chemistry, and pharmaceutics. It builds upon the
-                            foundational knowledge gained in diploma courses, deepening understanding in drug development,
-                            drug action, and regulatory aspects. This blend of theoretical and practical learning equips students for diverse roles in the pharmaceutical industry, effectively bridging the gap between academic training and professional application.</p>
-                 <a href="https://application.gnc.edu.in/" target="_blank" class="hero-btn-apply">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
-            </div>
-
-            <!-- Right Image Content -->
-            <div class="hero-image-right">
-                <img src="upload/infra/pharmacy-image.webp" alt="GNC Pharmacy Showcase">
-            </div>
-
-        </div>
+    <!-- MARQUEE -->
+    <div class="marquee-section">
+      <div class="marquee-track" id="marqueeTrack">
+        <span>B.Pharm Lateral Entry 2026 Admissions Open</span><span class="dot">◆</span>
+        <span>Guru Nanak College · Dehradun</span><span class="dot">◆</span>
+        <span>School of Pharmaceutical Sciences</span><span class="dot">◆</span>
+        <span>Scholarships Available</span><span class="dot">◆</span>
+        <span>24+ Years of Excellence</span><span class="dot">◆</span>
+        <span>Industry Placement Support</span><span class="dot">◆</span>
+        <span>Modern Pharmacy Labs</span><span class="dot">◆</span>
+        <span>3-Year Undergraduate Program</span><span class="dot">◆</span>
+        <!-- duplicate for seamless loop -->
+        <span>B.Pharm Lateral Entry 2026 Admissions Open</span><span class="dot">◆</span>
+        <span>Guru Nanak College · Dehradun</span><span class="dot">◆</span>
+        <span>School of Pharmaceutical Sciences</span><span class="dot">◆</span>
+        <span>Scholarships Available</span><span class="dot">◆</span>
+        <span>24+ Years of Excellence</span><span class="dot">◆</span>
+        <span>Industry Placement Support</span><span class="dot">◆</span>
+        <span>Modern Pharmacy Labs</span><span class="dot">◆</span>
+        <span>3-Year Undergraduate Program</span><span class="dot">◆</span>
+      </div>
     </div>
-</section>
 
+    <section class="about-section" id="about">
+        <div class="about-noise"></div>
+        <div class="about-grid">
+            <div class="about-left reveal-left">
+                <div class="about-image-wrap">
+                    <div style="width:100%;height:100%; background: url('images/b.pharma-1.webp') center/cover no-repeat; display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;">
+                        <div style="font-size:5rem;opacity:0.15;">🏛️</div>
+                        <div style="font-family:var(--font-syne);font-size:0.75rem;letter-spacing:3px;text-transform:uppercase;color:rgba(255,255,255,0.2);">Campus — Guru Nanak College</div>
+                    </div>
+                    <div class="about-image-overlay"></div>
+                    <div class="about-image-tag">Est. 2009 · Dehradun</div>
+                </div>
+            </div>
+            <div class="about-right">
+                <div class="section-label reveal">About the Program</div>
+                <h2 class="section-title-about reveal">Guru Nanak College - Best <span class="accent">Lateral Entry in B. Pharm</span> College in Dehradun, <span class="">Uttarakhand</span></h2>
+                <p class="reveal d1">Lateral Entry into the Bachelor of Pharmacy (B.Pharm) program at Guru Nanak College - Best Lateral Entry in B.Pharm College in Dehradun, Uttarakhand is a pathway designed for students who have already completed a Diploma in Pharmacy (D.Pharm) or a similar qualification. This entry method allows these students to directly join the B.Pharm program in the second year, effectively bypassing the first year of the standard curriculum.</p>
+                <p class="reveal d2">The program at Guru Nanak College focuses on advanced pharmaceutical sciences, covering critical subjects like pharmacology, pharmaceutical chemistry, and pharmaceutics. It builds upon the foundational knowledge gained in diploma courses, deepening understanding in drug development, drug action, and regulatory aspects. This blend of theoretical and practical learning equips students for diverse roles in the pharmaceutical industry, effectively bridging the gap between academic training and professional application.</p>
+                
+                <div class="about-tags reveal d4">
+                    <div class="about-tag">Advanced Labs</div>
+                    <div class="about-tag">Expert Faculty</div>
+                    <div class="about-tag">Placement Support</div>
+                    <div class="about-tag">Modern Pedagogy</div>
+                    <div class="about-tag">PCI Approved</div>
+                    <div class="about-tag">Value Education</div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-    <section class="gnc-bmrit-section py-5" style="background-color: #ffffff; color: var(--text-dark);">
-        
+ 
 
+    <!-- =============================================
+         CURRICULUM — HORIZONTAL SCROLL GALLERY
+    ============================================= -->
+    <section class="curriculum-gallery" id="subjects">
+      <div class="curriculum-header">
+        <div>
+          <div class="pharmacy-label">Curriculum</div>
+          <h2 class="pharmacy-title">Core<br><span class="accent">Subjects</span><br><span class="outline">Covered</span></h2>
+        </div>
+        <div class="curriculum-summary">
+          <p>The B.Pharm (Lateral Entry) curriculum at Guru Nanak College is strictly aligned with PCI standards, designed for D.Pharm holders to master advanced pharmaceutical sciences. The program integrates rigorous academic training with intensive practical exposure in advanced laboratories and industrial settings to bridge the gap between theory and professional application.</p>
+        </div>
+      </div>
+
+      <div class="curriculum-viewport" id="curriculumScroll">
+        <div class="curriculum-list">
+          <div class="curriculum-item">
+            <div class="curriculum-step">01</div>
+            <div class="curriculum-symbol">🧪</div>
+            <div class="curriculum-title">Advanced Pharmaceutical Chemistry</div>
+            <div class="curriculum-info">In-depth study of drug design, chemical synthesis, and molecular modeling to develop potent and safe therapeutic agents.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">02</div>
+            <div class="curriculum-symbol">💊</div>
+            <div class="curriculum-title">Pharmacology & Toxicology</div>
+            <div class="curriculum-info">Advanced study of drug action on biological systems, including clinical pharmacology and the mechanisms of therapeutic efficacy.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">03</div>
+            <div class="curriculum-symbol">🏭</div>
+            <div class="curriculum-title">Pharmaceutics & NDDS</div>
+            <div class="curriculum-info">Focus on dosage form design, focusing on Novel Drug Delivery Systems (NDDS) and advanced formulation technologies.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">04</div>
+            <div class="curriculum-symbol">🌿</div>
+            <div class="curriculum-title">Pharmacognosy & Phytochemistry</div>
+            <div class="curriculum-info">Study of natural products, herbal drug technology, and the isolation of bioactive compounds for modern medicine.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">05</div>
+            <div class="curriculum-symbol">📊</div>
+            <div class="curriculum-title">Pharmaceutical Analysis</div>
+            <div class="curriculum-info">Mastering precision techniques and instrumental methods for quality control and validation of pharmaceutical products.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">06</div>
+            <div class="curriculum-symbol">🏢</div>
+            <div class="curriculum-title">Industrial Pharmacy</div>
+            <div class="curriculum-info">Comprehensive training in large-scale drug production, quality assurance, and global regulatory compliance standards.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">07</div>
+            <div class="curriculum-symbol">⚖️</div>
+            <div class="curriculum-title">Pharmaceutical Jurisprudence</div>
+            <div class="curriculum-info">Detailed understanding of the legal and ethical framework governing the pharmaceutical industry and pharmacy practice.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">08</div>
+            <div class="curriculum-symbol">🧬</div>
+            <div class="curriculum-title">Biopharmaceutics & Pharmacokinetics</div>
+            <div class="curriculum-info">Exploring drug absorption, distribution, metabolism, and excretion (ADME) to optimize therapeutic outcomes.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">09</div>
+            <div class="curriculum-symbol">🏥</div>
+            <div class="curriculum-title">Hospital & Clinical Pharmacy</div>
+            <div class="curriculum-info">Professional training in clinical pharmacy services, patient counseling, and hospital pharmacy management systems.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">10</div>
+            <div class="curriculum-symbol">🧫</div>
+            <div class="curriculum-title">Pharmaceutical Biotechnology</div>
+            <div class="curriculum-info">Harnessing genetic engineering and microbial systems for the production of advanced biopharmaceuticals and vaccines.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">11</div>
+            <div class="curriculum-symbol">🔍</div>
+            <div class="curriculum-title">Pharmacovigilance</div>
+            <div class="curriculum-info">Essential training in monitoring drug safety, reporting adverse drug reactions, and ensuring patient safety in clinical settings.</div>
+          </div>
+          <div class="curriculum-item">
+            <div class="curriculum-step">12</div>
+            <div class="curriculum-symbol">🛠️</div>
+            <div class="curriculum-title">Medicinal Chemistry</div>
+            <div class="curriculum-info">Study of structure-activity relationships (SAR) and the rational design of therapeutic agents for targeted diseases.</div>
+          </div>
+        </div>
+      </div>
+      <div class="curriculum-guide">
+        <span class="hint-arrow">→</span>
+        Drag to explore all subjects
+      </div>
+    </section>
+ <!-- 4. Fee & Video Sidebar Section -->
+    <section class="gnc-mb-section gnc-mb-fees">
         <div class="container">
-            <div class="flex-container">
-                <!-- Left Data Column -->
-                <div class="col-data">
-                    <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee/B-Pharmacy-LE.jpeg" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
+            <div class="gnc-mb-fee-container">
+                <!-- Left Content -->
+                <div class="gnc-mb-fee-col">
+                    <div class="gnc-mb-section-heading" data-aos="fade-up" data-aos-duration="500">
+                        <h2 class="gnc-mb-title-h2">Eligibility & Fee Details</h2>
+                    </div>
 
-                    <!-- Clickable Tabs Navigation -->
-                    <ul class="nav nav-tabs" id="gncTabs" role="tablist">
+                    <a href="upload/pdf/fee/B. Pharma(LE).jpeg" target="_blank" class="gnc-mb-btn-fee-download">
+                        <i class="fas fa-file-pdf me-2"></i> Download Fee Structure
+                    </a>
+
+                    <ul class="nav nav-tabs gnc-mb-fee-nav" id="feeTabs" role="tablist">
                         <li class="nav-item">
-                            <button class="nav-link active" id="fee-tab" data-bs-toggle="tab" data-bs-target="#fee-content" type="button" role="tab">Fee Structure</button>
+                            <button class="nav-link active" id="fee-tab" data-bs-toggle="tab" data-bs-target="#fee-pane"
+                                type="button" role="tab">Fee Structure</button>
                         </li>
                         <li class="nav-item">
-                            <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#other-content" type="button" role="tab">Other Fees</button>
+                            <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#other-pane"
+                                type="button" role="tab">Other Fees</button>
                         </li>
                     </ul>
 
-                    <div class="tab-content" id="gncTabsContent">
-                        <!-- Tab 1: Fee Structure -->
-                        <div class="tab-pane fade show active" id="fee-content" role="tabpanel">
-                            <p><strong>Eligibility</strong></p>
-                            <p style="font-size: 0.9rem; line-height: 1.5;">The students who have passed D.Pharm from any recognized university.<br>The minimum percentage required is 45% for GENERAL/OBC and 40% for ST/SC.</p>
-                            
-                            
-     
-                            <h5>All India Quota (Amount of fee details in INR)</h5>
+                    <div class="tab-content pt-4">
+                        <div class="tab-pane fade show active" id="fee-pane" role="tabpanel">
+                            <div class="mb-4">
+                                <p class="gnc-mb-text-p"><strong>Eligibility</strong></p>
+                                <p class="gnc-mb-text-p" style="font-size: 1rem; line-height: 1.5;">The students who have passed D.Pharm from any recognized university.<br>
+                                    The minimum percentage required is 45% for GENERAL/OBC and 40% for ST/SC.</p>
+                            </div>
+
+                            <h5 class="text-primary fw-bold mb-3 border-bottom pb-2">All India Quota (Amount of fee
+                                details in INR)</h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table">
                                     <thead>
                                         <tr>
                                             <th>Year</th>
@@ -133,7 +1397,7 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td rowspan="4" style="vertical-align: middle;">1st Year</td>
+                                            <td rowspan="4" class="align-middle">1st Year</td>
                                             <td>Fee</td>
                                             <td>85,000 /- (Included Power Degree Fee)</td>
                                         </tr>
@@ -149,18 +1413,18 @@
                                             <td><strong>Net Academic Fee</strong></td>
                                             <td><strong>85,000 /- (Included Power Degree Fee)</strong></td>
                                         </tr>
-                                         <tr>
+                                        <tr>
                                             <td colspan="2">Total Fee year wise inclusive of other charges</td>
                                             <td>-</td>
                                         </tr>
-                                        
                                     </tbody>
                                 </table>
                             </div>
 
-                            <h5>Merit-Based Scholarships Based on 12th-grade marks applicable first year only</h5>
+                            <h5 class="text-primary fw-bold mt-4 mb-3 border-bottom pb-2">Merit-Based Scholarships Based
+                                on 12th-grade marks applicable first year only</h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table">
                                     <thead>
                                         <tr>
                                             <th>Uttarakhand Domicile</th>
@@ -185,11 +1449,11 @@
                             </div>
                         </div>
 
-                        <!-- Tab 2: Other Fees -->
-                        <div class="tab-pane fade" id="other-content" role="tabpanel">
-                            <h5>One Time Payable Charges in 1st Year (INR)</h5>
+                        <div class="tab-pane fade" id="other-pane" role="tabpanel">
+                            <h5 class="text-primary fw-bold mb-3 border-bottom pb-2">One Time Payable Charges in 1st
+                                Year (INR)</h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table text-center">
                                     <thead>
                                         <tr>
                                             <th>Admission Fee</th>
@@ -207,9 +1471,10 @@
                                 </table>
                             </div>
 
-                            <h5>Other Charges Per Year (INR)</h5>
+                            <h5 class="text-primary fw-bold mt-4 mb-3 border-bottom pb-2">Other Charges Per Year (INR)
+                            </h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table">
                                     <thead>
                                         <tr>
                                             <th>Examination Fee</th>
@@ -219,7 +1484,8 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>(Theory Internal / External, Practical Internal / External) As per the University/Board/College Norms Payable</td>
+                                            <td>(Theory Internal / External, Practical Internal / External) As per the
+                                                University/Board/College Norms Payable</td>
                                             <td>4,800</td>
                                             <td>1,500</td>
                                         </tr>
@@ -227,9 +1493,10 @@
                                 </table>
                             </div>
 
-                            <h5>Optional Fee Par Year (INR)</h5>
+                            <h5 class="text-primary fw-bold mt-4 mb-3 border-bottom pb-2">Optional Fee Par Year (INR)
+                            </h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table">
                                     <thead>
                                         <tr>
                                             <th>Categories</th>
@@ -259,7 +1526,8 @@
                                             <td>1,10,000</td>
                                         </tr>
                                         <tr>
-                                            <td colspan="2">Hostel Enrollment & Furnishing Fee: Rs.5,000/- (To be paid once)</td>
+                                            <td colspan="2">Hostel Enrollment & Furnishing Fee: Rs.5,000/- (To be paid
+                                                once)</td>
                                             <td>Laundry Charges: Rs.4800/- Per Year</td>
                                         </tr>
                                     </tbody>
@@ -267,201 +1535,1209 @@
                             </div>
                         </div>
                     </div>
-                  </div>
+                </div>
 
-        <div class="col-video">
-                    <div class="video-wrapper">
-                        <iframe src="https://www.youtube.com/embed/Hf9j2CCXBto?autoplay=1&mute=1&playlist=Hf9j2CCXBto&loop=1" title="B.Pharmacy Lateral Entry Program Video" allowfullscreen></iframe>
-                    </div> 
-                   
-                      <div class="note-box">
-                        <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Note:</h4>
-                        <ul style="padding-left: 20px; font-size: 1rem; color: var(--text-gray);">
-                            <li style="margin-bottom: 10px;">These scholarships are available in addition to merit-based scholarships:
-                                <ol style="margin-top: 8px;">
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in 1st year).</li>
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st year).</li>
-                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
+                <!-- Right Sidebar -->
+                <aside class="gnc-mb-video-sidebar">
+                    <div class="video-promo-card">
+                        <a href="javascript:void(0)" class="video-btn-play" onclick="openVideoPopup('Hf9j2CCXBto')">
+                            <div class="video-play-icon">
+                                <i class="fas fa-play text-white"></i>
+                            </div>
+                            Watch Video
+                        </a>
+                        <a href="javascript:void(0)" class="video-thumb-link" onclick="openVideoPopup('Hf9j2CCXBto')">
+                            <img src="https://img.youtube.com/vi/Hf9j2CCXBto/maxresdefault.jpg" alt="Video Thumbnail">
+                        </a>
+                    </div>
+                    <div class="video-promo-content" data-aos="fade-left" data-aos-duration="500">
+                        <h2 class="fw-bold mb-4" style="font-size: 2.2rem; line-height: 1.1;">
+                            Education That <span class="text-danger">Ignites</span>, <br>
+                            Futures That <span class="text-danger">Evolve</span>
+                        </h2>
+                        <a href="https://application.gnc.edu.in/" target="_blank" class="btn-gnc btn-gnc-primary w-50"
+                            data-aos="fade-left" data-aos-duration="600">
+                            Apply Today <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+
+                    <div class="gnc-mb-note-card">
+                        <h4 class="fw-bold fs-5 mb-3">Note:</h4>
+                        <ul class="ps-3 text-secondary gnc-mb-text-p">
+                            <li class="mb-2">These scholarships are available in addition to merit-based scholarships:
+                                <ol class="mt-2">
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only
+                                        in 1st year).</li>
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st
+                                        year).</li>
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru
+                                        Nanak College (only in 1st year).</li>
                                 </ol>
                             </li>
-                            <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand Domicile, Girl Child, etc.) upon approval.</li>
+                            <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand
+                                Domicile, Girl Child, etc.) upon approval.</li>
                         </ul>
                     </div>
-                     
+                </aside>
+            </div>
+        </div>
+    </section>
+
+    <!-- Video Popup Modal -->
+    <div id="videoPopup" class="video-popup-overlay" style="display:none;">
+        <div class="video-popup-content">
+            <span class="close-video-popup" onclick="closeVideoPopup()">&times;</span>
+            <div class="video-wrapper">
+                <iframe id="youtubePlayer" width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .video-popup-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .video-popup-content {
+            position: relative;
+            width: 80%;
+            max-width: 900px;
+        }
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+        }
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .close-video-popup {
+            position: absolute;
+            top: -40px;
+            right: 0;
+            color: #fff;
+            font-size: 35px;
+            cursor: pointer;
+            line-height: 1;
+        }
+    </style>
+
+
+
+    <div class="d-none d-lg-block">
+        <?php require "rankingbanner.php"; ?>
+    </div>
+
+
+ <!-- Career Opportunities Section -->
+    <section class="pharmacy-container" data-aos="fade-up">
+        <div class="content-right">
+            <h3 class="" style="color: var(--gnc-blue);">Career Opportunities in <br>B.Pharm Lateral Entry</h3>
+
+            <p class="intro-text">
+                The B.Pharm Lateral Entry program offers diploma holders a direct pathway into the second year, helping them advance their careers in the pharmaceutical and healthcare industry. It builds on existing knowledge while focusing on advanced concepts in drug formulation, pharmacology, and quality assurance.
+            </p>
+            
+            <p class="intro-text">
+                Graduates can explore diverse opportunities in pharmaceutical companies, hospitals, research organizations, and regulatory bodies, with strong practical exposure and industry readiness.
+            </p>
+
+            
+
+            <div class="slider-wrap">
+                <div class="slider-head">
+                    <span>Career Pathways</span>
+                    <div class="nav-ctrl">
+                        <button class="btn-nav" onclick="movePharmacySlide(-1)" aria-label="Previous"><i class="fas fa-chevron-left"></i></button>
+                        <button class="btn-nav" onclick="movePharmacySlide(1)" aria-label="Next"><i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+
+                <div class="slider-view" id="pharmacySliderView">
+                    <div class="slider-track" id="pharmacySliderTrack">
+                        <div class="pathway-card">
+                            <h5><i class="fas fa-long-arrow-alt-right"></i> Licensed Pharmacist</h5>
+                            <p>Dispense medicines, guide patients on proper usage, and ensure safe pharmaceutical practices in hospitals and retail settings.</p>
+                        </div>
+                        <div class="pathway-card">
+                            <h5><i class="fas fa-long-arrow-alt-right"></i> QC Analyst</h5>
+                            <p>Test and analyze drug samples to ensure they meet required quality standards and regulatory guidelines.</p>
+                        </div>
+                        <div class="pathway-card">
+                            <h5><i class="fas fa-long-arrow-alt-right"></i> QA Officer</h5>
+                            <p>Maintain quality assurance processes and ensure compliance with industry standards during drug manufacturing.</p>
+                        </div>
+                        <div class="pathway-card">
+                            <h5><i class="fas fa-long-arrow-alt-right"></i> Clinical Research Associate</h5>
+                            <p>Manage clinical trials, monitor data, and ensure ethical and regulatory compliance in research studies.</p>
+                        </div>
+                        <div class="pathway-card">
+                            <h5><i class="fas fa-long-arrow-alt-right"></i> Drug Safety Associate</h5>
+                            <p>Monitor adverse drug reactions and ensure patient safety through pharmacovigilance practices.</p>
+                        </div>
+                        <div class="pathway-card">
+                            <h5><i class="fas fa-long-arrow-alt-right"></i> Regulatory Affairs Officer</h5>
+                            <p>Handle approvals, documentation, and compliance with government regulations for pharmaceutical products.</p>
+                        </div>
+                        <div class="pathway-card">
+                            <h5><i class="fas fa-long-arrow-alt-right"></i> Medical Writer</h5>
+                            <p>Create scientific documents, research papers, and regulatory content for pharmaceutical and healthcare sectors.</p>
+                        </div>
+                        <div class="pathway-card">
+                            <h5><i class="fas fa-long-arrow-alt-right"></i> Medical Representative</h5>
+                            <p>Promote pharmaceutical products, build relationships with doctors, and drive business growth.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid-left">
+            <div class="img-box"><img src="upload/programs/LE-1.webp"></div>
+            <div class="img-box"><img src="upload/programs/LE-3.jpg"></div>
+            <div class="img-box"><img src="upload/programs/LE-4.jpg"></div>
+            <div class="img-box"><img src="upload/programs/LE-2.webp"></div>
+          </div>
+    </section>
+
+
+     <!-- =============================================
+         WHY CHOOSE US
+    ============================================= -->
+    <section id="why-choose-us-new" class="section-padding">
+        <div class="container-main why-choose-us-container">
+            <div class="why-choose-us-layout">
+                <div class="why-choose-us-images">
+                    <div class="image-stack">
+                        <img src="images/bp-8.jpg" alt="GNC Student 1" class="stack-img img-1">
+                        <img src="images/bp-7.jpg" alt="GNC Student 2" class="stack-img img-2">
+                    </div>
+                </div>
+                <div class="why-choose-us-content">
+                    <h2 class="why-choose-us-title">Why Join Guru Nanak College For Lateral Entry in B. Pharm in Dehradun?</h2>
+                    <p class="why-choose-us-description">At the School of Pharmacy, part of the esteemed Guru Nanak College, Dehradun, we are dedicated to offering top-tier education in pharmaceutical sciences.</p>
+                    <h4 class="feature-list-intro">Students benefit from:</h4>
+                    <div class="why-choose-us-features-list">
+                        <div class="feature-list-item">
+                            <div class="feature-tick"><i class="fas fa-check"></i></div>
+                            <div class="feature-content">
+                                <h4 class="feature-title">A well-stocked, centrally managed library with extensive pharmaceutical resources.</h4>
+                            </div>
+                        </div>
+                        <div class="feature-list-item">
+                            <div class="feature-tick"><i class="fas fa-check"></i></div>
+                            <div class="feature-content">
+                                <h4 class="feature-title">Modern laboratories equipped with the latest technology for practical and research-based learning.</h4>
+                            </div>
+                        </div>
+                        <div class="feature-list-item">
+                            <div class="feature-tick"><i class="fas fa-check"></i></div>
+                            <div class="feature-content">
+                                <h4 class="feature-title">A faculty of highly qualified and experienced professionals in the field of pharmacy</h4>
+                            </div>
+                        </div>
+                        <div class="feature-list-item">
+                            <div class="feature-tick"><i class="fas fa-check"></i></div>
+                            <div class="feature-content">
+                                <h4 class="feature-title">Innovative teaching methods that blend traditional approaches with modern techniques in pharmaceutical education.</h4>
+                            </div>
+                        </div>
+                        <div class="feature-list-item">
+                            <div class="feature-tick"><i class="fas fa-check"></i></div>
+                            <div class="feature-content">
+                                <h4 class="feature-title">We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students.</h4>
+                            </div>
+                        </div>
+                        <div class="feature-list-item">
+                            <div class="feature-tick"><i class="fas fa-check"></i></div>
+                            <div class="feature-content">
+                                <h4 class="feature-title">Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</h4>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Include Bootstrap JS (Required for the tabs to click/switch) -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Labs Section -->
 
-    <!-- Kalpana Chawla Section -->
-   
-   
-<section class="gnc-simple-bento" style="background-color: #ffffff; padding-bottom:20px;">
-    
+     <style>
+    /* Header styling */
+    .pharmacy-labs-header-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #000;
+    }
+    .pharmacy-labs-header-title-italic {
+        font-style: italic;
+        font-weight: 400;
+        color: #000;
+    }
 
-    <div class="gnc-bento-container">
+    /* Carousel container adjustments for overflow and positioning */
+    .pharmacy-labs-carousel-wrapper {
+        overflow: hidden;
+        position: relative;
+    }
+
+    /* Carousel Inner - holds all lab items and handles the sliding transition */
+    .pharmacy-labs-carousel-inner-custom {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+        width: 100%; /* Initially 100% of the wrapper width */
+    }
+
+    /* Lab Item Card Styling */
+    .pharmacy-labs-lab-item {
+        flex: 0 0 100%; /* Default: 100% width on mobile (1 item) */
+        max-width: 100%;
+        height: 500px; /* Fixed height for visual consistency */
+        position: relative;
+        padding: 1rem;
+        box-sizing: border-box;
+    }
+
+    .pharmacy-labs-lab-card {
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+        border-radius: 0.5rem; /* Rounded corners */
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        overflow: hidden;
+    }
+
+   
+    .pharmacy-labs-lab-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center; 
+        justify-content: center; 
+        padding: 1rem; 
+    }
+
+    .pharmacy-labs-lab-title {
+        color: #fff;
+        font-size: 1.8rem;
+        font-weight: 600;
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+        text-align: center; /* Ensure text is centered if it spans multiple lines */
+    }
+
+    /* Navigation Button Styling */
+    .pharmacy-labs-carousel-control-custom {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 10;
+        width: 40px;
+        height: 40px;
+        background-color: white;
+        border-radius: 50%;
+        border: 1px solid #ccc;
+        opacity: 0.8;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: opacity 0.2s;
+        cursor: pointer;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .pharmacy-labs-carousel-control-custom:hover {
+        opacity: 1;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    .pharmacy-labs-carousel-control-prev-custom { left: 0; margin-left: -20px; }
+    .pharmacy-labs-carousel-control-next-custom { right: 0; margin-right: -20px; }
+    .pharmacy-labs-carousel-control-custom i {
+        color: #333;
+        font-size: 1rem;
+    }
+
+    /* Media Query for Desktop/Tablet (Bootstrap 'md' breakpoint and up) */
+    @media (min-width: 768px) {
+        .pharmacy-labs-lab-item {
+            flex: 0 0 50%; /* Desktop: 50% width (2 items visible) */
+            max-width: 50%;
+        }
+        .pharmacy-labs-carousel-control-prev-custom { left: 0; margin-left: -40px; }
+        .pharmacy-labs-carousel-control-next-custom { right: 0; margin-right: -40px; }
+
         
-       
-        <div class="gnc-bento-item" data-aos="fade-up" data-aos-duration="600" style="background-color: rgb(3 175 255)">
-            <h2 class="gnc-bento-ian">Important Academic Notes</h2>
-            <ul class="gnc-arrow-list ">
-                <li>Examination Fees: External as per the University/Board/ College Norms Payable.</li>
-                <li>Career Development, Recruitment & Entrepreneurship: Ref - Power Degree by Career Buddy Club.</li>
-                <li>Dissertation Charges: Rs.5,000/- (To be paid in final year) Shall be Applicable for selected courses as per the university curriculum.</li>
-                <li>Transportation Fee (Optional): Applicable for transportation to and from Dehradun city & around for day scholars as per distance.</li>
-                <li>Transportation Fee (Optional): Applicable for internship/clinical posting/On-Job Training for both hostellers & day scholars.</li>
-                <li>Package seats are offered for the complete duration of course only.</li>
-            </ul>
+    }
+</style>
+
+<!-- MAIN SECTION START -->
+<section>
+    <div class="container-fluid px-md-5">
+
+        <!-- HEADER SECTION -->
+        <div class="text-center mb-5 px-3">
+            <h2 class="pharmacy-labs-header-title">Modern Pharmacy Laboratories <span class="pharmacy-labs-header-title-italic">Equipped with <br> Cutting-Edge Technology.</span></h2>
+            <p class="text-secondary mx-auto mt-3" style="max-width: 700px;">
+                Guru Nanak College provides specialized pharmacy lab infrastructure with state-of-the-art equipment for drug formulation, analysis, and research. Our facilities offer students hands-on clinical experience to master pharmaceutical sciences.
+            </p>
         </div>
 
-        <!-- RIGHT COLUMN STACK -->
-        <div class="right-stack">
+        <!-- CAROUSEL SECTION -->
+        <div id="labCarousel" class="pharmacy-labs-carousel-wrapper">
             
-            <!-- RIGHT TOP RECTANGLE: KALPANA CHAWLA -->
-            <div class="gnc-bento-item bg-very-light" data-aos="fade-right" data-aos-duration="800">
-                <h2 class="text-orange">Kalpana Chawla Scholarship</h2>
-                <p><strong>A special opportunity for top-performing 5% students:</strong></p>
-                <p>Eligibility: students, who perform the best in calendar year, 10% or 20% based on the student's internal marks and 75% attendance each year will be awarded scholarship to those meritorious students.</p>
+            <!-- This is the container that holds all 14 labs and moves left/right -->
+            <div class="pharmacy-labs-carousel-inner-custom" id="carouselInner">
+                <!-- Labs will be injected here by JavaScript -->
             </div>
 
-            <!-- RIGHT BOTTOM RECTANGLE: ADMISSION PROCEDURE -->
-            <div class="gnc-bento-item bg-light-grey" style="flex: 1;" data-aos="fade-right" data-aos-duration="800">
-                <h3 class="">Admission Procedure</h3>
-                <p>Admission to our program is determined by a merit-based selection process, which takes into account the marks obtained in the qualifying examination.</p>
-                <p>Additionally, the university conducts Counselling with all applicants to assess their eligibility for admission.</p>
-                <a href="https://application.gnc.edu.in/" target="_blank" class="gnc-simple-btn">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
+            <!-- Previous Button -->
+            <div class="pharmacy-labs-carousel-control-custom pharmacy-labs-carousel-control-prev-custom d-none d-md-flex" role="button" onclick="prevSlide()">
+                <i class="fas fa-chevron-left" aria-hidden="true"></i>
+                <span class="visually-hidden">Previous</span>
             </div>
-
+            
+            <!-- Next Button -->
+            <div class="pharmacy-labs-carousel-control-custom pharmacy-labs-carousel-control-next-custom d-none d-md-flex" role="button" onclick="nextSlide()">
+                <i class="fas fa-chevron-right" aria-hidden="true"></i>
+                <span class="visually-hidden">Next</span>
+            </div>
         </div>
 
     </div>
 </section>
-<!-- INTEGRATED SECTION START -->
-  <section class="acp-section">
-    <div class="container">
-        <div class="row">
-            <!-- 1. Students Image & Color Bar -->
-            <div class="col-lg-4 student-image-col">
-                <div class="red-vertical-bar"></div>
-                <img src="upload/infra/student-1.webp" alt="GNC B.Pharm Students" class="student-img-cutout">
-            </div>
-    
-            <!-- 2. Career Opportunities (Middle) -->
-            <div class="col-lg-5 ps-lg-4 acp-text-padding acp-content-col" style="padding-left: 3.5rem !important;">
-                <h3>Career Opportunities in <br>Pharmacy (B.Pharm Lateral Entry)</h3>
-                <p>After completing a Bachelor of Pharmacy (B.Pharm) through the Lateral Entry pathway, graduates have a variety of career opportunities in the pharmaceutical and healthcare industries. They can become licensed pharmacists in retail or hospital settings, where they dispense medications and provide drug-related advice to patients. The program also opens doors to roles in pharmaceutical manufacturing, quality control, and assurance, where they ensure the safety and efficacy of medications.</p>
-                
-                <p>Graduates can pursue careers in clinical research, contributing to drug trials and pharmaceutical development. Additionally, they have the option to venture into medical writing, regulatory affairs, or as medical representatives, liaising between pharmaceutical companies and healthcare professionals. This pathway accelerates their journey into these diverse and rewarding career options in the pharmacy sector.</p>
-            </div>
+<!-- MAIN SECTION END -->
 
-            <!-- 3. Key Career Fields (Right) -->
-            <div class="col-lg-3 salient-features-col" style="padding-bottom: 2rem;">
-                <h6 class="fw-bold mb-4" style="font-size: 1rem;">B.Pharm Career Scope</h6>
-                <ul class="feature-list">
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Licensed Pharmacists:</b> Dispensing medications and providing advice in retail or hospital settings.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Manufacturing & QC:</b> Ensuring the safety and efficacy of medications through quality control and assurance.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Clinical Research:</b> Contributing to drug trials and the development of new pharmaceutical products.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Regulatory Affairs:</b> Managing legal and compliance requirements for pharmaceutical companies.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Medical Writing:</b> Creating scientific documentation and communication materials for the industry.</div>
-                    </li>
-                    <li><i class="fas fa-check"></i>
-                        <div><b>Medical Representatives:</b> Liaising between pharmaceutical companies and healthcare professionals.</div>
-                    </li>
-                </ul>
+    <!-- Need Help FAQ Section -->
+
+    <section id="gnc-faq-wrapper">
+    <style>
+        #gnc-faq-wrapper {
+            width: 100%;
+            max-width: 1320px;
+            margin: 40px auto;
+            padding: 20px;
+            display: flex;
+            gap: 50px;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: #fff;
+            box-sizing: border-box;
+        }
+
+        /* --- LEFT SIDEBAR: NEED ASSISTANCE --- */
+        .gnc-faq-sidebar {
+            width: 30%;
+            background-color: #f6f6f6;
+            padding: 40px 30px;
+            border-radius: 8px;
+            height: fit-content;
+        }
+
+        .gnc-faq-sidebar h3 {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 10px;
+            font-weight: 500;
+        }
+
+        .gnc-faq-sidebar .gnc-orange-line {
+            width: 100%;
+            height: 1px;
+            background-color: var(--gnc-orange);
+            margin-bottom: 25px;
+        }
+
+        .gnc-sidebar-text {
+            font-size: 14px;
+            color: #444;
+            line-height: 1.6;
+            margin-bottom: 25px;
+        }
+
+        .gnc-contact-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            gap: 15px;
+        }
+
+        .gnc-contact-icon {
+            width: 24px;
+            height: 24px;
+            fill: #999;
+            flex-shrink: 0;
+        }
+
+        .gnc-contact-info label {
+            display: block;
+            font-size: 12px;
+            color: #888;
+            margin-bottom: 2px;
+        }
+
+        .gnc-contact-info span {
+            display: block;
+            font-size: 15px;
+            font-weight: 700;
+            color: #000;
+        }
+
+        /* --- RIGHT CONTENT: FAQ LIST --- */
+        .gnc-faq-main {
+            width: 70%;
+        }
+
+        .gnc-faq-header {
+            margin-bottom: 40px;
+        }
+
+        .gnc-faq-header span {
+            color: var(--gnc-orange);
+            font-size: 24px;
+            font-weight: 500;
+        }
+
+        .gnc-faq-header h2 {
+            font-size: 24px;
+            color: #333;
+            display: inline;
+            font-weight: 400;
+        }
+
+        .gnc-faq-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        /* Accordion Style using <details> */
+        .gnc-faq-item {
+            border-bottom: 1px solid #ddd;
+            padding: 20px 0;
+        }
+
+        .gnc-faq-item summary {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            outline: none;
+        }
+
+        /* Orange Plus Icon */
+        .gnc-faq-item summary::before {
+            content: '+';
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 22px;
+            height: 22px;
+            background-color: var(--gnc-orange);
+            color: #fff;
+            border-radius: 50%;
+            margin-right: 15px;
+            font-size: 16px;
+            flex-shrink: 0;
+            transition: transform 0.3s ease;
+        }
+
+        .gnc-faq-item[open] summary::before {
+            content: '-';
+            background-color: #333;
+        }
+
+        .gnc-faq-answer {
+            padding: 15px 0 0 37px;
+            font-size: 14.5px;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        /* Hide default arrow in Firefox */
+        .gnc-faq-item summary::-webkit-details-marker {
+            display: none;
+        }
+
+        /* Responsive Logic */
+        @media (max-width: 900px) {
+            #gnc-faq-wrapper {
+                flex-direction: column;
+                gap: 30px;
+                padding: 20px 15px;
+            }
+            .gnc-faq-sidebar, .gnc-faq-main {
+                width: 100%;
+            }
+            .gnc-faq-sidebar {
+                text-align: center;
+            }
+        }
+    </style>
+
+    <!-- LEFT SIDEBAR: NEED ASSISTANCE -->
+    <aside class="gnc-faq-sidebar">
+        <h3>Need Assistance?</h3>
+        <div class="gnc-orange-line"></div>
+        
+        <p class="gnc-sidebar-text">
+            Secure your seat for B.Pharm (Lateral Entry) Admission 2026 at Guru Nanak College, Dehradun. Apply now or book a campus visit to accelerate your professional journey in pharmaceutical sciences.
+        </p>
+
+        <div class="gnc-contact-item">
+            <svg class="gnc-contact-icon" viewBox="0 0 24 24"><path d="M6.62,10.79C8.06,13.62 10.38,15.94 13.21,17.38L15.41,15.18C15.69,14.9 16.08,14.82 16.43,14.93C17.55,15.3 18.75,15.5 20,15.5A1,1 0 0,1 21,16.5V20A1,1 0 0,1 20,21A17,17 0 0,1 3,4A1,1 0 0,1 4,3H7.5A1,1 0 0,1 8.5,4C8.5,5.25 8.7,6.45 9.07,7.57C9.18,7.92 9.1,8.31 8.82,8.59L6.62,10.79Z"/></svg>
+            <div class="gnc-contact-info">
+                <label>Admission Helpline</label>
+                <span>7300900900</span>
             </div>
         </div>
-    </div>
+
+        <div class="gnc-contact-item">
+            <svg class="gnc-contact-icon" viewBox="0 0 24 24"><path d="M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.11,4 20,4M20,18H4V8L12,13L20,8V18M12,11L4,6H20L12,11Z"/></svg>
+            <div class="gnc-contact-info">
+                <label>Email Support</label>
+                <span>info@gnc.edu.in</span>
+            </div>
+        </div>
+    </aside>
+
+    <!-- RIGHT CONTENT: FAQs -->
+    <main class="gnc-faq-main">
+        <div class="gnc-faq-header">
+            <span>Need Help?</span> <h2>Frequently Asked Questions (B.Pharm Lateral Entry)</h2>
+        </div>
+
+        <div class="gnc-faq-list">
+            <!-- Q1 -->
+            <details class="gnc-faq-item">
+                <summary>Who is eligible for the B.Pharm Lateral Entry program?</summary>
+                <div class="gnc-faq-answer">
+                    Students who have successfully completed a Diploma in Pharmacy (D.Pharm) from a recognized institution are eligible to apply for the B.Pharm Lateral Entry program. This allows them to directly enter the second year of the B.Pharm degree.
+                </div>
+            </details>
+
+            <!-- Q2 -->
+            <details class="gnc-faq-item">
+                <summary>What is the duration of the B.Pharm Lateral Entry course?</summary>
+                <div class="gnc-faq-answer">
+                    The B.Pharm Lateral Entry program is a 3-year undergraduate degree course, as students are admitted directly into the second year (3rd semester) of the standard 4-year B.Pharm program.
+                </div>
+            </details>
+
+            <!-- Q3 -->
+            <details class="gnc-faq-item">
+                <summary>What career opportunities are available after completing B.Pharm Lateral Entry?</summary>
+                <div class="gnc-faq-answer">
+                    Graduates can explore diverse career paths, including Licensed Pharmacist, Quality Control (QC) Analyst, Quality Assurance (QA) Officer, Clinical Research Associate, Drug Safety Associate, and Regulatory Affairs Officer.
+                </div>
+            </details>
+
+            <!-- Q4 -->
+            <details class="gnc-faq-item">
+                <summary>Can B.Pharm Lateral Entry students pursue higher education?</summary>
+                <div class="gnc-faq-answer">
+                    Yes, after completing the B.Pharm degree, students can pursue higher education such as M.Pharm, Pharm.D (Post Baccalaureate), MBA in Pharma Management, or research-based programs.
+                </div>
+            </details>
+
+            <!-- Q5 -->
+            <details class="gnc-faq-item">
+                <summary>Is practical training included in the Lateral Entry program?</summary>
+                <div class="gnc-faq-answer">
+                    Absolutely. Practical training is a core component of the curriculum. Students gain hands-on experience in advanced laboratories, clinical settings, and through industrial training programs to ensure they are industry-ready.
+                </div>
+            </details>
+        </div>
+    </main>
+
 </section>
 
-    <!-- BLUE BANNER SECTION: WHY JOIN GNC BMRIT -->
-    <section class="why-join-blue">
-    <div class="container">
-        <div class="row">
+ <!-- How to Apply Section-->
+  <style>
+        :root {
+            --gnc-orange: #FB7B1C; /* Standard GNC Red */
+            --bg-light: #f8f9fa;
+            --text-dark: #333;
+            --transition-speed: 0.6s;
+        }
 
-            <div class="col-lg-8">
-                <div class="why-join-content">
-                    <h3>Why Join Guru Nank College For Lateral Entry in B. Pharm in Dehradun?</h3>
-                    <p>At the School of Pharmacy, part of the esteemed Guru Nanak College, Dehradun, we are dedicated to offering top-tier education in pharmaceutical sciences.</p>
+        .hta-sec {
+            padding: 10px 20px;
+            font-family: 'Poppins', sans-serif;
+            background-color: #ffffff;
+            overflow: hidden;
+            padding-left: 107.5px;
+            padding-right: 107.5px;
+            margin-bottom: 20px;
+        }
 
-                    <p>Our aim is to develop skilled professionals equipped to meet global healthcare and pharmaceutical challenges.
-                       The campus boasts advanced educational facilities for a comprehensive learning experience.</p>
+        .container-apply {
+            max-width: 1050px;
+            margin: 0 auto;
+        }
 
-                    <ul class="check-list-white">
-                        <li class="d-flex align-items-start mb-3">
-                            <div class="ms-3">
-                                <p class="mb-0"><b>Students benefit from:</b></p>
-                            </div>
-                        </li>
+        .subHeading-apply h3 {
+            font-size: 42px;
+            font-weight: 800;
+            margin-bottom: 20px;
+            text-align: center;
+            color: var(--text-dark);
+        }
 
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">A well-stocked, centrally managed library with extensive pharmaceutical resources.</p>
-                            </div>
-                        </li>
+        /* Tab Navigation Bar */
+        .tabs-nav {
+            display: flex;
+            background: #f1f1f1;
+            border-radius: 15px;
+            max-width: 850px;
+            margin: 0 auto 30px auto;
+            padding: 8px;
+            position: relative;
+        }
 
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">Modern laboratories equipped with the latest technology for practical and research-based learning.</p>
-                            </div>
-                        </li>
+        .step-item {
+            flex: 1;
+            text-align: center;
+            padding: 18px 10px;
+            cursor: pointer;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            z-index: 2;
+        }
 
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">A faculty of highly qualified and experienced professionals in the field of pharmacy</p>
-                            </div>
-                        </li>
+        .step-item span {
+            display: block;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #777;
+            margin-bottom: 4px;
+        }
 
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">Innovative teaching methods that blend traditional approaches with modern techniques in pharmaceutical education.</p>
-                            </div>
-                        </li>
+        .step-item h5 {
+            margin: 0;
+            font-size: 19px;
+            font-weight: 700;
+            color: #444;
+        }
 
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">We focus on value-based education, aiming to develop critical thinking, problem-solving skills, and a knack for innovation and research in our students.</p>
-                            </div>
-                        </li>
+        /* Active Tab State */
+        .step-item.active {
+            background: #ffffff;
+            box-shadow: 0px 10px 25px rgba(0,0,0,0.1);
+        }
 
-                        <li class="d-flex align-items-start mb-3">
-                            <i class="fas fa-check mt-1"></i>
-                            <div class="ms-3">
-                                <p class="mb-0">Recognizing the importance of career readiness in the dynamic field of pharmacy, we offer extensive placement training to prepare our students for successful careers in the pharmaceutical and healthcare sectors.</p>
-                            </div>
-                        </li>
-                    </ul>
+        .step-item.active h5 {
+            color: var(--gnc-orange);
+        }
 
-                    <a href="https://application.gnc.edu.in/" target="_blank" class="btn-apply-white">Apply Now <i class="fas fa-arrow-right ms-2"></i></a>
+        /* Content Area Layout */
+        .content-wrapper-apply {
+            position: relative;
+            min-height: 350px;
+        }
+
+        .step-content {
+            display: none; /* Hidden by default */
+            align-items: center;
+            gap: 50px;
+            width: 100%;
+        }
+
+        /* The Animation Class */
+        .step-content.active {
+            display: flex;
+            animation: fadeInRight var(--transition-speed) ease forwards;
+        }
+
+        /* Image Sizing - ENSURING CONSISTENCY */
+        .step-left {
+            flex: 1.2;
+            height: 350px; /* Fixed Height */
+            overflow: hidden;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+        }
+
+        .step-left img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensures image fills the box without distortion */
+            display: block;
+        }
+
+        .step-right {
+            flex: 1;
+        }
+
+        .step-right h6 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: var(--text-dark);
+        }
+
+        .step-right p {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 15px;
+        }
+
+        /* Fade-in Right Keyframes */
+        @keyframes fadeInRight {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 991px) {
+            .hta-sec {
+                padding: 40px 15px;
+            }
+            .subHeading-apply h3 {
+                font-size: 28px;
+            }
+            .tabs-nav {
+                flex-direction: row !important; /* Keep horizontal on mobile */
+                max-width: 100%;
+                padding: 5px;
+                gap: 5px;
+                border-radius: 10px;
+            }
+            .step-item {
+                padding: 10px 5px;
+            }
+            .step-item span {
+                font-size: 10px;
+            }
+            .step-item h5 {
+                font-size: 13px;
+            }
+            .step-content.active {
+                flex-direction: column;
+                text-align: left; /* Align text to left as per image */
+                gap: 25px;
+            }
+            .step-left {
+                width: 100%;
+                height: 250px;
+                border-radius: 15px;
+            }
+            .step-right h6 {
+                font-size: 22px;
+                margin-bottom: 10px;
+            }
+            .step-right p {
+                font-size: 14px;
+            }
+        }
+    </style>
+
+
+<section class="hta-sec">
+    <div class="container-apply">
+        <div class="subHeading-apply">
+            <h3>How to Apply?</h3>
+        </div>
+
+        <!-- Step Navigation -->
+        <div class="tabs-nav" id="tab-nav">
+            <div class="step-item active" data-index="0">
+                <span>Step 1</span>
+                <h5>Signup</h5>
+            </div>
+            <div class="step-item" data-index="1">
+                <span>Step 2</span>
+                <h5>Application Form</h5>
+            </div>
+            <div class="step-item" data-index="2">
+                <span>Step 3</span>
+                <h5>Admission</h5>
+            </div>
+        </div>
+
+        <!-- Content Slides -->
+        <div class="content-wrapper-apply">
+            <!-- Step 1 -->
+            <div class="step-content active">
+                <div class="step-left">
+                    <img src="images/step-1.jpg" alt="GNC Signup">
+                </div>
+                <div class="step-right">
+                    <h6>Step 1 – Signup</h6>
+                    <p>Create your account and complete the registration process to reserve your place for the program. Enter your basic details to get started quickly and securely.</p>
+                </div>
+            </div>
+
+            <!-- Step 2 -->
+            <div class="step-content">
+                <div class="step-left">
+                    <img src="images/step-2.jpg" alt="GNC Application">
+                </div>
+                <div class="step-right">
+                    <h6>Step 2 – Application Form</h6>
+                    <p>Fill in the required information, submit your application form, and upload necessary documents for review, processing, and verification.</p>
+                </div>
+            </div>
+
+            <!-- Step 3 -->
+            <div class="step-content">
+                <div class="step-left">
+                    <img src="images/step-3.webp" alt="GNC Admission">
+                </div>
+                <div class="step-right">
+                    <h6>Step 3 – Admission</h6>
+                    <p>Our team will review your application and documents. Once approved, complete the fee payment and begin your academic journey with us.</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-    <!-- INTEGRATED SECTION END -->
-   <?php require "application-process.php"; ?>
-    <?php require "testimoni-2.php"; ?>
-    <?php require "common/footer.php"; ?>
+
+<!-- JavaScript Dependencies and Logic (Place these before the closing </body> tag) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" xintegrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eE7uF36tW5m3g8k5tI8d" crossorigin="anonymous"></script>
+
+<script>
+    // Data for the 14 labs
+     const labData = [
+        { title: "Pharmaceutics-I", imageUrl: "images/labs/lab-1.webp" },
+        { title: "Pharmaceutics-II", imageUrl: "images/labs/lab-2.webp" },
+        { title: "Pharmaceutics-III", imageUrl: "images/labs/lab-3.webp" },
+        { title: "Pharmacognosy", imageUrl: "images/labs/lab-4.webp" },
+        { title: "Pharmaceutical Chemistry-I", imageUrl: "images/labs/lab-5.webp" },
+        { title: "Pharmaceutical Chemistry-II", imageUrl: "images/labs/lab-6.webp" },
+        { title: "Pharmacology-I", imageUrl: "images/labs/lab-8.webp" },
+        { title: "Pharmacology-II", imageUrl: "images/labs/lab-9.webp" },
+        { title: "Human Anatomy and Physiology", imageUrl: "images/labs/lab-10.webp" },
+        { title: "Machine Room", imageUrl: "images/labs/lab-11.webp" }
+        ];
+
+    let currentIndex = 0;
+    let itemsPerSlide = 1; // Default for mobile
+    let isMobile = false;
+    let autoSlideInterval;
+    const carouselInner = document.getElementById('carouselInner');
+    const mediaQuery = window.matchMedia('(min-width: 768px)');
+    const totalItems = labData.length;
+
+    /**
+     * Renders the lab cards into the carousel inner container.
+     */
+    function renderLabs() {
+        carouselInner.innerHTML = ''; // Clear existing content
+        labData.forEach(lab => {
+            const labHtml = `
+                <div class="pharmacy-labs-lab-item" role="group">
+                    <div class="pharmacy-labs-lab-card" style="background-image: url('${lab.imageUrl}')" 
+                            title="View ${lab.title}"
+                            onerror="this.style.backgroundImage='url(\'https://placehold.co/800x600/94a3b8/ffffff?text=Lab+Facility\')'">
+                        <div class="pharmacy-labs-lab-overlay">
+                            <span class="pharmacy-labs-lab-title">${lab.title}</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+            carouselInner.insertAdjacentHTML('beforeend', labHtml);
+        });
+    }
+
+    /**
+     * Updates the `transform` property to slide the carousel based on the current index.
+     */
+    function updateCarouselPosition() {
+        // Calculate the percentage to translate (move) the carousel inner
+        // The item width is itemsPerSlide (100% on mobile, 50% on desktop)
+        const slideWidth = 100 / itemsPerSlide;
+        const translateValue = currentIndex * slideWidth;
+        carouselInner.style.transform = `translateX(-${translateValue}%)`;
+    }
+
+    /**
+     * Navigates to the next slide.
+     */
+    function nextSlide() {
+        // Calculate the max index we can show without wrapping
+        const maxIndex = totalItems - itemsPerSlide;
+        currentIndex = (currentIndex < maxIndex) ? currentIndex + 1 : 0;
+        updateCarouselPosition();
+    }
+
+    /**
+     * Navigates to the previous slide.
+     */
+    function prevSlide() {
+        const maxIndex = totalItems - itemsPerSlide;
+        currentIndex = (currentIndex > 0) ? currentIndex - 1 : maxIndex;
+        updateCarouselPosition();
+    }
+
+    /**
+     * Starts the auto-looping feature for all screen sizes.
+     */
+    function startAutoLoop() {
+        if (autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+        }
+        // Auto-loop for both mobile and desktop (3000ms interval)
+        autoSlideInterval = setInterval(nextSlide, 4000);
+    }
+
+    /**
+     * Handles screen size changes (responsive logic).
+     */
+    function handleScreenChange(e) {
+        // Check if screen is desktop/tablet (768px or wider)
+        if (e.matches) {
+            // Desktop/Tablet setup
+            itemsPerSlide = 2;
+            isMobile = false;
+        } else {
+            // Mobile setup
+            itemsPerSlide = 1;
+            isMobile = true;
+        }
+
+        // Always restart the auto-loop to ensure it's active regardless of device.
+        startAutoLoop(); 
+
+        // Reset current index to 0 when breakpoint changes
+        currentIndex = 0;
+        updateCarouselPosition();
+    }
+    
+    // --- Initialization ---
+    
+    // 1. Initial render of labs
+    renderLabs();
+
+    // 2. Initial screen check and setup
+    handleScreenChange(mediaQuery);
+
+    // 3. Add listener for screen size changes
+    mediaQuery.addListener(handleScreenChange);
+
+    // Expose functions globally for the onclick attributes in HTML
+    window.nextSlide = nextSlide;
+    window.prevSlide = prevSlide;
+
+    // --- How to Apply Tab Logic ---
+    document.addEventListener("DOMContentLoaded", function() {
+        const tabs = document.querySelectorAll(".step-item");
+        const slides = document.querySelectorAll(".step-content");
+        let currentStepIndex = 0;
+        let autoPlayTimer;
+
+        function showStepSlide(index) {
+            // Remove active classes
+            tabs.forEach(tab => tab.classList.remove("active"));
+            slides.forEach(slide => slide.classList.remove("active"));
+
+            // Set new active state
+            if(tabs[index]) tabs[index].classList.add("active");
+            if(slides[index]) slides[index].classList.add("active");
+            currentStepIndex = index;
+        }
+
+        function nextStepSlide() {
+            let next = (currentStepIndex + 1) % tabs.length;
+            showStepSlide(next);
+        }
+
+        // Start Auto-Switching (5 Seconds)
+        function startStepAutoPlay() {
+            autoPlayTimer = setInterval(nextStepSlide, 5000);
+        }
+
+        function resetStepAutoPlay() {
+            clearInterval(autoPlayTimer);
+            startStepAutoPlay();
+        }
+
+        // Manual Click Handler
+        tabs.forEach((tab, index) => {
+            tab.addEventListener("click", () => {
+                showStepSlide(index);
+                resetStepAutoPlay(); // Reset timer so it doesn't switch immediately after clicking
+            });
+        });
+
+        // Initialize
+        if(tabs.length > 0) startStepAutoPlay();
+    });
+</script>
 
 
 
+  
+    <script>
+        AOS.init();
+
+        function openVideoPopup(videoId) {
+            const popup = document.getElementById('videoPopup');
+            const player = document.getElementById('youtubePlayer');
+            player.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+            popup.style.display = 'flex';
+            document.body.style.overflow = 'hidden'; // Prevent scrolling
+        }
+
+        function closeVideoPopup() {
+            const popup = document.getElementById('videoPopup');
+            const player = document.getElementById('youtubePlayer');
+            player.src = '';
+            popup.style.display = 'none';
+            document.body.style.overflow = 'auto'; // Re-enable scrolling
+        }
+
+        // Close on escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeVideoPopup();
+        });
+
+        // Close on click outside
+        document.getElementById('videoPopup').addEventListener('click', (e) => {
+            if (e.target.id === 'videoPopup') closeVideoPopup();
+        });
+
+        <!-- Horizontal Scroll for Curriculum -->
+        const curriculumScroll = document.getElementById('curriculumScroll');
+        if (curriculumScroll) {
+            let isDown = false;
+            let startX;
+            let scrollLeft;
+
+            curriculumScroll.addEventListener('mousedown', (e) => {
+                isDown = true;
+                curriculumScroll.classList.add('active');
+                startX = e.pageX - curriculumScroll.offsetLeft;
+                scrollLeft = curriculumScroll.scrollLeft;
+            });
+            curriculumScroll.addEventListener('mouseleave', () => {
+                isDown = false;
+                curriculumScroll.classList.remove('active');
+            });
+            curriculumScroll.addEventListener('mouseup', () => {
+                isDown = false;
+                curriculumScroll.classList.remove('active');
+            });
+            curriculumScroll.addEventListener('mousemove', (e) => {
+                if (!isDown) return;
+                e.preventDefault();
+                const x = e.pageX - curriculumScroll.offsetLeft;
+                const walk = (x - startX) * 2;
+                curriculumScroll.scrollLeft = scrollLeft - walk;
+            });
+        }
+
+        // --- Pharmacy Career Opportunities Slider ---
+        const pharmacyTrack = document.getElementById('pharmacySliderTrack');
+        const pharmacyView = document.getElementById('pharmacySliderView');
+        const pharmacyItems = pharmacyTrack.querySelectorAll('.pathway-card');
+
+        let pharmacyPos = 0;
+        let pharmacyAutoScrollInterval;
+        const PHARMACY_SCROLL_SPEED = 4000;
+
+        function getPharmacyVisibleCount() {
+            return (window.innerWidth <= 1024) ? 1 : 2;
+        }
+
+        function movePharmacySlide(dir) {
+            if (!pharmacyTrack || !pharmacyItems.length) return;
+            const visibleItems = getPharmacyVisibleCount();
+            const gap = 15;
+            const itemWidth = pharmacyItems[0].offsetWidth;
+            const totalMoveWidth = itemWidth + gap;
+
+            pharmacyPos += dir;
+
+            if (pharmacyPos > pharmacyItems.length - visibleItems) {
+                pharmacyPos = 0;
+            } else if (pharmacyPos < 0) {
+                pharmacyPos = pharmacyItems.length - visibleItems;
+            }
+
+            pharmacyTrack.style.transform = `translateX(-${pharmacyPos * totalMoveWidth}px)`;
+            startPharmacyAutoScroll();
+        }
+
+        function startPharmacyAutoScroll() {
+            stopPharmacyAutoScroll();
+            pharmacyAutoScrollInterval = setInterval(() => {
+                movePharmacySlide(1);
+            }, PHARMACY_SCROLL_SPEED);
+        }
+
+        function stopPharmacyAutoScroll() {
+            clearInterval(pharmacyAutoScrollInterval);
+        }
+
+        if (pharmacyView) {
+            let touchStartX = 0;
+            let touchEndX = 0;
+
+            pharmacyView.addEventListener('touchstart', e => {
+                touchStartX = e.changedTouches[0].screenX;
+                stopPharmacyAutoScroll();
+            }, { passive: true });
+
+            pharmacyView.addEventListener('touchend', e => {
+                touchEndX = e.changedTouches[0].screenX;
+                if (touchStartX - touchEndX > 50) movePharmacySlide(1);
+                if (touchEndX - touchStartX > 50) movePharmacySlide(-1);
+                startPharmacyAutoScroll();
+            }, { passive: true });
+
+            pharmacyView.addEventListener('mouseenter', stopPharmacyAutoScroll);
+            pharmacyView.addEventListener('mouseleave', startPharmacyAutoScroll);
+        }
+
+        window.addEventListener('resize', () => {
+            pharmacyPos = 0;
+            if (pharmacyTrack) pharmacyTrack.style.transform = `translateX(0)`;
+            startPharmacyAutoScroll();
+        });
+
+        /* ---- Scroll Reveal ---- */
+        const revealObserver = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+
+        document.querySelectorAll('.reveal, .reveal-left, .reveal-right, .reveal-scale').forEach(el => {
+            revealObserver.observe(el);
+        });
+
+        startPharmacyAutoScroll();
+    </script>
+    <?php require("common/footer.php"); ?>
 </body>
-
 </html>

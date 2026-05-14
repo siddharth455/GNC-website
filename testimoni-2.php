@@ -2,7 +2,7 @@
     <div id="successParticles" class="success-bg"></div>
 
     <div class="success-info">
-        <h1>Our Students Success Story!</h1>
+        <h2>Our Students Success Story!</h2>
         <p>
         Hear from our students as they share their experiences, achievements, and the journey that shaped their success. Their stories reflect the learning, growth, and community that define our campus life.
         </p>
@@ -13,7 +13,7 @@
             <div class="swiper-slide">
                 <img src="upload/infra/testi-1.webp"/>
                 <div class="success-overlay">
-                    <h1>Avinash Takhellambam</h1>
+                    <h3>Avinash Takhellambam</h3>
                     <p>
                     Guru Nanak College gave me the confidence to grow as a skilled and compassionate nurse through hands-on training and great faculty support.
                     </p>
@@ -32,7 +32,7 @@
             <div class="swiper-slide">
                 <img src="upload/infra/testi-2.webp" />
                 <div class="success-overlay">
-                    <h1>Soni Rautan</h1>
+                    <h3>Soni Rautan</h3>
                     <p>
                     The college focuses on overall development — not just studies, but confidence, skills, and character.
                     </p>
@@ -51,7 +51,7 @@
             <div class="swiper-slide">
                 <img src="upload/infra/testi-3.webp" />
                 <div class="success-overlay">
-                    <h1>Rishikesh Kumar</h1>
+                    <h3>Rishikesh Kumar</h3>
                     <p>
                     The supportive environment and approachable teachers make learning enjoyable and stress-free.
                     </p>
@@ -70,7 +70,7 @@
             <div class="swiper-slide">
                 <img src="upload/infra/testi-6.webp" />
                 <div class="success-overlay">
-                    <h1>Shamsad Aalam</h1>
+                    <h3>Shamsad Aalam</h3>
                     <p>
                     Life at GNC is truly transformative — from academics to personal growth, every experience has shaped me for the better.
                     </p>

@@ -7,8 +7,7 @@
   <title>Best Hotel Management Colleges in Dehradun 2026 | Top HM Colleges</title>
   <meta name="description"
     content="Discover the best hotel management colleges in Dehradun in 2026. Compare fees, eligibility, placements, and courses at top HM colleges including Guru Nanak College." />
-  <meta name="keywords"
-    content="best hm colleges in dehradun, top hotel management colleges in dehradun, hotel management course in dehradun, diploma in hotel management dehradun" />
+  <meta name="keywords" content="best hm colleges in dehradun, top hotel management colleges in dehradun, hotel management course in dehradun, diploma in hotel management dehradun" />
   <link rel="icon" type="image/webp" href="images/logog.webp">
  
   <script type="application/ld+json">

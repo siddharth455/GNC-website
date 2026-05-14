@@ -28,7 +28,7 @@
    "name": "Guru Nanak College",
    "logo": {
      "@type": "ImageObject",
-     "url": "https://gnc.edu.in/logo.png"
+     "url": "https://gnc.edu.in/images/logo.webp"
    }
  },
  "datePublished": "2026-03-02",

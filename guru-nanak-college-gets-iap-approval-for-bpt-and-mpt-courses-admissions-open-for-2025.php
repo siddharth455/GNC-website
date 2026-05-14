@@ -16,8 +16,8 @@
     "description":"Guru Nanak College receives IAP approval for BPT & MPT courses. Admissions open for 2025 — course details, eligibility, specializations and how to apply.",
     "author":{"@type":"Organization","name":"GNC Dehradun"},
     "datePublished":"2025-06-09",
-    "image":"/upload/blog/7.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/gnc-iap-approval-bpt-mpt-2025/"}
+    "image":"https://gnc.edu.in/upload/blog/7.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/gnc-iap-approval-bpt-mpt-2025/"}
   }
   </script>
 

@@ -8,14 +8,14 @@
     <link rel="canonical" href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Best M.Sc Agronomy College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Guru Nanak College, Dehradun's best college for M.Sc. Agronomy. Known for its innovative curriculum, expert faculty, and advanced research facilities, Guru Nanak College empowers students to excel in agronomic sciences, shaping the agricultural leaders of tomorrow." />
     <meta property="og:url" content="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp"/>
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -63,7 +63,6 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: #ffeccc;
             z-index: -1;
         }
 
@@ -259,7 +258,7 @@
         /* --- GNC BBA HERO SECTION --- */
         .gnc-bba-hero {
             position: relative;
-            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('upload/hero/agri-4.webp') no-repeat center center;
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('upload/hero/agri-2.webp') no-repeat center center;
             background-size: cover;
             padding: 270px 0 80px; 
             color: #fff;
@@ -381,8 +380,8 @@
                 </div>
                 <div class="col-md-6" data-aos="fade-right" data-aos-delay="200" data-aos-duration="600">
                     <div class="gnc-agri-subHeading text-center text-md-start">
-                        <p class="lead text-muted">The Master of Science in Agronomy (M.Sc. Agronomy) at the Guru Nanak College, the Best M.Sc Agronomy College in Dehradun, Uttarakhand, M.Sc Agronomy, is a postgraduate program specifically designed for graduates who wish to deepen their knowledge and expertise in the field of agronomy. This two-year course provides an advanced understanding of crop science, soil fertility, sustainable agriculture practices, and the management of agricultural resources. The curriculum covers a range of specialized subjects including plant genetics, crop physiology, soil science, pest management, and agricultural biotechnology.</p>
-                         <p class="lead text-muted">Students pursuing M.Sc. Agronomy at the GNC Dehradun will engage in intensive research and practical work, enabling them to apply scientific principles to solve complex problems in agriculture. The program emphasizes the development of innovative agronomic techniques and technologies to enhance crop production, while ensuring environmental sustainability and resource conservation.</p>
+                        <p class="text-muted">The Master of Science in Agronomy (M.Sc. Agronomy) at the Guru Nanak College, the Best M.Sc Agronomy College in Dehradun, Uttarakhand, M.Sc Agronomy, is a postgraduate program specifically designed for graduates who wish to deepen their knowledge and expertise in the field of agronomy. This two-year course provides an advanced understanding of crop science, soil fertility, sustainable agriculture practices, and the management of agricultural resources. The curriculum covers a range of specialized subjects including plant genetics, crop physiology, soil science, pest management, and agricultural biotechnology.</p>
+                         <p class="text-muted">Students pursuing M.Sc. Agronomy at the GNC Dehradun will engage in intensive research and practical work, enabling them to apply scientific principles to solve complex problems in agriculture. The program emphasizes the development of innovative agronomic techniques and technologies to enhance crop production, while ensuring environmental sustainability and resource conservation.</p>
                         </p>   
                     </div>   
                     <div class="mt-5 gnc-agri-btnsGroup text-center text-md-start">
@@ -391,7 +390,7 @@
                 </div> 
                 <div class="col-md-6" data-aos="fade-left" data-aos-delay="400" data-aos-duration="600">
                     <div class="gnc-agri-subHeading text-center text-md-start mt-4 mt-md-0">
-                        <p class="lead text-muted">Graduates of the M.Sc. Agronomy program from Guru Nanak College are well-prepared to explore diverse career opportunities in the field of agronomy and agricultural management. They can pursue roles in agricultural research organizations, environmental consultancies, research institutions, and non-governmental organizations. Opportunities also exist in sectors such as sustainable farming, resource management, and agribusiness consultancy. Furthermore, students can continue their education through doctoral programs (Ph.D.), enabling them to enhance their expertise and build successful careers in the agricultural research and environmental sector.</p>
+                        <p class="text-muted">Graduates of the M.Sc. Agronomy program from Guru Nanak College are well-prepared to explore diverse career opportunities in the field of agronomy and agricultural management. They can pursue roles in agricultural research organizations, environmental consultancies, research institutions, and non-governmental organizations. Opportunities also exist in sectors such as sustainable farming, resource management, and agribusiness consultancy. Furthermore, students can continue their education through doctoral programs (Ph.D.), enabling them to enhance their expertise and build successful careers in the agricultural research and environmental sector.</p>
                     </div> 
                     <div class="gnc-agri-about-cov text-center text-md-start mt-4">
                         <img src="images/horticulture-10.webp" alt="Agriculture Images" class="img-fluid rounded shadow-sm">
@@ -610,6 +609,106 @@
             color: var(--primary-color);
         }
 
+        /* --- Video Sidebar Card --- */
+        .video-promo-card {
+            padding: 0;
+            box-shadow: none;
+        }
+
+        .video-btn-play {
+            color: #000;
+            font-weight: 800;
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            text-decoration: none;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            cursor: pointer;
+        }
+
+        .video-play-icon {
+            width: 45px;
+            height: 45px;
+            background: red;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .video-thumb-link {
+            display: block;
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 25px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+        }
+
+        .video-thumb-link img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        /* Video Popup Modal Styles */
+        .video-popup-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .video-popup-content {
+            position: relative;
+            width: 80%;
+            max-width: 900px;
+        }
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+        }
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .close-video-popup {
+            position: absolute;
+            top: -40px;
+            right: 0;
+            color: #fff;
+            font-size: 35px;
+            cursor: pointer;
+            line-height: 1;
+        }
+
+        .gnc-mb-video-sidebar {
+            flex: 1 1 25%;
+            min-width: 280px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .gnc-mb-note-card {
+            background: var(--light-bg);
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 5px solid var(--primary-color);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
         /* --- Responsive Adjustments --- */
         @media (max-width: 992px) {
             .flex-container {
@@ -617,7 +716,7 @@
             }
 
             .col-data,
-            .note-box {
+            .gnc-mb-video-sidebar {
                 flex: 1 1 100%;
             }
         }
@@ -648,7 +747,7 @@
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank"
+                    <a href="upload/pdf/fee/Msc Agronomy.jpeg" target="_blank" id="printButton1" target="_blank"
                         class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->
@@ -821,31 +920,48 @@
 
                 </div>
 
-                <!-- Right Video Column -->
-                <!-- <div class="col-video">
-                    <div class="video-wrapper">
-                        <iframe src="https://www.youtube.com/embed/GYfTrZM7YrA?autoplay=1&mute=1&playlist=GYfTrZM7YrA&loop=1" title="BSC CBZ Program Video" allowfullscreen></iframe>
-                    </div> -->
+                <!-- Right Video Sidebar -->
+                <aside class="gnc-mb-video-sidebar">
+                    <div class="video-promo-card">
+                        <div class="video-btn-play" onclick="openVideoPopup('PpkHaa1lPjI')">
+                            <div class="video-play-icon">
+                                <i class="fas fa-play text-white"></i>
+                            </div>
+                            <span>Play Video</span>
+                        </div>
+                        <div class="video-thumb-link" onclick="openVideoPopup('PpkHaa1lPjI')">
+                            <img src="https://img.youtube.com/vi/PpkHaa1lPjI/maxresdefault.jpg" alt="Video Thumbnail">
+                        </div>
+                    </div>
 
-                <div class="note-box">
-                    <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Note:
-                    </h4>
-                    <ul style="padding-left: 20px; font-size: 1rem; color: var(--text-gray);">
-                        <li style="margin-bottom: 10px;">These scholarships are available in addition to merit-based
-                            scholarships:
-                            <ol style="margin-top: 8px;">
-                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in
-                                    1st year).</li>
-                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st
-                                    year).</li>
-                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak
-                                    College (only in 1st year).</li>
-                            </ol>
-                        </li>
-                        <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand
-                            Domicile, Girl Child, etc.) upon approval.</li>
-                    </ul>
-                </div>
+                    <div class="gnc-mb-note-card">
+                        <h4 class="fw-bold fs-5 mb-3">Note:</h4>
+                        <ul class="ps-3 text-secondary" style="font-size: 0.9rem; line-height: 1.6;">
+                            <li class="mb-2">These scholarships are available in addition to merit-based scholarships:
+                                <ol class="mt-2">
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in 1st year).</li>
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st year).</li>
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
+                                </ol>
+                            </li>
+                            <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand Domicile, Girl Child, etc.) upon approval.</li>
+                        </ul>
+                    </div>
+                </aside>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Video Popup Modal -->
+    <div id="videoPopup" class="video-popup-overlay" style="display:none;">
+        <div class="video-popup-content">
+            <span class="close-video-popup" onclick="closeVideoPopup()">&times;</span>
+            <div class="video-wrapper">
+                <iframe id="youtubePlayer" width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
 
             </div>
         </div>
@@ -1776,6 +1892,252 @@
 </section>
 <!-- GNC FAQ & ASSISTANCE SECTION END -->
 
+    <!-- How to Apply Section -->
+    <section class="hta-sec">
+        <div class="container-apply">
+            <div class="subHeading-apply">
+                <h3>How to Apply?</h3>
+            </div>
+
+            <!-- Step Navigation -->
+            <div class="tabs-nav" id="tab-nav">
+                <div class="step-item active" data-index="0">
+                    <span>Step 1</span>
+                    <h5>Signup</h5>
+                </div>
+                <div class="step-item" data-index="1">
+                    <span>Step 2</span>
+                    <h5>Application Form</h5>
+                </div>
+                <div class="step-item" data-index="2">
+                    <span>Step 3</span>
+                    <h5>Admission</h5>
+                </div>
+            </div>
+
+            <!-- Content Slides -->
+            <div class="content-wrapper-apply">
+                <!-- Step 1 -->
+                <div class="step-content active">
+                    <div class="step-left">
+                        <img src="images/step-1.jpg" alt="GNC Signup">
+                    </div>
+                    <div class="step-right">
+                        <h6>Step 1 – Signup</h6>
+                        <p>Create your account and complete the registration process to reserve your place for the program. Enter your basic details to get started quickly and securely.</p>
+                    </div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="step-content">
+                    <div class="step-left">
+                        <img src="images/step-2.jpg" alt="GNC Application">
+                    </div>
+                    <div class="step-right">
+                        <h6>Step 2 – Application Form</h6>
+                        <p>Fill in the required information, submit your application form, and upload necessary documents for review, processing, and verification.</p>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="step-content">
+                    <div class="step-left">
+                        <img src="images/step-3.webp" alt="GNC Admission">
+                    </div>
+                    <div class="step-right">
+                        <h6>Step 3 – Admission</h6>
+                        <p>Our team will review your application and documents. Once approved, complete the fee payment and begin your academic journey with us.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+        .hta-sec {
+            padding: 0px 20px 40px 20px;
+            font-family: 'Poppins', sans-serif;
+            background-color: #ffffff;
+            overflow: hidden;
+        }
+
+        .container-apply {
+            max-width: 1050px;
+            margin: 0 auto;
+        }
+
+        .subHeading-apply h3 {
+            font-size: 42px;
+            font-weight: 800;
+            margin-bottom: 40px;
+            text-align: center;
+            color: #333;
+        }
+
+        /* Tab Navigation Bar */
+        .tabs-nav {
+            display: flex;
+            background: #f1f1f1;
+            border-radius: 15px;
+            max-width: 850px;
+            margin: 0 auto 50px auto;
+            padding: 8px;
+            position: relative;
+        }
+
+        .step-item {
+            flex: 1;
+            text-align: center;
+            padding: 18px 10px;
+            cursor: pointer;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            z-index: 2;
+        }
+
+        .step-item span {
+            display: block;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #777;
+            margin-bottom: 4px;
+        }
+
+        .step-item h5 {
+            margin: 0;
+            font-size: 19px;
+            font-weight: 700;
+            color: #444;
+        }
+
+        /* Active Tab State */
+        .step-item.active {
+            background: #ffffff;
+            box-shadow: 0px 10px 25px rgba(0,0,0,0.1);
+        }
+
+        .step-item.active h5 {
+            color: #FB7B1C;
+        }
+
+        /* Content Area Layout */
+        .content-wrapper-apply {
+            position: relative;
+            min-height: 350px;
+        }
+
+        .step-content {
+            display: none; /* Hidden by default */
+            align-items: center;
+            gap: 50px;
+            width: 100%;
+        }
+
+        /* The Animation Class */
+        .step-content.active {
+            display: flex;
+            animation: htaFadeInRight 0.6s ease forwards;
+        }
+
+        /* Image Sizing - ENSURING CONSISTENCY */
+        .step-left {
+            flex: 1.2;
+            height: 350px; /* Fixed Height */
+            overflow: hidden;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+        }
+
+        .video-popup-content .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .step-left img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensures image fills the box without distortion */
+            display: block;
+        }
+
+        .step-right {
+            flex: 1;
+        }
+
+        .step-right h6 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .step-right p {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 15px;
+        }
+
+        /* Fade-in Right Keyframes */
+        @keyframes htaFadeInRight {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 991px) {
+            .hta-sec {
+                padding: 40px 15px;
+            }
+            .subHeading-apply h3 {
+                font-size: 28px;
+            }
+            .tabs-nav {
+                flex-direction: row !important; /* Keep horizontal on mobile */
+                max-width: 100%;
+                padding: 5px;
+                gap: 5px;
+                border-radius: 10px;
+            }
+            .step-item {
+                padding: 10px 5px;
+            }
+            .step-item span {
+                font-size: 10px;
+            }
+            .step-item h5 {
+                font-size: 13px;
+            }
+            .step-content.active {
+                flex-direction: column;
+                text-align: left; /* Align text to left as per image */
+                gap: 25px;
+            }
+            .step-left {
+                width: 100%;
+                height: 250px;
+                border-radius: 15px;
+            }
+            .step-right h6 {
+                font-size: 22px;
+                margin-bottom: 10px;
+            }
+            .step-right p {
+                font-size: 14px;
+            }
+        }
+    </style>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
@@ -1790,15 +2152,91 @@
     $(document).ready(function() {
 
 
-        var swiper = new Swiper(".bbaBlogSwiper", {
-            slidesPerView: 2,
-            spaceBetween: 30,
-            loop: true,
-            navigation: {
-                nextEl: ".bba-blog-next",
-                prevEl: ".bba-blog-prev",
-            },
+        if ($(".bbaBlogSwiper").length > 0) {
+            var swiper = new Swiper(".bbaBlogSwiper", {
+                slidesPerView: 2,
+                spaceBetween: 30,
+                loop: true,
+                navigation: {
+                    nextEl: ".bba-blog-next",
+                    prevEl: ".bba-blog-prev",
+                },
+            });
+        }
+
+        // Video Popup Functions
+        window.openVideoPopup = function(videoId) {
+            const popup = document.getElementById('videoPopup');
+            const player = document.getElementById('youtubePlayer');
+            const separator = videoId.includes('?') ? '&' : '?';
+            player.src = `https://www.youtube.com/embed/${videoId}${separator}autoplay=1`;
+            popup.style.display = 'flex';
+            document.body.style.overflow = 'hidden'; // Prevent scrolling
+        }
+
+        window.closeVideoPopup = function() {
+            const popup = document.getElementById('videoPopup');
+            const player = document.getElementById('youtubePlayer');
+            player.src = '';
+            popup.style.display = 'none';
+            document.body.style.overflow = 'auto'; // Re-enable scrolling
+        }
+
+        // Close on escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeVideoPopup();
         });
+
+        // Close on click outside
+        document.getElementById('videoPopup').addEventListener('click', (e) => {
+            if (e.target.id === 'videoPopup') closeVideoPopup();
+        });
+
+        // --- FAQ Accordion Logic ---
+        var faqItems = document.querySelectorAll('.gnc-faq-item');
+        faqItems.forEach(function(item) {
+            item.addEventListener('toggle', function() {
+                if (!this.open) return;
+                faqItems.forEach(function(otherItem) {
+                    if (otherItem !== item && otherItem.open) {
+                        otherItem.open = false;
+                    }
+                });
+            });
+        });
+
+        // --- How to Apply Section Logic ---
+        const applyTabs = document.querySelectorAll(".step-item");
+        const applySlides = document.querySelectorAll(".step-content");
+        let applyCurrentIndex = 0;
+        let applyTimer;
+
+        function showApplySlide(index) {
+            applyTabs.forEach(tab => tab.classList.remove("active"));
+            applySlides.forEach(slide => slide.classList.remove("active"));
+            if(applyTabs[index]) applyTabs[index].classList.add("active");
+            if(applySlides[index]) applySlides[index].classList.add("active");
+            applyCurrentIndex = index;
+        }
+
+        function nextApplySlide() {
+            let next = (applyCurrentIndex + 1) % applyTabs.length;
+            showApplySlide(next);
+        }
+
+        function startApplyAutoPlay() {
+            applyTimer = setInterval(nextApplySlide, 5000);
+        }
+
+        applyTabs.forEach((tab, index) => {
+            tab.addEventListener("click", () => {
+                showApplySlide(index);
+                clearInterval(applyTimer);
+                startApplyAutoPlay();
+            });
+        });
+
+        if(applyTabs.length > 0) startApplyAutoPlay();
     });
 </script>
  <?php require("common/footer.php"); ?>

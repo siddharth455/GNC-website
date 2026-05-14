@@ -19,10 +19,10 @@
         "@type": "Organization",
         "name": "Guru Nanak College"
       },
-      "image": "/upload/blog/6.webp",
+      "image": "https://gnc.edu.in/upload/blog/6.webp",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://example.com/guru-nanak-inc-bsc-nursing/"
+        "@id": "https://gnc.edu.in/guru-nanak-inc-bsc-nursing/"
       }
     }
   </script>

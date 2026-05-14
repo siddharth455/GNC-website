@@ -7,22 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offers B.Sc Nursing, GNM, Post Basic B.Sc Nursing programs approved by INC & USNC, affiliated with HNBGU, with 100% placement support."/>
     <meta name="keywords" content="Best Nursing College in Dehradun, Nursing College in Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
+    <link rel="canonical" href="https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
 
     <!-- Open Graph (WhatsApp, Facebook, LinkedIn previews) -->
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Nursing College in Dehradun | Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offers B.Sc Nursing, GNM, Post Basic B.Sc Nursing programs approved by INC & USNC, affiliated with HNBGU, with 100% placement support" />
-    <meta property="og:url" content="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/Bachelor of Science in Nursing.webp" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Best Nursing College in Dehradun | Guru Nanak College"/>
+    <meta property="og:description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offers B.Sc Nursing, GNM, Post Basic B.Sc Nursing programs approved by INC & USNC, affiliated with HNBGU, with 100% placement support"/>
+    <meta property="og:url" content="https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand"/>
+    <meta property="og:image" content="https://gnc.edu.in/upload/Bachelor of Science in Nursing.webp"/>
     <meta property="og:site_name" content="Guru Nanak College, Dehradun" />
-    <meta property="og:locale" content="en_IN" />
+    <meta property="og:locale" content="en_IN"/>
 
     <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Best Nursing College in Dehradun | Guru Nanak College" />
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="Best Nursing College in Dehradun | Guru Nanak College"/>
     <meta name="twitter:description" content="INC approved B.Sc Nursing, GNM & Post Basic Nursing in Dehradun. NAAC accredited. 100% placement. Apply now for 2026." />
-    <meta name="twitter:image" content="https://www.gnc.edu.in/upload/Bachelor of Science in Nursing.webp" />
+    <meta name="twitter:image" content="https://gnc.edu.in/upload/Bachelor of Science in Nursing.webp" />
 
     
 
@@ -35,9 +35,9 @@
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.gnc.edu.in/"},
-        {"@type": "ListItem", "position": 2, "name": "Programs", "item": "https://www.gnc.edu.in/"},
-        {"@type": "ListItem", "position": 3, "name": "Nursing Programs", "item": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand"}
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://gnc.edu.in/"},
+        {"@type": "ListItem", "position": 2, "name": "Programs", "item": "https://gnc.edu.in/"},
+        {"@type": "ListItem", "position": 3, "name": "Nursing Programs", "item": "https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand"}
       ]
     }
     </script>
@@ -47,13 +47,13 @@
     {
       "@context": "https://schema.org",
       "@type": ["EducationalOrganization", "LocalBusiness"],
-      "@id": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand#organization",
+      "@id": "https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand#organization",
       "name": "Guru Nanak College – School of Nursing",
       "alternateName": "GNC Dehradun Nursing",
       "description": "Guru Nanak College (GNC) School of Nursing in Dehradun is an INC and USNC approved institution affiliated with HNBGU. Since 2009, it has provided excellence in B.Sc Nursing, GNM, and Post Basic B.Sc Nursing education in Uttarakhand.",
-      "url": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand",
-      "logo": "https://www.gnc.edu.in/images/logo.webp",
-      "image": "https://www.gnc.edu.in/images/nursing-college-building.jpg",
+      "url": "https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand",
+      "logo": "https://gnc.edu.in/images/logo.webp",
+      "image": "https://gnc.edu.in/images/nursing-college-building.jpg",
       "foundingDate": "2009",
       "priceRange": "₹₹",
       "telephone": "+91-7300900900",
@@ -96,17 +96,17 @@
           {
             "@type": "Course",
             "name": "B.Sc Nursing",
-            "url": "https://www.gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php"
+            "url": "https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php"
           },
           {
             "@type": "Course",
             "name": "GNM (General Nursing and Midwifery)",
-            "url": "https://www.gnc.edu.in/best-gnm-college-in-dehradun.php"
+            "url": "https://gnc.edu.in/best-gnm-college-in-dehradun.php"
           },
           {
             "@type": "Course",
             "name": "Post Basic B.Sc Nursing",
-            "url": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand"
+            "url": "https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand"
           }
         ]
       }
@@ -471,11 +471,11 @@
   "@context": "https://schema.org",
   "@type": "Service",
   "serviceType": "B.Sc Nursing Program",
-  "url": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand",
+  "url": "https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand",
   "provider": {
     "@type": "CollegeOrUniversity",
     "name": "Guru Nanak College, Dehradun",
-    "url": "https://www.gnc.edu.in/"
+    "url": "https://gnc.edu.in/"
   },
   "description": "Four-year B.Sc Nursing degree with clinical training, modern labs, and hospital placements.",
   "aggregateRating": {

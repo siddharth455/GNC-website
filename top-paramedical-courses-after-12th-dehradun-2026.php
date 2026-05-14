@@ -17,7 +17,7 @@
   "@type": "CollegeOrUniversity",
   "name": "Guru Nanak College Dehradun",
   "url": "https://gnc.edu.in/",
-  "logo": "https://gnc.edu.in/logo.png",
+  "logo": "https://gnc.edu.in/images/logo.webp",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Dehradun",

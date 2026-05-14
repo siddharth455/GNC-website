@@ -16,8 +16,8 @@
     "description":"Discover the B.Sc. Agriculture program at Guru Nanak College, Dehradun — curriculum, faculty, infrastructure, research, placements and campus life.",
     "author":{"@type":"Organization","name":"Gurunanak College"},
     "datePublished":"2024-12-31",
-    "image":"/upload/blog/13.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/post/bsc-agriculture-gnc-dehradun/"}
+    "image":"https://gnc.edu.in/upload/blog/17.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/bsc-agriculture-gnc-dehradun/"}
   }
   </script>
 
@@ -95,7 +95,7 @@
         <div>2024-12-31</div>
       </div>
 
-      <img src="upload/blog/13.webp" alt="B.Sc. Agriculture at Guru Nanak College" class="post-hero-img" loading="lazy">
+      <img src="upload/blog/17.webp" alt="B.Sc. Agriculture at Guru Nanak College" class="post-hero-img" loading="lazy">
 
       <!-- TOC with the exact entries you requested -->
       <nav id="toc" class="toc" aria-label="Table of Contents">

@@ -7,17 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced curriculum, hands-on training, and expert faculty, GNC prepares students for successful careers in radiology and medical imaging.">
     <link rel="canonical" href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
-    <meta property="og:description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced curriculum, hands-on training, and expert faculty, GNC prepares students for successful careers in radiology and medical imaging." />
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Best BMRIT College in Dehradun, Uttarakhand - Guru Nanak College" />
+    <meta property="og:description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced curriculum, hands-on training, and expert faculty, GNC prepares students for successful careers in radiology and medical imaging."/>
     <meta property="og:url" content="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" />
-    <meta property="og:site_name" content="GNC Dehradun" />
+    <meta property="og:site_name" content="GNC Dehradun"/>
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:image:type" content="image/webp"/>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link href="css/programs.css" rel="stylesheet">
 
@@ -36,7 +36,7 @@
             "provider": {
                 "@type": "CollegeOrUniversity",
                 "name": "Guru Nanak College, Dehradun",
-                "url": "https://www.gnc.edu.in/"
+                "url": "https://gnc.edu.in/"
             },
             "description": "Bachelor of Medical Radio Imaging Technology (BMRIT) program at Guru Nanak College, Dehradun focuses on diagnostic imaging, radiography, CT, MRI fundamentals, and hands-on clinical training through modern labs and hospital exposure.",
             "areaServed": {

@@ -6,9 +6,9 @@
   <meta name="robots" content="INDEX, FOLLOW">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- ✅ Preload critical CSS -->
-  <link rel="preload" as="style" href="assets/css/bootstrap.min.css">
-  <link rel="preload" as="style" href="assets/css/slick.css">
-  <link rel="preload" as="style" href="assets/css/style.css">
+  <link rel="preload" as="style" href="css/bootstrap.min.css">
+  <link rel="preload" as="style" href="css/slick.css">
+  <link rel="preload" as="style" href="css/style.css">
   <!-- ✅ Preload hero image (LCP) -->
   <link rel="preload" as="image" href="upload/infra/accredition-banner.webp" fetchpriority="high">
   <link href="./css/main-purged-2024.css" rel="stylesheet">
@@ -38,7 +38,7 @@
       "name": "Guru Nanak College",
       "alternateName": "GNC Dehradun, Guru Nanak College of Pharmaceutical & Paramedical Sciences",
       "url": "https://gnc.edu.in",
-      "logo": "https://gnc.edu.in/path-to-your-logo/logo.webp",
+      "logo": "https://gnc.edu.in/images/logo.webp",
       "sameAs": [
         "https://www.facebook.com/gncmh",
         "https://www.instagram.com/gncdehradun",
@@ -60,6 +60,13 @@
       }
     }
   </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGJTL3SJ');</script>
+<!-- End Google Tag Manager -->
   <style>
     /* base resets */
     *,
@@ -850,7 +857,11 @@ window.addEventListener("scroll", function () {
 
 </head>
 <body>
-  <header class="gnc-header">
+     <header class="gnc-header">
+          <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGJTL3SJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
     <!-- Top Marquee Bar -->
     <div class="top-bar">
       <div class="marquee-container">
@@ -1387,25 +1398,29 @@ document.addEventListener("DOMContentLoaded", function () {
   let popupVisible = false;
 
   // On load: show popup unless user closed it
-  if (localStorage.getItem("admissionPopupClosed") !== "true") {
+  if (popup && localStorage.getItem("admissionPopupClosed") !== "true") {
     popup.style.display = "flex";
     popupVisible = true;
   }
 
   // Bell toggle
-  bell.addEventListener("click", function () {
-    popupVisible = !popupVisible;
-    popup.style.display = popupVisible ? "flex" : "none";
-  });
+  if (bell && popup) {
+    bell.addEventListener("click", function () {
+      popupVisible = !popupVisible;
+      popup.style.display = popupVisible ? "flex" : "none";
+    });
+  }
 
   // Close button
-  closeBtn.addEventListener("click", function (e) {
-    e.preventDefault();   // stop link
-    e.stopPropagation();  // stop bubbling
-    popup.style.display = "none";
-    popupVisible = false;
-    localStorage.setItem("admissionPopupClosed", "true");
-  });
+  if (closeBtn && popup) {
+    closeBtn.addEventListener("click", function (e) {
+      e.preventDefault();   // stop link
+      e.stopPropagation();  // stop bubbling
+      popup.style.display = "none";
+      popupVisible = false;
+      localStorage.setItem("admissionPopupClosed", "true");
+    });
+  }
 
 });
 </script>

@@ -14,9 +14,9 @@
     <meta property="og:url" content="https://gnc.edu.in/Bsc-geology-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
@@ -1284,7 +1284,7 @@
                         <h2 class="gnc-mb-title-h2">Eligibility & Fee Details</h2>
                     </div>
 
-                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" class="gnc-mb-btn-fee-download">
+                    <a href="upload/pdf/fee/Bsc Geology.jpeg" target="_blank" class="gnc-mb-btn-fee-download">
                         <i class="fas fa-file-pdf me-2"></i> Download Fee Structure
                     </a>
 

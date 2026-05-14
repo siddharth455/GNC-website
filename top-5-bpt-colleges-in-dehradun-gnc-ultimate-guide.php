@@ -16,8 +16,8 @@
     "description":"Top 5 BPT Colleges in Dehradun — guide, college details, subjects, career scope and admission help from GNC College Dehradun.",
     "author":{"@type":"Organization","name":"GNC Dehradun"},
     "datePublished":"2025-06-30",
-    "image":"/upload/blog/3.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/top-5-bpt-colleges-dehradun/"}
+    "image":"https://gnc.edu.in/upload/blog/3.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/top-5-bpt-colleges-dehradun/"}
   }
   </script>
 

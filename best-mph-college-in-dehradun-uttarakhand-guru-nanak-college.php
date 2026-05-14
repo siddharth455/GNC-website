@@ -16,8 +16,8 @@
     "description":"Master of Public Health (MPH) at Guru Nanak College, Dehradun — curriculum, practical exposure, faculty, infrastructure and admissions.",
     "author":{"@type":"Organization","name":"GNC Dehradun"},
     "datePublished":"2025-06-04",
-    "image":"/upload/blog/8.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/best-mph-college-dehradun-gnc/"}
+    "image":"https://gnc.edu.in/upload/blog/8.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/best-mph-college-dehradun-gnc/"}
   }
   </script>
 

@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
 
 <title>BBA vs BCom: Which Course is Better After 12th? | Guru Nanak College</title>
 
@@ -11,7 +11,7 @@
 content="Complete comparison between BBA and BCom covering eligibility, subjects, career opportunities, and which course is better after 12th for business careers." />
 
 <meta name="keywords"
-content="BBA vs BCom, BBA course after 12th, BCom course details, BBA vs BCom comparison, business courses after 12th, Guru Nanak College Dehradun" />
+content="BBA vs BCom, BBA course after 12th, BCom course details, BBA vs BCom comparison, business courses after 12th, Guru Nanak College Dehradun"/>
 
 <link rel="icon" type="image/webp" href="images/logog.webp">
 
@@ -23,7 +23,7 @@ content="BBA vs BCom, BBA course after 12th, BCom course details, BBA vs BCom co
  "@type": "BlogPosting",
  "headline": "BBA vs BCom: Which Course is Better After 12th?",
  "description": "Complete comparison between BBA and BCom covering eligibility, subjects, career opportunities, and which course is better after 12th for business careers.",
- "image": "https://gnc.edu.in/path-to-blog-image.jpg",
+ "image": "https://gnc.edu.in/upload/blog/bba-vs-bcom.webp",
  "author": {
    "@type": "Organization",
    "name": "Guru Nanak College"
@@ -33,7 +33,7 @@ content="BBA vs BCom, BBA course after 12th, BCom course details, BBA vs BCom co
    "name": "Guru Nanak College",
    "logo": {
      "@type": "ImageObject",
-     "url": "https://gnc.edu.in/logo.png"
+     "url": "https://gnc.edu.in/images/logo.webp",
    }
  },
  "datePublished": "2026-03-09",
@@ -402,8 +402,6 @@ content="BBA vs BCom, BBA course after 12th, BCom course details, BBA vs BCom co
 </div>
 </div>
 </section>
-
-
 
 <div class="site-wrap">
 

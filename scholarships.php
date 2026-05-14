@@ -7,7 +7,7 @@
     <title>Scholarships – Empowering Student Dreams| Guru Nanak College (GNC) Dehradun Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="At Guru Nanak College (GNC) in Dehradun, we believe in empowering students by providing them with opportunities to achieve their academic dreams. Our scholarships program is designed to support and recognize students who demonstrate exceptional academic performance and talent">
-    <link rel="canonical" href="https://www.gnc.edu.in/scholarships">
+    <link rel="canonical" href="https://gnc.edu.in/scholarships">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40eBKSF5+oHw/Nn3tI8EHM649+sKkIpfGv+zJ2tM6j1f+P/L8Q0H/q2/V/Lq/G1T0I9/uUq5zW" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
         /* Define common variables */
@@ -152,7 +152,7 @@
             background-color: #e9ecef;
         }
         /* Specific styling for the free education slab */
-        .table-bordered tbody tr:nth-child(4) td {
+        .table-bordered tbody tr:nth-child(5) td {
             background-color: #d4edda;
             color: #155724;
             font-weight: 700;
@@ -608,38 +608,38 @@
                     <tr>
                         <td>1</td>
                         <td>Diploma/UG/PG</td>
-                        <td>65-75%</td>
-                        <td>15%</td>
+                        <td>UTTARAKHAND DOMICILE</td>
+                        <td>10%</td>
                     </tr>
                     <tr>
                         <td>2</td>
                         <td>Diploma/UG/PG</td>
-                        <td>75-90%</td>
-                        <td>20%</td>
+                        <td>65-74.99%</td>
+                        <td>10%</td>
                     </tr>
                     <tr>
                         <td>3</td>
                         <td>Diploma/UG/PG</td>
-                        <td>90-95%</td>
-                        <td>50%</td>
+                        <td>75-84.99%</td>
+                        <td>15%</td>
                     </tr>
                     <tr>
                         <td>4</td>
                         <td>Diploma/UG/PG</td>
-                        <td>95-100%</td>
-                        <td>Free Education</td>
+                        <td>85-94.99%</td>
+                        <td>20%</td>
                     </tr>
                     <tr>
                         <td>5</td>
                         <td>Diploma/UG/PG</td>
-                        <td>Sports Category</td>
-                        <td>5-10%</td>
+                        <td>95% AND ABOVE</td>
+                        <td>Tuition fee waiver (TFW)</td>
                     </tr>
                     <tr>
                         <td>6</td>
                         <td>Diploma/UG/PG</td>
-                        <td>Uttarakhand Domicile</td>
-                        <td>15%</td>
+                        <td>SPORTS CATEGORY</td>
+                        <td>10%</td>
                     </tr>
                     <tr>
                         <td>7</td>

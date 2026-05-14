@@ -5,23 +5,22 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Top BCA College in Dehradun – BCA Admission 2026 | Guru Nanak College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Study at the top BCA college in Dehradun. Guru Nanak College offers industry-focused BCA program, advanced computer labs, affordable fees, scholarships, and strong placement training. Admissions open 2026.">
+    <meta name="description" content="Study at the top BCA college in Dehradun. AI, Web Dev & Cybersecurity specializations. MNC campus placements. BCA Admission 2026 open at Guru Nanak.">
     <link rel="canonical" href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords" content="BCA college in Dehradun,Best BCA college in Dehradun,BCA admission Dehradun,BCA course Dehradun,BCA fees Dehradun,Top BCA college Uttarakhand,BCA after 12th Dehradun,Computer applications course Dehradun,Best IT college Dehradun" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Top BCA College in Dehradun – BCA Admission 2026 | Guru Nanak College" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Top BCA college in Dehradun – BCA Admission 2026 | Guru Nanak ." />
     <meta property="og:description" content="Study at the top BCA college in Dehradun. Guru Nanak College offers industry-focused BCA program, advanced computer labs, affordable fees, scholarships, and strong placement training. Admissions open 2026." />
     <meta property="og:url" content="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
     <link href="new-assets/css/all-styles.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     <meta name="theme-color" content="#ffffff">
     <script type="application/ld+json">
     {
@@ -44,7 +43,7 @@
       "@type": "CollegeOrUniversity",
       "name": "Guru Nanak College",
       "url": "https://gnc.edu.in",
-      "logo": "https://gnc.edu.in/logo.png",
+      "logo": "https://gnc.edu.in/images/logo.webp",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Jhajhra, Chakrata Rd",
@@ -708,7 +707,7 @@
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank"
+                    <a href="upload/pdf/fee/BCA.jpeg" target="_blank" id="printButton1" target="_blank"
                         class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->

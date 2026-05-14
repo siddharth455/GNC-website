@@ -6,17 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College is the best paramedical college in Dehradun, Uttarakhand, offers BPT, BMLT, BMRIT, Optometry, Operation Theatre Technology, MPT programs approved by AICTE & affiliated with HNBGU." />
     <meta name="keywords" content="Best Paramedical College in Dehradun, Paramedical College in Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical College in Dehradun | Admission 2026 – Guru Nanak College" />
+    <meta property="og:title" content="Best Paramedical College in Dehradun 2026 — GNC" />
     <meta property="og:description" content="Guru Nanak College is the best paramedical college in Dehradun, Uttarakhand, offers BPT, BMLT, BMRIT, Optometry, Operation Theatre Technology, MPT programs approved by AICTE & affiliated with HNBGU." />
-    <meta property="og:url" content="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383"/>
-    <meta property="og:image:height" content="256"/>
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
     <meta property="og:image:type" content="image/webp"/>
     <link rel="stylesheet" href="css/programs.css"/>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -28,23 +28,14 @@
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-    
-
-   
-
-
-
-
-
-    
 <script type="application/ld+json">
 [
   {
     "@context": "https://schema.org",
     "@type": "CollegeOrUniversity",
     "name": "Guru Nanak College, Dehradun",
-    "url": "https://www.gnc.edu.in/",
-    "logo": "https://www.gnc.edu.in/images/logo.png",
+    "url": "https://gnc.edu.in/",
+    "logo": "https://gnc.edu.in/images/logo.webp",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+91-7300900909",
@@ -145,7 +136,7 @@
         "@type": "ListItem",
         "position": 3,
         "name": "Paramedical",
-        "item": "https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand"
+        "item": "https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand"
       }
     ]
   }
