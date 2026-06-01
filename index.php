@@ -22,8 +22,138 @@ excellence in academics and holistic development." />
   <meta property="og:image:height" content="256" />
   <meta property="og:image:type" content="image/webp" />
   <meta name="google-site-verification" content="4oZQLwduQZa07Iq8KyESZJZJnyU7AlZMqXf7u3HqhTA" />
-
-
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+ {
+ "@type": "CollegeOrUniversity",
+ "@id": "https://gnc.edu.in/#organization",
+ "name": "Guru Nanak College",
+ "alternateName": ["GNC Dehradun", "GNC", "Guru Nanak College Dehradun"],
+ "legalName": "Guru Nanak College, Jhajra, Dehradun",
+ "url": "https://gnc.edu.in/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://gnc.edu.in/images/logo.webp",
+ "width": 200,
+ "height": 80
+ },
+ "image": "https://www.gnc.edu.in/upload/about-us-head.webp",
+ "description": "Guru Nanak College (GNC) is a premier educational institution in Dehradun,
+Uttarakhand, established in 2009. Specialising in Pharmacy, Paramedical, Nursing, Life Sciences,
+Agriculture, Computer Science, Business Administration, and Hotel Management programs. Approved by
+AICTE, UGC, PCI, INC, and affiliated with HNBGU, UTU, and SDSUU.",
+ "foundingDate": "2009",
+ "telephone": "+917300900900",
+ "email": "info@gnc.edu.in",
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "Jhajhra, Chakrata Road",
+ "addressLocality": "Dehradun",
+ "addressRegion": "Uttarakhand",
+ "postalCode": "248007",
+ "addressCountry": "IN"
+ },
+ "geo": {
+ "@type": "GeoCoordinates",
+ "latitude": "30.3753",
+ "longitude": "77.9250"
+ },
+ "hasMap": "https://maps.app.goo.gl/WWNhKqccPRahyEya9",
+ "openingHours": "Mo-Sa 09:00-17:00",
+ "sameAs": [
+ "https://www.facebook.com/gncmh",
+ "https://www.instagram.com/gncdehradun/",
+ "https://www.linkedin.com/company/gncdehradun/",
+ "https://www.youtube.com/@gncdehradun"
+ ],
+ "numberOfStudents": {
+ "@type": "QuantitativeValue",
+ "value": 2000
+ },
+ "accreditedBy": [
+ {
+ "@type": "Organization",
+ "name": "All India Council for Technical Education",
+ "alternateName": "AICTE",
+ "url": "https://www.aicte-india.org/"
+ },
+ {
+ "@type": "Organization",
+ "name": "University Grants Commission",
+ "alternateName": "UGC",
+ "url": "https://www.ugc.gov.in/"
+ },
+ {
+ "@type": "Organization",
+ "name": "Pharmacy Council of India",
+ "alternateName": "PCI"
+ },
+ {
+ "@type": "Organization",
+ "name": "Indian Nursing Council",
+ "alternateName": "INC"
+ }
+ ],
+ "memberOf": [
+ {
+ "@type": "Organization",
+ "name": "Hemvati Nandan Bahuguna Garhwal University",
+ "alternateName": "HNBGU"
+ },
+ {
+ "@type": "Organization",
+ "name": "Uttarakhand Technical University",
+ "alternateName": "UTU"
+ },
+ {
+ "@type": "Organization",
+ "name": "Sri Dev Suman Uttarakhand University",
+ "alternateName": "SDSUU"
+ }
+ ],
+ "contactPoint": [
+ {
+ "@type": "ContactPoint",
+ "telephone": "+917300900900",
+ "contactType": "Admissions",
+ "availableLanguage": ["English", "Hindi"]
+ },
+ {
+ "@type": "ContactPoint",
+ "telephone": "+917300900900",
+ "contactType": "student support",
+ "availableLanguage": ["English", "Hindi"]
+ }
+ ]
+ }
+ ]
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebSite",
+ "@id": "https://gnc.edu.in/#website",
+ "url": "https://gnc.edu.in/",
+ "name": "Guru Nanak College – Best College in Dehradun, Uttarakhand",
+ "description": "Official website of Guru Nanak College, Dehradun. Apply for Pharmacy, Nursing,
+Paramedical, BCA, BBA, Agriculture, and more programs.",
+ "publisher": {
+ "@id": "https://gnc.edu.in/#organization"
+ },
+ "potentialAction": {
+ "@type": "SearchAction",
+ "target": {
+ "@type": "EntryPoint",
+ "urlTemplate": "https://gnc.edu.in/search?q={search_term_string}"
+ },
+ "query-input": "required name=search_term_string"
+ },
+ "inLanguage": "en-IN"
+}
+</script>
 
 
 
