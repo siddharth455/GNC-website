@@ -5,19 +5,19 @@
 <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College - Best Agriculture College in Dehradun, Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture programs affiliated with HNBGU & SDSUU." />
-   <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">
+   <meta name="description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture programs affiliated with HNBGU & SDSUU."/>
+   <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand"/>
+    <link rel="canonical" href="https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Agriculture College in Dehradun, Uttarakhand" />
     <meta property="og:description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture programs affiliated with HNBGU & SDSUU." />
-    <meta property="og:url" content="https://www.gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
      <link rel="stylesheet" href="css/programs.css"/>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -182,7 +182,7 @@
     require "common/header.php";
     ?>
     <section class="pageBanner-inner">
-        <div style="background-image: url('upload/hero/mange-1.webp'); background-repeat: no-repeat; background-size: cover;">
+        <div style="background-image: url('upload/hero/agri-1.webp'); background-repeat: no-repeat; background-size: cover;">
             <div class="pageBanner-inner_in">
                 <div class="container">
                     <div class="row align-items-center">

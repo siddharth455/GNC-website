@@ -6,21 +6,21 @@
 <title>Guru Nanak College - Best Pharmacy College in Dehradun, Uttarakhand</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Guru Nanak College is the best pharmacy college in Dehradun, Uttarakhand, offers B.Pharm, D.Pharm, Lateral Entry B.Pharm programs approved by PCI & AICTE, affiliated with HNBGU, with 100% placement support."/>
-<link rel="canonical" href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
+<link rel="canonical" href="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
 <meta name="keywords" content="Best Pharmacy College in Dehradun, Pharmacy College in Uttarakhand" />
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Best Pharmacy College in Dehradun, Uttarakhand | Guru Nanak College">
 <meta property="og:description" content="Guru Nanak College is the best pharmacy college in Dehradun, Uttarakhand, offers B.Pharm, D.Pharm, Lateral Entry B.Pharm programs approved by PCI & AICTE, affiliated with HNBGU, with 100% placement support.">
-<meta property="og:url" content="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
+<meta property="og:url" content="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
 <meta property="og:site_name" content="GNC Dehradun">
-<meta property="og:image" content="https://www.gnc.edu.in/assets/images/pharmacy-campus.jpg">
+<meta property="og:image" content="https://gnc.edu.in/assets/images/pharmacy-campus.jpg">
 <meta property="og:image:type" content="image/webp">
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Best Pharmacy Colleges in Dehradun & Uttarakhand | GNC">
 <meta name="twitter:description" content="Join Guru Nanak College, one of the best pharmacy colleges in Dehradun & Uttarakhand for B.Pharm & D.Pharm programs.">
-<meta name="twitter:image" content="https://www.gnc.edu.in/assets/images/pharmacy-campus.jpg">
+<meta name="twitter:image" content="https://gnc.edu.in/assets/images/pharmacy-campus.jpg">
  <link rel="stylesheet" href="css/programs.css"/>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
@@ -37,7 +37,7 @@
       "@context": "https://schema.org",
       "@type": "CollegeOrUniversity",
       "name": "School of Pharmacy, Guru Nanak College",
-      "url": "https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand",
+      "url": "https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Jhajhra, Chakrata Road",

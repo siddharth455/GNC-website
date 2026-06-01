@@ -5,18 +5,18 @@
     <title>Guru Nanak College Dehradun, Uttarakhand | Academic Overview </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College in Dehradun, Uttarakhand, offers a diverse range of academic programs designed to meet the demands of the modern world. The college emphasizes practical training, higher employability, higher engagement, and effectiveness through immersive learning and innovative teaching methods.">
-    <link rel="canonical" href="https://www.gnc.edu.in/academic-overview">
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
-    <meta property="og:description" content="Guru Nanak College in Dehradun, Uttarakhand, offers a diverse range of academic programs designed to meet the demands of the modern world. The college emphasizes practical training, higher employability, higher engagement, and effectiveness through immersive learning and innovative teaching methods." />
-    <meta property="og:url" content="https://www.gnc.edu.in/academic-overview" />
+    <link rel="canonical" href="https://gnc.edu.in/academic-overview">
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
+   <meta property="og:title" content="Academic Overview | Guru Nanak College Dehradun, Uttarakhand" />
+    <meta property="og:description" content="Guru Nanak College in Dehradun, Uttarakhand, offers a diverse range of academic programs designed to meet the demands of the modern world. The college emphasizes practical training, higher employability, higher engagement, and effectiveness through immersive learning and innovative teaching methods."/>
+    <meta property="og:url" content="https://gnc.edu.in/academic-overview"/>
     <meta property="og:site_name" content="GNC Dehradun" />
-    <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
+    <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
+    <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:image:type" content="image/webp"/>
 
     <!-- Google Fonts: Plus Jakarta Sans (Matches about-us.php) -->
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -55,10 +55,10 @@
         }
         
         .hero-title {
-            font-size: clamp(2.5rem, 5vw, 4rem); /* Matches about-us.php max size */
-            font-weight: 800; /* Extra bold */
-            color: var(--gnc-navy); /* GNC Navy */
-            margin-bottom: 20px; /* Matches about-us.php margin */
+            font-size: clamp(2.5rem, 5vw, 4rem); 
+            font-weight: 800; 
+            color: var(--gnc-navy); 
+            margin-bottom: 20px; 
             line-height: 1.1;
             text-align: center;
         }
@@ -88,10 +88,10 @@
         /* 2. SECTION TITLE STYLES (Matches about-us.php .gnc-section-title) */
         .pillar-title {
             color: var(--gnc-navy);
-            font-weight: 800; /* Extra bold */
+            font-weight: 800;
             font-size: 2.5rem;
             line-height: 1.2;
-            margin-bottom: 30px; /* Matches about-us.php margin */
+            margin-bottom: 30px; 
             /* Removed text-transform: uppercase to match about-us.php styling */
         }
 
@@ -149,9 +149,9 @@
         .arrow-circle {
             width: 28px;
             height: 28px;
-            background-color: var(--gnc-cyan); /* Cyan accent */
+            background-color: var(--gnc-cyan); 
             color: white;
-            border-radius: 50%; /* Kept circle for UI element */
+            border-radius: 50%; 
             display: flex;
             align-items: center;
             justify-content: center;
@@ -160,7 +160,7 @@
 
         /* Career Banner */
         .career-banner {
-            background-color: var(--gnc-navy); /* Navy background */
+            background-color: var(--gnc-navy); 
             color: white;
             padding: 80px 0;
             overflow: hidden;
@@ -174,7 +174,7 @@
             border: 2px solid var(--gnc-cyan);
             color: white;
             padding: 12px 35px;
-            border-radius: 0; /* Square button */
+            border-radius: 0; 
             font-weight: 700;
             display: inline-flex;
             align-items: center;

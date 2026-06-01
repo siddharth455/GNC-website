@@ -16,8 +16,8 @@
     "description":"Guide to the top nursing colleges in Dehradun including Guru Nanak College (GNC).",
     "author":{"@type":"Organization","name":"GNC Dehradun"},
     "datePublished":"2025-06-27",
-    "image":"/upload/blog/4.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/top-5-nursing-colleges-dehradun/"}
+    "image":"https://gnc.edu.in/upload/blog/4.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/top-5-nursing-colleges-dehradun/"}
   }
   </script>
 

@@ -696,4 +696,16 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://gnc.edu.in/blog/bsc-nursing-vs-gnm-2026/</loc>
+        <lastmod>2026-04-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://gnc.edu.in/blog/btech-cse-college-dehradun-2026/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>

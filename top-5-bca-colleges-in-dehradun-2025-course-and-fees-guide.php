@@ -16,8 +16,8 @@
     "description":"Top 5 BCA Colleges in Dehradun in 2025: Doon University, Guru Nanak College, Graphic Era University, DIT University, UPES — courses, fees, eligibility, placements.",
     "author":{"@type":"Organization","name":"GNC Dehradun"},
     "datePublished":"2025-07-21",
-    "image":"/upload/blog/2.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/top-5-bca-colleges-dehradun-2025/"}
+    "image":"https://gnc.edu.in/upload/blog/2.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/top-5-bca-colleges-dehradun-2025/"}
   }
   </script>
 

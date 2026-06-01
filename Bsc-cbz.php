@@ -9,14 +9,14 @@
     <link rel="canonical" href="https://gnc.edu.in/Bsc-cbz">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title"content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Best B.Sc CBZ College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Guru Nanak College, Dehradun's best college for B.Sc. CBZ. With a stimulating curriculum, top-tier faculty, and a vibrant academic community, Guru Nanak College sparks a passion for Chemistry, Botany, and Zoology, shaping future innovators and scientists."/>
     <meta property="og:url" content="https://gnc.edu.in/Bsc-cbz"/>
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
     <meta property="og:image:type" content="image/webp" />
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
@@ -1288,7 +1288,7 @@
                         <h2 class="gnc-mb-title-h2">Eligibility & Fee Details</h2>
                     </div>
 
-                    <a href="upload/pdf/fee/CBZ.jpeg" target="_blank" class="gnc-mb-btn-fee-download">
+                    <a href="upload/pdf/fee/Bsc Cbz.jpeg" target="_blank" class="gnc-mb-btn-fee-download">
                         <i class="fas fa-file-pdf me-2"></i> Download Fee Structure
                     </a>
 

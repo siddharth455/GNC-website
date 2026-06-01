@@ -16,8 +16,8 @@
     "description":"BCA Admissions 2025 open at Guru Nanak College Dehradun — program details, why choose BCA, benefits and admission process.",
     "author":{"@type":"Organization","name":"GNC Dehradun"},
     "datePublished":"2025-04-25",
-    "image":"/upload/blog/9.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/bca-admissions-2025-gnc/"}
+    "image":"https://gnc.edu.in/upload/blog/9.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/bca-admissions-2025-gnc/"}
   }
   </script>
 

@@ -6,15 +6,15 @@
     <title>Guru Nanak College (GNC) Dehradun, Uttarakhand | Campus Life</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Campus life at Guru Nanak College (GNC) in Dehradun is vibrant and enriching, offering students a well-rounded experience that goes beyond academics. Overall, campus life at Guru Nanak College is designed to foster personal growth, academic excellence, and a sense of community among students. It's truly a home away from home!">
-    <link rel="canonical" href="https://www.gnc.edu.in/campus-life">
+    <link rel="canonical" href="https://gnc.edu.in/campus-life">
     <!-- Open Graph Tags (Preserved) -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Campus Life at Guru Nanak College Dehradun, Uttarakhand" />
     <meta property="og:description" content="Campus life at Guru Nanak College (GNC) in Dehradun is vibrant and enriching..." />
-    <meta property="og:url" content="https://www.gnc.edu.in/campus-life" />
+    <meta property="og:url" content="https://gnc.edu.in/campus-life" />
     <meta property="og:site_name" content="GNC Dehradun" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">

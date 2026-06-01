@@ -6,19 +6,19 @@
     <title>GNC – Leadership | Best Mentors – Shaping Future</title>
     <meta name="description" content="GNC Leadership offers unparalleled mentorship to shape the leaders of tomorrow.
 fostering visionary guidance and academic excellence">
-    <link rel="canonical" href="https://www.gnc.edu.in/leadership">
+    <link rel="canonical" href="https://gnc.edu.in/leadership">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="GNC Leadership offers unparalleled mentorship to shape the leaders of tomorrow.
 fostering visionary guidance and academic excellence" />
     <meta property="og:description" content="GNC Leadership offers unparalleled mentorship to shape the leaders of tomorrow.
 fostering visionary guidance and academic excellence" />
-    <meta property="og:url" content="https://www.gnc.edu.in/leadership" />
+    <meta property="og:url" content="https://gnc.edu.in/leadership" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
     <style>
         .chancellor-top-row {

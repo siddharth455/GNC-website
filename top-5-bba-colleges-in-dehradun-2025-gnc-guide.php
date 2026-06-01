@@ -20,10 +20,10 @@
         "name": "GNC Dehradun"
       },
       "datePublished": "2025-06-21",
-      "image": "/upload/blog/5.webp",
+      "image": "https://gnc.edu.in/upload/blog/5.webp",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://example.com/top-5-bba-colleges-dehradun-2025/"
+        "@id": "https://gnc.edu.in/top-5-bba-colleges-dehradun-2025/"
       }
     }
   </script>

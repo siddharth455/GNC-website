@@ -23,7 +23,7 @@ content="BCA career options after 12th, why choose BCA, BCA job roles, BCA salar
   "@type": "BlogPosting", 
   "headline": "Why BCA is One of the Best Career Options After 12th", 
   "description": "Discover why Bachelor of Computer Applications (BCA) is a top career choice after 12th, including eligibility, skills, job roles, and future opportunities in the IT industry.", 
-  "image": "https://gnc.edu.in/path-to-blog-image.jpg", 
+  "image": "https://gnc.edu.in/upload/blog/why-bca.webp", 
   "author": { 
     "@type": "Organization", 
     "name": "Guru Nanak College" 
@@ -33,7 +33,7 @@ content="BCA career options after 12th, why choose BCA, BCA job roles, BCA salar
     "name": "Guru Nanak College", 
     "logo": { 
       "@type": "ImageObject", 
-      "url": "https://gnc.edu.in/logo.png" 
+      "url": "https://gnc.edu.in/images/logo.webp" 
     } 
   }, 
   "datePublished": "2026-03-16", 

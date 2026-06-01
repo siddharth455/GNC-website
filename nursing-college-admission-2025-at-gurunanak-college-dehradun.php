@@ -16,8 +16,8 @@
     "description":"Nursing admissions 2025 at Gurunanak College Dehradun — B.Sc Nursing, GNM, ANM; eligibility, practical training, career opportunities and how to apply.",
     "author":{"@type":"Organization","name":"Gurunanak College"},
     "datePublished":"2025-04-10",
-    "image":"/upload/blog/11.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/nursing-admission-2025-gnc/"}
+    "image":"https://gnc.edu.in/upload/blog/11.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/nursing-admission-2025-gnc/"}
   }
   </script>
 

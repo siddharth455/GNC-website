@@ -16,8 +16,8 @@
     "description":"Discover the M.Sc. Horticulture program at Guru Nanak College, Dehradun — curriculum, faculty, infrastructure, research, placements and campus life.",
     "author":{"@type":"Organization","name":"Guru Nanak College"},
     "datePublished":"2024-12-10",
-    "image":"/upload/blog/15.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/post/msc-horticulture-gnc-dehradun/"}
+    "image":"https://gnc.edu.in/upload/blog/15.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/msc-horticulture-gnc-dehradun/"}
   }
   </script>
 

@@ -13,7 +13,7 @@
     <meta property="og:url" content="https://gnc.edu.in/post-basic-nursing" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
@@ -34,9 +34,9 @@
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Guru Nanak College, Dehradun",
-        "url": "https://www.gnc.edu.in"
+        "url": "https://gnc.edu.in"
       },
-      "url": "https://www.gnc.edu.in/post-basic-nursing",
+      "url": "https://gnc.edu.in/post-basic-nursing",
       "courseCode": "PB-BSC-NURS",
       "educationalCredentialAwarded": "Post Basic Bachelor of Science in Nursing (P.B.B.Sc. Nursing)",
       "timeToComplete": "P2Y",

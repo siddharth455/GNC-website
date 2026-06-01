@@ -14,11 +14,11 @@
     <meta property="og:description" content="Enrol in a BPT program at one of Dehradun's top physiotherapy colleges and build expertise in rehabilitation, manual therapy, and clinical practice." />
     <meta property="og:url" content="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
-    <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
-    <meta property="og:image:type" content="image/webp" />
+    <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
+    <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:image:type" content="image/webp"/>
 
     <style>
             

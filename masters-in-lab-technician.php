@@ -6,17 +6,17 @@
     <title>Masters of Medical Laboratory Technician</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join Guru Nanak College, Dehradun, for a future in Pharma, Paramedical, Nursing, and more. Seamless admission process with global opportunities.">
-    <link rel="canonical" href="https://www.gnc.edu.in/masters-in-lab-technician">
+    <link rel="canonical" href="https://gnc.edu.in/masters-in-lab-technician">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Masters of Medical Laboratory Technician | Guru Nanak College Dehradun" />
     <meta property="og:description" content="Join Guru Nanak College, Dehradun, for a future in Pharma, Paramedical, Nursing, and more. Seamless admission process with global opportunities." />
-    <meta property="og:url" content="https://www.gnc.edu.in/masters-in-lab-technician" />
+    <meta property="og:url" content="https://gnc.edu.in/masters-in-lab-technician" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
     <link rel="stylesheet" href="css/programs.css"/>
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
@@ -485,7 +485,7 @@
   "provider": {
     "@type": "CollegeOrUniversity",
     "name": "Guru Nanak College, Dehradun",
-    "url": "https://www.gnc.edu.in/"
+    "url": "https://gnc.edu.in/"
   },
   "description": "The Masters in Medical Laboratory Technology (MMLT) program at Guru Nanak College, Dehradun offers advanced training in clinical diagnostics, hematology, microbiology, pathology testing, and laboratory management with hands-on experience and modern instrumentation.",
   "areaServed": {
@@ -508,11 +508,6 @@
   }
 }
 </script>
-
-
-
-
-    
 </head>
 
 <body>
@@ -696,7 +691,7 @@
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
+                    <a href="upload/pdf/fee/Msc MLT.jpeg" target="_blank" id="printButton1" target="_blank" class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->
                     <ul class="nav nav-tabs" id="gncTabs" role="tablist">

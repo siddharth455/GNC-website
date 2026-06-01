@@ -3,6 +3,7 @@
 
 $posts = [
  
+ 
   [
     'id' => 1,
     'title' => 'Top Paramedical Courses After 12th in India | GNC Dehradun',
@@ -147,7 +148,7 @@ programs for aspiring business leaders.',
     'excerpt' => 'Guru Nanak College offers a robust B.Sc. Agriculture program that covers a wide range of topics crucial for a successful career in agriculture.',
     'author' => ['name' => 'GNC Dehradun'],
     'tags' => ['Agriculture','B.Sc. Agriculture'],
-    'image' => 'upload/blog/13.webp',
+    'image' => 'upload/blog/17.webp',
     'featured' => false
   ],
   [
@@ -158,7 +159,7 @@ programs for aspiring business leaders.',
     'excerpt' => 'Guru Nanak College (GNC), Dehradun, is one of the premier institutions for pursuing a Bachelor of Science in Forestry (B.Sc. Forestry).',
     'author' => ['name' => 'GNC Dehradun'],
     'tags' => ['Agriculture', 'Forestry'],
-    'image' => 'upload/blog/14.webp',
+    'image' => 'upload/blog/18.webp',
     'featured' => false
   ],
   [
@@ -203,7 +204,7 @@ programs for aspiring business leaders.',
     'excerpt' => 'Complete comparison between BBA and BCom covering eligibility, subjects, career opportunities, and which course is better after 12th for business careers.',
     'author' => ['name' => 'GNC Dehradun'],
     'tags' => ['BBA', 'BCom'],
-    'image' => 'upload/blog/bca-vs-bcom.webp',
+    'image' => 'upload/blog/bba-vs-bcom.webp',
     'featured' => false
   ],
   [
@@ -226,6 +227,29 @@ programs for aspiring business leaders.',
     'author' => ['name' => 'GNC Dehradun'],
     'tags' => ['Paramedical'],
     'image' => 'upload/blog/para-blog-26.webp',
+    'featured' => false
+  ],
+
+   [
+    'id' => 22,
+    'title' => 'B.Sc Nursing vs GNM 2026 — Fees, Salary, Career Scope and Which is Better?',
+    'url' => 'bsc-nursing-vs-gnm-2026',
+    'date' => '2026-04-28',
+    'excerpt' => 'B.Sc Nursing vs GNM — complete 2026 comparison of fees, duration, salary, government jobs, international scope and career growth. INC approved nursing at GNC Dehradun. Admissions open.',
+    'author' => ['name' => 'GNC Dehradun'],
+    'tags' => ['Nursing'],
+    'image' => 'upload/blog/bscnursing-vs-gnm.webp',
+    'featured' => false
+  ],
+   [
+    'id' => 23,
+    'title' => 'B.Tech Computer Science in Dehradun 2026 — Fees, Scope, Salary & Admission | GNC',
+    'url' => 'btech-cse-college-dehradun-2026',
+    'date' => '2026-05-08',
+    'excerpt' => 'Complete guide to B.Tech Computer Science in Dehradun 2026. Fees, eligibility, syllabus, career scope, salary and why GNC Dehradun is the best BTech CSE college.',
+    'author' => ['name' => 'GNC Dehradun Academic Team'],
+    'tags' => ['BTech', 'CSE'],
+    'image' => 'upload/blog/btech-cse.webp',
     'featured' => true
   ],
 

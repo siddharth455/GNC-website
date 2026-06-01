@@ -1,4 +1,4 @@
-<footer class="footer pt-8">
+<footer class="footer pt-4">
     <div class="footer-links">
         <div class="container">
             <div class="row g-4">
@@ -396,12 +396,23 @@ document.getElementById('gnc-chat-btn').addEventListener('click', function () {
 <script>
     // Function to handle the print action
     function printContent() {
-        var printContent1 = document.getElementById("printableArea").innerHTML;
-        var printContent2 = document.getElementById("printableArea-1").innerHTML;
+        var area1 = document.getElementById("printableArea");
+        var area2 = document.getElementById("printableArea-1");
+
+        // Prevent crash if sections don't exist
+        var printContent1 = area1 ? area1.innerHTML : "";
+        var printContent2 = area2 ? area2.innerHTML : "";
+
+        // If nothing to print, stop
+        if (!printContent1 && !printContent2) {
+            console.warn("No printable content found.");
+            return;
+        }
+
         var windowPrint = window.open('', '', 'height=400,width=800');
 
         windowPrint.document.write('<style>');
-        // Write your CSS styles here
+        // Keep your CSS EXACTLY same
         windowPrint.document.write(`
             img#logo {
                 display: block;
@@ -421,34 +432,40 @@ document.getElementById('gnc-chat-btn').addEventListener('click', function () {
                 padding: 8px; 
                 text-align: left; 
             }
-            /* Add more styles as needed */
         `);
         windowPrint.document.write('</style></head><body>');
+
         // Add the logo to the print content
         windowPrint.document.write('<img id="logo" src="images/gnc_black-logo.webp" alt="Logo">');
         windowPrint.document.write(printContent1);
         windowPrint.document.write(printContent2);
+
         windowPrint.document.write('</body></html>');
 
         windowPrint.document.close();
         windowPrint.focus();
 
-        // Delay the print command slightly to ensure the content loads fully
         setTimeout(function() {
             windowPrint.print();
             windowPrint.close();
         }, 250);
     }
 
-    // Event listener for printButton
-    document.getElementById("printButton").addEventListener("click", function() {
-        printContent();
-    });
+    // Safe event listener for printButton
+    var btn = document.getElementById("printButton");
+    if (btn) {
+        btn.addEventListener("click", function() {
+            printContent();
+        });
+    }
 
-    // Event listener for printButton1 (same task)
-    document.getElementById("printButton1").addEventListener("click", function() {
-        printContent();
-    });
+    // Safe event listener for printButton1
+    var btn1 = document.getElementById("printButton1");
+    if (btn1) {
+        btn1.addEventListener("click", function() {
+            printContent();
+        });
+    }
 </script>
 <script>
     $(document).ready(function() {

@@ -5,17 +5,17 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College Dehradun, Uttarakhand | National Service Scheme</title>
     <meta name="description" content="The National Service Scheme (NSS) at Guru Nanak College, Dehradun, is a studentcentered program that operates under the Ministry of Youth Affairs and Sports of the Government of India. The NSS aims to inculcate the spirit of social service and volunteerism among students, encouraging them to actively contribute to the welfare of society.">
-    <link rel="canonical" href="https://www.gnc.edu.in/vision-mission">
+    <link rel="canonical" href="https://gnc.edu.in/vision-mission">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | National Service Scheme" />
     <meta property="og:description" content="The National Service Scheme (NSS) at Guru Nanak College, Dehradun, is a studentcentered program that operates under the Ministry of Youth Affairs and Sports of the Government of India. The NSS aims to inculcate the spirit of social service and volunteerism among students, encouraging them to actively contribute to the welfare of society." />
-    <meta property="og:url" content="https://www.gnc.edu.in/vision-mission" />
+    <meta property="og:url" content="https://gnc.edu.in/vision-mission" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
 </head>
 

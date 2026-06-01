@@ -20,10 +20,10 @@
         "name": "GNC Dehradun"
       },
       "datePublished": "2025-08-20",
-      "image": "/upload/blog/1.webp",
+      "image": "https://gnc.edu.in/upload/blog/1.webp",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://example.com/top-paramedical-courses-after-12th/"
+        "@id": "https://gnc.edu.in/top-paramedical-courses-after-12th-dehradun-2026.php"
       }
     }
   </script>

@@ -8,14 +8,14 @@
     <link rel="canonical" href="https://gnc.edu.in/Best-bmlt-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Best BMLT College in Dehradun, Uttarakhand - Guru Nanak College"/>
     <meta property="og:description" content="Enroll in the leading Bachelor of Medical Laboratory Technology (BMLT) program at Guru Nanak College in Dehradun, Uttarakhand. Offering comprehensive training, state-of-the-art labs, and experienced faculty, GNC prepares students for rewarding careers in medical laboratory technology." />
     <meta property="og:url" content="https://gnc.edu.in/Best-bmlt-college-in-dehradun"/>
     <meta property="og:site_name" content="GNC Dehradun"/>
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp"/>
-    <meta property="og:image:width" content="383"/>
-    <meta property="og:image:height" content="256"/>
+    <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
     <meta property="og:image:type" content="image/webp"/>
     <link rel="stylesheet" href="css/programs.css"/>
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">

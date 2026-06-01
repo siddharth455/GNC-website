@@ -18,9 +18,9 @@
     <meta property="og:url"content="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383" />
-    <meta property="og:image:height" content="256" />
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -134,8 +134,7 @@
                 position: absolute;
                 left: 0;
                 top: -75px;
-                background: url('images/bca-adv.jpg') no-repeat;
-
+                background: url('images/b.tech-adv.webp') no-repeat;
                 background-size: cover;
                 width: 800px;
                 height: 1147px;
@@ -293,7 +292,7 @@
             }
 
             .gnc-bba-stats-grid {
-                margin-top: 400px;
+                margin-top: 450px;
             }
 
             .gnc-bba-content-right {
@@ -1128,7 +1127,7 @@
 f
                 </div>
                 <div class="glance-item">
-                    <img src="images/lib.jpg" alt="Library" alt="Tech Seminars">
+                    <img src="images/Lib.jpg" alt="Library" alt="Campus Library">
                     <h4>Grand Libraries</h4>
                 </div>
                 <div class="glance-item">
@@ -1136,12 +1135,12 @@ f
                     <h4>Home-like Hostels</h4>
                 </div>
                 <div class="glance-item">
-                    <img src="images/Audi.jpg" alt="Medical Facilities">
+                    <img src="images/Audi.jpg" alt="Main Auditorium">
                     <h4>Main Auditorium</h4>
                 </div>
                 <div class="glance-item">
-                    <img src="upload/infra/5l.webp" alt="Home-like Hostels">
-                    <h4>Home-like Hostels</h4>
+                    <img src="upload/infra/6l.webp" alt="Safe Transport Services">
+                    <h4>Safe Transport Services</h4>
                 </div>
                         
             </div>

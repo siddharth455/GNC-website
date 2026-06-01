@@ -16,8 +16,8 @@
     "description":"Discover the B.Sc. Forestry program at Guru Nanak College, Dehradun — curriculum, faculty, infrastructure, research, placements and campus life.",
     "author":{"@type":"Organization","name":"Gurunanak College"},
     "datePublished":"2024-12-27",
-    "image":"/upload/blog/14.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/post/bsc-forestry-gnc-dehradun/"}
+    "image":"/upload/blog/18.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/bsc-forestry-gnc-dehradun/"}
   }
   </script>
 
@@ -95,7 +95,7 @@
         <div>2024-12-27</div>
       </div>
 
-      <img src="upload/blog/14.webp" alt="B.Sc. Forestry at Guru Nanak College" class="post-hero-img" loading="lazy">
+      <img src="upload/blog/18.webp" alt="B.Sc. Forestry at Guru Nanak College" class="post-hero-img" loading="lazy">
 
       <!-- TOC (exact items you requested) -->
       <nav id="toc" class="toc" aria-label="Table of Contents">

@@ -9,14 +9,14 @@
     <link rel="canonical" href="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Best B.Sc Microbiology College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Discover excellence in microbiology at Guru Nanak College, Dehradun's leading B.Sc. Microbiology institution. With an innovative curriculum, top-notch faculty, and cutting edge research facilities, Guru Nanak College empowers students to excel in the realm of microbiological sciences." />
     <meta property="og:url" content="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun"/>
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-    <meta property="og:image:width" content="383"/>
-    <meta property="og:image:height" content="256"/>
+    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
     <meta property="og:image:type" content="image/webp"/>
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -65,7 +65,7 @@
         
 
 
-        .gnc-mb-content-sec { position: relative; padding-bottom: 115px; }
+        .gnc-mb-content-sec { position: relative; }
         .gnc-mb-heading h3 { color: var(--bs-black); font-family: var(--alt-font)!important; font-size:30px; line-height: 44px; font-weight: 800; margin-bottom: 20px; }
         
         .gnc-mb-heading h3.position-relative::after { content: ""; position: absolute; bottom: 0; left: 0; background: var(--bs-black); height: 1px; width: 40px; }
@@ -101,13 +101,13 @@
         .gnc-mb-adv-slider .flickity-prev-next-button.previous { right: 80px; left: auto; }
         .gnc-mb-adv-slider .flickity-prev-next-button.next { right: 20px; }
 
-        .gnc-mb-promo { margin-top: -178px; overflow: visible; padding: 60px 0; }
-        .gnc-mb-promo-card { background: var(--bs-white); border-radius: 6px 6px 0 0; padding: 62px; border: none; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-top: -17px;}
+        .gnc-mb-promo { margin-top: -120px; overflow: visible; padding: 40px 0; position: relative; z-index: 25; }
+        .gnc-mb-promo-card { background: var(--bs-white); border-radius: 6px 6px 0 0; padding: 60px; border: none; box-shadow: 0 10px 30px rgba(0,0,0,0.1); position: relative; }
         .gnc-mb-promo-txt h3, .gnc-mb-promo-txt h4 { font-family: var(--alt-font) !important; font-style: normal; color: var(--bs-black) !important; margin-bottom: 0; }
-        .gnc-mb-promo-txt h3 { font-size: 30px; font-weight: 800; }
-        .gnc-mb-promo-txt h4 { font-weight: normal; font-size: 24px; color: var(--gnc-orange) !important; }
-        .gnc-mb-promo-bg { position: absolute; left: 160px; bottom: 0; background-repeat: no-repeat; background-size: contain; width: 348px; height:500px; z-index: 22; opacity: 1; }
-        .gnc-mb-promo-card .card-body { position: relative; z-index: 1; padding: 0 !important; }
+        .gnc-mb-promo-txt h3 { font-size: 30px; font-weight: 800; line-height: 1.2; }
+        .gnc-mb-promo-txt h4 { font-weight: normal; font-size: 24px; color: var(--gnc-orange) !important; margin-bottom: 5px; }
+        .gnc-mb-promo-bg { position: absolute; left: 10%; bottom: 0; background-repeat: no-repeat; background-size: contain; background-position: bottom; width: 340px; height: 480px; z-index: 2; opacity: 1; pointer-events: none; }
+        .gnc-mb-promo-card .card-body { position: relative; z-index: 5; padding: 0 !important; }
 
         .gnc-mb-partners { 
             display: grid; 
@@ -279,8 +279,7 @@
         }
 
         .mosaic-tall img {
-            object-fit: contain !important;
-            background-color: #344941; /* Matches the dark green background at the top of the research image */
+            object-fit: cover !important;
         }
 
         .gnc-forestry-mosaic-col img {
@@ -381,8 +380,10 @@
             .gnc-mb-content-sec .col-lg-6 { margin-bottom: 40px; }
             .gnc-mb-main-img img { height: auto; width: 100%; margin-top: 30px; }
             .gnc-mb-exchange-img img { height: auto; min-height: 500px; width: 100%; margin-top: 30px; }
-            .gnc-mb-promo-card { padding: 40px 30px; }
-            .gnc-mb-promo-bg { width: 185px; height: 205px; left: 24px; }
+            .gnc-mb-promo-card { padding: 40px; }
+            .gnc-mb-promo-bg { width: 220px; height: 320px; left: 5%; }
+            .gnc-mb-promo-txt h3 { font-size: 24px; }
+            .gnc-mb-promo-txt h4 { font-size: 20px; }
             .gnc-mb-partners { grid-template-columns: repeat(3, 1fr); gap: 15px; }
         }
         @media (max-width: 991px) {
@@ -410,184 +411,235 @@
             .gnc-mb-partners { grid-template-columns: repeat(2, 1fr); }
         }
 
+        @media (min-width: 1200px) and (max-width: 1400px) {
+            .gnc-mb-promo-bg { width: 280px; height: 400px; left: 5%; }
+            .gnc-mb-promo-card { padding: 50px 80px; }
+        }
+
         /* Smooth scrolling */
         html { scroll-behavior: smooth; }
         body { font-family: var(--alt-font); overflow-x: hidden; margin: 0; padding: 0; }
 
-        /* --- Variables & Reset --- */
-        :root {
-            --primary-color: #0f9af1;
-            --accent-color: #f39c12;
-            --text-dark: #333333;
-            --text-gray: #555555;
-            --light-bg: #f8f9fa;
-            --border-color: #dee2e6;
-            --white: #ffffff;
-        }
-
-        .gnc-bmrit-section {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-
-        /* --- Layout --- */
-        .flex-container {
+        /* --- Fee & Video Content Section --- */
+        .gnc-mb-fee-container {
             display: flex;
             flex-wrap: wrap;
             gap: 30px;
         }
 
-        .col-data {
+        .gnc-mb-fee-col {
             flex: 1 1 65%;
-            /* Takes up 65% of width */
             min-width: 300px;
         }
 
-        .note-box {
+        .gnc-mb-video-sidebar {
             flex: 1 1 25%;
-            /* Takes up roughly 30% of width */
             min-width: 280px;
-            background-color: var(--light-bg);
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .gnc-mb-note-card {
+            background: var(--light-bg, #f8f9fa);
             padding: 25px;
             border-radius: 8px;
-            border-left: 5px solid var(--primary-color);
-            height: fit-content;
+            border-left: 5px solid #0f9af1;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
         }
 
-        /* --- Typography --- */
-        .col-data h2 {
-            color: var(--primary-color);
-            font-weight: 700;
-            margin-bottom: 20px;
-            font-size: 2rem;
-        }
-
-        .col-data h5 {
-            color: var(--primary-color);
-            margin-top: 25px;
-            margin-bottom: 15px;
-            font-weight: 600;
-            border-bottom: 2px solid var(--border-color);
+        .gnc-mb-btn-fee-download {
             display: inline-block;
-            padding-bottom: 5px;
-        }
-
-        /* --- Download Button --- */
-        .btn-download {
-            display: inline-block;
-            background-color: var(--accent-color);
-            color: var(--white) !important;
+            background: #f39c12;
+            color: #fff !important;
             padding: 10px 20px;
             border-radius: 5px;
-            text-decoration: none;
             font-weight: 600;
             margin-bottom: 30px;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: 0.3s;
+            text-decoration: none;
         }
 
-        .btn-download:hover {
-            background-color: #e67e22;
+        .gnc-mb-btn-fee-download:hover {
+            background: #e67e22;
             transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
         }
 
-        /* --- Tabs Styling --- */
-        .nav-tabs {
-            border-bottom: 2px solid var(--border-color);
-            margin-bottom: 20px;
-        }
-
-        .nav-tabs .nav-link {
+        .gnc-mb-fee-nav .nav-link {
             border: none;
-            color: var(--text-gray);
             font-weight: 600;
             padding: 12px 25px;
-            transition: 0.3s;
+            color: #555555;
         }
 
-        .nav-tabs .nav-link.active {
-            color: var(--primary-color);
-            background-color: transparent;
-            border-bottom: 3px solid var(--primary-color);
+        .gnc-mb-fee-nav .nav-link.active {
+            color: #0f9af1;
+            border-bottom: 3px solid #0f9af1;
+            background: none;
         }
 
-        .nav-tabs .nav-link:hover:not(.active) {
-            border-color: transparent;
-            color: var(--primary-color);
-            background-color: #eeeeee;
-        }
-
-        /* --- Table Styling --- */
-        .table-responsive {
-            margin-bottom: 20px;
-            overflow-x: auto;
-        }
-
-        table {
+        .gnc-mb-fee-table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 10px;
-            background-color: var(--white);
+            background: #fff;
         }
 
-        table th,
-        table td {
-            border: 1px solid var(--border-color);
+        .gnc-mb-fee-table th,
+        .gnc-mb-fee-table td {
+            border: 1px solid #dee2e6;
             padding: 12px 15px;
             text-align: left;
             font-size: 0.95rem;
         }
 
-        table th {
-            background-color: var(--primary-color);
-            color: var(--white);
-            font-weight: 600;
+        .gnc-mb-fee-table th {
+            background-color: #0f9af1;
+            color: #fff;
             text-transform: uppercase;
             font-size: 0.85rem;
         }
 
-        table tbody tr:nth-child(even) {
-            background-color: #fcfcfc;
+        .gnc-mb-fee-table tbody tr:nth-child(even) { background-color: #fcfcfc; }
+        .gnc-mb-fee-table tbody tr:hover { background-color: #f1f7ff; }
+        .gnc-mb-fee-table td strong { color: #0f9af1; }
+
+        /* --- Video Sidebar Card --- */
+        .video-promo-card { padding: 0; box-shadow: none; }
+
+        .video-btn-play {
+            color: #000;
+            font-weight: 800;
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            text-decoration: none;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            transition: color 0.3s ease;
+        }
+        
+        .video-btn-play:hover {
+            color: red;
         }
 
-        table tbody tr:hover {
-            background-color: #f1f7ff;
+        .video-play-icon {
+            width: 45px;
+            height: 45px;
+            background: red;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 10px rgba(255,0,0,0.3);
+        }
+        
+        .video-btn-play:hover .video-play-icon {
+            transform: scale(1.1);
+            background: #cc0000;
         }
 
-        /* Specific styling for the bold "Net Academic Fee" row */
-        table tr td strong {
-            color: var(--primary-color);
+        .video-thumb-link {
+            display: block;
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 25px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+        }
+        
+        .video-thumb-link::after {
+            content: '\f04b';
+            font-family: 'Font Awesome 5 Free';
+            font-weight: 900;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0.8);
+            width: 60px;
+            height: 60px;
+            background: rgba(255,255,255,0.9);
+            color: red;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            opacity: 0;
+            transition: all 0.3s ease;
+            padding-left: 5px;
+        }
+        
+        .video-thumb-link:hover {
+            transform: scale(1.02);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+        }
+        
+        .video-thumb-link:hover::after {
+            opacity: 1;
+            transform: translate(-50%, -50%) scale(1);
         }
 
-        /* --- Responsive Adjustments --- */
-        @media (max-width: 992px) {
-            .flex-container {
-                flex-direction: column;
-            }
+        .video-thumb-link img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
 
-            .col-data,
-            .note-box {
-                flex: 1 1 100%;
-            }
+        /* --- Responsive: Fee Section --- */
+        @media (max-width: 991px) {
+            .gnc-mb-fee-container { flex-direction: column; }
+            .gnc-mb-fee-col, .gnc-mb-video-sidebar { flex-basis: 100%; }
         }
 
         @media (max-width: 576px) {
-            .col-data h2 {
-                font-size: 1.5rem;
-            }
-
-            .nav-tabs .nav-link {
-                padding: 10px 15px;
-                font-size: 0.9rem;
-            }
-
-            table th,
-            table td {
-                padding: 8px 10px;
-                font-size: 0.85rem;
-            }
+            .gnc-mb-fee-nav .nav-link { padding: 10px 15px; font-size: 0.9rem; }
+            .gnc-mb-fee-table th, .gnc-mb-fee-table td { padding: 8px 10px; font-size: 0.85rem; }
         }
+
+        /* Video Popup Modal Styles (Matching B.Pharm) */
+        .video-popup-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .video-popup-content {
+            position: relative;
+            width: 80%;
+            max-width: 900px;
+        }
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+        }
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .close-video-popup {
+            position: absolute;
+            top: -40px;
+            right: 0;
+            color: #fff;
+            font-size: 35px;
+            cursor: pointer;
+            line-height: 1;
+        }
+
     </style>
 </head>
 
@@ -646,11 +698,7 @@
             </div>
         </div>
     </section>
-
-
-    
-
-    <section class="gnc-mb-content-sec pb-115">
+ <section class="gnc-mb-content-sec">
         <div class="container">
             <div class="row flex-cr gx-lg-5">
                 <div class="col-lg-6">
@@ -661,10 +709,7 @@
                 <div class="col-lg-5">
                     <div class="gnc-mb-heading pe-55">
                         <h3 data-aos="fade-up" data-aos-duration="500" class="position-relative">Guru Nanak College - Best B.Sc Microbiology College in Dehradun, Uttarakhand</h3>
-                        <p>The Bachelor of Science in Microbiology program at the School of Life & Allied Sciences,
-                            Guru Nanak College, Dehradun, is an undergraduate course designed for students fascinated by the
-                            world of microorganisms and their impact on humans, animals, plants, and the environment.It covers various branches of microbiology, including immunology, virology,
-                            bacteriology, mycology, and molecular biology.</p>
+                        <p>The Bachelor of Science in Microbiology program at the School of Life & Allied Sciences, Guru Nanak College, Dehradun, is an undergraduate course designed for students fascinated by the world of microorganisms and their impact on humans, animals, plants, and the environment.It covers various branches of microbiology, including immunology, virology, bacteriology, mycology, and molecular biology.</p>
 						<p>The program equips students with the expertise needed to solve complex biological problems. From developing life-saving antibiotics to ensuring the safety of our food and water, microbiology graduates play a crucial role in modern science. Under the mentorship of distinguished faculty with rich research experience, students gain real-world insights into microbial systems, immunology, and advanced biotechnological practices.</p>
                         <h4>Scope</h4>
 						<p>The microbiology sector is vital for global health and industrial progress. With advancements in genetic engineering, vaccine development, and environmental remediation, the field offers immense career opportunities in pharmaceuticals, food & beverage industries, clinical research, and public health sectors.</p>
@@ -676,37 +721,43 @@
             </div>   
         </div>
     </section>
-    <!-- Fees Section  -->
 
-    <div class="container">
-            <div class="flex-container">
-                <!-- Left Data Column -->
-                <div class="col-data">
-                    <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank"
-                        class="btn-download">Download Fee Structure</a>
+    <!-- 4. Fee & Video Sidebar Section -->
+    <section class="gnc-mb-section gnc-mb-fees" style="padding: 40px 0;">
+        <div class="container">
+            <div class="gnc-mb-fee-container">
+                <!-- Left Content -->
+                <div class="gnc-mb-fee-col">
+                    <div data-aos="fade-up" data-aos-duration="500">
+                        <h2 style="font-weight: 700; margin-bottom: 20px; font-size: 2rem; color: #0f9af1;">Eligibility &amp; Fee Details</h2>
+                    </div>
 
-                    <!-- Clickable Tabs Navigation -->
-                    <ul class="nav nav-tabs" id="gncTabs" role="tablist">
+                    <a href="upload/pdf/fee/Bsc Microbiology.jpeg" target="_blank" class="gnc-mb-btn-fee-download">
+                        <i class="fas fa-file-pdf me-2"></i> Download Fee Structure
+                    </a>
+
+                    <ul class="nav nav-tabs gnc-mb-fee-nav" id="feeTabs" role="tablist">
                         <li class="nav-item">
-                            <button class="nav-link active" id="fee-tab" data-bs-toggle="tab"
-                                data-bs-target="#fee-content" type="button" role="tab">Fee Structure</button>
+                            <button class="nav-link active" id="mb-fee-tab" data-bs-toggle="tab" data-bs-target="#mb-fee-pane"
+                                type="button" role="tab">Fee Structure</button>
                         </li>
                         <li class="nav-item">
-                            <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#other-content"
+                            <button class="nav-link" id="mb-other-tab" data-bs-toggle="tab" data-bs-target="#mb-other-pane"
                                 type="button" role="tab">Other Fees</button>
                         </li>
                     </ul>
 
-                    <div class="tab-content" id="gncTabsContent">
-                        <!-- Tab 1: Fee Structure -->
-                        <div class="tab-pane fade show active" id="fee-content" role="tabpanel">
-                            <p><strong>Eligibility</strong></p>
-                            <p style="font-size: 0.9rem; line-height: 1.5;">The students who have passed 10+2 or had given senior secondary examination with Maths/Biology/Agriculture from any recognized board.<br>
-                            Minimum percentage required is 45% for GEN/OBC and 40% for SC / ST .</p>
-                            <h5>All India Quota (Amount of fee details in INR)</h5>
+                    <div class="tab-content pt-4">
+                        <div class="tab-pane fade show active" id="mb-fee-pane" role="tabpanel">
+                            <div class="mb-4">
+                                <p><strong>Eligibility</strong></p>
+                                <p style="font-size: 0.9rem; line-height: 1.5;">The students who have passed 10+2 or had given senior secondary examination with Maths/Biology/Agriculture from any recognized board.<br>
+                                Minimum percentage required is 45% for GEN/OBC and 40% for SC / ST.</p>
+                            </div>
+
+                            <h5 class="text-primary fw-bold mb-3 border-bottom pb-2">All India Quota (Amount of fee details in INR)</h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table">
                                     <thead>
                                         <tr>
                                             <th>Year</th>
@@ -716,7 +767,7 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td rowspan="4" style="vertical-align: middle;">1st Year</td>
+                                            <td rowspan="4" class="align-middle">1st Year</td>
                                             <td>Fee</td>
                                             <td>50,000 /- (Included Power Degree Fee)</td>
                                         </tr>
@@ -736,14 +787,13 @@
                                             <td colspan="2">Total Fee year wise inclusive of other charges</td>
                                             <td>-</td>
                                         </tr>
-
                                     </tbody>
                                 </table>
                             </div>
 
-                            <h5>Merit-Based Scholarships Based on 12th-grade marks applicable first year only</h5>
+                            <h5 class="text-primary fw-bold mt-4 mb-3 border-bottom pb-2">Merit-Based Scholarships Based on 12th-grade marks applicable first year only</h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table">
                                     <thead>
                                         <tr>
                                             <th>Uttarakhand Domicile</th>
@@ -768,11 +818,10 @@
                             </div>
                         </div>
 
-                        <!-- Tab 2: Other Fees -->
-                        <div class="tab-pane fade" id="other-content" role="tabpanel">
-                            <h5>One Time Payable Charges in 1st Year (INR)</h5>
+                        <div class="tab-pane fade" id="mb-other-pane" role="tabpanel">
+                            <h5 class="text-primary fw-bold mb-3 border-bottom pb-2">One Time Payable Charges in 1st Year (INR)</h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table text-center">
                                     <thead>
                                         <tr>
                                             <th>Admission Fee</th>
@@ -790,20 +839,19 @@
                                 </table>
                             </div>
 
-                            <h5>Other Charges Per Year (INR)</h5>
+                            <h5 class="text-primary fw-bold mt-4 mb-3 border-bottom pb-2">Other Charges Per Year (INR)</h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table">
                                     <thead>
                                         <tr>
                                             <th>Examination Fee</th>
-                                            <th>Lab, Library, Medical Consultation & Ambulance Service</th>
+                                            <th>Lab, Library, Medical Consultation &amp; Ambulance Service</th>
                                             <th>ERP Membership</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>(Theory Internal / External, Practical Internal / External) As per the
-                                                University/Board/College Norms Payable</td>
+                                            <td>(Theory Internal / External, Practical Internal / External) As per the University/Board/College Norms Payable</td>
                                             <td>4,800</td>
                                             <td>1,500</td>
                                         </tr>
@@ -811,9 +859,9 @@
                                 </table>
                             </div>
 
-                            <h5>Optional Fee Par Year (INR)</h5>
+                            <h5 class="text-primary fw-bold mt-4 mb-3 border-bottom pb-2">Optional Fee Per Year (INR)</h5>
                             <div class="table-responsive">
-                                <table>
+                                <table class="gnc-mb-fee-table">
                                     <thead>
                                         <tr>
                                             <th>Categories</th>
@@ -843,8 +891,7 @@
                                             <td>1,10,000</td>
                                         </tr>
                                         <tr>
-                                            <td colspan="2">Hostel Enrollment & Furnishing Fee: Rs.5,000/- (To be paid
-                                                once)</td>
+                                            <td colspan="2">Hostel Enrollment &amp; Furnishing Fee: Rs.5,000/- (To be paid once)</td>
                                             <td>Laundry Charges: Rs.4800/- Per Year</td>
                                         </tr>
                                     </tbody>
@@ -852,37 +899,59 @@
                             </div>
                         </div>
                     </div>
-
-
                 </div>
 
-                <!-- Right Video Column -->
-                <!-- <div class="col-video">
-                    <div class="video-wrapper">
-                        <iframe src="https://www.youtube.com/embed/GYfTrZM7YrA?autoplay=1&mute=1&playlist=GYfTrZM7YrA&loop=1" title="BSC CBZ Program Video" allowfullscreen></iframe>
-                    </div> -->
+                <!-- Right Sidebar -->
+                <aside class="gnc-mb-video-sidebar">
+                    <div class="video-promo-card">
+                        <a href="javascript:void(0)" onclick="openVideoPopup('Bqyd4n_xGmY')" class="video-btn-play">
+                            <div class="video-play-icon">
+                                <i class="fas fa-play text-white"></i>
+                            </div>
+                            Watch Video
+                        </a>
+                        <a href="javascript:void(0)" onclick="openVideoPopup('Bqyd4n_xGmY')" class="video-thumb-link">
+                            <img src="https://img.youtube.com/vi/Bqyd4n_xGmY/maxresdefault.jpg" alt="Video Thumbnail">
+                        </a>
+                    </div>
+                    <div class="video-promo-content" data-aos="fade-left" data-aos-duration="500">
+                        <h2 class="fw-bold mb-4" style="font-size: 2.2rem; line-height: 1.1;">
+                            Education That <span class="text-danger">Ignites</span>, <br>
+                            Futures That <span class="text-danger">Evolve</span>
+                        </h2>
+                        <a href="https://application.gnc.edu.in/" target="_blank" class="btn btn-primary"
+                            data-aos="fade-left" data-aos-duration="600" style="padding: 12px 30px; font-weight: 700;">
+                            Apply Today <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
 
-                <div class="note-box">
-                    <h4 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 15px; color: var(--text-dark);">Note:
-                    </h4>
-                    <ul style="padding-left: 20px; font-size: 1rem; color: var(--text-gray);">
-                        <li style="margin-bottom: 10px;">These scholarships are available in addition to merit-based
-                            scholarships:
-                            <ol style="margin-top: 8px;">
-                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in
-                                    1st year).</li>
-                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st
-                                    year).</li>
-                                <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak
-                                    College (only in 1st year).</li>
-                            </ol>
-                        </li>
-                        <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand
-                            Domicile, Girl Child, etc.) upon approval.</li>
-                    </ul>
-                </div>
-              </div>
+                    <div class="gnc-mb-note-card">
+                        <h4 class="fw-bold fs-5 mb-3">Note:</h4>
+                        <ul class="ps-3 text-secondary" style="font-size: 1rem;">
+                            <li class="mb-2">These scholarships are available in addition to merit-based scholarships:
+                                <ol class="mt-2">
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Girl Candidate (only in 1st year).</li>
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Orphan (only in 1st year).</li>
+                                    <li>10% scholarship on Tuition Fee (after merit scholarship) to Sibling of Guru Nanak College (only in 1st year).</li>
+                                </ol>
+                            </li>
+                            <li>Merit-based scholarships can be combined with other scholarships (e.g., Uttarakhand Domicile, Girl Child, etc.) upon approval.</li>
+                        </ul>
+                    </div>
+                </aside>
+            </div>
         </div>
+    </section>
+
+    <!-- Video Popup Modal (Matching B.Pharm) -->
+    <div id="videoPopup" class="video-popup-overlay" style="display:none;">
+        <div class="video-popup-content">
+            <span class="close-video-popup" onclick="closeVideoPopup()">&times;</span>
+            <div class="video-wrapper">
+                <iframe id="youtubePlayer" width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
 
    <section class="gnc-mb-advantage" style="background-image:url(upload/infra/life-allied.webp);">
         <div class="gnc-mb-overlap">
@@ -963,12 +1032,6 @@
         </div>
     </section>
 
-    
-
-
-        
-    
-
     <section id="gnc-forestry-why">
     <div class="gnc-forestry-why-container">
         <div class="gnc-forestry-top-content">
@@ -993,7 +1056,7 @@
 
             <div class="gnc-forestry-mosaic-col">
                 <div class="mosaic-tall">
-                    <img src="images/microbiology-1.png" alt="Microbiology Research">
+                    <img src="images/microbio-11.webp" alt="Microbiology Research">
                     <div class="mosaic-overlay"></div>
                 </div>
                 <div class="mosaic-stacked">
@@ -1010,7 +1073,7 @@
     </div>
 </section>
 
-    <section class="gnc-mb-content-sec pb-115">
+    <section class="gnc-mb-content-sec">
         <div class="container">
             <div class="responsive-container">
                 <div class="gnc-mb-heading mb-40x text-center text-lg-start" data-aos="fade-left" data-aos-duration="500">
@@ -1059,13 +1122,248 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="gnc-mb-exchange-img position-relative h-100">
-                            <img src="upload/hero/sls-4.webp" alt="Semester Exchange" class="w-100 h-100 object-fit-cover">
+                            <img src="upload/hero/sls-41.webp" alt="Semester Exchange" class="w-100 h-100 object-fit-cover">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <!-- GNC FAQ & ASSISTANCE SECTION START -->
+    <section id="gnc-faq-wrapper">
+        <style>
+            #gnc-faq-wrapper {
+                width: 100%;
+                max-width: 1200px;
+                margin: 60px auto;
+                padding: 20px;
+                display: flex;
+                gap: 50px;
+                font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                background-color: #fff;
+                box-sizing: border-box;
+            }
+
+            /* --- LEFT SIDEBAR: NEED ASSISTANCE --- */
+            .gnc-faq-sidebar {
+                width: 30%;
+                background-color: #f6f6f6;
+                padding: 40px 30px;
+                border-radius: 8px;
+                height: fit-content;
+            }
+
+            .gnc-faq-sidebar h3 {
+                font-size: 18px;
+                color: #666;
+                margin-bottom: 10px;
+                font-weight: 500;
+            }
+
+            .gnc-faq-sidebar .gnc-orange-line {
+                width: 100%;
+                height: 1px;
+                background-color: #ff5722;
+                margin-bottom: 25px;
+            }
+
+            .gnc-sidebar-text {
+                font-size: 14px;
+                color: #444;
+                line-height: 1.6;
+                margin-bottom: 25px;
+            }
+
+            .gnc-contact-item {
+                display: flex;
+                align-items: flex-start;
+                margin-bottom: 20px;
+                gap: 15px;
+            }
+
+            .gnc-contact-icon {
+                width: 24px;
+                height: 24px;
+                fill: #999;
+                flex-shrink: 0;
+            }
+
+            .gnc-contact-info label {
+                display: block;
+                font-size: 12px;
+                color: #888;
+                margin-bottom: 2px;
+            }
+
+            .gnc-contact-info span {
+                display: block;
+                font-size: 15px;
+                font-weight: 700;
+                color: #000;
+            }
+
+            /* --- RIGHT CONTENT: FAQ LIST --- */
+            .gnc-faq-main {
+                width: 70%;
+            }
+
+            .gnc-faq-header {
+                margin-bottom: 40px;
+            }
+
+            .gnc-faq-header span {
+                color: #ff5722;
+                font-size: 24px;
+                font-weight: 500;
+            }
+
+            .gnc-faq-header h2 {
+                font-size: 24px;
+                color: #333;
+                display: inline;
+                font-weight: 400;
+            }
+
+            .gnc-faq-list {
+                list-style: none;
+                padding: 0;
+            }
+
+            /* Accordion Style using <details> */
+            .gnc-faq-item {
+                border-bottom: 1px solid #ddd;
+                padding: 20px 0;
+            }
+
+            .gnc-faq-item summary {
+                list-style: none;
+                display: flex;
+                align-items: center;
+                cursor: pointer;
+                font-size: 16px;
+                font-weight: 600;
+                color: #333;
+                outline: none;
+            }
+
+            /* Orange Plus Icon */
+            .gnc-faq-item summary::before {
+                content: '+';
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                width: 22px;
+                height: 22px;
+                background-color: #ff5722;
+                color: #fff;
+                border-radius: 50%;
+                margin-right: 15px;
+                font-size: 16px;
+                flex-shrink: 0;
+                transition: transform 0.3s ease;
+            }
+
+            .gnc-faq-item[open] summary::before {
+                content: '-';
+                background-color: #333;
+            }
+
+            .gnc-faq-answer {
+                padding: 15px 0 0 37px;
+                font-size: 14.5px;
+                color: #666;
+                line-height: 1.6;
+            }
+
+            /* Hide default arrow in Firefox */
+            .gnc-faq-item summary::-webkit-details-marker {
+                display: none;
+            }
+
+            /* Responsive Logic */
+            @media (max-width: 900px) {
+                #gnc-faq-wrapper { flex-direction: column; }
+                .gnc-faq-sidebar, .gnc-faq-main { width: 100%; }
+            }
+        </style>
+
+        <!-- LEFT SIDEBAR: NEED ASSISTANCE -->
+        <aside class="gnc-faq-sidebar">
+            <h3>Need Assistance?</h3>
+            <div class="gnc-orange-line"></div>
+            
+            <p class="gnc-sidebar-text">
+                Secure your seat for B.Sc. Microbiology Admission 2026 at Guru Nanak College, Dehradun. Apply now or book a campus visit to begin your journey in microbiological sciences.
+            </p>
+
+            <div class="gnc-contact-item">
+                <svg class="gnc-contact-icon" viewBox="0 0 24 24"><path d="M6.62,10.79C8.06,13.62 10.38,15.94 13.21,17.38L15.41,15.18C15.69,14.9 16.08,14.82 16.43,14.93C17.55,15.3 18.75,15.5 20,15.5A1,1 0 0,1 21,16.5V20A1,1 0 0,1 20,21A17,17 0 0,1 3,4A1,1 0 0,1 4,3H7.5A1,1 0 0,1 8.5,4C8.5,5.25 8.7,6.45 9.07,7.57C9.18,7.92 9.1,8.31 8.82,8.59L6.62,10.79Z"/></svg>
+                <div class="gnc-contact-info">
+                    <label>Admission Helpline</label>
+                    <span>7300900900</span>
+                </div>
+            </div>
+
+            <div class="gnc-contact-item">
+                <svg class="gnc-contact-icon" viewBox="0 0 24 24"><path d="M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.11,4 20,4M20,18H4V8L12,13L20,8V18M12,11L4,6H20L12,11Z"/></svg>
+                <div class="gnc-contact-info">
+                    <label>Email Support</label>
+                    <span>info@gnc.edu.in</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- RIGHT CONTENT: FAQs -->
+        <main class="gnc-faq-main">
+            <div class="gnc-faq-header">
+                <span>Need Help?</span> <h2>Frequently Asked Questions</h2>
+            </div>
+
+            <div class="gnc-faq-list">
+                <!-- Q1 -->
+                <details class="gnc-faq-item">
+                    <summary>What is a Microbiology course?</summary>
+                    <div class="gnc-faq-answer">
+                        It is a program that explores microorganisms and their impact on humans, animals, plants, and the environment, covering immunology, virology, bacteriology, and molecular biology.
+                    </div>
+                </details>
+
+                <!-- Q2 -->
+                <details class="gnc-faq-item">
+                    <summary>Who is eligible for this course?</summary>
+                    <div class="gnc-faq-answer">
+                        Students who have passed 10+2 with Maths/Biology/Agriculture from any recognized board. Minimum percentage required is 45% for GEN/OBC and 40% for SC / ST.
+                    </div>
+                </details>
+
+                <!-- Q3 -->
+                <details class="gnc-faq-item">
+                    <summary>What career options are available after completion?</summary>
+                    <div class="gnc-faq-answer">
+                        Graduates can work in pharmaceuticals, clinical research, food & beverage industries, public health sectors, and diagnostic laboratories.
+                    </div>
+                </details>
+
+                <!-- Q4 -->
+                <details class="gnc-faq-item">
+                    <summary>Is microbiology a good career option?</summary>
+                    <div class="gnc-faq-answer">
+                        Yes, it offers immense opportunities in vaccine development, genetic engineering, environmental remediation, and industrial research.
+                    </div>
+                </details>
+
+                <!-- Q5 -->
+                <details class="gnc-faq-item">
+                    <summary>What is the average salary after this course?</summary>
+                    <div class="gnc-faq-answer">
+                        Entry-level salaries typically start around ₹3–6 LPA and increase with experience and specialization.
+                    </div>
+                </details>
+            </div>
+        </main>
+    </section>
+    <!-- GNC FAQ & ASSISTANCE SECTION END -->
 
     <!-- Scripts -->
     <script src="new-assets/js/jquery-3.7.1.min.js"></script>
@@ -1132,6 +1430,46 @@
 
         // AOS Initialization
         AOS.init();
+
+        // Video Popup Functions (Matching B.Pharm)
+        function openVideoPopup(videoId) {
+            const popup = document.getElementById('videoPopup');
+            const player = document.getElementById('youtubePlayer');
+            player.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+            popup.style.display = 'flex';
+            document.body.style.overflow = 'hidden'; // Prevent scrolling
+        }
+
+        function closeVideoPopup() {
+            const popup = document.getElementById('videoPopup');
+            const player = document.getElementById('youtubePlayer');
+            player.src = '';
+            popup.style.display = 'none';
+            document.body.style.overflow = 'auto'; // Re-enable scrolling
+        }
+
+        // Close on escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeVideoPopup();
+        });
+
+        // Close on click outside
+        document.getElementById('videoPopup').addEventListener('click', (e) => {
+            if (e.target.id === 'videoPopup') closeVideoPopup();
+        });
+
+        // FAQ Accordion Toggle Logic
+        var faqItems = document.querySelectorAll('.gnc-faq-item');
+        faqItems.forEach(function(item) {
+            item.addEventListener('toggle', function() {
+                if (!this.open) return;
+                faqItems.forEach(function(otherItem) {
+                    if (otherItem !== item && otherItem.open) {
+                        otherItem.open = false;
+                    }
+                });
+            });
+        });
     </script>
     <?php require "application-process.php"; ?>
     <?php require("common/footer.php"); ?>

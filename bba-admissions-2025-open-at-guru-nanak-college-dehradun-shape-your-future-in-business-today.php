@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>BBA Admissions 2025 Open at Guru Nanak College, Dehradun – Shape Your Future in Business Today</title>
-  <meta name="description" content="BBA Admissions 2025 at Guru Nanak College Dehradun — program highlights, benefits, admission process and campus life." />
+  <meta name="description" content="BBA Admissions 2025 at Guru Nanak College Dehradun — program highlights, benefits, admission process and campus life."/>
   <link rel="icon" href="images/logog.webp">
 
   <!-- JSON-LD -->
@@ -16,8 +16,8 @@
     "description":"BBA Admissions 2025 at Guru Nanak College Dehradun — program highlights, benefits, admission process and campus life.",
     "author":{"@type":"Organization","name":"GNC Dehradun"},
     "datePublished":"2025-05-02",
-    "image":"/upload/blog/10.webp",
-    "mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/bba-admissions-2025-gnc/"}
+    "image":"https://gnc.edu.in/upload/blog/10.webp",
+    "mainEntityOfPage":{"@type":"WebPage","@id":"https://gnc.edu.in/bba-admissions-2025-open-at-guru-nanak-college-dehradun-shape-your-future-in-business-today"}
   }
   </script>
 
