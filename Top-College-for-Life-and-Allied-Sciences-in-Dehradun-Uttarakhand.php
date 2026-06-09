@@ -14,7 +14,7 @@
     <meta property="og:url" content="https://gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />

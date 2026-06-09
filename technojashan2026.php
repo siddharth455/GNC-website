@@ -12,6 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/techno-loader.css">
     <link rel="stylesheet" href="css/techno-style.css">
+  <link rel="canonical" href="https://www.gnc.edu.in/technojashan2026">
 </head>
 
 <body class="big-image">

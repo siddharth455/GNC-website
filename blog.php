@@ -250,9 +250,19 @@ programs for aspiring business leaders.',
     'author' => ['name' => 'GNC Dehradun Academic Team'],
     'tags' => ['BTech', 'CSE'],
     'image' => 'upload/blog/btech-cse.webp',
+    'featured' => false
+  ],
+[
+    'id' => 24,
+    'title' => 'Top 5 BBA Colleges in Dehradun 2026: Fees, Placements, Eligibility & Admission Guide',
+    'url' => 'top-5-bba-colleges-in-dehradun-2026',
+    'date' => '2026-05-08',
+    'excerpt' => 'The top BBA colleges in Dehradun in 2026 include Guru Nanak College, Doon University, Graphic Era University, DIT University, and UPES Dehradun.',
+    'author' => ['name' => 'GNC Dehradun Academic Team'],
+    'tags' => ['BBA'],
+    'image' => 'upload/blog/top-bba.png',
     'featured' => true
   ],
-
 ];
 
 // Sort posts by date (newest first)
@@ -276,6 +286,7 @@ if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Blogs & Activities</title>
   <meta name="description" content="A static blog index built with HTML, CSS, PHP and vanilla JS.">
+  <link rel="canonical" href="https://www.gnc.edu.in/blog">
 </head>
 
 <body>

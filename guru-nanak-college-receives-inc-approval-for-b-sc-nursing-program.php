@@ -308,6 +308,7 @@
       }
     }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/guru-nanak-college-receives-inc-approval-for-b-sc-nursing-program">
 </head>
 
 <body>

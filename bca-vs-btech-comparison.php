@@ -359,6 +359,7 @@
       padding-top: 20px;
     }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/bca-vs-btech-comparison">
 </head>
 
 <body>

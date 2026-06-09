@@ -380,6 +380,7 @@ content="BBA vs BCom, BBA course after 12th, BCom course details, BBA vs BCom co
   }
   </style>
 
+  <link rel="canonical" href="https://www.gnc.edu.in/bba-vs-bcom-after-12">
 </head>
 
 <body>

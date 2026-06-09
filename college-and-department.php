@@ -14,7 +14,7 @@
     <meta property="og:url" content="https://gnc.edu.in/college-and-department" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
+    <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
@@ -197,7 +197,7 @@
                     <div class="card h-100 text-center">
                         <div class="card-body p-0">
                             <div class="college-logo p-0">
-                                <img src="upload/hero/fa-2.webp" alt="" class="w-100">
+                                <img src="upload/hero/fa-2.webp" alt="Fa 2" class="w-100">
                                 <h5 class="mt-3">School of Arts</h5>
                                 <p style="color: black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                             </div>
@@ -214,31 +214,31 @@
         <div class="slick-list draggable">
             <div class="slick-track" style="opacity: 1; width: 3600px; transform: translate3d(-1600px, 0px, 0px);">
                 <div class="aboutImage-slider__item slick-slide slick-cloned" tabindex="-1" style="width: 400px;" data-slick-index="-1" id="" aria-hidden="true">
-                    <img src="images/about-image-2.webp" alt="" class="w-100">
+                    <img src="images/about-image-2.webp" alt="About image 2" class="w-100">
                 </div>
                 <div class="aboutImage-slider__item slick-slide" tabindex="-1" style="width: 400px;" data-slick-index="0" aria-hidden="true">
-                    <img src="images/about-image-1.webp" alt="" class="w-100">
+                    <img src="images/about-image-1.webp" alt="About image 1" class="w-100">
                 </div>
                 <div class="aboutImage-slider__item slick-slide" tabindex="-1" style="width: 400px;" data-slick-index="1" aria-hidden="true">
-                    <img src="images/about-image-2.webp" alt="" class="w-100">
+                    <img src="images/about-image-2.webp" alt="About image 2" class="w-100">
                 </div>
                 <div class="aboutImage-slider__item slick-slide" tabindex="-1" style="width: 400px;" data-slick-index="2" aria-hidden="true">
-                    <img src="images/about-image-1.webp" alt="" class="w-100">
+                    <img src="images/about-image-1.webp" alt="About image 1" class="w-100">
                 </div>
                 <div class="aboutImage-slider__item slick-slide slick-current slick-active" tabindex="0" style="width: 400px;" data-slick-index="3" aria-hidden="false">
-                    <img src="images/about-image-2.webp" alt="" class="w-100">
+                    <img src="images/about-image-2.webp" alt="About image 2" class="w-100">
                 </div>
                 <div class="aboutImage-slider__item slick-slide slick-cloned" tabindex="-1" style="width: 400px;" data-slick-index="4" id="" aria-hidden="true">
-                    <img src="images/about-image-1.webp" alt="" class="w-100">
+                    <img src="images/about-image-1.webp" alt="About image 1" class="w-100">
                 </div>
                 <div class="aboutImage-slider__item slick-slide slick-cloned" tabindex="-1" style="width: 400px;" data-slick-index="5" id="" aria-hidden="true">
-                    <img src="images/about-image-2.webp" alt="" class="w-100">
+                    <img src="images/about-image-2.webp" alt="About image 2" class="w-100">
                 </div>
                 <div class="aboutImage-slider__item slick-slide slick-cloned" tabindex="-1" style="width: 400px;" data-slick-index="6" id="" aria-hidden="true">
-                    <img src="images/about-image-1.webp" alt="" class="w-100">
+                    <img src="images/about-image-1.webp" alt="About image 1" class="w-100">
                 </div>
                 <div class="aboutImage-slider__item slick-slide slick-cloned" tabindex="-1" style="width: 400px;" data-slick-index="7" id="" aria-hidden="true">
-                    <img src="images/about-image-2.webp" alt="" class="w-100">
+                    <img src="images/about-image-2.webp" alt="About image 2" class="w-100">
                 </div>
             </div>
         </div>

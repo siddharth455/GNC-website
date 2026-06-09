@@ -302,6 +302,7 @@
       }
     }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/top-5-bba-colleges-in-dehradun-2025-gnc-guide">
 </head>
 
 <body>

@@ -45,11 +45,6 @@
    <link href="new-assets/css/all-styles.css" rel="stylesheet">
     <script src="new-assets/js/all-scripts.js"></script>
 <style>
-        
-        *, *::before, *::after {
-            box-sizing: border-box;
-        }
-
         /* --- Root Variables & Design Tokens --- */
         :root {
             --ink: #00192d;
@@ -156,19 +151,13 @@
 
         /* --- About Section --- */
         .about-section {
-             padding: 120px 5%;
+            padding: 120px 5%;
             background: linear-gradient(rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.92)), url('images/stude-4.jpeg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
             position: relative;
             overflow: hidden;
-        }
-
-        .about-section-inner {
-            max-width: 1280px;
-            margin: 0 auto;
-            width: 100%;
         }
 
         .about-noise {
@@ -182,33 +171,30 @@
         .about-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 50px;
-            align-items: start;
-            width: 100%;
-            box-sizing: border-box;
+            gap: 60px;
+            align-items: stretch;
         }
 
         .about-left {
             position: relative;
             display: flex;
             flex-direction: column;
-            min-width: 0;
+            height: 100%;
         }
 
         .about-image-wrap {
             position: relative;
-            aspect-ratio: 4 / 3;
+            aspect-ratio: 1 / 1.05;
             overflow: hidden;
             background: var(--ink);
-            width: 100%;
-            height: auto;
+            height: 100%;
         }
 
         .about-right {
             display: flex;
             flex-direction: column;
             justify-content: center;
-            min-width: 0;
+            height: 100%;
         }
 
         .about-image-wrap img {
@@ -278,10 +264,10 @@
         @media (max-width: 900px) {
             .about-grid {
                 grid-template-columns: 1fr;
-                gap: 30px;
+                gap: 40px;
             }
             .about-image-wrap {
-                aspect-ratio: 16 / 9;
+                aspect-ratio: 16 / 9; /* More standard wide aspect ratio for mobile */
                 height: auto;
             }
         }
@@ -768,12 +754,6 @@
         }
 
         /* --- Pharmacy Career Opportunities Section --- */
-        .pharmacy-section-outer {
-            width: 100%;
-            overflow-x: hidden;
-            box-sizing: border-box;
-        }
-
         .pharmacy-container {
             max-width: 1250px;
             margin: 0 auto;
@@ -782,6 +762,7 @@
             gap: 45px;
             align-items: stretch;
             box-sizing: border-box;
+            overflow: hidden;
         }
 
         .grid-left {
@@ -1018,23 +999,23 @@
 
         .why-choose-us-images {
             position: relative;
-            height: 420px;
+            height: 500px;
             display: flex;
-            align-items: flex-start;
+            align-items: center;
             justify-content: center;
         }
 
         .image-stack {
             position: relative;
             width: 100%;
-            max-width: 420px;
-            height: 420px;
+            max-width: 450px;
+            height: 100%;
         }
 
         .stack-img {
             position: absolute;
-            width: 260px;
-            height: 260px;
+            width: 320px;
+            height: 320px;
             object-fit: cover;
             border-radius: 15px;
             border: 5px solid rgba(255, 255, 255, 0.2);
@@ -1049,8 +1030,8 @@
         }
 
         .stack-img.img-2 {
-            top: 155px;
-            left: 130px;
+            top: 260px;
+            left: 155px;
             z-index: 2;
         }
 
@@ -1131,25 +1112,24 @@
                 text-align: left;
             }
             .why-choose-us-images {
-                height: 340px;
-                margin-bottom: 20px;
+                height: 400px;
+                margin-bottom: 40px;
                 justify-content: flex-start;
             }
             .image-stack {
                 margin: 0;
-                height: 340px;
             }
             .stack-img {
-                width: 200px;
-                height: 200px;
+                width: 240px;
+                height: 240px;
             }
             .stack-img.img-1 {
                 top: 0;
                 left: 0;
             }
             .stack-img.img-2 {
-                top: 130px;
-                left: 120px;
+                top: 150px;
+                left: 150px;
             }
             .why-choose-us-content {
                 padding-left: 0;
@@ -1172,19 +1152,18 @@
             }
             .image-stack {
                 margin: 0;
-                height: 280px;
             }
             .stack-img {
-                width: 160px;
-                height: 160px;
+                width: 230px;
+                height: 230px;
             }
             .stack-img.img-1 {
                 top: 0;
                 left: 0;
             }
             .stack-img.img-2 {
-                top: 110px;
-                left: 100px;
+                top: 150px;
+                left: 150px;
             }
             .why-choose-us-title {
                 font-size: 2rem;
@@ -1263,7 +1242,6 @@
 
     <section class="about-section" id="about">
         <div class="about-noise"></div>
-        <div class="about-section-inner">
         <div class="about-grid">
             <div class="about-left reveal-left">
                 <div class="about-image-wrap">
@@ -1288,7 +1266,6 @@
                     <div class="about-tag">Career Ready</div>
                 </div>
             </div>
-        </div>
         </div>
     </section>
 
@@ -1680,8 +1657,7 @@
 
 
  <!-- Career Opportunities Section -->
-    <section class="pharmacy-section-outer">
-    <div class="pharmacy-container" data-aos="fade-up">
+    <section class="pharmacy-container" data-aos="fade-up">
         <div class="content-right">
             <h3 class="" style="color: var(--gnc-blue);">Career Opportunities in <br>Pharmacy (B.Pharm)</h3>
 
@@ -1736,7 +1712,6 @@
             <div class="img-box"><img src="upload/programs/b-pharma-4.webp" alt="Research"></div>
             <div class="img-box"><img src="images/bp-4.jpg" alt="Pharmacy Lab"></div>
         </div>
-    </div>
     </section>
 
 
@@ -2197,12 +2172,13 @@
         }
 
         .hta-sec {
-            padding: 40px 20px;
+            padding: 10px 20px;
             font-family: 'Poppins', sans-serif;
             background-color: #ffffff;
             overflow: hidden;
+            padding-left: 107.5px;
+            padding-right: 107.5px;
             margin-bottom: 20px;
-            box-sizing: border-box;
         }
 
         .container-apply {

@@ -171,6 +171,7 @@
             .standout-title { font-size: 28px; }
         }
     </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/after-graduation">
 </head>
 
 <body>

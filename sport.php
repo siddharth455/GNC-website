@@ -6,17 +6,17 @@
     <title>Guru Nanak College Dehradun, Uttarakhand | Sports & Adventure</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College in Dehradun offers a vibrant sports and adventure program designed to promote physical fitness, teamwork, and leadership among students. The college believes in the holistic development of its students, emphasizing the importance of physical fitness and teamwork alongside academic excellence.">
-    <link rel="canonical" href="https://gnc.edu.in/sport">
-    <meta property="og:locale" content="en_US"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Guru Nanak College Dehradun, Uttarakhand | Sports & Adventure"/>
+    <link rel="canonical" href="https://www.gnc.edu.in/sport">
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
     <meta property="og:description" content="Guru Nanak College in Dehradun offers a vibrant sports and adventure program designed to promote physical fitness, teamwork, and leadership among students. The college believes in the holistic development of its students, emphasizing the importance of physical fitness and teamwork alongside academic excellence." />
-    <meta property="og:url" content="https://gnc.edu.in/sport"/>
-    <meta property="og:site_name" content="GNC Dehradun"/>
+    <meta property="og:url" content="https://www.gnc.edu.in/sport" />
+    <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
+    <meta property="og:image:width" content="383" />
+    <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
 </head>
 

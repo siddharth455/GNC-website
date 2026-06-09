@@ -67,6 +67,7 @@
   /* sticky sidebar on desktop */
   @media (min-width:992px){ aside .suggested { position:sticky; top:110px; } }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/top-5-nursing-colleges-in-dehradun">
 </head>
 <body>
 <?php

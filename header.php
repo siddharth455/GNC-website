@@ -1,0 +1,1869 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="robots" content="INDEX, FOLLOW">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- ✅ Preload critical CSS -->
+  <link rel="preload" as="style" href="assets/css/bootstrap.min.css">
+  <link rel="preload" as="style" href="assets/css/slick.css">
+  <link rel="preload" as="style" href="assets/css/style.css">
+  <!-- ✅ Preload hero image (LCP) -->
+  <link rel="preload" as="image" href="upload/infra/accredition-banner.webp" fetchpriority="high">
+  <link href="./css/main-purged-2024.css" rel="stylesheet">
+  <link rel="stylesheet" href="./css/header.css">
+  <link rel="stylesheet" href="./css/addtohomescreen.css">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/animate.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://getbootstrap.com/docs/5.3/assets/css/docs.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <!-- SWIPER JS (place before your init, near end of body) -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+  <link rel="preload" as="image"
+    href="upload/infra/accredition-banner.webp"
+    fetchpriority="high">
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollegeOrUniversity",
+      "name": "Guru Nanak College",
+      "alternateName": "GNC Dehradun, Guru Nanak College of Pharmaceutical & Paramedical Sciences",
+      "url": "https://gnc.edu.in",
+      "logo": "https://gnc.edu.in/images/logo.webp",
+      "sameAs": [
+        "https://www.facebook.com/gncmh",
+        "https://www.instagram.com/gncdehradun",
+        "https://www.linkedin.com/company/gncdehradun/",
+        "https://www.youtube.com/@gncdehradun"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jhajhra, Chakrata Rd",
+        "addressLocality": "Dehradun",
+        "addressRegion": "Uttarakhand",
+        "postalCode": "248007",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-7300900900",
+        "contactType": "Admissions"
+      }
+    }
+  </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGJTL3SJ');</script>
+<!-- End Google Tag Manager -->
+  <style>
+    /* base resets */
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    body,
+    ul {
+      margin: 0;
+      padding: 0;
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      color: #222;
+    }
+
+    .gnc-header {
+      color: white;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 9999;
+    }
+
+    /* Top Bar */
+    .top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 5px 20px;
+      color: white;
+      transition: background-color 0.4s ease, color 0.4s ease;
+      z-index: 999;
+    }
+
+    /* When scrolled */
+    .top-bar.scrolled {
+      background-color: rgba(0, 0, 0, 0.6);
+      transition: background-color 0.4s ease, color 0.4s ease;
+      backdrop-filter: blur(8px);
+    }
+
+    .top-bar.scrolled a,
+    .top-bar.scrolled i {
+      color: #fff !important;
+    }
+
+    .marquee-container {
+      flex: 0 0 60%;
+      box-shadow: 1px 0 0 0 rgba(255, 255, 255, 0.12);
+    }
+
+    .marquee-container marquee {
+      color: white;
+      font-size: 14px;
+      font-weight: 500;
+      transition: color 0.4s ease;
+    }
+
+    /* When the top bar is scrolled */
+    .top-bar.scrolled .marquee-container marquee {
+      color: #fff !important;
+    }
+
+    .social-icons {
+      flex: 0 0 40%;
+      text-align: right;
+    }
+
+    .social-icons a {
+      color: white;
+      margin-left: 15px;
+      font-size: 16px;
+      transition: color 0.3s;
+    }
+
+    .social-icons a:hover {
+      color: #ff3b3b;
+    }
+
+    /* Middle Bar */
+    .middle-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 10px 40px;
+      position: relative;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.12);
+      transition: background-color 0.4s ease, color 0.4s ease;
+    }
+
+    /* When scrolled */
+    .middle-bar.scrolled {
+      background-color: rgba(0, 0, 0, 0.6);
+      transition: background-color 0.4s ease, color 0.4s ease;
+      backdrop-filter: blur(8px);
+    }
+
+    .middle-bar.scrolled a,
+    .middle-bar.scrolled i,
+    .middle-bar.scrolled span {
+      color: #fff !important;
+    }
+
+    .navbar-brand img {
+      display: block;
+      max-width: 180px;
+      height: auto;
+    }
+
+    /* center area holds top-links; we keep layout same as your code */
+    .middle-right {
+      display: flex;
+      align-items: center;
+      gap: 40px;
+      flex: 1;
+      justify-content: center;
+    }
+
+    .top-links {
+      display: flex;
+      gap: 25px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .top-links li {
+      list-style: none;
+    }
+
+    .top-links a {
+      color: white;
+      text-decoration: none;
+      font-size: 14px;
+      position: relative;
+      padding-bottom: 6px;
+    }
+
+    /* underline on hover */
+    .top-links a::after {
+      content: "";
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: #ff3b3b;
+      transition: width 0.25s ease;
+    }
+
+    .top-links a:hover::after {
+      width: 100%;
+    }
+
+    /* Admission Helpline Button (kept larger) */
+    .admission-btn {
+      background-color: #0f9af1;
+      color: white;
+      border: none;
+      padding: 10px 22px;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: background 0.3s;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+.admission-apply-btn {
+      background-color: #0f9af1;
+      color: white;
+      border: none;
+      margin: 5px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: background 0.3s;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .admission-apply-btn:hover {
+      background: #e52d2d;
+    }
+    .admission-btn:hover {
+      background: #e52d2d;
+    }
+
+    /* Full-page Admission Overlay (slide-down) */
+    .admission-overlay {
+      position: fixed;
+      top: -100%;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.65);
+      backdrop-filter: blur(6px);
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      /* align to top when slide down */
+      opacity: 0;
+      pointer-events: none;
+      transition: all 0.55s ease;
+      z-index: 9999;
+      overflow: auto;
+      padding: 40px 20px;
+    }
+
+    .admission-overlay.show {
+      top: 0;
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .admission-content {
+      background: #fff;
+      color: #000;
+      border-radius: 10px;
+      display: flex;
+      width: 90%;
+      max-width: 1100px;
+      overflow: hidden;
+      box-shadow: 0 6px 30px rgba(0, 0, 0, 0.3);
+      transform: translateY(-40px);
+      transition: transform 0.45s ease;
+      margin-top: 30px;
+    }
+
+    .admission-overlay.show .admission-content {
+      transform: translateY(0);
+    }
+
+    .admission-images {
+      flex: 1;
+      min-width: 300px;
+      background: #f4f4f4;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .admission-images img {
+      width: 100%;
+      max-width: 420px;
+      border-radius: 8px;
+      display: none;
+      object-fit: cover;
+    }
+
+    .admission-images img.active {
+      display: block;
+    }
+
+    .admission-list {
+      flex: 1;
+      min-width: 300px;
+      padding: 28px 34px;
+      display: flex;
+      align-items: center;
+    }
+
+    .admission-list ul {
+      width: 100%;
+      padding: 0;
+      margin: 0;
+    }
+
+    .admission-list ul li {
+      padding: 12px 0;
+      border-bottom: 1px solid #e6e6e6;
+      cursor: pointer;
+      font-weight: 600;
+      transition: color 0.25s;
+      position: relative;
+    }
+
+    .admission-list ul li:hover {
+      color: #ff3b3b;
+    }
+
+    .admission-list ul li:last-child {
+      border-bottom: 0;
+    }
+
+    .close-overlay {
+      position: absolute;
+      top: 18px;
+      right: 28px;
+      font-size: 28px;
+      color: #fff;
+      cursor: pointer;
+      z-index: 1001;
+    }
+
+    /* Bottom menu: full-width bar with partitions and gaps */
+    .bottom-menu {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 0;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.12);
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+/* When scrolled */
+.bottom-menu.scrolled {
+  background-color: rgba(0, 0, 0, 0.6);
+      transition: background-color 0.4s ease, color 0.4s ease;
+      backdrop-filter: blur(8px);
+}
+.bottom-menu.scrolled a {
+  color: #fff !important;
+}
+/* Make only top-level nav items (not dropdowns) black on scroll */
+
+/* ✅ Keep dropdown menu styles unaffected */
+.bottom-menu .dropdown,
+.bottom-menu .dropdown a,
+.bottom-menu .dropdown i {
+  color: white !important;
+}
+
+    .bottom-menu .menu-inner {
+      max-width: 1400px;
+      /* control central width to match header */
+      margin: 0 auto;
+      /* center inner content */
+      padding: 0 20px;
+      /* small side padding */
+      display: flex;
+      align-items: center;
+      width: 100%;
+    }
+
+    .bottom-menu ul {
+      display: flex;
+      justify-content: space-between;
+      /* distribute items evenly within inner */
+      gap: 0;
+      flex-wrap: nowrap;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+    }
+
+    .bottom-menu ul li {
+      list-style: none;
+      padding: 10px 30px;
+      /* horizontal gap for each item */
+      position: relative;
+      display: flex;
+      align-items: center;
+      height: 100%;
+    }
+
+    /* vertical partition line between menu items (except last) */
+    .bottom-menu ul li:not(:last-child)::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 22%;
+      width: 1px;
+      height: 56%;
+      background-color: rgba(255, 255, 255, 0.12);
+    }
+
+    .bottom-menu a {
+      color: white;
+      text-decoration: none;
+      font-weight: 500;
+      letter-spacing: 0.6px;
+      position: relative;
+      font-size: 16px;
+      padding-bottom: 6px;
+    }
+
+    .bottom-menu a::after {
+      content: "";
+      position: absolute;
+      bottom: -6px;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: #ff3b3b;
+      transition: width 0.25s;
+    }
+
+    .bottom-menu a:hover::after {
+      width: 100%;
+    }
+
+    .bottom-menu a:hover {
+      color: #ff3b3b;
+    }
+
+    /* responsive */
+    @media (max-width: 1000px) {
+      .admission-content {
+        flex-direction: column;
+        width: 94%;
+      }
+
+      .admission-images,
+      .admission-list {
+        min-width: 100%;
+      }
+
+      .middle-bar {
+        padding: 12px 20px;
+      }
+
+      .bottom-menu .menu-inner {
+        padding: 0 12px;
+        max-width: 100%;
+      }
+
+      .bottom-menu ul {
+        gap: 4px;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .bottom-menu ul li {
+        padding: 10px 20px;
+        white-space: nowrap;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .top-links {
+        gap: 12px;
+        font-size: 13px;
+      }
+
+      .admission-btn {
+        padding: 8px 12px;
+        font-size: 14px;
+      }
+
+      .navbar-brand img {
+        width: 140px;
+      }
+    }
+
+    .bottom-menu ul li {
+      position: relative;
+    }
+
+    .dropdown {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 1000px;
+      background: #0d0d0d;
+      color: #fff;
+      display: none;
+      padding: 30px 40px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+      border-radius: 0 0 8px 8px;
+      z-index: 200;
+    }
+
+    .bottom-menu ul li:hover .dropdown {
+      display: flex;
+      align-items: flex-start;
+      gap: 25px;
+      /* tighter space between columns */
+      justify-content: flex-start;
+    }
+
+
+    /* Dropdown container */
+    .bottom-menu ul li .dropdown {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: auto;
+      background-color: #000;
+      color: #fff;
+      padding: 20px 10px;
+      display: flex;
+      align-items: stretch;
+      /* ✅ ensures equal height columns */
+      justify-content: flex-start;
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(15px);
+      transition: all 0.35s ease;
+      border-radius: 0 0 10px 10px;
+      z-index: 1000;
+      gap: 50px;
+      box-sizing: border-box;
+    }
+
+    /* Smooth dropdown reveal */
+    .bottom-menu ul li:hover .dropdown {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+
+    /* Each column */
+    .dropdown-column {
+      flex: 0 0 220px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      gap: 6px;
+      padding: 10px 0;
+      box-sizing: border-box;
+    }
+
+    /* Headings */
+    .dropdown-column h4 {
+      color: #0f9af1;
+      font-size: 17px;
+      margin: 0 0 12px 0;
+      height: 30px;
+      text-transform: uppercase;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+
+    /* UL - vertical links */
+    .dropdown-column ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .dropdown-column ul li {
+      display: block;
+      padding: 0px;
+    }
+/* Ensure dropdown never goes off-screen to the right */
+.bottom-menu ul li .dropdown {
+  left: 0;
+  right: auto;
+  transform-origin: top left; /* smooth animation from left side */
+}
+
+/* For right-side items like 'Placements', open from the left edge instead */
+.bottom-menu ul li.dropdown-align-left .dropdown {
+  left: auto;
+  right: 0;
+  transform-origin: top right;
+}
+
+    .dropdown-column ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 15px;
+      transition: all 0.25s ease;
+      display: inline-block;
+      line-height: 1.6;
+    }
+
+    .dropdown-column ul li a:hover {
+      color: #00bcd4;
+      padding-left: 4px;
+    }
+
+    /* Right side box with icons */
+    .dropdown-image {
+      flex: 0 0 300px;
+      background: linear-gradient(135deg, #005f99, #0099cc);
+      padding: 25px;
+      border-radius: 10px;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 25px;
+      align-items: center;
+      justify-items: center;
+      transition: all 0.3s ease;
+      box-sizing: border-box;
+    }
+
+    /* ✅ Match height of dropdown columns */
+    .dropdown-column,
+    .dropdown-image {
+      height: 100%;
+      /* makes all columns equal height */
+    }
+
+    /* Icon section styling */
+    .dropdown-image div {
+      text-align: center;
+      color: #fff;
+    }
+
+    .dropdown-image i {
+      font-size: 28px;
+      margin-bottom: 8px;
+      transition: transform 0.3s ease;
+    }
+
+    .dropdown-image div:hover i {
+      transform: scale(1.2);
+    }
+
+    .dropdown-image p {
+      font-size: 14px;
+      margin: 0;
+      font-weight: 500;
+    }
+
+    /* Tagline below icons */
+    .dropdown-tagline {
+      grid-column: 1 / -1;
+      /* span full width of the grid */
+      text-align: center;
+      margin-top: 15px;
+      border-top: 1px solid rgba(255, 255, 255, 0.3);
+      padding-top: 12px;
+    }
+
+    .dropdown-tagline h3 {
+      font-size: 18px;
+      color: #fff;
+      margin: 0;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+    .dropdown-tagline p {
+      font-size: 14px;
+      color: #e0f7fa;
+      margin: 4px 0 0;
+      font-style: italic;
+    }
+
+    /* Apply this ONLY to the Programs menu */
+    li:has(> a[href="#"]:contains("Programs")) .dropdown {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      transform: none;
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+      align-items: flex-start;
+      width: 100vw;
+      background: #000;
+      /* keep consistent */
+      padding: 25px 40px;
+      box-sizing: border-box;
+    }
+
+    /* Properly align all columns horizontally */
+    li:has(> a[href="#"]:contains("Programs")) .dropdown-column {
+      flex: 1 1 20%;
+      min-width: 220px;
+      max-width: 280px;
+    }
+
+    /* Compact spacing & readable style */
+    li:has(> a[href="#"]:contains("Programs")) .dropdown-column h4 {
+      margin-bottom: 6px;
+      font-size: 15px;
+      text-transform: uppercase;
+    }
+
+    li:has(> a[href="#"]:contains("Programs")) .dropdown-column ul {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 12px 0;
+    }
+
+    li:has(> a[href="#"]:contains("Programs")) .dropdown-column ul li a {
+      display: block;
+      padding: 3px 0;
+      font-size: 14px;
+    }
+
+    /* Align right-side visual box properly */
+    li:has(> a[href="#"]:contains("Programs")) .dropdown-image {
+      flex: 1 1 250px;
+      max-width: 280px;
+      background: linear-gradient(135deg, #0078d7, #00aaff);
+      padding: 20px;
+      border-radius: 12px;
+      color: #fff;
+      text-align: center;
+      align-self: stretch;
+    }
+
+    /* Make headings clickable but keep color same */
+    .dropdown-column h4 a {
+      color: inherit;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    /* Adjust dropdown position logic */
+    .programs-menu .dropdown {
+      left: auto;
+      right: 0;
+      transform-origin: top right;
+      min-width: max-content;
+      max-width: 95vw;
+      overflow-x: auto;
+    }
+/* ===== Hide Desktop Header/Menu on Mobile ===== */
+@media (max-width: 991px) {
+  .gnc-header,
+  .navbar,
+  .main-menu,
+  header .lower-header,
+  .header-menu,
+  .step-first-menu {
+    display: none !important;
+  }
+}
+/* === Header Shrink Effect on Scroll (Desktop Only) === */
+@media (min-width: 992px) {
+  .middle-bar,
+  .top-bar,
+  .bottom-menu {
+    transition: all 0.4s ease;
+  }
+
+  /* When scrolled */
+  .middle-bar.scrolled {
+    padding: 6px 40px !important;
+  }
+
+  .top-bar.scrolled {
+    padding: 2px 20px !important;
+  }
+
+  .bottom-menu.scrolled {
+    padding: 6px 0 !important;
+  }
+
+  /* Shrink the logo */
+  .middle-bar.scrolled .navbar-brand img {
+    max-width: 140px !important;
+    transition: all 0.4s ease;
+  }
+
+  /* Optionally shrink menu text a little */
+  .bottom-menu.scrolled a {
+    font-size: 15px !important;
+  }
+}
+
+</style>
+<script>
+window.addEventListener("scroll", function () {
+  const scrollY = window.scrollY;
+  const topBar = document.querySelector(".top-bar");
+  const middleBar = document.querySelector(".middle-bar");
+  const bottomMenu = document.querySelector(".bottom-menu");
+
+  if (scrollY > 50) {
+    topBar?.classList.add("scrolled");
+    middleBar?.classList.add("scrolled");
+    bottomMenu?.classList.add("scrolled");
+  } else {
+    topBar?.classList.remove("scrolled");
+    middleBar?.classList.remove("scrolled");
+    bottomMenu?.classList.remove("scrolled");
+  }
+});
+</script>
+
+
+</head>
+<body>
+     <header class="gnc-header">
+          <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGJTL3SJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <!-- Top Marquee Bar -->
+    <div class="top-bar">
+      <div class="marquee-container">
+        <marquee behavior="scroll" direction="left">
+          <i class="fa-solid fa-circle-arrow-right"></i>
+          Disclaimer: This is our official website. There is no other website for any admission to Guru Nanak College, Jhajra, Dehradun. Please do not send any amount to any account other than the official one.
+          <a href="bank-details.php" class="btn btn-danger btn-sm ms-2" style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE for account details</a> 
+        </marquee>
+      </div>
+      
+      <div class="social-icons">
+        <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
+        <a href="tel:+917300900900" aria-label="Give a miss call"><i class="fa fa-phone" aria-hidden="true"></i></a>
+        <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank"><i class="fa fa-location-arrow" aria-hidden="true"></i></a>
+        <a href="https://www.facebook.com/gncmh"><i class="fa-brands fa-facebook-f"></i></a>
+        <a href="https://www.instagram.com/gncdehradun/"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/company/gncdehradun/"><i class="fa-brands fa-linkedin-in"></i></a>
+        <a href="https://www.youtube.com/@gncdehradun"><i class="fa-brands fa-youtube"></i></a>
+      </div>
+       
+    </div>
+
+    <!-- Middle Logo + Links -->
+    <div class="middle-bar">
+      <a class="navbar-brand" href="index.php">
+        <img src="images/logo.webp" alt="Guru Nanak College logo" width="180">
+      </a>
+      <div class="middle-right">
+        <ul class="top-links">
+          <li><a href="https://student.gncdehradun.com/" target="_blank">Student ERP Login</a></li>
+          <li><a href="https://staff.gncdehradun.com/" target="_blank">Staff ERP Login</a></li>
+          <li><a href="library.php">Library</a></li>
+          <li><a href="careers.php">Careers</a></li>
+          <li><a href="alumni.php">Alumni</a></li>
+          <li><a href="contact.php"> Contact Us</a></li>
+          <li><a href="blog.php"> Blog</a></li>
+          
+        </ul>
+      </div>
+  <a href="https://application.gnc.edu.in/"><div class="admission-apply-btn" id="openOverlay-2">Apply Now</div></a>
+      <button class="admission-btn" id="openOverlay">
+        Admission Helpline<br><span style="font-weight:700;font-size:14px;"> 7300900900</span><i class="fa-solid fa-bars"></i>
+      </button>
+     
+    </div>
+    </div>
+     
+
+    <!-- Bottom Menu (full width, with inner centered container) -->
+     
+    <nav class="bottom-menu" aria-label="Main menu">
+      <div class="menu-inner">
+        <ul>
+          <li>
+            <a href="#">About</a>
+            <!-- Dropdown starts here -->
+            <div class="dropdown">
+              <div class="dropdown-column">
+                <h4>About Guru Nanak College</h4>
+                <ul>
+                  <li><a href="about-us.php">The Guru Nanak College</a></li>
+                  <li><a href="leadership.php">Leadership</a></li>
+                  <li>
+                    <a href="vision-mission.php">Vision &amp; Mission</a>
+                  </li>
+                  <li>
+                    <a href="iai.php">Industry-Academia Interface</a>
+                  </li>
+                  <li>
+                    <a href="approvals-accreditation-memberships.php">Approvals,
+                      Accreditation &amp; Memberships</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="dropdown-column">
+                <h4>Related Links</h4>
+                <ul>
+                  <li>
+                    <a href="admissions.php">Admissions</a>
+                  </li>
+                  <li>
+                    <a href="scholarships.php">Scholarships</a>
+                  </li>
+                  <li>
+                    <a href="campus-life.php">Campus Life</a>
+                  </li>
+                  <li><a href="contact.php">How to Reach Us?</a></li>
+                </ul>
+              </div>
+              <div class="dropdown-image">
+                <div>
+                  <i class="fa-solid fa-handshake"></i>
+                  <p>Human Dignity</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-heart"></i>
+                  <p>Empathy</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-user"></i>
+                  <p>Humility</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-hand-holding-heart"></i>
+                  <p>Giving</p>
+                </div>
+                <!-- ✅ Added tagline -->
+                <div class="dropdown-tagline">
+                  <h3>GNC College</h3>
+                  <p>Best Educational Institution</p>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="programs-menu">
+            <a href="#">Programs</a>
+            <div class="dropdown">
+              <!-- Column 1 -->
+              <div class="dropdown-column">
+                <h4><a href="Paramedical-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Paramedical Programs</a></h4>
+                <ul>
+                  <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
+                  <li><a href="Best-bmlt-college-in-dehradun.php">Bachelor of Medical Laboratory Technology</a></li>
+                  <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand.php">Bachelor of Physiotherapy</a></li>
+                  <li><a href="Best-bsc-optometry-College-in-dehradun.php">Bachelor of Optometry</a></li>
+                  <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor of Operation Theatre Technology</a></li>
+                  <li><a href="masters-in-lab-technician.php">Master of Medical Laboratory Technology</a></li>
+                  <li><a href="Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
+                  <!-- <li><a href="Best-Diploma-in-Dialysis-Technology.php">Diploma in Dialysis Technology</a></li> -->
+                </ul>
+              </div>
+              <!-- Column 2 -->
+              <div class="dropdown-column">
+                <h4><a href="Pharmacy-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Pharmacy Programs</a></h4>
+                <ul>
+                  <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php">Bachelor of Pharmacy</a></li>
+                  <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php">Lateral Entry in B. Pharma</a></li>
+                  <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php">Diploma in Pharmacy</a></li>
+                </ul>
+                <h4><a href="Top-Health-Science-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Health Science</a></h4>
+                <ul>
+                  <li><a href="master-of-public-health.php">Master of Public Health</a></li>
+                  <li><a href="master-of-hospital-administration.php">Master of Hospital Administration</a></li>
+                </ul>
+                <h4><a href="Nursing-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Nursing Program</a></h4>
+                <ul>
+                  <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun.php">B.Sc. Nursing</a></li>
+                  <li><a href="best-gnm-college-in-dehradun.php">General Nursing and Midwifery</a></li>
+                  <li><a href="post-basic-nursing.php">Post Basic B.Sc. Nursing</a></li>
+                </ul>
+              </div>
+              <!-- Column 3 -->
+              <div class="dropdown-column">
+                <h4><a href="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Life & Allied Science</a></h4>
+                <ul>
+                  <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. Microbiology</a></li>
+                  <li><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></li>
+                  <li><a href="bsc-food-technology.php">B.Sc. Food Technology</a></li>
+                  <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. PCM</a></li>
+                  <li><a href="bsc-cbz.php">B.Sc. CBZ</a></li>
+                  <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand.php">B.Sc. Geology</a></li>
+                  <li><a href="msc-microbiology-Colleges-in-Dehradun.php">M.Sc. Microbiology</a></li>
+                  <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Food Technology</a></li>
+                  <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Chemistry</a></li>
+                  <li><a href="msc-physics-College-in-Dehradun-Uttarakhand.php">M.Sc. Physics</a></li>
+                  <li><a href="msc-botany-Colleges-in-Uttarakhand.php">M.Sc. Botany</a></li>
+                  <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Zoology</a></li>
+                </ul>
+              </div>
+              <!-- Column 4 -->
+              <div class="dropdown-column">
+                <h4><a href="Best-College-For-Computer-Science-in-Dehradun.php" style="color: #0f9af1 !important;">Computer Sciences</a></h4>
+                <ul>
+                  <li><a href="Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li>
+                  <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
+                  
+                </ul>
+                <h4><a href="Best-Management-College-in-Dehradun.php" style="color: #0f9af1 !important;">Business School</a></h4>
+                <ul>
+                  <li><a href="best-bba-college-in-dehradun.php">Bachelor of Business Administration</a></li>
+                </ul>
+                <h4><a href="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Agriculture Science</a></h4>
+                <ul>
+                  <li><a href="agriculture-science.php">B.Sc. Agriculture</a></li>
+                  <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun.php">B.Sc. Forestry</a></li>
+                  <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun.php">M.Sc. Agronomy</a></li>
+                  <li><a href="msc-horticulture.php">M.Sc. Horticulture</a></li>
+                </ul>
+              </div>
+              <div class="dropdown-column">
+                <h4><a href="Best-Hotel-Management-College-in-Dehradun.php" style="color: #0f9af1 !important;">Hotel Management</a></h4>
+                <ul>
+                  <li><a href="Best-DHM-Colleges-in-Dehradun.php">Diploma in Hotel Management</a></li>
+                </ul>
+               
+                <!-- Right Section -->
+                <div class="dropdown-image">
+                  <div><i class="fa-solid fa-stethoscope"></i></div>
+                  <div><i class="fa-solid fa-pills"></i></div>
+                  <div><i class="fa-solid fa-dna"></i></div>
+                  <div><i class="fa-solid fa-computer"></i></div>
+                  <div class="dropdown-tagline">
+                    <h3>Explore GNC Programs</h3>
+                    <p>Choose Your Path to Excellence</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li>
+            <a href="#">Academics</a>
+            <!-- Dropdown starts here -->
+            <div class="dropdown">
+              <div class="dropdown-column">
+                <h4>Academics</h4>
+                <ul>
+                  <li><a href="academic-overview.php">Academics Overview</a></li>
+                  <li><a href="college-and-department.php">Colleges & Departments</a></li>
+                  <li><a href="library.php">Libraries</a></li>
+                  <li><a href="lab.php">Lab Infrastructure</a></li>
+                  <li><a href="sport.php">Sports & Adventure</a></li>
+                  <li><a href="calendar.php">Academic Calendar</a></li>
+                </ul>
+              </div>
+              <div class="dropdown-image">
+                <div>
+                  <i class="fa-solid fa-graduation-cap"></i>
+                  <p>Excellence</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-book-open"></i>
+                  <p>Knowledge</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-chalkboard-teacher"></i>
+                  <p>Guidance</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-lightbulb"></i>
+                  <p>Innovation</p>
+                </div>
+
+                <div class="dropdown-tagline">
+                  <h3>Academic Brilliance</h3>
+                  <p>Building Bright Futures with Quality Education</p>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li>
+            <a href="#">Admissions</a>
+            <!-- Dropdown starts here -->
+            <div class="dropdown">
+              <div class="dropdown-column">
+                <h4>Job Oriented Programs</h4>
+                <ul>
+                  <li><a href="after-12.php">After 12th</a></li>
+                  <li><a href="after-graduation.php">After Graduation</a></li>
+                  <li><a href="admissions.php">Admission Overview</a></li>
+                </ul>
+              </div>
+              <div class="dropdown-column">
+                <h4>Admission</h4>
+                <ul>
+                  <li><a href="iai.php">Industry-Academia Interface</a></li>
+                  <li><a href="https://application.gnc.edu.in/">How to Apply</a></li>
+                  <li><a href="scholarships.php">Scholarships</a></li>
+                </ul>
+              </div>
+              <div class="dropdown-image">
+                <div>
+                  <i class="fa-solid fa-file-signature"></i>
+                  <p>Apply Now</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-user-check"></i>
+                  <p>Eligibility</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-calendar-check"></i>
+                  <p>Important Dates</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-envelope-open-text"></i>
+                  <p>Admission Helpdesk</p>
+                </div>
+                <div class="dropdown-tagline">
+                  <h3>Join GNC Today</h3>
+                  <p>Start Your Journey Toward Excellence</p>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li><a href="unfold-cbc.php">Unfold CBC</a></li>
+          <li>
+            <a href="#">Campus Life</a>
+            <!-- Dropdown starts here -->
+            <div class="dropdown">
+              <div class="dropdown-column">
+                <h4>A Home away from Home</h4>
+                <ul>
+                  <li><a href="campus-life.php">Campus Life Overview</a></li>
+                  <li><a href="cultural.php">Cultural Activities</a></li>
+                  <li><a href="nss.php">NSS</a></li>
+                  <li><a href="events.php">Events</a></li>
+                </ul>
+              </div>
+              <div class="dropdown-image">
+                <div>
+                  <i class="fa-solid fa-people-group"></i>
+                  <p>Community</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-music"></i>
+                  <p>Events</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-dumbbell"></i>
+                  <p>Sports</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-tree"></i>
+                  <p>Environment</p>
+                </div>
+
+                <div class="dropdown-tagline">
+                  <h3>Vibrant Campus Life</h3>
+                  <p>Experience, Explore & Grow Beyond Classrooms</p>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="dropdown-align-left">
+            <a href="#">Placements</a>
+            <!-- Dropdown starts here -->
+            <div class="dropdown">
+              <div class="dropdown-column">
+                <h4>Placements</h4>
+                <ul>
+                  <li><a href="placement-overview.php">Placement Overview</a></li>
+                  <li><a href="corporate-partners.php">Corporate Partners</a></li>
+                  <li><a href="industrial-visit.php">Industrial Visit</a></li>
+                </ul>
+              </div>
+              <div class="dropdown-image">
+                <div>
+                  <i class="fa-solid fa-briefcase"></i>
+                  <p>Career</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-handshake"></i>
+                  <p>Opportunities</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-chart-line"></i>
+                  <p>Growth</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-user-tie"></i>
+                  <p>Success</p>
+                </div>
+
+                <div class="dropdown-tagline">
+                  <h3>Empowering Careers</h3>
+                  <p>Bridging Talent with Global Opportunities</p>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="dropdown-align-left">
+            <a href="#">Research & Innovations</a>
+            <!-- Dropdown starts here -->
+            <div class="dropdown">
+              <div class="dropdown-column">
+                <h4>Research Intensive College</h4>
+                <ul>
+                  <li><a href="research.php">Research Papers</a></li>
+                  <li><a href="research-committee.php">R & D Cell And Code of Ethics</a></li>
+                </ul>
+              </div>
+              <div class="dropdown-image">
+                <div>
+                  <i class="fa-solid fa-flask"></i>
+                  <p>Innovation</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-microscope"></i>
+                  <p>Discovery</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-brain"></i>
+                  <p>Creativity</p>
+                </div>
+                <div>
+                  <i class="fa-solid fa-lightbulb"></i>
+                  <p>Ideas</p>
+                </div>
+                <div class="dropdown-tagline">
+                  <h3>Research & Innovation</h3>
+                  <p>Advancing Knowledge Through Discovery & Creativity</p>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Full Page Admission Overlay -->
+  <div class="admission-overlay" id="admissionOverlay" aria-hidden="true">
+    <span class="close-overlay" id="closeOverlay" title="Close overlay"><i class="fa-solid fa-xmark"></i></span>
+    <div class="admission-content" role="dialog" aria-modal="true" aria-label="Admission Helpline">
+      <div class="admission-images">
+        <img src="upload/Bachelor of Optometry.webp" class="active" alt="Paramedical">
+        <img src="upload/Bachelor of Pharmacy.webp" alt="Pharmacy">
+        <img src="upload/Bachelor of Science in Nursing.webp" alt="Nursing">
+        <img src="upload/health-science-head.webp" alt="Health Science">
+        <img src="upload/infra/life-allied.webp" alt="Life & Allied Sciences">
+        <img src="upload/infra/agri-image.webp" alt="Agriculture Science">
+        <img src="upload/infra/bca.webp" alt="Computer Science">
+        <img src="upload/hero/mange-1.webp" alt="Business School">
+        <img src="upload/Diploma in Hotel Management.webp" alt="Hotel Management">
+      </div>
+      <div class="admission-list">
+        <ul>
+          <li data-index="0"><a href ="Paramedical-College-in-Dehradun-Uttarakhand.php">Paramedical Programs</a></li>
+          <li data-index="1"><a href ="Pharmacy-College-in-Dehradun-Uttarakhand.php">Pharmacy Programs</a></li>
+          <li data-index="2"><a href ="Nursing-College-in-Dehradun-Uttarakhand.php">Nursing Programs</a></li>
+          <li data-index="3"><a href ="Top-Health-Science-College-in-Dehradun-Uttarakhand.php">Health Science</a></li>
+          <li data-index="4"><a href ="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php">Life & Allied Sciences Programs</a></li>
+          <li data-index="5"><a href ="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php">Agriculture Science Programs</a></li>
+          <li data-index="6"><a href ="Best-College-For-Computer-Science-in-Dehradun.php">Computer Science Programs</a></li>
+          <li data-index="7"><a href ="Best-Management-College-in-Dehradun.php">Business School Programs</a></li>
+          <li data-index="8"><a href ="Best-Hotel-Management-College-in-Dehradun.php">Hotel Management</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+<!-- Bell -->
+<!--<div id="admission-bell" class="admission-bell" aria-label="Notifications">-->
+<!--  <i class="fa-solid fa-bell"></i>-->
+<!--</div>-->
+
+<!-- Popup -->
+<!--<a href="https://application.gnc.edu.in/"-->
+<!--   id="admission-popup"-->
+<!--   class="admission-popup"-->
+<!--   aria-label="Admissions Open 2026">-->
+
+<!--  <div class="popup-content">-->
+<!--    <strong>Admissions Open 2026</strong>-->
+<!--    <p>Click to Apply Now</p>-->
+<!--  </div>-->
+
+<!--  <button class="popup-close" aria-label="Close notification">✕</button>-->
+<!--</a>-->
+
+<style>
+ .admission-bell {
+  position: fixed;
+  right: 20px;
+  bottom: 65px;
+  width: 56px;
+  height: 56px;
+  background: #0f9af1;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10000;
+  box-shadow: 0 8px 20px rgba(0,0,0,.25);
+}
+
+/* Popup */
+.admission-popup {
+  position: fixed;
+  right: 20px;
+  bottom: 122px;
+  width: 260px;
+  background: #fff;
+  color: #000;
+  padding: 14px 16px;
+  border-radius: 14px;
+  display: none; /* IMPORTANT */
+  text-decoration: none;
+  z-index: 10000;
+  box-shadow: 0 10px 25px rgba(0,0,0,.25);
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.popup-content p {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: #555;
+}
+
+.popup-close {
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .admission-popup {
+    right: 12px;
+    left: 12px;
+    bottom:15px;
+    width: auto;
+  }
+  .admission-popup {
+  position: fixed;
+  left: 120px;
+  bottom: 120px;
+  width: 250px;
+}
+}
+
+  </style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const bell = document.getElementById("admission-bell");
+  const popup = document.getElementById("admission-popup");
+  const closeBtn = document.querySelector(".popup-close");
+
+  let popupVisible = false;
+
+  // On load: show popup unless user closed it
+  if (localStorage.getItem("admissionPopupClosed") !== "true") {
+    popup.style.display = "flex";
+    popupVisible = true;
+  }
+
+  // Bell toggle
+  bell.addEventListener("click", function () {
+    popupVisible = !popupVisible;
+    popup.style.display = popupVisible ? "flex" : "none";
+  });
+
+  // Close button
+  closeBtn.addEventListener("click", function (e) {
+    e.preventDefault();   // stop link
+    e.stopPropagation();  // stop bubbling
+    popup.style.display = "none";
+    popupVisible = false;
+    localStorage.setItem("admissionPopupClosed", "true");
+  });
+
+});
+</script>
+
+  <script>
+    // overlay logic (open, close, hover image swap, close on background click & ESC)
+    const openOverlay = document.getElementById('openOverlay');
+    const closeOverlay = document.getElementById('closeOverlay');
+    const overlay = document.getElementById('admissionOverlay');
+    const listItems = overlay.querySelectorAll('.admission-list ul li');
+    const images = overlay.querySelectorAll('.admission-images img');
+
+    function openAdmission() {
+      overlay.classList.add('show');
+      overlay.setAttribute('aria-hidden', 'false');
+      document.documentElement.style.overflow = 'hidden';
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeAdmission() {
+      overlay.classList.remove('show');
+      overlay.setAttribute('aria-hidden', 'true');
+      document.documentElement.style.overflow = '';
+      document.body.style.overflow = '';
+    }
+
+    openOverlay.addEventListener('click', openAdmission);
+    closeOverlay.addEventListener('click', closeAdmission);
+
+    // hover to change images
+    listItems.forEach((item, i) => {
+      item.addEventListener('mouseenter', () => {
+        images.forEach(img => img.classList.remove('active'));
+        if (images[i]) images[i].classList.add('active');
+      });
+      // support focus for keyboard users
+      item.addEventListener('focus', () => {
+        images.forEach(img => img.classList.remove('active'));
+        if (images[i]) images[i].classList.add('active');
+      });
+    });
+
+    // close when clicking overlay background (outside content)
+    overlay.addEventListener('click', function(e) {
+      const content = this.querySelector('.admission-content');
+      if (!content.contains(e.target)) {
+        closeAdmission();
+      }
+    });
+
+    // close on ESC
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeAdmission();
+    });
+  </script>
+  <!-- ================= MOBILE HEADER START ================= -->
+  <header class="mobile-header">
+  <!-- ================== TOP BAR ================== -->
+  <div class="top-bar">
+    <div class="marquee-container">
+      <marquee behavior="scroll" direction="left" scrollamount="5">
+        <i class="fa-solid fa-circle-arrow-right"></i>
+        Disclaimer: This is our official website. There is no other website for any admission to Guru Nanak College, Jhajra, Dehradun.
+        Please do not send any amount to any account other than the official one.
+        <a href="bank-details.php" class="btn btn-danger btn-sm ms-2"
+          style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE for account details</a>
+      </marquee>
+    </div>
+    <div class="social-icons">
+      <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank"><i class="fab fa-whatsapp"></i></a>
+      <a href="tel:+917300900900"><i class="fa fa-phone"></i></a>
+      <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank"><i class="fa fa-location-arrow"></i></a>
+      <a href="https://www.facebook.com/gncmh"><i class="fa-brands fa-facebook-f"></i></a>
+      <a href="https://www.instagram.com/gncdehradun/"><i class="fa-brands fa-instagram"></i></a>
+      <a href="https://www.linkedin.com/company/gncdehradun/"><i class="fa-brands fa-linkedin-in"></i></a>
+      <a href="https://www.youtube.com/@gncdehradun"><i class="fa-brands fa-youtube"></i></a>
+    </div>
+  </div>
+
+  <!-- ================== MOBILE HEADER BAR ================== -->
+  <div class="mobile-header-bar">
+    <!-- Logo -->
+    <a class="mobile-logo" href="index.php">
+      <img src="images/logo.webp" alt="Guru Nanak College logo" width="140">
+    </a>
+    <!-- Admission Helpline -->
+    <div class="mobile-helpline-wrapper">
+      <button class="mobile-admission-btn">
+        Admission Helpline<br>
+        <span style="font-weight:700;font-size:14px;">7300900900</span>
+      </button>
+    </div>
+    <!-- Hamburger -->
+    <button class="mobile-hamburger" id="mobileHamburger">
+      <i class="fa-solid fa-bars"></i>
+    </button>
+  </div>
+
+  <!-- ================== MOBILE MENU ================== -->
+  <nav class="mobile-menu" id="mobileMenu">
+    <ul>
+      <li>
+        <a href="#">About <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+        <ul class="mobile-dropdown">
+          <li><a href="about-us.php">The Guru Nanak College</a></li>
+          <li><a href="leadership.php">Leadership</a></li>
+          <li><a href="vision-mission.php">Vision & Mission</a></li>
+          <li><a href="iai.php">Industry-Academia Interface</a></li>
+          <li><a href="approvals-accreditation-memberships.php">Approvals & Memberships</a></li>
+          <li><a href="admissions.php">Admissions</a></li>
+          <li><a href="scholarships.php">Scholarships</a></li>
+          <li><a href="campus-life.php">Campus Life</a></li>
+          <li><a href="contact.php">How to Reach Us?</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="#">Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+        <ul class="mobile-dropdown">
+
+          <li>
+            <a href="Paramedical-College-in-Dehradun-Uttarakhand.php">Paramedical Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php">B.Sc. Medical Radio Diagnosis & Imaging Technology</a></li>
+              <li><a href="Best-bmlt-college-in-dehradun.php">B.Sc. Medical Laboratory Technology</a></li>
+              <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand.php">Bachelor of Physiotherapy</a></li>
+              <li><a href="Best-bsc-optometry-College-in-dehradun.php">Bachelor of Optometry</a></li>
+              <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor of Operation Theatre Technology</a></li>
+              <li><a href="masters-in-lab-technician.php">M.Sc. Medical Laboratory Technology</a></li>
+              <li><a href="Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
+              <!-- <li><a href="Best-Diploma-in-Dialysis-Technology.php">Diploma in Dialysis Technology</a></li> -->
+            </ul>
+          </li>
+
+          <li>
+            <a href="Pharmacy-College-in-Dehradun-Uttarakhand.php">Pharmacy Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php">Bachelor of Pharmacy</a></li>
+              <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php">Lateral Entry in B. Pharma</a></li>
+              <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php">Diploma in Pharmacy</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="Top-Health-Science-College-in-Dehradun-Uttarakhand.php">Health Science <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="master-of-public-health.php">Master of Public Health</a></li>
+              <li><a href="master-of-hospital-administration.php">Master of Hospital Administration</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="Nursing-College-in-Dehradun-Uttarakhand.php">Nursing Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun.php">B.Sc. Nursing</a></li>
+              <li><a href="best-gnm-college-in-dehradun.php">General Nursing & Midwifery</a></li>
+              <li><a href="post-basic-nursing.php">Post Basic B.Sc. Nursing</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php">Life & Allied Science <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. Microbiology</a></li>
+              <li><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></li>
+              <li><a href="bsc-food-technology.php">B.Sc. Food Technology</a></li>
+              <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. PCM</a></li>
+              <li><a href="bsc-cbz.php">B.Sc. CBZ</a></li>
+              <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand.php">B.Sc. Geology</a></li>
+              <li><a href="msc-microbiology-Colleges-in-Dehradun.php">M.Sc. Microbiology</a></li>
+              <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Food Technology</a></li>
+              <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Chemistry</a></li>
+              <li><a href="msc-physics-College-in-Dehradun-Uttarakhand.php">M.Sc. Physics</a></li>
+              <li><a href="msc-botany-Colleges-in-Uttarakhand.php">M.Sc. Botany</a></li>
+              <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Zoology</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="Best-College-For-Computer-Science-in-Dehradun.php">Computer Sciences <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li>
+              <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="Best-Management-College-in-Dehradun.php">Business School <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="best-bba-college-in-dehradun.php">Bachelor of Business Administration</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php">Agriculture Science<i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="agriculture-science.php">B.Sc. Agriculture</a></li>
+              <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun.php">B.Sc. Forestry</a></li>
+              <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun.php">M.Sc. Agronomy</a></li>
+              <li><a href="msc-horticulture.php">M.Sc. Horticulture</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="Best-Hotel-Management-College-in-Dehradun.php">Hotel Management<i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <ul class="mobile-sub-dropdown">
+              <li><a href="Best-DHM-Colleges-in-Dehradun.php">Diploma in Hotel Management</a></li>
+            </ul>
+          </li>
+
+        </ul>
+      </li>
+
+      <li>
+        <a href="#">Academics <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+        <ul class="mobile-dropdown">
+          <li><a href="academic-overview.php">Academic Overview</a></li>
+          <li><a href="college-and-department.php">Colleges & Departments</a></li>
+          <li><a href="library.php">Libraries</a></li>
+          <li><a href="lab.php">Lab Infrastructure</a></li>
+          <li><a href="sport.php">Sports & Adventure</a></li>
+          <li><a href="calendar.php">Academic Calendar</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="#">Admissions <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+        <ul class="mobile-dropdown">
+          <li><a href="after-12.php">After 12th</a></li>
+          <li><a href="after-graduation.php">After Graduation</a></li>
+          <li><a href="admissions.php">Admission Overview</a></li>
+          <li><a href="scholarships.php">Scholarships</a></li>
+          <li><a href="https://application.gnc.edu.in/">How to Apply</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="#">Campus Life <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+        <ul class="mobile-dropdown">
+          <li><a href="campus-life.php">Campus Life Overview</a></li>
+          <li><a href="cultural.php">Cultural Activities</a></li>
+          <li><a href="nss.php">NSS</a></li>
+          <li><a href="events.php">Events</a>li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="#">Placements <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+        <ul class="mobile-dropdown">
+          <li><a href="placement-overview.php">Placement Overview</a></li>
+          <li><a href="corporate-partners.php">Corporate Partners</a></li>
+          <li><a href="industrial-visit.php">Industrial Visit</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="#">Research & Innovations <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+        <ul class="mobile-dropdown">
+          <li><a href="research.php">Research Papers</a></li>
+          <li><a href="research-committee.php">R & D Cell & Code of Ethics</a></li>
+        </ul>
+      </li>
+
+      <li><a href="https://student.gncdehradun.com/AccSoft_GNC/" target="_blank">Student ERP Login</a></li>
+      <li><a href="https://staff.gncdehradun.com/AccSoft_GNC/Login.aspx" target="_blank">Staff ERP Login</a></li>
+      <li><a href="library.php">Library</a></li>
+      <li><a href="careers.php">Careers</a></li>
+      <li><a href="alumni.php">Alumni</a></li>
+      <li><a href="contact.php">Contact Us</a></li>
+      <li><a href="blog.php">Blog</a></li>
+    </ul>
+  </nav>
+</header>
+<style>
+.arrow-icon {
+  margin-left: 6px;
+  font-size: 12px;
+  transition: transform 0.3s ease;
+}
+
+li.active > a .arrow-icon {
+  transform: rotate(180deg);
+}
+
+.mobile-sub-dropdown {
+  display: none;
+  background: rgba(0,0,0,0.6);
+  padding-left: 25px;
+}
+.mobile-sub-dropdown a {
+  font-size: 13px;
+  padding: 8px 0;
+}
+.mobile-dropdown li.active > .mobile-sub-dropdown {
+  display: block;
+}
+
+.top-bar .marquee-container { flex: 1; }
+.top-bar .social-icons a {
+  color: white; margin-left: 10px; font-size: 15px; transition: color 0.3s;
+}
+.top-bar .social-icons a:hover { color: #00a1e9; }
+
+.mobile-header {
+  display: none;
+}
+
+@media (max-width: 991px) {
+  .mobile-header {
+    display: block;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    background: rgba(30,30,30,0.15);
+    backdrop-filter: blur(8px);
+    transition: background-color 0.4s ease;
+  }
+  .top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(30,30,30,0.15);
+    padding: 5px 20px;
+    color: white;
+    backdrop-filter: blur(8px);
+    transition: background-color 0.4s ease;
+    z-index: 999;
+  }
+  .top-bar.scrolled{
+    background-color: #ff9c5a !important;
+    backdrop-filter: none;
+  }
+  .mobile-header.scrolled {
+    background-color: #ff9c5a !important;
+    backdrop-filter: none;
+  }
+
+  .mobile-header-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+  }
+  .mobile-logo img { width: 120px; }
+  .mobile-hamburger {
+    background: none; border: none; color: #fff;
+    font-size: 26px; cursor: pointer;
+  }
+  .mobile-helpline-wrapper { text-align: center; }
+  .mobile-admission-btn {
+    background: #0f9af1;
+    color: #fff;
+    border: 1px solid rgba(255,255,255,0.7);
+    border-radius: 8px;
+    padding: 8px 15px;
+    font-size: 13px;
+    backdrop-filter: blur(6px);
+  }
+
+  .mobile-menu {
+    display: none;
+    background-color: rgba(0,0,0,0.9);
+    max-height: 85vh;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255,255,255,0.3) transparent;
+  }
+
+  .mobile-menu::-webkit-scrollbar {
+    width: 6px;
+  }
+  .mobile-menu::-webkit-scrollbar-thumb {
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 10px;
+  }
+
+  .mobile-menu.show {
+    display: block;
+    animation: slideDown 0.3s ease-in-out;
+  }
+
+  @keyframes slideDown {
+    from {opacity: 0; transform: translateY(-10px);}
+    to {opacity: 1; transform: translateY(0);}
+  }
+
+  .mobile-menu a {
+    color: #fff;
+    display: block;
+    padding: 12px 18px;
+    text-decoration: none;
+  }
+
+  .mobile-dropdown {
+    display: none;
+    background: rgba(0,0,0,0.6);
+  }
+  .mobile-menu li.active > .mobile-dropdown {
+    display: block;
+  }
+  .mobile-dropdown a {
+    padding: 10px 35px;
+    font-size: 14px;
+  }
+}
+</style>
+
+<!-- ================== SCRIPTS ================== -->
+<script>
+window.addEventListener("scroll", function() {
+  const header = document.querySelector(".mobile-header");
+  if (window.scrollY > 50) header.classList.add("scrolled");
+  else header.classList.remove("scrolled");
+});
+
+const mobileHamburger = document.getElementById('mobileHamburger');
+const mobileMenu = document.getElementById('mobileMenu');
+
+mobileHamburger.addEventListener('click', () => {
+  mobileMenu.classList.toggle('show');
+});
+
+// Handle dropdown & sub-dropdowns
+document.querySelectorAll('.mobile-menu li > a').forEach(link => {
+  link.addEventListener('click', e => {
+    const parent = e.target.closest('li');
+    const subMenu = parent.querySelector('.mobile-dropdown, .mobile-sub-dropdown');
+
+    if (subMenu) {
+      e.preventDefault();
+
+      // Check if already active
+      const isActive = parent.classList.contains('active');
+
+      // Close all other open menus at the same level
+      const siblings = parent.parentElement.querySelectorAll(':scope > li.active');
+      siblings.forEach(sib => {
+        if (sib !== parent) sib.classList.remove('active');
+      });
+
+      // Toggle the clicked one
+      parent.classList.toggle('active', !isActive);
+    }
+  });
+});
+</script>
+
+</body>
+</html>

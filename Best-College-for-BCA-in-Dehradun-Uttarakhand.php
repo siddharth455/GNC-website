@@ -1189,25 +1189,25 @@
             </div>
             <div class="collab-slider mt-5">
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (1).webp" alt="">
+                    <img src="upload/Corporate-Partners/cp (1).webp" alt="Cp (1)">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (2).webp" alt="">
+                    <img src="upload/Corporate-Partners/cp (2).webp" alt="Cp (2)">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (3).webp" alt="">
+                    <img src="upload/Corporate-Partners/cp (3).webp" alt="Cp (3)">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (4).webp" alt="">
+                    <img src="upload/Corporate-Partners/cp (4).webp" alt="Cp (4)">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (5).webp" alt="">
+                    <img src="upload/Corporate-Partners/cp (5).webp" alt="Cp (5)">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (6).webp" alt="">
+                    <img src="upload/Corporate-Partners/cp (6).webp" alt="Cp (6)">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (7).webp" alt="">
+                    <img src="upload/Corporate-Partners/cp (7).webp" alt="Cp (7)">
                 </div>
             </div>
             <div class="btnsGroup text-center" data-aos="fade-left" data-aos-duration="500">

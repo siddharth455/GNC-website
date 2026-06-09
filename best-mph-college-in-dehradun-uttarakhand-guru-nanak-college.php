@@ -67,6 +67,7 @@
   /* sticky sidebar on desktop */
   @media (min-width:992px){ aside .suggested { position:sticky; top:110px; } }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/best-mph-college-in-dehradun-uttarakhand-guru-nanak-college">
 </head>
 <body>
 <?php require "common/header.php"; ?>

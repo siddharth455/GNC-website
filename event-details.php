@@ -281,7 +281,8 @@ $extra_styles = '
     }
 </style>
 ';
-$header_html = str_replace('</head>', $extra_styles . '</head>', $header_html);
+$header_html = str_replace('  <link rel="canonical" href="https://www.gnc.edu.in/event-details">
+</head>', $extra_styles . '</head>', $header_html);
 
 echo $header_html;
 

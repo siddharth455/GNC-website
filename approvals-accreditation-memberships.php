@@ -175,6 +175,7 @@
             }
         }
     </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/approvals-accreditation-memberships">
 </head>
 
 <body>

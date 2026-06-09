@@ -45,6 +45,7 @@
             background-color: #003366;
         }
     </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/aicte-feedback-portal">
 </head>
 <body>
 <?php

@@ -7,6 +7,7 @@
     <link rel="stylesheet" type="text/css" href="css/csss.css/about.css">
     <link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.2/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.3/components/blogs/blog-3/assets/css/blog-3.css">
+  <link rel="canonical" href="https://www.gnc.edu.in/unfold-cbc">
 </head>
 
 <body>
@@ -264,7 +265,7 @@
                                         <h4>Partner with<br>100+ Schools <br> across India</h4>
                                     </div>
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-4.webp" alt="" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-4.webp" alt="Icon 4" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -274,7 +275,7 @@
                                         <h4>Partner with<br>50+ University</h4>
                                     </div>
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-2.webp" alt="" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-2.webp" alt="Icon 2" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -284,7 +285,7 @@
                                         <h4>Partner with<br>150+ Companies</h4>
                                     </div>
                                     <div class="card-footer border-0">
-                                        <img src="upload/icon-3.webp" alt="" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
+                                        <img src="upload/icon-3.webp" alt="Icon 3" loading="lazy" width="81" height="81" title="col-icon-1" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -300,7 +301,7 @@
             <div class="container pt-5 pb-5">
                 <dev class="row text-white ">
                     <div class="col-lg-6 col-md-6 col-sm-12 ">
-                        <img src="upload/Unlock-Your-Future.webp" alt="" loading="lazy" class="img-fluid">
+                        <img src="upload/Unlock-Your-Future.webp" alt="Unlock Your Future" loading="lazy" class="img-fluid">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <h3>Unlock Your Future with Career Buddy Club: 100% Job Placement Guaranteed Courses</h3>
@@ -323,7 +324,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 ">
-                    <img src="upload/Personalized-counseling.webp" alt="" loading="lazy" class="img-fluid">
+                    <img src="upload/Personalized-counseling.webp" alt="Personalized counseling" loading="lazy" class="img-fluid">
                 </div>
             </dev>
         </div>
@@ -331,7 +332,7 @@
             <div class="container pt-5 pb-5">
                 <dev class="row container text-white">
                     <div class="col-lg-6 col-md-6 col-sm-12 ">
-                        <img src="upload/Student-Exchange-Programme.webp" alt="" loading="lazy" class="img-fluid">
+                        <img src="upload/Student-Exchange-Programme.webp" alt="Student Exchange Programme" loading="lazy" class="img-fluid">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 ">
                         <h3>Student Exchange Programme</h3>
@@ -353,7 +354,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="upload/Career-Aptitude-Test.webp" alt="" loading="lazy" class="img-fluid">
+                    <img src="upload/Career-Aptitude-Test.webp" alt="Career Aptitude Test" loading="lazy" class="img-fluid">
                 </div>
             </dev>
         </div>
@@ -361,7 +362,7 @@
             <div class="container pt-5 pb-5">
                 <dev class="row text-white">
                     <div class="col-lg-6 col-md-6 col-sm-12 ">
-                        <img src="upload/securing-placements.webp" alt="" loading="lazy" class="img-fluid">
+                        <img src="upload/securing-placements.webp" alt="Securing placements" loading="lazy" class="img-fluid">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <h3>Placements</h3>

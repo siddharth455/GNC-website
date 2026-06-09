@@ -11,7 +11,7 @@
     <div class="success-slider swiper">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <img src="upload/infra/testi-1.webp"/>
+                <img src="upload/infra/testi-1.webp" alt="Testi 1" />
                 <div class="success-overlay">
                     <h3>Avinash Takhellambam</h3>
                     <p>
@@ -30,7 +30,7 @@
             </div>
 
             <div class="swiper-slide">
-                <img src="upload/infra/testi-2.webp" />
+                <img src="upload/infra/testi-2.webp" alt="Testi 2" />
                 <div class="success-overlay">
                     <h3>Soni Rautan</h3>
                     <p>
@@ -49,7 +49,7 @@
             </div>
 
             <div class="swiper-slide">
-                <img src="upload/infra/testi-3.webp" />
+                <img src="upload/infra/testi-3.webp" alt="Testi 3" />
                 <div class="success-overlay">
                     <h3>Rishikesh Kumar</h3>
                     <p>
@@ -68,7 +68,7 @@
             </div>
 
             <div class="swiper-slide">
-                <img src="upload/infra/testi-6.webp" />
+                <img src="upload/infra/testi-6.webp" alt="Testi 6" />
                 <div class="success-overlay">
                     <h3>Shamsad Aalam</h3>
                     <p>

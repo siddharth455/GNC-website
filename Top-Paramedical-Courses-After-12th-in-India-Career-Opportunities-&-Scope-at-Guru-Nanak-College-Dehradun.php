@@ -340,6 +340,7 @@
       }
     }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun">
 </head>
 
 <body>

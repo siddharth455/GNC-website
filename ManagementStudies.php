@@ -34,6 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- End Google Tag Manager -->
 
+  <link rel="canonical" href="https://www.gnc.edu.in/ManagementStudies">
 </head>
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -963,16 +964,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <img src="assets/image/logo.webp" class="center-logo" alt="College Logo" />
 
           <!-- Accreditation logos (dummy placeholders) -->
-          <img src="assets/image/HNBGMU.webp" class="circle-logo" />
-          <img src="assets/image/msme.webp" class="circle-logo" />
-          <img src="assets/image/pci.webp" class="circle-logo" />
-          <img src="assets/image/sdsuu.webp" class="circle-logo" />
-          <img src="assets/image/UBTER.webp" class="circle-logo" />
-          <img src="assets/image/ugc.webp" class="circle-logo" />
-          <img src="assets/image/Uttarakhand_Technical_University_logo.webp" class="circle-logo" />
-          <img src="assets/image/aicte.webp" class="circle-logo" />
-          <img src="assets/image/iap-logo.jpeg" class="circle-logo" />
-          <img src="assets/image/inc-logo.png" class="circle-logo" />
+          <img src="assets/image/HNBGMU.webp" class="circle-logo" alt="HNBGMU" />
+          <img src="assets/image/msme.webp" class="circle-logo" alt="Msme" />
+          <img src="assets/image/pci.webp" class="circle-logo" alt="Pci" />
+          <img src="assets/image/sdsuu.webp" class="circle-logo" alt="Sdsuu" />
+          <img src="assets/image/UBTER.webp" class="circle-logo" alt="UBTER" />
+          <img src="assets/image/ugc.webp" class="circle-logo" alt="Ugc" />
+          <img src="assets/image/Uttarakhand_Technical_University_logo.webp" class="circle-logo" alt="Uttarakhand Technical University logo" />
+          <img src="assets/image/aicte.webp" class="circle-logo" alt="Aicte" />
+          <img src="assets/image/iap-logo.jpeg" class="circle-logo" alt="Iap logo" />
+          <img src="assets/image/inc-logo.png" class="circle-logo" alt="Inc logo" />
         </div>
       </div>
 
@@ -1058,12 +1059,12 @@ document.addEventListener("DOMContentLoaded", function(){
 
     <div class="gnc-campus-slider">
       <div class="gnc-campus-slides">
-        <img src="assets/image/computer-lab.webp" class="gnc-campus-slide" />
-        <img src="assets/image/lib.webp" class="gnc-campus-slide" />
-        <img src="assets/image/3l.webp" class="gnc-campus-slide" />
-        <img src="assets/image/4l.webp" class="gnc-campus-slide" />
-        <img src="assets/image/5l.webp" class="gnc-campus-slide" />
-        <img src="assets/image/6l.webp" class="gnc-campus-slide" />
+        <img src="assets/image/computer-lab.webp" class="gnc-campus-slide" alt="Computer lab" />
+        <img src="assets/image/lib.webp" class="gnc-campus-slide" alt="Lib" />
+        <img src="assets/image/3l.webp" class="gnc-campus-slide" alt="3l" />
+        <img src="assets/image/4l.webp" class="gnc-campus-slide" alt="4l" />
+        <img src="assets/image/5l.webp" class="gnc-campus-slide" alt="5l" />
+        <img src="assets/image/6l.webp" class="gnc-campus-slide" alt="6l" />
       </div>
 
       <!-- ✅ FIXED: Centered Overlay Content -->

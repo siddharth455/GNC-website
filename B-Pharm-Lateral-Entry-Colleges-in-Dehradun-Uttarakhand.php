@@ -1705,10 +1705,10 @@
         </div>
 
         <div class="grid-left">
-            <div class="img-box"><img src="upload/programs/LE-1.webp"></div>
-            <div class="img-box"><img src="upload/programs/LE-3.jpg"></div>
-            <div class="img-box"><img src="upload/programs/LE-4.jpg"></div>
-            <div class="img-box"><img src="upload/programs/LE-2.webp"></div>
+            <div class="img-box"><img src="upload/programs/LE-1.webp" alt="LE 1"></div>
+            <div class="img-box"><img src="upload/programs/LE-3.jpg" alt="LE 3"></div>
+            <div class="img-box"><img src="upload/programs/LE-4.jpg" alt="LE 4"></div>
+            <div class="img-box"><img src="upload/programs/LE-2.webp" alt="LE 2"></div>
           </div>
     </section>
 

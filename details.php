@@ -15,6 +15,7 @@ if (!$visit) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($visit['title']); ?></title>
     <link rel="stylesheet" href="styles.css">
+  <link rel="canonical" href="https://www.gnc.edu.in/details">
 </head>
 
 <body>

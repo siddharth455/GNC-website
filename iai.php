@@ -5,6 +5,7 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College | Industrial - Academic Collaboration</title>
     <meta name="description" content="Guru Nanak College's commitment to bridging academia and industry through innovative collaborations that enhance learning and career opportunities.">
+  <link rel="canonical" href="https://www.gnc.edu.in/iai">
 </head>
 
 <body>

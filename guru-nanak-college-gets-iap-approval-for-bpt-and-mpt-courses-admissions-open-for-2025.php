@@ -65,6 +65,7 @@
   .suggest-card .sc-meta { color:var(--muted); font-size:0.88rem; }
   @media (min-width:992px){ aside .suggested { position:sticky; top:110px; } }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/guru-nanak-college-gets-iap-approval-for-bpt-and-mpt-courses-admissions-open-for-2025">
 </head>
 <body>
 <?php require "common/header.php"; ?>

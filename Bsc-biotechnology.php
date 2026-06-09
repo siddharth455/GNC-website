@@ -9,14 +9,14 @@
     <link rel="canonical" href="https://gnc.edu.in/bsc-biotechnology">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Top B.Sc Biotechnology College in Dehradun, Uttarakhand - Guru Nanak College" />
+    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
     <meta property="og:description" content="Guru Nanak College, the premier B.Sc. Biotechnology College in Dehradun, Uttarakhand. Celebrated for its rigorous academic programs, distinguished faculty, and state-of-theart research facilities, Guru Nanak College shapes the biotechnology leaders of tomorrow." />
     <meta property="og:url" content="https://gnc.edu.in/bsc-biotechnology" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
+    <meta property="og:image:width" content="383" />
+    <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
@@ -986,7 +986,7 @@
                 <!-- Left Data Column -->
                 <div class="col-data">
                     <h2>Eligibility & Fee Details</h2>
-                    <a href="upload/pdf/fee/Bsc Biotechnology.jpeg" target="_blank" id="printButton1" target="_blank"
+                    <a href="upload/pdf/fee-structure-2026-27.pdf" target="_blank" id="printButton1" target="_blank"
                         class="btn-download">Download Fee Structure</a>
 
                     <!-- Clickable Tabs Navigation -->
@@ -1304,7 +1304,8 @@
                 </div>
             </div>
         </div>
-     </div>
+
+    </div>
 </section>
 
     <section class="gnc-mb-content-sec">

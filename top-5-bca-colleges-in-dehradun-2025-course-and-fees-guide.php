@@ -57,6 +57,7 @@
   @media (max-width:800px){ .post-grid{grid-template-columns:1fr} .banner{height:180px} .post-card{padding:18px} }
   @media (max-width:480px){ .site-wrap{padding:12px} .banner{height:140px} .post-card{padding:14px} .suggested img{width:72px;height:52px} .post-body{font-size:1rem} }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
 </head>
 <body>
 <?php

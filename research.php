@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Paper || Guru Nanak College Dehradun</title>
- </head>
+   <link rel="canonical" href="https://www.gnc.edu.in/research">
+</head>
  
 <section class="pageBanner-inner">
         <div style="background-image: url('upload/infra/35.webp'); background-repeat: no-repeat; background-size: cover;">

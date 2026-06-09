@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guru Nanak College Dehradun, Uttarakhand | Lab Infrastructure</title>
     <meta description="Guru Nanak College in Dehradun is equipped with state-of-the-art laboratory infrastructure designed to support hands-on learning and cutting-edge research. The college is committed to fostering a culture of innovation and excellence, empowering students and faculty to explore, discover, and drive scientific advancements.">
+  <link rel="canonical" href="https://www.gnc.edu.in/lab">
 </head>
 
 <body>

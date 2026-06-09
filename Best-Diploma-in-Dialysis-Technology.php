@@ -139,7 +139,7 @@
                     <div class="col-lg-12 about-program-image">
                         <img src="upload/infra/bpt.webp"
                              loading="lazy"
-                             style="width: -webkit-fill-available;">
+                             style="width: -webkit-fill-available;" alt="Bpt">
                     </div>
                 </div>
             </div>
@@ -348,7 +348,7 @@
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <div class="bigInfo-section__content pt-5 pb-8">
-                        <img style="width: -webkit-fill-available;" src="upload/infra/wjc.webp">
+                        <img style="width: -webkit-fill-available;" src="upload/infra/wjc.webp" alt="Wjc">
                     </div>
                 </div>
             </div>

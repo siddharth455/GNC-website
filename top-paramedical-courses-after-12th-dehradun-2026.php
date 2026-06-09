@@ -382,6 +382,7 @@
       background-color: #fafbfc;
     }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/top-paramedical-courses-after-12th-dehradun-2026">
 </head>
 
 <body>

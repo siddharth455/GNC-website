@@ -57,7 +57,7 @@
                 <div class="col-lg-6">
                     <div class="specialization-slider pagination-style-1">
                         <div class="specialization-slider__item">
-                            <img src="upload/hero/fd-3.jpg">
+                            <img src="upload/hero/fd-3.jpg" alt="Fd 3">
                         </div>
                     </div>
                 </div>
@@ -358,7 +358,7 @@
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <div class="bigInfo-section__content pt-8 pb-8">
-                        <div style="     background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/why-apply-gnc.webp"></div>
+                        <div style="     background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/why-apply-gnc.webp" alt="Why apply gnc"></div>
                     </div>
                 </div>
             </div>

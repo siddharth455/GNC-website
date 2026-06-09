@@ -109,6 +109,7 @@
     aside .suggested { position: sticky; top: 110px; }
   }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide">
 </head>
 <body>
 <?php

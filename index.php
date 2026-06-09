@@ -18,8 +18,8 @@ excellence in academics and holistic development." />
   <meta property="og:site_name" content="GNC Dehradun" />
   <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
   <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="630" />
+  <meta property="og:image:width" content="383" />
+  <meta property="og:image:height" content="256" />
   <meta property="og:image:type" content="image/webp" />
   <meta name="google-site-verification" content="4oZQLwduQZa07Iq8KyESZJZJnyU7AlZMqXf7u3HqhTA" />
 <script type="application/ld+json">
@@ -413,16 +413,16 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
         <div class="col-md-6 text-center mb-4 mb-md-0">
           <div class="accreditation-circle" id="accreditationCircle">
             <img src="images/logo.webp" class="center-logo" alt="College Logo" />
-            <img src="images/HNBGMU.webp" class="circle-logo" />
-            <img src="images/msme.webp" class="circle-logo" />
-            <img src="images/pci.jpeg" class="circle-logo" />
-            <img src="images/sdsuu.webp" class="circle-logo" />
-            <img src="images/UBTER.webp" class="circle-logo" />
-            <img src="images/ugc.webp" class="circle-logo" />
-            <img src="images/Uttarakhand_Technical_University_logo.webp" class="circle-logo" />
-            <img src="images/Aicte-logo.webp" class="circle-logo" />
-            <img src="upload/infra/iap-logo.jpeg" class="circle-logo" />
-            <img src="upload/infra/inc-logo.png" class="circle-logo" />
+            <img src="images/HNBGMU.webp" class="circle-logo" alt="HNBGMU" />
+            <img src="images/msme.webp" class="circle-logo" alt="Msme" />
+            <img src="images/pci.jpeg" class="circle-logo" alt="Pci" />
+            <img src="images/sdsuu.webp" class="circle-logo" alt="Sdsuu" />
+            <img src="images/UBTER.webp" class="circle-logo" alt="UBTER" />
+            <img src="images/ugc.webp" class="circle-logo" alt="Ugc" />
+            <img src="images/Uttarakhand_Technical_University_logo.webp" class="circle-logo" alt="Uttarakhand Technical University logo" />
+            <img src="images/Aicte-logo.webp" class="circle-logo" alt="Aicte logo" />
+            <img src="upload/infra/iap-logo.jpeg" class="circle-logo" alt="Iap logo" />
+            <img src="upload/infra/inc-logo.png" class="circle-logo" alt="Inc logo" />
           </div>
         </div>
         <div class="col-md-6">
@@ -828,7 +828,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
           </div>
         </div>
         <div class="accordion-panel from-right" id="panel2">
-          <img src="upload/infra/innovative.webp" alt="Student using a computer in a modern lab">
+          <img src="Upload/infra/innovative.webp" alt="Student using a computer in a modern lab">
           <div class="accordion-overlay">
             <h2>Think. Create. Innovate.</h2>
             <p>Fostering a culture of creativity and critical thinking through modern, experiential learning.</p>
@@ -2186,8 +2186,8 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
   <section class="d-none d-md-block" style="background-image: url(images/gnc-program-1.webp); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;">
     <div class="container pt-5 pb-5">
       <div class="row align-items-center">
-        <h1 class="fnt-w-300" style="color:#000000; font-size: 32px; font-weight: bold; margin-bottom: 20px;">
-          <span>Best College in Dehradun, Uttarakhand — Admissions 2026</span>
+        <h1 class="fnt-w-300" style="color:#000000; font-size: 36px; font-weight: bold; text-align: center; margin-bottom: 20px;">
+          <span>Find a Program</span>
         </h1>
       </div>
       <div class="accordion accordion-flush" id="accordionFlushDesktop">
@@ -2440,7 +2440,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-1.webp" alt="">
+              <img src="upload/infra/faq-1.webp" alt="Faq 1">
             </div>
           </div>
         </div>
@@ -2467,7 +2467,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-2.webp" alt="">
+              <img src="upload/infra/faq-2.webp" alt="Faq 2">
             </div>
           </div>
         </div>
@@ -2493,7 +2493,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-3.webp" alt="">
+              <img src="upload/infra/faq-3.webp" alt="Faq 3">
             </div>
           </div>
         </div>
@@ -2518,7 +2518,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-4.webp" alt="">
+              <img src="upload/infra/faq-4.webp" alt="Faq 4">
             </div>
           </div>
         </div>
@@ -2543,7 +2543,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-5.webp" alt="">
+              <img src="upload/infra/faq-5.webp" alt="Faq 5">
             </div>
           </div>
         </div>

@@ -1,5 +1,13 @@
-RewriteEngine On
+<IfModule mod_headers.c>
+    # ── Security Headers ──────────────────────────────────────
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>
 
+<IfModule mod_rewrite.c>
+RewriteEngine On 
 
 # 2. External Redirect: events.php -> /events
 RewriteCond %{THE_REQUEST} /events\.php\sHTTP [NC]
@@ -15,7 +23,6 @@ RewriteRule ^([^.]+)\.php$ $1 [R=301,L]
 
 # --- Internal Rewrites ---
 
-
 # Event details: event/slug -> event-details.php?slug=slug
 RewriteRule ^event/([^/]+)$ event-details.php?slug=$1 [QSA,L]
 
@@ -23,3 +30,5 @@ RewriteRule ^event/([^/]+)$ event-details.php?slug=$1 [QSA,L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+</IfModule>

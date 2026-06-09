@@ -110,7 +110,8 @@
                 }
             }
         </style>
-    </head>
+      <link rel="canonical" href="https://www.gnc.edu.in/default">
+</head>
     <body>
         <nav class="navigation">
             <a href="https://hpanel.hostinger.com" rel="nofollow" target="_blank">

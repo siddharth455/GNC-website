@@ -873,9 +873,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       
       <div class="social-icons">
-        <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
+        <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
         <a href="tel:+917300900900" aria-label="Give a miss call"><i class="fa fa-phone" aria-hidden="true"></i></a>
-        <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank"><i class="fa fa-location-arrow" aria-hidden="true"></i></a>
+        <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank" rel="noopener noreferrer"><i class="fa fa-location-arrow" aria-hidden="true"></i></a>
         <a href="https://www.facebook.com/gncmh"><i class="fa-brands fa-facebook-f"></i></a>
         <a href="https://www.instagram.com/gncdehradun/"><i class="fa-brands fa-instagram"></i></a>
         <a href="https://www.linkedin.com/company/gncdehradun/"><i class="fa-brands fa-linkedin-in"></i></a>
@@ -891,8 +891,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </a>
       <div class="middle-right">
         <ul class="top-links">
-          <li><a href="https://student.gncdehradun.com/" target="_blank">Student ERP Login</a></li>
-          <li><a href="https://staff.gncdehradun.com/" target="_blank">Staff ERP Login</a></li>
+          <li><a href="https://student.gncdehradun.com/" target="_blank" rel="noopener noreferrer">Student ERP Login</a></li>
+          <li><a href="https://staff.gncdehradun.com/" target="_blank" rel="noopener noreferrer">Staff ERP Login</a></li>
           <li><a href="library.php">Library</a></li>
           <li><a href="careers.php">Careers</a></li>
           <li><a href="alumni.php">Alumni</a></li>
@@ -1490,9 +1490,9 @@ document.addEventListener("DOMContentLoaded", function () {
       </marquee>
     </div>
     <div class="social-icons">
-      <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank"><i class="fab fa-whatsapp"></i></a>
+      <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
       <a href="tel:+917300900900"><i class="fa fa-phone"></i></a>
-      <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank"><i class="fa fa-location-arrow"></i></a>
+      <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank" rel="noopener noreferrer"><i class="fa fa-location-arrow"></i></a>
       <a href="https://www.facebook.com/gncmh"><i class="fa-brands fa-facebook-f"></i></a>
       <a href="https://www.instagram.com/gncdehradun/"><i class="fa-brands fa-instagram"></i></a>
       <a href="https://www.linkedin.com/company/gncdehradun/"><i class="fa-brands fa-linkedin-in"></i></a>
@@ -1684,8 +1684,8 @@ document.addEventListener("DOMContentLoaded", function () {
         </ul>
       </li>
 
-      <li><a href="https://student.gncdehradun.com/AccSoft_GNC/" target="_blank">Student ERP Login</a></li>
-      <li><a href="https://staff.gncdehradun.com/AccSoft_GNC/Login.aspx" target="_blank">Staff ERP Login</a></li>
+      <li><a href="https://student.gncdehradun.com/AccSoft_GNC/" target="_blank" rel="noopener noreferrer">Student ERP Login</a></li>
+      <li><a href="https://staff.gncdehradun.com/AccSoft_GNC/Login.aspx" target="_blank" rel="noopener noreferrer">Staff ERP Login</a></li>
       <li><a href="library.php">Library</a></li>
       <li><a href="careers.php">Careers</a></li>
       <li><a href="alumni.php">Alumni</a></li>

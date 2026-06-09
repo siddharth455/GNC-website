@@ -202,6 +202,7 @@ $base_url = rtrim($protocol . "://" . $host . $script_path, '/') . '/';
             
         }
     </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/events">
 </head>
 
 <body>

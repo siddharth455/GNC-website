@@ -9,14 +9,14 @@
     <link rel="canonical" href="https://www.gnc.edu.in/cultural">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Cultural Activities - Guru Nanak College Dehradun, Uttarakhand" />
+    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
     <meta property="og:description" content="Guru Nanak College in Dehradun offers a vibrant array of cultural activities that enrich the student experience and foster a sense of community. GNC provide a platform for students to explore their interests, develop new skills, and build lasting friendships." />
-    <meta property="og:url" content="https://gnc.edu.in/cultural" />
+    <meta property="og:url" content="https://www.gnc.edu.in/cultural" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
+    <meta property="og:image:width" content="383" />
+    <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
 </head>
 
@@ -121,7 +121,7 @@
                                                             <img src="upload/cultural/rangrezza-23/01.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
                                                         </div>
                                                         <!-- <div class="carousel-item ">
-                                                            <img src="upload/cultural/rangrezza-23/02.webp" alt="" class="w-100 no-filter">
+                                                            <img src="upload/cultural/rangrezza-23/02.webp" alt="02" class="w-100 no-filter">
                                                         </div> -->
                                                         <div class="carousel-item ">
                                                             <img src="upload/cultural/rangrezza-23/03.webp" alt="rangrezza" loading="lazy" class="w-100 no-filter">
@@ -241,7 +241,7 @@
                 </div>
                 <!-- <div class="col-lg-4 col-md-6">
                     <div class="card h-100 p-0 position-relative">
-                        <img src="upload/gncmh-3.webp" alt="" class="w-100 no-filter">
+                        <img src="upload/gncmh-3.webp" alt="Gncmh 3" class="w-100 no-filter">
                         <div class="card-body">
                             <h5 class="card-title">name of Fest</h5>
                             <p class="text-black">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacinia quis vel eros donec. Vestibulum sed arcu non odio euismod lacinia at. Posuere urna nec tincidunt praesent semper feugiat nibh</p>
@@ -254,13 +254,13 @@
                                                 <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
                                                     <div class="carousel-inner">
                                                         <div class="carousel-item active">
-                                                            <img src="upload/gncmh-3.webp" alt="" class="w-100 no-filter">
+                                                            <img src="upload/gncmh-3.webp" alt="Gncmh 3" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/gncmh-about-bg-1.webp" alt="" class="w-100 no-filter">
+                                                            <img src="upload/gncmh-about-bg-1.webp" alt="Gncmh about bg 1" class="w-100 no-filter">
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <img src="upload/gncmh-scaled.webp" alt="" class="w-100 no-filter">
+                                                            <img src="upload/gncmh-scaled.webp" alt="Gncmh scaled" class="w-100 no-filter">
                                                         </div>
                                                     </div>
                                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">

@@ -65,6 +65,7 @@
   .suggest-card .sc-meta { color:var(--muted); font-size:0.88rem; }
   @media (min-width:992px){ aside .suggested { position:sticky; top:110px; } }
   </style>
+  <link rel="canonical" href="https://www.gnc.edu.in/bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software">
 </head>
 <body>
 <?php require "common/header.php"; ?>
