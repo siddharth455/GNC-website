@@ -3,11 +3,11 @@
 
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College - Best Agriculture College in Dehradun, Uttarakhand</title>
+    <title>Guru Nanak College - Best Agriculture College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture programs affiliated with HNBGU & SDSUU."/>
+   <meta name="description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture..."/>
    <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand"/>
-    <link rel="canonical" href="https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Agriculture College in Dehradun, Uttarakhand" />
@@ -883,13 +883,13 @@
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="upload/dpt/21.jpg" class="d-block w-100" alt="Brochure Page 1">
+                            <img src="upload/dpt/21.jpg" class="d-block w-100" alt="Brochure Page 1" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/22.jpg" class="d-block w-100" alt="Brochure Page 2">
+                            <img src="upload/dpt/22.jpg" class="d-block w-100" alt="Brochure Page 2" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/23.jpg" class="d-block w-100" alt="Brochure Page 3">
+                            <img src="upload/dpt/23.jpg" class="d-block w-100" alt="Brochure Page 3" width="auto" height="auto">
                         </div>
                     </div>
 

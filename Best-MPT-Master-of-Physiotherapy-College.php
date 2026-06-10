@@ -3,10 +3,10 @@
 
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Master of Physiotherapy College(MPT) in Dehradun, Uttarakhand.</title>
+    <title>Guru Nanak College | Best Master of Physiotherapy | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Looking for the best MPT college in Dehradun, Uttarakhand? Guru Nanak College offers top-ranked Master of Physiotherapy programs with expert faculty, modern curriculum, and hands-onclinical training for a successful physiotherapy career">
-    <link rel="canonical" href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php">
+    <meta name="description" content="Looking for the best MPT college in Dehradun, Uttarakhand? Guru Nanak College offers top-ranked Master of Physiotherapy programs with expert faculty,...">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best MPT College in Dehradun, Uttarakhand, India – Guru Nanak College (GNC Dehradun)"/>
@@ -1118,7 +1118,7 @@ well-being</p>
             <div class="col-lg-6 bmr-reveal">
                 <div class="gnc-benefits-card bmr-item">
                     <div class="benefits-image-wrapper">
-                        <img src="upload/hero/radio-4.webp" alt="MPT Training">
+                        <img src="upload/hero/radio-4.webp" alt="MPT Training" width="auto" height="auto">
                         <div class="benefits-overlay">
                             <h3 class="fw-bold">Why GNC for MPT?</h3>
                         </div>
@@ -1150,7 +1150,7 @@ well-being</p>
             
             <div class="col-lg-4 student-image-col">
                 <div class="red-vertical-bar"></div>
-                <img src="upload/infra/student-1.webp" alt="GNC MPT Students" class="student-img-cutout">
+                <img src="upload/infra/student-1.webp" alt="GNC MPT Students" class="student-img-cutout" width="auto" height="auto">
             </div>
     
            

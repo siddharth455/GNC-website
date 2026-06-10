@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grievance || Guru Nanak College Dehradun</title>
-    <link rel="canonical" href="https://gnc.edu.in/grievance">
+    <link rel="canonical" href="https://www.gnc.edu.in/grievance">
  </head>
 <style>
     .nav-pills {
@@ -104,7 +104,7 @@
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="position-sticky border" style="top: 150px">
-                                        <img src="upload/infra/grievance-redressal.webp" alt="grievance" loading="lazy" class="w-100">
+                                        <img src="upload/infra/grievance-redressal.webp" alt="grievance" loading="lazy" class="w-100" width="auto" height="auto">
                                     </div>
                                 </div>
                             </div>

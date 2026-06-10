@@ -3,10 +3,10 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best B Pharma College in Dehradun | B.Pharm Admission 2026 – Guru Nanak College</title>
+    <title>Best B Pharma College in Dehradun | B.Pharm | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty, scholarships, and strong placement support.">
-    <link rel="canonical" href="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">
+    <meta name="description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty, scholarships,...">
+    <link rel="canonical" href="https://www.gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best B.Pharm College in Dehradun — Admission 2026"/>
@@ -1562,7 +1562,7 @@
                             Watch Video
                         </a>
                         <a href="javascript:void(0)" class="video-thumb-link" onclick="openVideoPopup('7hk7G0SEhZ0')">
-                            <img src="https://img.youtube.com/vi/7hk7G0SEhZ0/maxresdefault.jpg" alt="Video Thumbnail">
+                            <img src="https://img.youtube.com/vi/7hk7G0SEhZ0/maxresdefault.jpg" alt="Video Thumbnail" width="auto" height="auto">
                         </a>
                     </div>
                     <div class="video-promo-content" data-aos="fade-left" data-aos-duration="500">
@@ -1707,10 +1707,10 @@
         </div>
 
         <div class="grid-left">
-            <div class="img-box"><img src="images/b.pharma-1.webp" alt="Pharmacy Lab"></div>
-            <div class="img-box"><img src="upload/programs/b-pharma-3.jpg" alt="Medicine Quality"></div>
-            <div class="img-box"><img src="upload/programs/b-pharma-4.webp" alt="Research"></div>
-            <div class="img-box"><img src="images/bp-4.jpg" alt="Pharmacy Lab"></div>
+            <div class="img-box"><img src="images/b.pharma-1.webp" alt="Pharmacy Lab" width="auto" height="auto"></div>
+            <div class="img-box"><img src="upload/programs/b-pharma-3.jpg" alt="Medicine Quality" width="auto" height="auto"></div>
+            <div class="img-box"><img src="upload/programs/b-pharma-4.webp" alt="Research" width="auto" height="auto"></div>
+            <div class="img-box"><img src="images/bp-4.jpg" alt="Pharmacy Lab" width="auto" height="auto"></div>
         </div>
     </section>
 
@@ -1723,8 +1723,8 @@
             <div class="why-choose-us-layout">
                 <div class="why-choose-us-images">
                     <div class="image-stack">
-                        <img src="images/bp-8.jpg" alt="GNC Student 1" class="stack-img img-1">
-                        <img src="images/bp-9.jpg" alt="GNC Student 2" class="stack-img img-2">
+                        <img src="images/bp-8.jpg" alt="GNC Student 1" class="stack-img img-1" width="auto" height="auto">
+                        <img src="images/bp-9.jpg" alt="GNC Student 2" class="stack-img img-2" width="auto" height="auto">
                     </div>
                 </div>
                 <div class="why-choose-us-content">
@@ -2378,7 +2378,7 @@
             <!-- Step 1 -->
             <div class="step-content active">
                 <div class="step-left">
-                    <img src="images/step-1.jpg" alt="GNC Signup">
+                    <img src="images/step-1.jpg" alt="GNC Signup" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 1 – Signup</h6>
@@ -2389,7 +2389,7 @@
             <!-- Step 2 -->
             <div class="step-content">
                 <div class="step-left">
-                    <img src="images/step-2.jpg" alt="GNC Application">
+                    <img src="images/step-2.jpg" alt="GNC Application" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 2 – Application Form</h6>
@@ -2400,7 +2400,7 @@
             <!-- Step 3 -->
             <div class="step-content">
                 <div class="step-left">
-                    <img src="images/step-3.webp" alt="GNC Admission">
+                    <img src="images/step-3.webp" alt="GNC Admission" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 3 – Admission</h6>

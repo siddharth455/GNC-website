@@ -5,10 +5,10 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-<title>Why BCA is One of the Best Career Options After 12th | Guru Nanak College</title>
+<title>Why BCA is One of the Best Career Options After 12th | GNC</title>
 
 <meta name="description"
-content="Discover why Bachelor of Computer Applications (BCA) is a top career choice after 12th, including eligibility, skills, job roles, and future opportunities in the IT industry." />
+content="Discover why Bachelor of Computer Applications (BCA) is a top career choice after 12th, including eligibility, skills, job roles, and future..." />
 
 <meta name="keywords"
 content="BCA career options after 12th, why choose BCA, BCA job roles, BCA salary scope, Guru Nanak College Dehradun" />
@@ -423,7 +423,7 @@ content="BCA career options after 12th, why choose BCA, BCA job roles, BCA salar
 <img src="upload/blog/why-bca.webp"
 alt="Why BCA is One of the Best Career Options After 12th"
 class="post-hero-img"
-loading="lazy">
+loading="lazy" width="auto" height="auto">
 
 <article class="post-body">
 
@@ -576,22 +576,22 @@ loading="lazy">
         <div class="suggested">
           <h3>You May Also Like</h3>
           <a class="suggest-card" href="bba-vs-bcom-after-12.php">
-            <img class="sc-image" src="upload/blog/bba-vs-bcom.webp" alt="BBA vs BCom">
+            <img class="sc-image" src="upload/blog/bba-vs-bcom.webp" alt="BBA vs BCom" width="auto" height="auto">
             <div class="sc-title">BBA vs BCom: Which Course is Better After 12th?</div>
             <div class="sc-meta">GNC Dehradun • 2026-03-09</div>
           </a>
           <a class="suggest-card" href="Best-Hotel-Management-Colleges-in-Dehradun-2026.php">
-            <img class="sc-image" src="upload/blog/hm-banner.webp" alt="HM Colleges">
+            <img class="sc-image" src="upload/blog/hm-banner.webp" alt="HM Colleges" width="auto" height="auto">
             <div class="sc-title">Best Hotel Management Colleges in Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026-02-16</div>
           </a>
           <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
-            <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges">
+            <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
           <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
-            <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges">
+            <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-21</div>
           </a>

@@ -7,7 +7,7 @@
     <title>About US | GNC - Leading Institute in Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="GNC, the leading institute in Dehradun, established in 2009, offers a range of educational programs designed to empower students.">
-    <link rel="canonical" href="https://gnc.edu.in/about-us">
+    <link rel="canonical" href="https://www.gnc.edu.in/about-us">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="GNC - Leading Institute in Dehradun"/>
@@ -376,7 +376,7 @@
                 <div class="col-lg-5 order-1 order-lg-2">
                     <div class="gnc-image-wrapper">
                         <div class="gnc-image-shape"></div>
-                        <img src="upload/infra/img-3.webp" alt="GNC Campus" class="gnc-image-main">
+                        <img src="upload/infra/img-3.webp" alt="GNC Campus" class="gnc-image-main" width="auto" height="auto">
                         <div class="gnc-image-experience">
                             <span>16+</span>
                             <p class="m-0">Years of Academic <br> Excellence</p>
@@ -396,21 +396,21 @@
             <div class="row g-4">
                 <div class="col-lg-4">
                     <div class="gnc-glass-card">
-                        <img src="upload/icon-3.webp" alt="Philosophy Icon">
+                        <img src="upload/icon-3.webp" alt="Philosophy Icon" width="auto" height="auto">
                         <h3>Our Philosophy</h3>
                         <p>Education at GNC is a collaborative journey, transforming students into life-long learners and proactive contributors to society.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="gnc-glass-card">
-                        <img src="upload/icon-4.webp" alt="Principle Icon">
+                        <img src="upload/icon-4.webp" alt="Principle Icon" width="auto" height="auto">
                         <h3>GNC Principle</h3>
                         <p>GNC embodies holistic growth, nurturing individuality amidst the vitality of communal learning and personal discovery.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="gnc-glass-card">
-                        <img src="upload/icon-2.webp" alt="Success Icon">
+                        <img src="upload/icon-2.webp" alt="Success Icon" width="auto" height="auto">
                         <h3>Key Of Success</h3>
                         <p>Our success formula blends academic rigor with character development, creating well-rounded individuals poised for lifelong achievement.</p>
                     </div>
@@ -432,7 +432,7 @@ Our dedicated faculty members, state-of-the-art facilities, and commitment to st
                     <h3>Future-Ready, Multidisciplinary Education at GNC Dehradun.</h3>
                     <p>Experience a modern campus powered by experiential learning, innovation, and industry-aligned education that helps turn aspirations into achievements.</p>
                 </div>
-                <img src="images/gnc-building-1.webp" class="gnc-red-card-img" alt="Architecture">
+                <img src="images/gnc-building-1.webp" class="gnc-red-card-img" alt="Architecture" width="auto" height="auto">
             </div>
 
             <div class="gnc-right-content">
@@ -525,7 +525,7 @@ Our dedicated faculty members, state-of-the-art facilities, and commitment to st
                 <div class="modal-body p-0 position-relative">
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" style="position: absolute; right: 15px; top: 15px; z-index: 100;"></button>
                     <a href="https://application.gnc.edu.in/">
-                        <img src="upload/gnc-popup-banner.webp" alt="Admission Open" class="w-100 img-fluid">
+                        <img src="upload/gnc-popup-banner.webp" alt="Admission Open" class="w-100 img-fluid" width="auto" height="auto">
                     </a>
                 </div>
             </div>

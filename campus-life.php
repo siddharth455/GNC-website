@@ -5,8 +5,8 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College (GNC) Dehradun, Uttarakhand | Campus Life</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Campus life at Guru Nanak College (GNC) in Dehradun is vibrant and enriching, offering students a well-rounded experience that goes beyond academics. Overall, campus life at Guru Nanak College is designed to foster personal growth, academic excellence, and a sense of community among students. It's truly a home away from home!">
-    <link rel="canonical" href="https://gnc.edu.in/campus-life">
+    <meta name="description" content="Campus life at Guru Nanak College (GNC) in Dehradun is vibrant and enriching, offering students a well-rounded experience that goes beyond academics....'s truly a home away from home!">
+    <link rel="canonical" href="https://www.gnc.edu.in/campus-life">
     <!-- Open Graph Tags (Preserved) -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -248,10 +248,10 @@
                 <div class="col-lg-5 order-1 order-lg-2">
                     <div id="culturalSlider" class="carousel slide shadow-lg" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active"><img src="upload/hardy.webp" class="d-block w-100" alt="Cultural Event"></div>
-                            <div class="carousel-item"><img src="upload/gulnazar.webp" class="d-block w-100" alt="Cultural Event"></div>
-                            <div class="carousel-item"><img src="upload/milind.webp" class="d-block w-100" alt="Cultural Event"></div>
-                            <div class="carousel-item"><img src="upload/amrit.webp" class="d-block w-100" alt="Cultural Event"></div>
+                            <div class="carousel-item active"><img src="upload/hardy.webp" class="d-block w-100" alt="Cultural Event" width="auto" height="auto"></div>
+                            <div class="carousel-item"><img src="upload/gulnazar.webp" class="d-block w-100" alt="Cultural Event" width="auto" height="auto"></div>
+                            <div class="carousel-item"><img src="upload/milind.webp" class="d-block w-100" alt="Cultural Event" width="auto" height="auto"></div>
+                            <div class="carousel-item"><img src="upload/amrit.webp" class="d-block w-100" alt="Cultural Event" width="auto" height="auto"></div>
                         </div>
                     </div>
                 </div>
@@ -266,9 +266,9 @@
                 <div class="col-lg-5">
                     <div id="sportSlider" class="carousel slide shadow-lg" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active"><img src="upload/sport/1.webp" class="d-block w-100" alt="Sport 1"></div>
-                            <div class="carousel-item"><img src="upload/sport/2.webp" class="d-block w-100" alt="Sport 2"></div>
-                            <div class="carousel-item"><img src="upload/sport/3.webp" class="d-block w-100" alt="Sport 3"></div>
+                            <div class="carousel-item active"><img src="upload/sport/1.webp" class="d-block w-100" alt="Sport 1" width="auto" height="auto"></div>
+                            <div class="carousel-item"><img src="upload/sport/2.webp" class="d-block w-100" alt="Sport 2" width="auto" height="auto"></div>
+                            <div class="carousel-item"><img src="upload/sport/3.webp" class="d-block w-100" alt="Sport 3" width="auto" height="auto"></div>
                         </div>
                     </div>
                 </div>
@@ -288,7 +288,7 @@
             <div class="row g-4">
                 <div class="col-md-6 col-xl-6">
                     <div class="gnc-feature-box shadow-sm">
-                        <img src="upload/extra/health.webp" alt="Health & Wellness">
+                        <img src="upload/extra/health.webp" alt="Health & Wellness" width="auto" height="auto">
                         <div class="gnc-feature-content">
                             <h5>Health & Wellness</h5>
                             <p>Health and wellness are integral to the student experience at Guru Nanak College, Dehradun, reflecting its commitment to holistic development. The college prioritizes physical fitness, mental health, and emotional well-being through various initiatives designed to support a balanced lifestyle. Modern sports facilities and regular fitness programs encourage students to stay active, while yoga sessions and meditation workshops promote mental clarity and stress relief. Wellness campaigns, expert seminars on nutrition, and mental health awareness create an informed and supportive campus community. Regular health check-ups and access to counseling services ensure students have the resources needed to address personal challenges. By fostering an environment that values well-being alongside academics, Guru Nanak College empowers students to cultivate healthy habits, build resilience, and lead fulfilling lives both during their studies and beyond.</p>
@@ -297,7 +297,7 @@
                 </div>
                 <div class="col-md-6 col-xl-6">
                     <div class="gnc-feature-box shadow-sm">
-                        <img src="upload/extra/dance.webp" alt="Co-Curricular">
+                        <img src="upload/extra/dance.webp" alt="Co-Curricular" width="auto" height="auto">
                         <div class="gnc-feature-content">
                             <h5>Co-Curricular Activities</h5>
                             <p>Guru Nanak College, Dehradun, places great emphasis on co-curricular activities, recognizing their vital role in shaping well-rounded individuals. The college offers a diverse range of opportunities for students to explore their passions and talents beyond academics. Activities such as debates, quizzes, and public speaking contests nurture critical thinking and communication skills, while cultural programs, music, and dance performances foster creativity and self-expression. Sports tournaments and fitness challenges promote physical well-being and teamwork, while clubs and societies focused on literature,art,technology and social service provide platforms for leadership and community engagement.Students are encouraged to explore their interests and talents through activities.These activities not only enhance personal and professional growth but also instill confidence and a sense of belonging, preparing students for success in all aspects of life.</p>
@@ -306,7 +306,7 @@
                 </div>
                 <div class="col-md-6 col-xl-6">
                     <div class="gnc-feature-box shadow-sm">
-                        <img src="upload/extra/international.webp" alt="National & International">
+                        <img src="upload/extra/international.webp" alt="National & International" width="auto" height="auto">
                         <div class="gnc-feature-content">
                             <h5>National & International</h5>
                             <p>Guru Nanak College, Dehradun, is committed to providing education that meets both national and international standards, preparing students to thrive in a globalized world. The college offers a diverse curriculum that blends academic rigor with practical skills, fostering critical thinking, innovation, and adaptability. With experienced faculty and state-of-the-art facilities, students receive exposure to modern teaching methodologies and interdisciplinary learning. International collaborations, exchange programs, and guest lectures by global experts open doors to cross-cultural learning, broadening students’ perspectives and understanding of global issues. Additionally, the college emphasizes values of unity, inclusivity, and respect, ensuring students are equipped with ethical and cultural competence. By integrating national heritage with global trends, Guru Nanak College nurtures leaders who excel in their chosen fields and contribute meaningfully to both local and international communities.</p>
@@ -315,7 +315,7 @@
                 </div>
                 <div class="col-md-6 col-xl-6">
                     <div class="gnc-feature-box shadow-sm">
-                        <img src="upload/extra/ragging.webp" alt="Ragging Free">
+                        <img src="upload/extra/ragging.webp" alt="Ragging Free" width="auto" height="auto">
                         <div class="gnc-feature-content">
                             <h5>Ragging Free Campus</h5>
                             <p>Guru Nanak College, Dehradun, takes immense pride in maintaining a ragging-free campus, fostering an environment of respect, inclusivity, and safety for all students. The college strictly adheres to the guidelines of the University Grants Commission (UGC) and other regulatory bodies, ensuring that anti-ragging measures are implemented effectively. A zero-tolerance policy is in place, with strict disciplinary actions for violations, ensuring that every student feels secure and valued. The institution actively promotes awareness campaigns to educate students about the harmful effects of ragging and their rights. An Anti-Ragging Committee and a dedicated helpline are available round-the-clock to address any concerns. Senior students are encouraged to mentor and guide juniors, creating a bond of mutual respect and camaraderie. Guru Nanak College believes that a positive and nurturing environment is essential for academic and personal growth.</p>
@@ -333,7 +333,7 @@
             <div class="row g-4">
                 <div class="col-md-6 col-lg-4">
                     <div class="gnc-service-box shadow-sm">
-                        <img src="upload/infra/5l.webp" alt="Hostel">
+                        <img src="upload/infra/5l.webp" alt="Hostel" width="auto" height="auto">
                         <div class="gnc-feature-content">
                             <h5>Hostel</h5>
                             <p>Guru Nanak College, Dehradun, provides excellent hostel facilities for students, ensuring a comfortable and secure living environment. The hostels are well-equipped with modern amenities, including Wi-Fi, clean dormitories, and nutritious meals. Dedicated staff ensure the safety and well-being of students, creating a supportive community. With a focus on discipline and camaraderie, the hostel experience at Guru Nanak College offers students a home away from home during their academic journey.</p>
@@ -342,7 +342,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="gnc-service-box shadow-sm">
-                        <img src="upload/extra/infrastructure.webp" alt="Infrastructure">
+                        <img src="upload/extra/infrastructure.webp" alt="Infrastructure" width="auto" height="auto">
                         <div class="gnc-feature-content">
                             <h5>Best Infrastructure</h5>
                             <p>Guru Nanak College, Dehradun, boasts state-of-the-art infrastructure designed to enhance the student experience. The campus features modern classrooms, well-equipped laboratories, a well-stocked library, and advanced sports facilities. With Wi-Fi-enabled spaces, dedicated study zones, and comfortable student lounges, the college ensures a conducive learning environment. This excellent infrastructure supports academic growth, extracurricular activities, and student well-being, making it an ideal place for holistic development.</p>
@@ -351,7 +351,7 @@
                 </div>
                 <div class="col-md-12 col-lg-4">
                     <div class="gnc-service-box shadow-sm">
-                        <img src="upload/extra/placement-02.webp" alt="Placement">
+                        <img src="upload/extra/placement-02.webp" alt="Placement" width="auto" height="auto">
                         <div class="gnc-feature-content">
                             <h5>Best Placement</h5>
                             <p>Guru Nanak College, Dehradun, offers exceptional placement opportunities for its students. The college’s dedicated placement cell actively works to connect students with top companies across various industries. Through workshops, internships, and career counseling, students are equipped with the skills needed to succeed in competitive job markets. The college's strong industry ties and focused approach ensure a high placement rate, helping students kickstart successful careers post-graduation.</p>
@@ -369,7 +369,7 @@
             <div class="row g-4 justify-content-center">
                 <div class="col-6 col-md-4">
                     <div class="deligacy-card h-100 shadow-sm">
-                        <img src="upload/cultural-1.webp" class="img-fluid w-100 h-100" style="object-fit:cover" alt="Cultural">
+                        <img src="upload/cultural-1.webp" class="img-fluid w-100 h-100" style="object-fit:cover" alt="Cultural" width="auto" height="auto">
                         <div class="position-absolute bottom-0 start-0 w-100 h-20-percent d-flex align-items-center justify-content-center overlay">
               <div class="text-white text-center mt-3">
                 <h4>Cultural Events<br><a href="https://www.gnc.edu.in/cultural" class="btn-sm">Explore More</a></h4>
@@ -379,7 +379,7 @@
                 </div>
                 <div class="col-6 col-md-4">
                     <div class="deligacy-card h-100 shadow-sm">
-                        <img src="upload/sports-1.webp" class="img-fluid w-100 h-100" style="object-fit:cover" alt="Sports">
+                        <img src="upload/sports-1.webp" class="img-fluid w-100 h-100" style="object-fit:cover" alt="Sports" width="auto" height="auto">
                          <div class="position-absolute bottom-0 start-0 w-100 h-20-percent d-flex align-items-center justify-content-center overlay">
               <div class="text-white text-bottom text-center mt-3">
                 <h4 class="text-white">Sports<br><a href="https://www.gnc.edu.in/sport" class=" btn-sm">Explore More</a></h4>
@@ -389,7 +389,7 @@
                 </div>
                 <div class="col-12 col-md-4">
                     <div class="deligacy-card h-100 shadow-sm">
-                        <img src="upload/conferences-1.webp" class="img-fluid w-100 h-100" style="object-fit:cover" alt="Seminars">
+                        <img src="upload/conferences-1.webp" class="img-fluid w-100 h-100" style="object-fit:cover" alt="Seminars" width="auto" height="auto">
                         <div class="position-absolute bottom-0 start-0 w-100 h-20-percent d-flex align-items-center justify-content-center overlay">
               <div class="text-white text-bottom text-center mt-3">
                 <h4 class="text-white">Seminars, Workshops &amp; Conferences<br><a href="#" class="btn-sm">Explore More</a></h4>

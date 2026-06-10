@@ -3,9 +3,9 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College Dehradun, Uttarakhand | National Service Scheme</title>
-    <meta name="description" content="The National Service Scheme (NSS) at Guru Nanak College, Dehradun, is a studentcentered program that operates under the Ministry of Youth Affairs and Sports of the Government of India. The NSS aims to inculcate the spirit of social service and volunteerism among students, encouraging them to actively contribute to the welfare of society.">
-    <link rel="canonical" href="https://gnc.edu.in/vision-mission">
+    <title>Guru Nanak College Dehradun, Uttarakhand | National | GNC</title>
+    <meta name="description" content="The National Service Scheme (NSS) at Guru Nanak College, Dehradun, is a studentcentered program that operates under the Ministry of Youth Affairs and...">
+    <link rel="canonical" href="https://www.gnc.edu.in/vision-mission">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | National Service Scheme" />
@@ -51,7 +51,7 @@
                     <p>NSS activities are carried out through regular camps and ongoing projects. During these programs, student volunteers work actively to bring about social change and development.</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
-                    <img src="upload/nss.webp" alt="NSS Event Image" loading="lazy" class="img-fluid">
+                    <img src="upload/nss.webp" alt="NSS Event Image" loading="lazy" class="img-fluid" width="auto" height="auto">
                     <h2>Objectives:</h2>
                     <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-2">
                         <li>To understand in-depth, the social, economic, geographic, and cultural diverse elements of the nation at large and of one's own community specifically.</li>

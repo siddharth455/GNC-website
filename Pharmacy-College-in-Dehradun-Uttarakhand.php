@@ -3,10 +3,10 @@
 
 <head>
   <link rel="icon" type="image/webp" href="images/logog.webp">
-<title>Guru Nanak College - Best Pharmacy College in Dehradun, Uttarakhand</title>
+<title>Guru Nanak College - Best Pharmacy College in | GNC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Guru Nanak College is the best pharmacy college in Dehradun, Uttarakhand, offers B.Pharm, D.Pharm, Lateral Entry B.Pharm programs approved by PCI & AICTE, affiliated with HNBGU, with 100% placement support."/>
-<link rel="canonical" href="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
+<meta name="description" content="Guru Nanak College is the best pharmacy college in Dehradun, Uttarakhand, offers B.Pharm, D.Pharm, Lateral Entry B.Pharm programs approved by PCI &..."/>
+<link rel="canonical" href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
 <meta name="keywords" content="Best Pharmacy College in Dehradun, Pharmacy College in Uttarakhand" />
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
@@ -431,11 +431,11 @@
                         </div> -->
                         
                         <!-- <div class="hired-at">
-                            <img src="upload/31.webp" alt="KPMG">
+                            <img src="upload/31.webp" alt="KPMG" width="auto" height="auto">
                         </div>
 
                         <div class="student-headshot">
-                            <img src="upload/infra/testi-1.webp" alt="Deepakshi">
+                            <img src="upload/infra/testi-1.webp" alt="Deepakshi" width="auto" height="auto">
                         </div>
                     </div>
                 </div> -->
@@ -452,11 +452,11 @@
                         </div> -->
 
                         <!-- <div class="hired-at">
-                            <img src="upload/35.webp" alt="Logo">
+                            <img src="upload/35.webp" alt="Logo" width="auto" height="auto">
                         </div>
 
                         <div class="student-headshot">
-                            <img src="upload/infra/testi-2.webp" alt="Rahul">
+                            <img src="upload/infra/testi-2.webp" alt="Rahul" width="auto" height="auto">
                         </div>
                     </div>
                 </div>
@@ -1163,13 +1163,13 @@
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="upload/dpt/18.jpg" class="d-block w-100" alt="Brochure Page 1">
+                            <img src="upload/dpt/18.jpg" class="d-block w-100" alt="Brochure Page 1" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/19.jpg" class="d-block w-100" alt="Brochure Page 2">
+                            <img src="upload/dpt/19.jpg" class="d-block w-100" alt="Brochure Page 2" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/20.jpg" class="d-block w-100" alt="Brochure Page 3">
+                            <img src="upload/dpt/20.jpg" class="d-block w-100" alt="Brochure Page 3" width="auto" height="auto">
                         </div>
                     </div>
 

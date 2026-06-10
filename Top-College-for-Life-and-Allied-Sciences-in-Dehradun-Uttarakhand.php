@@ -2,11 +2,10 @@
 <html>
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best College for Life and Allied Sciences in Dehradun, Uttarakhand</title>
+    <title>Best College for Life and Allied Sciences in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content=" Guru Nanak College of Life and Allied Sciences—the premier institution for life sciences education in Dehradun. Our programs blend theoretical knowledge with practical skills,
-     preparing students for impactful careers in fields such as biotechnology, microbiology, and environmental science.">
-    <link rel="canonical" href="https://gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand">
+    <meta name="description" content="Guru Nanak College of Life and Allied Sciences—the premier institution for life sciences education in Dehradun. Our programs blend theoretical...">
+    <link rel="canonical" href="https://www.gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best College for Life and Allied Sciences in Dehradun, Uttarakhand" />
@@ -958,13 +957,13 @@
 
                     <div class="carousel-inner">
                        <div class="carousel-item active">
-                            <img src="upload/dpt/7.jpg" class="d-block w-100" alt="Brochure Page 1">
+                            <img src="upload/dpt/7.jpg" class="d-block w-100" alt="Brochure Page 1" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/8.jpg" class="d-block w-100" alt="Brochure Page 2">
+                            <img src="upload/dpt/8.jpg" class="d-block w-100" alt="Brochure Page 2" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/9.jpg" class="d-block w-100" alt="Brochure Page 3">
+                            <img src="upload/dpt/9.jpg" class="d-block w-100" alt="Brochure Page 3" width="auto" height="auto">
                         </div>
                     </div>
 

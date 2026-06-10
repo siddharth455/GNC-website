@@ -5,7 +5,7 @@
     <title>Top GNM Nursing College in Dehradun | GNC Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, Dehradun's best Nursing & Midway (GNM) institution. With a comprehensive curriculum, experienced faculty, and hands-on clinical training, Guru Nanak College nurtures future nursing professionals ready to make a difference in healthcare.">
-    <link rel="canonical" href="https://gnc.edu.in/best-gnm-college-in-dehradun">
+    <link rel="canonical" href="https://www.gnc.edu.in/best-gnm-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top GNM Nursing College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -949,10 +949,10 @@
   <div class="about-grid" style="max-width:1200px;margin:0 auto;">
     <div class="about-images reveal-left">
       <div class="about-img-main">
-        <img src="upload/infra/gnm-1.JPG" alt="Nursing lab at GNC Dehradun" loading="lazy" />
+        <img src="upload/infra/gnm-1.JPG" alt="Nursing lab at GNC Dehradun" loading="lazy" width="auto" height="auto" />
       </div>
       <div class="about-img-sec">
-        <img src="upload/infra/gnm-2.jpg" alt="Clinical training nurses" loading="lazy" />
+        <img src="upload/infra/gnm-2.jpg" alt="Clinical training nurses" loading="lazy" width="auto" height="auto" />
       </div>
       <div class="about-years reveal-scale delay-3">
         <span>10+</span>
@@ -1129,10 +1129,10 @@
       </div>
       <div class="career-image-stack reveal-right">
         <div class="career-img-a">
-          <img src="upload/infra/gnm-4.jpg" alt="Nursing career opportunities" loading="lazy" />
+          <img src="upload/infra/gnm-4.jpg" alt="Nursing career opportunities" loading="lazy" width="auto" height="auto" />
         </div>
         <div class="career-img-b">
-          <img src="upload/infra/gnm-3.jpg" alt="Nurse at work" loading="lazy" />
+          <img src="upload/infra/gnm-3.jpg" alt="Nurse at work" loading="lazy" width="auto" height="auto" />
         </div>
       </div>
     </div>
@@ -1275,23 +1275,23 @@
   </div>
   <div style="overflow:hidden;">
     <div class="gallery-scroll">
-      <div class="gallery-item"><img src="upload/infra/sports-gnc.webp" alt="College campus" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/plantation.webp" alt="Nursing lab" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/4.webp" alt="Student training" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/5.webp" alt="Healthcare education" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/faq-5.webp" alt="Nursing student" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/gobal.webp" alt="Medical training" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/grad-cerem.webp" alt="Student life" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/dandiya-nights.webp" alt="Campus events" loading="lazy" /></div>
+      <div class="gallery-item"><img src="upload/infra/sports-gnc.webp" alt="College campus" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/plantation.webp" alt="Nursing lab" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/4.webp" alt="Student training" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/5.webp" alt="Healthcare education" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/faq-5.webp" alt="Nursing student" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/gobal.webp" alt="Medical training" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/grad-cerem.webp" alt="Student life" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/dandiya-nights.webp" alt="Campus events" loading="lazy" width="auto" height="auto" /></div>
       <!-- Duplicates for loop -->
-       <div class="gallery-item"><img src="upload/infra/sports-gnc.webp" alt="College campus" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/plantation.webp" alt="Nursing lab" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/4.webp" alt="Student training" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/5.webp" alt="Healthcare education" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/faq-5.webp" alt="Nursing student" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/gobal.webp" alt="Medical training" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/grad-cerem.webp" alt="Student life" loading="lazy" /></div>
-      <div class="gallery-item"><img src="upload/infra/dandiya-nights.webp" alt="Campus events" loading="lazy" /></div>
+       <div class="gallery-item"><img src="upload/infra/sports-gnc.webp" alt="College campus" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/plantation.webp" alt="Nursing lab" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/4.webp" alt="Student training" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/5.webp" alt="Healthcare education" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/faq-5.webp" alt="Nursing student" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/gobal.webp" alt="Medical training" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/grad-cerem.webp" alt="Student life" loading="lazy" width="auto" height="auto" /></div>
+      <div class="gallery-item"><img src="upload/infra/dandiya-nights.webp" alt="Campus events" loading="lazy" width="auto" height="auto" /></div>
     </div>
   </div>
 </section>

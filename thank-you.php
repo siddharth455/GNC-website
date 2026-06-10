@@ -125,19 +125,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="card-box pt-3">
                     <h4>Stay connected with us on social media!<br>Follow us for updates</h4>
                     <div class="icon-social">
-                        <a href="https://www.facebook.com/gncmh" target="_blank" title="facebook"><img src="upload/facebook.webp" alt="Facebook"></i></a>
-                        <a href="https://www.instagram.com/gncdehradun/" title="instagram" target="_blank"><img src="upload/instagram.webp" alt="Instagram"></a>
-                        <a href="https://www.youtube.com/@gncdehradun" title="youtube" target="_blank"><img src="upload/youtube.webp" alt="Youtube"></i></a>
-                        <a href="https://www.linkedin.com/company/gncdehradun/" title="linkedin" target="_blank"><img src="upload/linkedin.webp " alt="Linkedin.webp"></a>
+                        <a href="https://www.facebook.com/gncmh" target="_blank" title="facebook"><img src="upload/facebook.webp" alt="Facebook" width="auto" height="auto"></i></a>
+                        <a href="https://www.instagram.com/gncdehradun/" title="instagram" target="_blank"><img src="upload/instagram.webp" alt="Instagram" width="auto" height="auto"></a>
+                        <a href="https://www.youtube.com/@gncdehradun" title="youtube" target="_blank"><img src="upload/youtube.webp" alt="Youtube" width="auto" height="auto"></i></a>
+                        <a href="https://www.linkedin.com/company/gncdehradun/" title="linkedin" target="_blank"><img src="upload/linkedin.webp " alt="Linkedin.webp" width="auto" height="auto"></a>
                     </div>
                 </div>
 
             </div>
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="card-box pt-3">
-                    <img src="images/logo.webp" alt="Logo">
+                    <img src="images/logo.webp" alt="Logo" width="auto" height="auto">
                     <div class="card-img">
-                        <a href="https://www.gnc.edu.in/"><img src="upload/home-icon.webp" alt="Home icon">
+                        <a href="https://www.gnc.edu.in/"><img src="upload/home-icon.webp" alt="Home icon" width="auto" height="auto">
                             Back to Home Page of GNC</a>
                     </div>
                 </div>

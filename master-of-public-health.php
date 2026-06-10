@@ -3,10 +3,10 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best Master of Hospital Administration College in Dehradun | GNC</title>
+    <title>Best Master of Hospital Administration College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, Dehradun's leading institution for Master of Hospital Administration. With an innovative curriculum, esteemed faculty, and handson learning opportunities, Guru Nanak College prepares future leaders in hospital administration to excel in the healthcare industry.">
-    <link rel="canonical" href="https://gnc.edu.in/master-of-hospital-administration">
+    <link rel="canonical" href="https://www.gnc.edu.in/master-of-hospital-administration">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Master of Hospital Administration College in Dehradun | GNC" />
@@ -847,7 +847,7 @@
                 <div class="mha-image-right">
                     <div class="mha-image-wrapper">
                         <img src="upload/master-of-health-science.webp"
-                            alt="MPH Public Health - Guru Nanak College">
+                            alt="MPH Public Health - Guru Nanak College" width="auto" height="auto">
                     </div>
                 </div>
 
@@ -934,7 +934,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/mph.webp"
-                                class="career-img" alt="Public Health Officer">
+                                class="career-img" alt="Public Health Officer" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Leadership</div>
                                 <h4 class="fw-bold">Public Health Officer</h4>
@@ -946,7 +946,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/mph-epid.webp"
-                                class="career-img" alt="Epidemiologist">
+                                class="career-img" alt="Epidemiologist" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Research</div>
                                 <h4 class="fw-bold">Epidemiologist</h4>
@@ -958,7 +958,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/mph-health.webp"
-                                class="career-img" alt="Policy">
+                                class="career-img" alt="Policy" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Governance</div>
                                 <h4 class="fw-bold">Health Policy Analyst</h4>
@@ -974,7 +974,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/mph-chm.webp"
-                                class="career-img" alt="Community Health">
+                                class="career-img" alt="Community Health" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Community</div>
                                 <h4 class="fw-bold">Community Health Manager</h4>
@@ -1191,7 +1191,7 @@
                         </a>
                         <a data-fancybox href="https://www.youtube.com/watch?v=0tg1fzQAQVo&autoplay=1"
                             class="video-thumb-link">
-                            <img src="https://img.youtube.com/vi/0tg1fzQAQVo/maxresdefault.jpg" alt="Video Thumbnail">
+                            <img src="https://img.youtube.com/vi/0tg1fzQAQVo/maxresdefault.jpg" alt="Video Thumbnail" width="auto" height="auto">
                         </a>
                     </div>
                     <div class="video-promo-content" data-aos="fade-up" data-aos-duration="500">
@@ -1398,7 +1398,7 @@
 <section class="curriculum-section">
     <div class="container">
         <div class="curriculum-visual reveal-left">
-            <img src="images/stude-37.jpeg" alt="MPHCurriculum">
+            <img src="images/stude-37.jpeg" alt="MPHCurriculum" width="auto" height="auto">
             <div class="overlay-card">
                 <h5>Core Focus Areas</h5>
                 <div class="prog">
@@ -1651,7 +1651,7 @@ function showSem(semId, btn) {
 
             <!-- Card 1: Curriculum -->
             <div class="mha-pin-card">
-                <img src="images/gnc-s-25.jpeg" class="mha-pin-img" alt="Library">
+                <img src="images/gnc-s-25.jpeg" class="mha-pin-img" alt="Library" width="auto" height="auto">
                 <div class="mha-pin-body">
                     <span class="mha-pin-tag">Academics</span>
                     <h3 class="mha-pin-title">Advanced Curriculum</h3>
@@ -1679,7 +1679,7 @@ function showSem(semId, btn) {
 
             <!-- Card 4: Clinical Training -->
             <div class="mha-pin-card">
-                <img src="images/stude-116.jpeg" class="mha-pin-img" alt="Residency">
+                <img src="images/stude-116.jpeg" class="mha-pin-img" alt="Residency" width="auto" height="auto">
                 <div class="mha-pin-body">
                     <span class="mha-pin-tag">Real World Exposure</span>
                     <h3 class="mha-pin-title">Clinical Trainings</h3>
@@ -1706,7 +1706,7 @@ function showSem(semId, btn) {
              
 
             <div class="mha-pin-card">
-                <img src="images/gnc-s-9.jpeg" class="mha-pin-img" alt="Lab">
+                <img src="images/gnc-s-9.jpeg" class="mha-pin-img" alt="Lab" width="auto" height="auto">
                 <div class="mha-pin-body">
                     <span class="mha-pin-tag">Nutrition Awareness</span>
                     <h3 class="mha-pin-title">Nutrition Awareness Activity</h3>
@@ -1900,7 +1900,7 @@ function showSem(semId, btn) {
     <div class="gallery-box">
         <!-- 1. Main View -->
         <div class="display-container">
-            <img id="activeImage" src="" alt="Infrastructure">
+            <img id="activeImage" src="" alt="Infrastructure" width="auto" height="auto">
             <div class="caption-bar">
                 <span id="activeCaption"></span>
                 <!-- Navigation Controls inside caption bar -->
@@ -1918,37 +1918,37 @@ function showSem(semId, btn) {
         <!-- 3. Thumbnails -->
         <ul class="thumb-list" id="thumbContainer">
             <li class="thumb-item active" data-caption="Zero Hunger Marathon Awareness Drive">
-                <img src="images/mph-1.jpg" alt="Zero Hunger Marathon Awareness Drive">
+                <img src="images/mph-1.jpg" alt="Zero Hunger Marathon Awareness Drive" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Indoor Sports Competition at College">
-                <img src="images/mph-2.jpg" alt="Indoor Sports Competition at College">
+                <img src="images/mph-2.jpg" alt="Indoor Sports Competition at College" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Live Entertainment at College Cultural Fest">
-                <img src="images/mph-6.webp" alt="Live Entertainment at College Cultural Fest">
+                <img src="images/mph-6.webp" alt="Live Entertainment at College Cultural Fest" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Nutrition Awareness">
-                <img src="images/mph-4.png" alt="Nutrition Awareness">
+                <img src="images/mph-4.png" alt="Nutrition Awareness" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Healthcare Training Lab">
-                <img src="images/mha-lab-1.webp" alt="Healthcare Training Lab">
+                <img src="images/mha-lab-1.webp" alt="Healthcare Training Lab" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Blood Donation Awareness Drive at Government Doon Medical College Hospital, Dehradun.">
-                <img src="images/mph-blood-donation.webp" alt="Blood Donation">
+                <img src="images/mph-blood-donation.webp" alt="Blood Donation" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Sports Excellence">
-                <img src="images/mph-3.jpg" alt="Sports Excellence">
+                <img src="images/mph-3.jpg" alt="Sports Excellence" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="College Cultural Fest">
-                <img src="images/mph-5.jpg" alt="College Cultural Fest">
+                <img src="images/mph-5.jpg" alt="College Cultural Fest" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Pediatric Lab">
-                <img src="images/mph-lab.webp" alt="Pediatric Lab">
+                <img src="images/mph-lab.webp" alt="Pediatric Lab" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Expert Talk Session with Industry Leaders">
-                <img src="images/stude-47.jpeg" alt="Expert Talk Session with Industry Leaders">
+                <img src="images/stude-47.jpeg" alt="Expert Talk Session with Industry Leaders" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Plantation Drive">
-                <img src="upload/infra/plantation.webp" alt="Plantation Drive">
+                <img src="upload/infra/plantation.webp" alt="Plantation Drive" width="auto" height="auto">
             </li>
         </ul>
     </div>
@@ -2008,8 +2008,8 @@ function showSem(semId, btn) {
             <div class="why-choose-us-layout">
                 <div class="why-choose-us-images">
                     <div class="image-stack">
-                        <img src="images/gnc-s-75.jpeg" alt="GNC Student 1" class="stack-img img-1">
-                        <img src="images/mph-9.webp" alt="GNC Student 2" class="stack-img img-2">
+                        <img src="images/gnc-s-75.jpeg" alt="GNC Student 1" class="stack-img img-1" width="auto" height="auto">
+                        <img src="images/mph-9.webp" alt="GNC Student 2" class="stack-img img-2" width="auto" height="auto">
                     </div>
                 </div>
                 <div class="why-choose-us-content">
@@ -2711,7 +2711,7 @@ function showSem(semId, btn) {
             <!-- Step 1 -->
             <div class="step-content active">
                 <div class="step-left">
-                    <img src="images/step-1.jpg" alt="GNC Signup">
+                    <img src="images/step-1.jpg" alt="GNC Signup" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 1 – Signup</h6>
@@ -2722,7 +2722,7 @@ function showSem(semId, btn) {
             <!-- Step 2 -->
             <div class="step-content">
                 <div class="step-left">
-                    <img src="images/step-2.jpg" alt="GNC Application">
+                    <img src="images/step-2.jpg" alt="GNC Application" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 2 – Application Form</h6>
@@ -2733,7 +2733,7 @@ function showSem(semId, btn) {
             <!-- Step 3 -->
             <div class="step-content">
                 <div class="step-left">
-                    <img src="images/step-3.webp" alt="GNC Admission">
+                    <img src="images/step-3.webp" alt="GNC Admission" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 3 – Admission</h6>

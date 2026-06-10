@@ -5,8 +5,8 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Best B.Sc Food Technology College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover Guru Nanak College, the leading B.Sc. Food Technology institution in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and state-of-theart facilities, Guru Nanak College prepares students to excel in the dynamic field of food technology.">
-    <link rel="canonical" href="https://gnc.edu.in/bsc-food-technology">
+    <meta name="description" content="Discover Guru Nanak College, the leading B.Sc. Food Technology institution in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert...">
+    <link rel="canonical" href="https://www.gnc.edu.in/bsc-food-technology">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun"/>
@@ -415,7 +415,7 @@
                         for ($i = 31; $i <= 63; $i++) {
                             $imgNum = ($i == 53) ? 32 : $i; 
                             echo '<div class="gnc-mb-recruit-item">
-                                    <img src="upload/' . $imgNum . '.webp" alt="Guru Nanak College Recruitments" loading="lazy">
+                                    <img src="upload/' . $imgNum . '.webp" alt="Guru Nanak College Recruitments" loading="lazy" width="auto" height="auto">
                                   </div>';
                         }
                         ?>
@@ -430,7 +430,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="gnc-mb-main-img position-relative">
-                        <img src="images/food-tech.webp" alt="Department big side image">
+                        <img src="images/food-tech.webp" alt="Department big side image" width="auto" height="auto">
                     </div>                 
                 </div>
                 <div class="col-lg-6 d-flex align-items-center">
@@ -908,15 +908,15 @@
 
             <div class="gnc-forestry-mosaic-col">
                 <div class="mosaic-tall">
-                    <img src="images/food-tech-5.webp" alt="Food Technology">
+                    <img src="images/food-tech-5.webp" alt="Food Technology" width="auto" height="auto">
                 </div>
 
                 <div class="mosaic-stacked">
                     <div class="mosaic-square">
-                        <img src="images/food-tech-4.webp" alt="Lab Session">
+                        <img src="images/food-tech-4.webp" alt="Lab Session" width="auto" height="auto">
                     </div>
                     <div class="mosaic-square">
-                        <img src="images/stude-52.jpeg" alt="Student Group">
+                        <img src="images/stude-52.jpeg" alt="Student Group" width="auto" height="auto">
                     </div>
                 </div>
             </div>
@@ -944,47 +944,47 @@
                     <div class="col-lg-7">
                         <div class="gnc-mb-partners gnc-mb-partner-slider h-100">
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (1).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (1).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (2).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (2).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div> 
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (3).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (3).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div> 
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (4).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (4).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div> 
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (5).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (5).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (6).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (6).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div> 
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (7).webp" alt="Partner University">
+                                <img src="upload/Corporate-Partners/cp (7).webp" alt="Partner University" width="auto" height="auto">
                             </div>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (8).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (8).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (9).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (9).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (10).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (10).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (35).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (35).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (37).webp" alt="Partner University">                                    
+                                <img src="upload/Corporate-Partners/cp (37).webp" alt="Partner University" width="auto" height="auto">                                    
                             </div>
                             
                         </div>
                     </div>
                     <div class="col-lg-5">
                         <div class="gnc-mb-exchange-img position-relative h-100">
-                            <img src="images/food-tech-3.webp" alt="Lab" class="w-100 h-100 object-fit-cover">
+                            <img src="images/food-tech-3.webp" alt="Lab" class="w-100 h-100 object-fit-cover" width="auto" height="auto">
                         </div>
                     </div>
                 </div>

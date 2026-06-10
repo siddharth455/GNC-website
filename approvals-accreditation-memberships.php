@@ -196,11 +196,11 @@
     <!-- <div class="logo-bar text-center">
         <div class="container">
             <div class="d-flex flex-wrap justify-content-center align-items-center">
-                <img src="images/aicte-logo-1.webp" alt="AICTE">
-                <img src="images/ugc.webp" alt="UGC">
-                <img src="images/pci.jpeg" alt="PCI">
-                <img src="upload/infra/inc-logo.png" alt="INC">
-                <img src="images/utu.webp" alt="UTU">
+                <img src="images/aicte-logo-1.webp" alt="AICTE" width="auto" height="auto">
+                <img src="images/ugc.webp" alt="UGC" width="auto" height="auto">
+                <img src="images/pci.jpeg" alt="PCI" width="auto" height="auto">
+                <img src="upload/infra/inc-logo.png" alt="INC" width="auto" height="auto">
+                <img src="images/utu.webp" alt="UTU" width="auto" height="auto">
             </div>
         </div>
     </div> -->
@@ -212,7 +212,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/aicte-logo-1.webp" alt="AICTE">
+                            <img src="images/aicte-logo-1.webp" alt="AICTE" width="auto" height="auto">
                         </div>
                         <h3>All India Council for Technical Education</h3>
                         <p>AICTE which is also known as All India Council for Technical Education was organised in 1945. This organization is a national level organization which works as an advisory organization. The statutory of AICTE was made on May 12th, 1988. This establishment was done with a vision of proper coordination and planning for the development of the education system across the country. It also takes care of norms and standards.</p>
@@ -222,7 +222,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/ugc.webp" alt="UGC">
+                            <img src="images/ugc.webp" alt="UGC" width="auto" height="auto">
                         </div>
                         <h3>University Grants Commission</h3>
                         <p>The University Grants Commission (UGC), founded in 1956, is a statutory body overseeing higher education in India. Based in New Delhi, it ensures academic standards, recognizes universities, and allocates funds. The UGC promotes research, quality assurance, and development in education. It also frames regulations and monitors accreditation to maintain excellence in higher education institutions across the country.</p>
@@ -232,7 +232,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/msme.webp" alt="MSME">
+                            <img src="images/msme.webp" alt="MSME" width="auto" height="auto">
                         </div>
                         <h3>Ministry of MSME</h3>
                         <p>The Ministry of Micro, Small, and Medium Enterprises (MSME) in India aims to promote and develop the MSME sector. It supports the growth of small businesses through financial assistance, training, technology, and market access. The ministry works to enhance the sector's contribution to employment, innovation, and overall economic development.</p>
@@ -242,7 +242,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/HNBGMU.webp" alt="HNBGU">
+                            <img src="images/HNBGMU.webp" alt="HNBGU" width="auto" height="auto">
                         </div>
                         <h3>HNB Garhwal University</h3>
                         <p>Hemvati Nandan Bahuguna Garhwal University (HNBGU) is a public university located in Uttarakhand, India. Established in 1973, it offers undergraduate, postgraduate, and doctoral programs across various disciplines. Known for its scenic campus in the Garhwal region, the university focuses on research, higher education, and community development, contributing to the socio-economic growth of the region.</p>
@@ -252,7 +252,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/pci.jpeg" alt="PCI">
+                            <img src="images/pci.jpeg" alt="PCI" width="auto" height="auto">
                         </div>
                         <h3>Pharmacy Council of India</h3>
                         <p>The Pharmacy Council of India (PCI) is a statutory body under the Ministry of Health and Family Welfare, responsible for regulating pharmacy education and practice in India. Established in 1948, PCI ensures the standardization of pharmacy education, licensing of pharmacists, and the promotion of ethical practices in the pharmaceutical industry, safeguarding public health and safety.</p>
@@ -262,7 +262,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/UBTER.webp" alt="UBTER">
+                            <img src="images/UBTER.webp" alt="UBTER" width="auto" height="auto">
                         </div>
                         <h3>Uttarakhand Board of Technical Education</h3>
                         <p>Uttarakhand Board of Technical Education has been set up by Act no 27 of 2003. This set up was done by Uttarakhand legislative assembly approved by the governor on January 13 th, 2004. This was notified on January 15 th, 2004. It provides assistance for the constitution and establishment of Board of Technical Education in Uttarakhand.</p>
@@ -272,7 +272,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper" >
-                            <img src="images/utu.webp" alt="UTU">
+                            <img src="images/utu.webp" alt="UTU" width="auto" height="auto">
                         </div>
                         <h3>Uttarakhand Technical University</h3>
                         <p>Uttarakhand Technical University (UTU), established in 2005, is located in Dehradun, India. It offers undergraduate, postgraduate, and doctoral programs in engineering, management, computer science, and other technical fields. UTU aims to provide high-quality education, research, and industry collaboration, fostering innovation and skill development. It plays a key role in the state's technological and industrial growth.</p>
@@ -282,7 +282,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="upload/infra/iap-logo.jpeg" alt="IAP">
+                            <img src="upload/infra/iap-logo.jpeg" alt="IAP" width="auto" height="auto">
                         </div>
                         <h3>Indian Association of Physiotherapists</h3>
                         <p>Guru Nanak College is affiliated with the Indian Association of Physiotherapists (IAP), a government-recognized national body established in 1962 and registered under the Societies Registration Act. This affiliation ensures our physiotherapy program meets the professional standards set by IAP and is recognized nationally and internationally.The IAP is a registered organization under the Societies Registration Act XXI of 1860 (Registration No. S-2339), established in 1962, and is officially recognized by the Government of India.</p>
@@ -292,7 +292,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="upload/infra/inc-logo.png" alt="INC">
+                            <img src="upload/infra/inc-logo.png" alt="INC" width="auto" height="auto">
                         </div>
                         <h3>The Indian Nursing Council</h3>
                         <p>Guru Nanak College is recognized by the Indian Nursing Council (INC), New Delhi, a statutory body constituted under the Indian Nursing Council Act, 1947 (Act No. XLVIII of 1947), for the regulation and maintenance of standards of nursing education and training in India. The college’s nursing programs are approved in accordance with the guidelines and norms laid down by INC, ensuring compliance with national standards of professional education and practice. The recognition grants our students eligibility for registration and practice across India and abroad.</p>
@@ -302,7 +302,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
-                            <img src="images/sdsuu.webp" alt="SDSUU">
+                            <img src="images/sdsuu.webp" alt="SDSUU" width="auto" height="auto">
                         </div>
                         <h3>Sri Dev Suman Uttarakhand University</h3>
                         <p>Sri Dev Suman Uttarakhand University is established as a State University of Uttarakhand vide Sate Government notification No 270/XXXVI(3)/2012/48(1)/2012 dtd 19th October, 2012 in continuation to amendment of erstwhile Pt Deen Dayal Upadhyay Uttarakhand Vishwavidhyalaya Act. 2011 (Uttarakhand Act No 22 of 2011) as notified by State Government vide No 357/XXXVI(3)/201 1/57(1)/2010 dated 4th November, 2011.</p>

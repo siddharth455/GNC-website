@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Master Program After Graduation | Guru Nanak College Dehradun</title>
+    <title>Master Program After Graduation | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Elevate your career with Job Oriented Master Programs at GNC Dehradun. Specialized postgraduate courses in Paramedical, Life Sciences, and Agriculture.">
     
@@ -283,7 +283,7 @@
                     <p style="margin-top: 30px; font-style: italic; color: #555;">We cherish the ideals of providing value-based technical education that would enable our students to achieve empowerment, problem-solving skills, and innovation.</p>
                 </div>
                 <div class="standout-image">
-                    <img src="upload/gncmh-scaled.webp" alt="GNC Standout">
+                    <img src="upload/gncmh-scaled.webp" alt="GNC Standout" width="auto" height="auto">
                 </div>
             </div>
         </div>

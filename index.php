@@ -3,9 +3,9 @@
 
 <head>
  <title>Guru Nanak College - Best College in Dehradun, Uttarakhand</title>
-  <meta name="description" content="Guru Nanak College is the best college in Dehradun, Uttarakhand, offers Nursing, Pharmacy, Paramedical, Agriculture, BCA, BBA, B.Tech, Life Sciences, Hotel Management, diploma programs & more." />
+  <meta name="description" content="Guru Nanak College is the best college in Dehradun, Uttarakhand, offers Nursing, Pharmacy, Paramedical, Agriculture, BCA, BBA, B.Tech, Life Sciences,..." />
   <meta name="keywords" content="Best College in Dehradun, Guru Nanak College Dehradun" />
-  <link rel="canonical" href="https://gnc.edu.in/">
+  <link rel="canonical" href="https://www.gnc.edu.in/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/webp" href="images/logog.webp">
   <meta property="og:locale" content="en_US" />
@@ -412,17 +412,17 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
       <div class="row align-items-center">
         <div class="col-md-6 text-center mb-4 mb-md-0">
           <div class="accreditation-circle" id="accreditationCircle">
-            <img src="images/logo.webp" class="center-logo" alt="College Logo" />
-            <img src="images/HNBGMU.webp" class="circle-logo" alt="HNBGMU" />
-            <img src="images/msme.webp" class="circle-logo" alt="Msme" />
-            <img src="images/pci.jpeg" class="circle-logo" alt="Pci" />
-            <img src="images/sdsuu.webp" class="circle-logo" alt="Sdsuu" />
-            <img src="images/UBTER.webp" class="circle-logo" alt="UBTER" />
-            <img src="images/ugc.webp" class="circle-logo" alt="Ugc" />
-            <img src="images/Uttarakhand_Technical_University_logo.webp" class="circle-logo" alt="Uttarakhand Technical University logo" />
-            <img src="images/Aicte-logo.webp" class="circle-logo" alt="Aicte logo" />
-            <img src="upload/infra/iap-logo.jpeg" class="circle-logo" alt="Iap logo" />
-            <img src="upload/infra/inc-logo.png" class="circle-logo" alt="Inc logo" />
+            <img src="images/logo.webp" class="center-logo" alt="College Logo" width="auto" height="auto" />
+            <img src="images/HNBGMU.webp" class="circle-logo" alt="HNBGMU" width="auto" height="auto" />
+            <img src="images/msme.webp" class="circle-logo" alt="Msme" width="auto" height="auto" />
+            <img src="images/pci.jpeg" class="circle-logo" alt="Pci" width="auto" height="auto" />
+            <img src="images/sdsuu.webp" class="circle-logo" alt="Sdsuu" width="auto" height="auto" />
+            <img src="images/UBTER.webp" class="circle-logo" alt="UBTER" width="auto" height="auto" />
+            <img src="images/ugc.webp" class="circle-logo" alt="Ugc" width="auto" height="auto" />
+            <img src="images/Uttarakhand_Technical_University_logo.webp" class="circle-logo" alt="Uttarakhand Technical University logo" width="auto" height="auto" />
+            <img src="images/Aicte-logo.webp" class="circle-logo" alt="Aicte logo" width="auto" height="auto" />
+            <img src="upload/infra/iap-logo.jpeg" class="circle-logo" alt="Iap logo" width="auto" height="auto" />
+            <img src="upload/infra/inc-logo.png" class="circle-logo" alt="Inc logo" width="auto" height="auto" />
           </div>
         </div>
         <div class="col-md-6">
@@ -558,11 +558,11 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
     <div class="swiper events-slider">
       <div class="swiper-wrapper">
         <div class="swiper-slide events-slide">
-          <img src="upload/infra/awards.webp" alt="Cultural Event" class="events-image">
+          <img src="upload/infra/awards.webp" alt="Cultural Event" class="events-image" width="auto" height="auto">
           <div class="events-overlay">
             <div class="events-overlay-inner">
               <div class="events-logo">
-                <img src="images/logo.webp" alt="Event Logo" class="events-logo-img">
+                <img src="images/logo.webp" alt="Event Logo" class="events-logo-img" width="auto" height="auto">
               </div>
               <div class="events-text">
                 <h2>Save the Himalayas Awards</h2>
@@ -572,11 +572,11 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
           </div>
         </div>
         <div class="swiper-slide events-slide">
-          <img src="upload/infra/dandiya-nights.webp" alt="Sports Meet" class="events-image">
+          <img src="upload/infra/dandiya-nights.webp" alt="Sports Meet" class="events-image" width="auto" height="auto">
           <div class="events-overlay">
             <div class="events-overlay-inner">
               <div class="events-logo">
-                <img src="images/logo.webp" alt="Event Logo" class="events-logo-img">
+                <img src="images/logo.webp" alt="Event Logo" class="events-logo-img" width="auto" height="auto">
               </div>
               <div class="events-text">
                 <h2>Garba & Dandiya Night</h2>
@@ -586,11 +586,11 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
           </div>
         </div>
         <div class="swiper-slide events-slide">
-          <img src="upload/infra/blood-donation.webp" alt="Tech Fest" class="events-image">
+          <img src="upload/infra/blood-donation.webp" alt="Tech Fest" class="events-image" width="auto" height="auto">
           <div class="events-overlay">
             <div class="events-overlay-inner">
               <div class="events-logo">
-                <img src="images/logo.webp" alt="Event Logo" class="events-logo-img">
+                <img src="images/logo.webp" alt="Event Logo" class="events-logo-img" width="auto" height="auto">
               </div>
               <div class="events-text">
                 <h2>Blood Donation Camp</h2>
@@ -600,11 +600,11 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
           </div>
         </div>
         <div class="swiper-slide events-slide">
-          <img src="upload/infra/plantation.webp" alt="Music Night" class="events-image">
+          <img src="upload/infra/plantation.webp" alt="Music Night" class="events-image" width="auto" height="auto">
           <div class="events-overlay">
             <div class="events-overlay-inner">
               <div class="events-logo">
-                <img src="images/logo.webp" alt="Event Logo" class="events-logo-img">
+                <img src="images/logo.webp" alt="Event Logo" class="events-logo-img" width="auto" height="auto">
               </div>
               <div class="events-text">
                 <h2>Go Green Initiative</h2>
@@ -807,35 +807,35 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
       <div class="accordion-menu accordion-menu-left"></div>
       <div class="accordion-content-area">
         <div class="accordion-panel active from-left" id="panel5">
-          <img src="upload/infra/gobal.webp" alt="Students in a multicultural setting">
+          <img src="upload/infra/gobal.webp" alt="Students in a multicultural setting" width="auto" height="auto">
           <div class="accordion-overlay">
             <h2>Connecting Minds, Creating Futures</h2>
             <p>Empowering students through global partnerships, cultural exchange, and collaborative learning beyond boundaries.</p>
           </div>
         </div>
         <div class="accordion-panel from-right" id="panel4">
-          <img src="upload/infra/sports.webp" alt="Business professionals collaborating">
+          <img src="upload/infra/sports.webp" alt="Business professionals collaborating" width="auto" height="auto">
           <div class="accordion-overlay">
             <h2>Fueling Champions, On and Off the Field</h2>
             <p>Encouraging teamwork, discipline, and excellence through vibrant sports and fitness activities.</p>
           </div>
         </div>
         <div class="accordion-panel from-left" id="panel3">
-          <img src="upload/infra/placement.webp" alt="Two students looking at notes">
+          <img src="upload/infra/placement.webp" alt="Two students looking at notes" width="auto" height="auto">
           <div class="accordion-overlay">
             <h2>Your Pathway to Professional Success</h2>
             <p>Empowering students with skills, confidence, and connections to excel in the professional world.</p>
           </div>
         </div>
         <div class="accordion-panel from-right" id="panel2">
-          <img src="Upload/infra/innovative.webp" alt="Student using a computer in a modern lab">
+          <img src="Upload/infra/innovative.webp" alt="Student using a computer in a modern lab" width="auto" height="auto">
           <div class="accordion-overlay">
             <h2>Think. Create. Innovate.</h2>
             <p>Fostering a culture of creativity and critical thinking through modern, experiential learning.</p>
           </div>
         </div>
         <div class="accordion-panel from-left" id="panel1">
-          <img src="upload/infra/convocation.webp" alt="Group of diverse students">
+          <img src="upload/infra/convocation.webp" alt="Group of diverse students" width="auto" height="auto">
           <div class="accordion-overlay">
             <h2>Moments Turned Milestones</h2>
             <p>Celebrating achievements, memories, and the spirit that defines every Guru Nanak College journey.</p>
@@ -1537,26 +1537,26 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
           <div class="placement-slide">
             <div class="placement-group">
               <div class="placement-card">
-                <img src="upload/infra/placement-1.webp" alt="Harsh Vardhan">
+                <img src="upload/infra/placement-1.webp" alt="Harsh Vardhan" width="auto" height="auto">
               </div>
               <div class="placement-card">
-                <img src="upload/infra/placement-2.webp" alt="Shanya Trehan">
-              </div>
-            </div>
-            <div class="placement-group">
-              <div class="placement-card">
-                <img src="upload/infra/placement-3.webp" alt="Another Student">
-              </div>
-              <div class="placement-card">
-                <img src="upload/infra/placement-4.webp" alt="Shanya Trehan">
+                <img src="upload/infra/placement-2.webp" alt="Shanya Trehan" width="auto" height="auto">
               </div>
             </div>
             <div class="placement-group">
               <div class="placement-card">
-                <img src="upload/infra/placement-5.webp" alt="Shanya Trehan">
+                <img src="upload/infra/placement-3.webp" alt="Another Student" width="auto" height="auto">
               </div>
               <div class="placement-card">
-                <img src="upload/infra/placement-6.webp" alt="Shanya Trehan">
+                <img src="upload/infra/placement-4.webp" alt="Shanya Trehan" width="auto" height="auto">
+              </div>
+            </div>
+            <div class="placement-group">
+              <div class="placement-card">
+                <img src="upload/infra/placement-5.webp" alt="Shanya Trehan" width="auto" height="auto">
+              </div>
+              <div class="placement-card">
+                <img src="upload/infra/placement-6.webp" alt="Shanya Trehan" width="auto" height="auto">
               </div>
             </div>
           </div>
@@ -1935,41 +1935,41 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
       <h3>Bridging The Gap By Aligning With The Industry</h3>
       <div class="row text-center">
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/practice.webp" alt="Training & Placements" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/practice.webp" alt="Training & Placements" loading="lazy" decoding="async" width="50" height="auto"><br>
           Training & Placements
         </div>
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/integration.webp" alt="Work Integrated Programs" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/integration.webp" alt="Work Integrated Programs" loading="lazy" decoding="async" width="50" height="auto"><br>
           Work Integrated Programs
         </div>
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/industrial.webp" alt="Industry Collaborations" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/industrial.webp" alt="Industry Collaborations" loading="lazy" decoding="async" width="50" height="auto"><br>
           Industry Collaborations
         </div>
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/outstanding.webp" alt="Centers of Excellence" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/outstanding.webp" alt="Centers of Excellence" loading="lazy" decoding="async" width="50" height="auto"><br>
           Centers of Excellence
         </div>
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/users.webp" alt="Executive Development Programs" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/users.webp" alt="Executive Development Programs" loading="lazy" decoding="async" width="50" height="auto"><br>
           Executive Development Programs
         </div>
       </div>
       <div class="row text-center mt-3">
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/community_1.webp" alt="Industry Visits" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/community_1.webp" alt="Industry Visits" loading="lazy" decoding="async" width="50" height="auto"><br>
           Industry Visits
         </div>
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/building_1.webp" alt="Industry Advisory Board" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/building_1.webp" alt="Industry Advisory Board" loading="lazy" decoding="async" width="50" height="auto"><br>
           Industry Advisory Board
         </div>
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/creative-team.webp" alt="Career Competencies" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/creative-team.webp" alt="Career Competencies" loading="lazy" decoding="async" width="50" height="auto"><br>
           Career Competencies
         </div>
         <div class="col-md-2 mt-3">
-          <img src="upload/infra/document.webp" alt="Skill Development" loading="lazy" decoding="async" width="50"><br>
+          <img src="upload/infra/document.webp" alt="Skill Development" loading="lazy" decoding="async" width="50" height="auto"><br>
           Skill Development
         </div>
       </div>
@@ -1987,7 +1987,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
         // Echo the image HTML structure
         echo '<div class="topCompaniesLogo-slider">
                 <div class="logo-img-company" aria-hidden="true" tabindex="-1">
-                <img class="lazy-img" src="' . $imageSrc . '" alt="gnc top Recruiter patner">
+                <img class="lazy-img" src="' . $imageSrc . '" alt="gnc top Recruiter patner" width="auto" height="auto">
                 </div>
                 </div>';
       }
@@ -2440,7 +2440,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-1.webp" alt="Faq 1">
+              <img src="upload/infra/faq-1.webp" alt="Faq 1" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -2467,7 +2467,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-2.webp" alt="Faq 2">
+              <img src="upload/infra/faq-2.webp" alt="Faq 2" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -2493,7 +2493,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-3.webp" alt="Faq 3">
+              <img src="upload/infra/faq-3.webp" alt="Faq 3" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -2518,7 +2518,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-4.webp" alt="Faq 4">
+              <img src="upload/infra/faq-4.webp" alt="Faq 4" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -2543,7 +2543,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             </div>
 
             <div class="why-img">
-              <img src="upload/infra/faq-5.webp" alt="Faq 5">
+              <img src="upload/infra/faq-5.webp" alt="Faq 5" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -2746,7 +2746,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="row">
               <div class="col-md-6 text-end">
                 <div class="facDp br-20 d-inline-block me-3">
-                  <img src="upload/infra/leaderships-1.webp" alt="MR. JOGINDER SINGH ARORA" loading="lazy" decoding="async">
+                  <img src="upload/infra/leaderships-1.webp" alt="MR. JOGINDER SINGH ARORA" loading="lazy" decoding="async" width="auto" height="auto">
                 </div>
               </div>
               <div class="col-md-6">
@@ -2767,7 +2767,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="row">
               <div class="col-md-6 text-end">
                 <div class="facDp br-20 d-inline-block me-3">
-                  <img src="upload/infra/leaderships-2.webp" alt="RAJENDRA KAUR ARORA" loading="lazy" decoding="async">
+                  <img src="upload/infra/leaderships-2.webp" alt="RAJENDRA KAUR ARORA" loading="lazy" decoding="async" width="auto" height="auto">
                 </div>
               </div>
               <div class="col-md-6">
@@ -2788,7 +2788,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="row">
               <div class="col-md-6 text-end">
                 <div class="facDp br-20 d-inline-block me-3">
-                  <img src="upload/infra/leaderships-3.webp" alt="MR. BHUPINDER SINGH ARORA" loading="lazy" decoding="async">
+                  <img src="upload/infra/leaderships-3.webp" alt="MR. BHUPINDER SINGH ARORA" loading="lazy" decoding="async" width="auto" height="auto">
                 </div>
               </div>
               <div class="col-md-6">
@@ -2809,7 +2809,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="row">
               <div class="col-md-6 text-end">
                 <div class="facDp br-20 d-inline-block me-3">
-                  <img src="upload/infra/leaderships-4.webp" alt="MRs. VINEET ARORA" loading="lazy" decoding="async">
+                  <img src="upload/infra/leaderships-4.webp" alt="MRs. VINEET ARORA" loading="lazy" decoding="async" width="auto" height="auto">
                 </div>
               </div>
               <div class="col-md-6">
@@ -2830,7 +2830,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="row">
               <div class="col-md-6 text-end">
                 <div class="facDp br-20 d-inline-block me-3">
-                  <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA" loading="lazy" decoding="async">
+                  <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA" loading="lazy" decoding="async" width="auto" height="auto">
                 </div>
               </div>
               <div class="col-md-6">
@@ -2851,7 +2851,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="row">
               <div class="col-md-6 text-end">
                 <div class="facDp br-20 d-inline-block me-3">
-                  <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR" loading="lazy" decoding="async">
+                  <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR" loading="lazy" decoding="async" width="auto" height="auto">
                 </div>
               </div>
               <div class="col-md-6">
@@ -2870,22 +2870,22 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">
-          <img src="upload/infra/leaderships-1.webp" alt="MR. JOGINDER SINGH ARORA" loading="lazy" decoding="async">
+          <img src="upload/infra/leaderships-1.webp" alt="MR. JOGINDER SINGH ARORA" loading="lazy" decoding="async" width="auto" height="auto">
         </button>
         <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="1" aria-label="Slide 2">
-          <img src="upload/infra/leaderships-2.webp" alt="Mrs. RAJENDRA KAUR ARORA" loading="lazy" decoding="async">
+          <img src="upload/infra/leaderships-2.webp" alt="Mrs. RAJENDRA KAUR ARORA" loading="lazy" decoding="async" width="auto" height="auto">
         </button>
         <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="2" aria-label="Slide 3">
-          <img src="upload/infra/leaderships-3.webp" alt="MR. BHUPINDER SINGH ARORA" loading="lazy" decoding="async">
+          <img src="upload/infra/leaderships-3.webp" alt="MR. BHUPINDER SINGH ARORA" loading="lazy" decoding="async" width="auto" height="auto">
         </button>
         <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="3" aria-label="Slide 4">
-          <img src="upload/infra/leaderships-4.webp" alt="Mrs. VINEET ARORA" loading="lazy" decoding="async">
+          <img src="upload/infra/leaderships-4.webp" alt="Mrs. VINEET ARORA" loading="lazy" decoding="async" width="auto" height="auto">
         </button>
         <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="4" aria-label="Slide 5">
-          <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA" loading="lazy" decoding="async">
+          <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA" loading="lazy" decoding="async" width="auto" height="auto">
         </button>
         <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="5" aria-label="Slide 6">
-          <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR" loading="lazy" decoding="async">
+          <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR" loading="lazy" decoding="async" width="auto" height="auto">
         </button>
       </div>
     </div>

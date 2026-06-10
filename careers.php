@@ -4,7 +4,7 @@
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Career Opportunities at - Guru Nanak College Dehradun</title>
-    <link rel="canonical" href="https://gnc.edu.in/careers">
+    <link rel="canonical" href="https://www.gnc.edu.in/careers">
     <style>
         .kingster-page-title-wrap {
             position: relative;
@@ -231,7 +231,7 @@
 <body>
     <?php require "common/header.php" ?>
     <div class="kingster-page-title-wrap">
-        <img src="upload/join-wirh-us.webp" id="shakableImage" alt="Shakable Image" loading="lazy">
+        <img src="upload/join-wirh-us.webp" id="shakableImage" alt="Shakable Image" loading="lazy" width="auto" height="auto">
     </div>
     <section style="background: url('upload/office.webp'); background-repeat: no-repeat; background-size: cover;">
         <div class="vison-sec text-white pt-5 pb-5">
@@ -293,7 +293,7 @@
                 <div class="col-md-4">
                     <div class="job-thumb">
                         <div class="in-center">
-                            <img src="upload/user-icon.webp" alt="user" loading="lazy">
+                            <img src="upload/user-icon.webp" alt="user" loading="lazy" width="auto" height="auto">
                             <h5>Academic Job Opportunities</h5>
                         </div>
                     </div>
@@ -301,7 +301,7 @@
                 <div class="col-md-4">
                     <div class="job-thumb">
                         <div class="in-center">
-                            <img src="upload/user-icon2.webp" alt="user" loading="lazy">
+                            <img src="upload/user-icon2.webp" alt="user" loading="lazy" width="auto" height="auto">
                             <h5>Administrative<br>Jobs Opening</h5>
                         </div>
                     </div>
@@ -309,7 +309,7 @@
                 <div class="col-md-4">
                     <div class="job-thumb">
                         <div class="in-center">
-                            <img src="upload/user-icon3.webp" alt="user" loading="lazy">
+                            <img src="upload/user-icon3.webp" alt="user" loading="lazy" width="auto" height="auto">
                             <h5>Career Paths in Leadership</h5>
                         </div>
                     </div>

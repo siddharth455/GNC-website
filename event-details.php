@@ -354,7 +354,7 @@ if (isset($current_event['gallery']) && !empty($current_event['gallery'])) {
         if (!filter_var($g_img, FILTER_VALIDATE_URL) && strpos($g_img, '/') !== 0) {
             $g_img = $base_url . $g_img;
         }
-        echo "<div class='gallery-img'><img src='{$g_img}' alt='Gallery Image' loading='lazy'></div>";
+        echo "<div class='gallery-img'><img src='{$g_img}' alt='Gallery Image' loading='lazy' width="auto" height="auto"></div>";
     }
 }
 else {

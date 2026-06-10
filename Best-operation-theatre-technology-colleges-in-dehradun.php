@@ -5,8 +5,8 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Best Operation Theatre Technology College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Enroll in the leading Bachelor of Operation Theatre Technology program at Guru Nanak College in Dehradun, Uttarakhand. With advanced training, expert faculty, and hands-on experience, GNC prepares students for rewarding careers in surgical and OT support.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun">
+    <meta name="description" content="Enroll in the leading Bachelor of Operation Theatre Technology program at Guru Nanak College in Dehradun, Uttarakhand. With advanced training, expert...">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Operation Theatre Technology College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -1081,7 +1081,7 @@
             <div class="col-lg-6 bmr-reveal">
                 <div class="gnc-benefits-card bmr-item">
                     <div class="benefits-image-wrapper">
-                        <img src="upload/infra/ott.webp" alt="Operation Theatre Training">
+                        <img src="upload/infra/ott.webp" alt="Operation Theatre Training" width="auto" height="auto">
                         <div class="benefits-overlay">
                             <h3 class="fw-bold">Why GNC for BOTT?</h3>
                         </div>
@@ -1115,7 +1115,7 @@
             
             <div class="col-lg-4 student-image-col">
                 <div class="red-vertical-bar"></div>
-                <img src="upload/infra/student-1.webp" alt="GNC BOTT Students" class="student-img-cutout">
+                <img src="upload/infra/student-1.webp" alt="GNC BOTT Students" class="student-img-cutout" width="auto" height="auto">
             </div>
     
            

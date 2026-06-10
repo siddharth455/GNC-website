@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
      <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Top BBA College in Dehradun – BBA Admission 2026 | Guru Nanak College</title>
+    <title>Top BBA College in Dehradun – BBA Admission 2026 | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Study at the top BBA college in Dehradun. Guru Nanak College offers industry-focused BBA program, affordable fees, scholarships, and 100% placement training. Admissions open 2026.">
-    <link rel="canonical" href="https://gnc.edu.in/best-bba-college-in-dehradun">
+    <meta name="description" content="Study at the top BBA college in Dehradun. Guru Nanak College offers industry-focused BBA program, affordable fees, scholarships, and 100% placement...">
+    <link rel="canonical" href="https://www.gnc.edu.in/best-bba-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta name="keywords" content="BBA college in Dehradun, best BBA college in Dehradun, BBA admission Dehradun, BBA course Dehradun, BBA fees Dehradun"/>
     <meta property="og:type" content="website"/>
@@ -417,7 +417,7 @@
                     </a>
                 </div>
                 <div class="gnc-bba-partners">
-                    <img src="images/logo.webp" alt="GNC Logo">
+                    <img src="images/logo.webp" alt="GNC Logo" width="auto" height="auto">
                     <div style="border-left: 1px solid rgba(255,255,255,0.3); height: 50px;"></div>
                     
                 </div>
@@ -454,7 +454,7 @@
                             <div class="col-6 text-center">
                                 <div class="gnc-bba-stat-box gnc-bba-stat-flex">
                                     <a href="admissions.php">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/2941/2941658.png" alt="Study Abroad">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/2941/2941658.png" alt="Study Abroad" width="auto" height="auto">
                                         <span>Admissions</span>
                                     </a>
                                 </div>
@@ -462,7 +462,7 @@
                             <div class="col-6 text-center">
                                 <div class="gnc-bba-stat-box gnc-bba-stat-flex">
                                     <a href="campus-life.php">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/942/942799.png" alt="Program">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/942/942799.png" alt="Program" width="auto" height="auto">
                                         <span>Campus Life</span>
                                     </a>
                                 </div>
@@ -470,7 +470,7 @@
                             <div class="col-6 text-center">
                                 <div class="gnc-bba-stat-box gnc-bba-stat-flex">
                                     <a href="scholarships.php">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/3135/3135706.png" alt="Loan">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/3135/3135706.png" alt="Loan" width="auto" height="auto">
                                         <span>Scholarships</span>
                                     </a>
                                 </div>
@@ -478,7 +478,7 @@
                             <div class="col-6 text-center">
                                 <div class="gnc-bba-stat-box gnc-bba-stat-flex">
                                     <a href="placement-overview.php">
-                                        <img src="https://cdn-icons-png.flaticon.com/128/2490/2490332.png" alt="Scholarship">
+                                        <img src="https://cdn-icons-png.flaticon.com/128/2490/2490332.png" alt="Scholarship" width="auto" height="auto">
                                         <span>Placements</span>
                                     </a>
                                 </div>
@@ -497,7 +497,7 @@
                     
                     <div class="gnc-bba-scope-wrap clearfix my-5">
                         <h3 class="gnc-bba-title-line">Scope</h3>
-                        <img src="upload/hero/mang-2.webp" class="gnc-bba-scope-img" alt="BBA Scope">
+                        <img src="upload/hero/mang-2.webp" class="gnc-bba-scope-img" alt="BBA Scope" width="auto" height="auto">
                         <p class="fst-italic text-muted small">The global management market is expanding rapidly, offering diverse opportunities in Finance, Marketing, and HR.</p>
                         <button class="btn btn-danger btn-sm px-4 fw-bold">APPLY NOW</button>
                     </div>
@@ -1086,7 +1086,7 @@
                     <!-- Text color inside this button is now #FB7B1C -->
                     <a href="https://application.gnc.edu.in/" class="btn-kc-primary">
                         APPLY NOW
-                        <img src="images/long-arrow-right.png" alt="arrow">
+                        <img src="images/long-arrow-right.png" alt="arrow" width="auto" height="auto">
                     </a>
                     <a href="upload/pdf/BBA.pdf" class="btn-kc-outline">
                         DOWNLOAD BROCHURE <span class="arrow">→</span>
@@ -1104,24 +1104,24 @@
             </div> 
             <div class="glance-slider">
                 <div class="glance-item">
-                    <img src="upload/infra/bba-3.webp" alt="Industry Oriented Curriculum">
+                    <img src="upload/infra/bba-3.webp" alt="Industry Oriented Curriculum" width="auto" height="auto">
                     <h4>Hands-on Industrial Visits Bridging Academic Knowledge with Practical Experience</h4>
                     
                 </div>
                 <div class="glance-item">
-                    <img src="upload/infra/seminar_bba_1.webp" alt="Choice Based Credit System">
+                    <img src="upload/infra/seminar_bba_1.webp" alt="Choice Based Credit System" width="auto" height="auto">
                     <h4>Interactive Seminars and Workshops Led by Industry Experts and Professionals</h4>
                 </div>
                 <div class="glance-item">
-                    <img src="upload/infra/industry-3.png" alt="Project Based Learning">
+                    <img src="upload/infra/industry-3.png" alt="Project Based Learning" width="auto" height="auto">
                     <h4>Practical Industry Learning Designed to Build Skills for Real Business Environments</h4>
                 </div>
                 <div class="glance-item">
-                    <img src="upload/infra/bba-1.webp" alt="Open Electives">
+                    <img src="upload/infra/bba-1.webp" alt="Open Electives" width="auto" height="auto">
                     <h4>Industry-Oriented Learning Through Expert Sessions and Professional Insights</h4>
                 </div>
                 <div class="glance-item">
-                    <img src="upload/infra/bba-2.webp" alt="Premium Placements">
+                    <img src="upload/infra/bba-2.webp" alt="Premium Placements" width="auto" height="auto">
                     <h4>Enhancing Student Exposure Through Corporate Visits and Real-World Interactions</h4>
                 </div>
             </div>
@@ -1151,14 +1151,14 @@
         <div class="container">
             <div class="researchLabs-slider">
                 <div class="researchLabs-item">
-                    <img src="upload/computer-lab.webp" alt="Computer Lab">
+                    <img src="upload/computer-lab.webp" alt="Computer Lab" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Computer Lab</h3>
                         <p>"The sophisticated computer labs feature up-to-date computers configured with the latest software, providing individual access for every student."</p>    
                     </div>                        
                 </div>                 
                 <div class="researchLabs-item">
-                    <img src="upload/lib.webp" alt="Grand Libraries">
+                    <img src="upload/lib.webp" alt="Grand Libraries" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Grand Libraries</h3>
                         <p>Guru Nanak College offers a well-equipped library with physical and digital resources supporting academic excellence.</p>    
@@ -1166,7 +1166,7 @@
                 </div>     
                                  
                 <div class="researchLabs-item">
-                    <img src="upload/infra/3l.webp" alt="Medical Facilities">
+                    <img src="upload/infra/3l.webp" alt="Medical Facilities" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Medical Facilities</h3>
                         <p>Guru Nanak College provides prompt and reliable healthcare for students through partnerships
@@ -1174,7 +1174,7 @@
                     </div>                        
                 </div>
                 <div class="researchLabs-item">
-                    <img src="upload/infra/5l.webp" alt="Home-like Hostels">
+                    <img src="upload/infra/5l.webp" alt="Home-like Hostels" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Home-like Hostels</h3>
                         <p>Guru Nanak College offers safe and comfortable on-campus hostels for boys and girls, with

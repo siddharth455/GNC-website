@@ -5,15 +5,15 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-<title>B.Tech Computer Science in Dehradun 2026 — Fees, Scope, Salary & Admission | GNC</title>
+<title>B.Tech Computer Science in Dehradun 2026 — Fees, | GNC</title>
 
 <meta name="description"
-content="Complete guide to B.Tech Computer Science in Dehradun 2026. Fees, eligibility, syllabus, career scope, salary and why GNC Dehradun is the best BTech CSE college in Uttarakhand." />
+content="Complete guide to B.Tech Computer Science in Dehradun 2026. Fees, eligibility, syllabus, career scope, salary and why GNC Dehradun is the best BTech..." />
 
 <meta name="keywords"
 content="B.Tech Computer Science college Dehradun, BTech CSE Dehradun 2026, best BTech college Dehradun, BTech CSE fees Uttarakhand, BTech CSE admission 2026, BTech CSE scope salary India"/>
 
-<link rel="canonical" href="https://gnc.edu.in/blog/btech-cse-college-dehradun-2026/" />
+<link rel="canonical" href="https://www.gnc.edu.in/blog/btech-cse-college-dehradun-2026/" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="B.Tech Computer Science Dehradun 2026 — Fees, Salary & Career Scope" />
@@ -586,7 +586,7 @@ content="B.Tech Computer Science college Dehradun, BTech CSE Dehradun 2026, best
 <img src="upload/blog/btech-cse.webp"
 alt="B.Tech Computer Science Dehradun 2026 Guru Nanak College"
 class="post-hero-img"
-loading="lazy">
+loading="lazy" width="auto" height="auto">
 
 <article class="post-body">
 
@@ -1019,31 +1019,31 @@ loading="lazy">
 <h3>Related Blogs</h3>
 
 <a href="bsc-nursing-vs-gnm-2026" class="suggest-card">
-<img src="upload/blog/bscnursing-vs-gnm.webp" alt="B.Sc Nursing vs GNM" class="sc-image">
+<img src="upload/blog/bscnursing-vs-gnm.webp" alt="B.Sc Nursing vs GNM" class="sc-image" width="auto" height="auto">
 <div class="sc-title">B.Sc Nursing vs GNM 2026 — Fees, Salary, Career Scope</div>
 <div class="sc-meta">2026-04-28</div>
 </a>
 
 <a href="top-paramedical-courses-after-12th-dehradun-2026" class="suggest-card">
-<img src="upload/blog/para-blog-26.webp" alt="Paramedical Courses" class="sc-image">
+<img src="upload/blog/para-blog-26.webp" alt="Paramedical Courses" class="sc-image" width="auto" height="auto">
 <div class="sc-title">Top Paramedical Courses After 12th in India (2026)</div>
 <div class="sc-meta">2026-03-30</div>
 </a>
 
 <a href="bca-career-after-12" class="suggest-card">
-<img src="upload/blog/why-bca.webp" alt="BCA Career" class="sc-image">
+<img src="upload/blog/why-bca.webp" alt="BCA Career" class="sc-image" width="auto" height="auto">
 <div class="sc-title">Why BCA is One of the Best Career Options After 12th</div>
 <div class="sc-meta">2026-03-16</div>
 </a>
 
 <a href="bba-vs-bcom-after-12" class="suggest-card">
-<img src="upload/blog/bba-vs-bcom.webp" alt="BBA vs BCom" class="sc-image">
+<img src="upload/blog/bba-vs-bcom.webp" alt="BBA vs BCom" class="sc-image" width="auto" height="auto">
 <div class="sc-title">BBA vs BCom: Which Course is Better After 12th?</div>
 <div class="sc-meta">2026-03-09</div>
 </a>
 
 <a href="bca-vs-btech-comparison" class="suggest-card">
-<img src="upload/blog/bcavsbtech.webp" alt="BCA vs BTech" class="sc-image">
+<img src="upload/blog/bcavsbtech.webp" alt="BCA vs BTech" class="sc-image" width="auto" height="auto">
 <div class="sc-title">BCA Vs BTech: Which is Better After 12th?</div>
 <div class="sc-meta">2026-03-06</div>
 </a>

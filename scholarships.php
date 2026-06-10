@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Scholarships – Empowering Student Dreams| Guru Nanak College (GNC) Dehradun Uttarakhand</title>
+    <title>Scholarships – Empowering Student Dreams | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="At Guru Nanak College (GNC) in Dehradun, we believe in empowering students by providing them with opportunities to achieve their academic dreams. Our scholarships program is designed to support and recognize students who demonstrate exceptional academic performance and talent">
-    <link rel="canonical" href="https://gnc.edu.in/scholarships">
+    <meta name="description" content="At Guru Nanak College (GNC) in Dehradun, we believe in empowering students by providing them with opportunities to achieve their academic dreams. Our...">
+    <link rel="canonical" href="https://www.gnc.edu.in/scholarships">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40eBKSF5+oHw/Nn3tI8EHM649+sKkIpfGv+zJ2tM6j1f+P/L8Q0H/q2/V/Lq/G1T0I9/uUq5zW" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
         /* Define common variables */
@@ -666,7 +666,7 @@
 
         <div class="info-grid" style="display: flex; flex-direction: column; gap: 20px; position: relative;">
 
-            <img src="upload/infra/grad-girl.webp" alt="Smiling graduate student pointing up, representing scholarship achievement.">
+            <img src="upload/infra/grad-girl.webp" alt="Smiling graduate student pointing up, representing scholarship achievement." width="auto" height="auto">
 
             <div class="" style="position: relative; z-index: 2;">
                 <h3 style="width: fit-content; border-bottom: 2px solid #df6b2a;">Accepted National Level Entry Tests</h3>
@@ -750,7 +750,7 @@
         
         <!-- Left Column: Image with Contact Icons -->
         <div class="app-contact-image-col">
-            <img src="images/get-in-touch.avif" alt="Person using a smartphone with floating contact icons (phone, mail, at-sign)">
+            <img src="images/get-in-touch.avif" alt="Person using a smartphone with floating contact icons (phone, mail, at-sign)" width="auto" height="auto">
 
             <div class="image-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.1); z-index: 2;"></div>
         </div>

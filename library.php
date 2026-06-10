@@ -5,7 +5,7 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College Dehradun, Uttarakhand | library</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College in Dehradun boasts a well-equipped Library and Knowledge Hub. The library is a treasure trove of knowledge, offering an extensive collection of books, journals, and educational materials across various fields such as science, medicine, and humanities.">
+    <meta name="description" content="Guru Nanak College in Dehradun boasts a well-equipped Library and Knowledge Hub. The library is a treasure trove of knowledge, offering an extensive...">
     <link rel="canonical" href="https://www.gnc.edu.in/library">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -51,7 +51,7 @@
             <div class="row ">
                 <div class="col-sm-12 col-md-6 ">
                     <div class="chancellor-top-row">
-                        <img src="upload/infra/lib-image.webp" loading="lazy" alt="Lib image">
+                        <img src="upload/infra/lib-image.webp" loading="lazy" alt="Lib image" width="auto" height="auto">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 text-white">
@@ -72,7 +72,7 @@
             </div>
             <div class="col-sm-12 col-md-6 ">
                 <div class="chancellor-top-row">
-                    <img src="upload/e-library.webp" loading="lazy" alt="E library">
+                    <img src="upload/e-library.webp" loading="lazy" alt="E library" width="auto" height="auto">
                 </div>
             </div>
         </div>

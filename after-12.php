@@ -462,7 +462,7 @@
                     <p style="margin-top: 30px; font-style: italic; color: #555;">We cherish the ideals of providing value-based technical education that would enable our students to achieve empowerment, problem-solving skills, and innovation.</p>
                 </div>
                 <div class="standout-image">
-                    <img src="upload/gncmh-scaled.webp" alt="GNC Standout">
+                    <img src="upload/gncmh-scaled.webp" alt="GNC Standout" width="auto" height="auto">
                 </div>
             </div>
         </div>

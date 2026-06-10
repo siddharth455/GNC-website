@@ -101,7 +101,7 @@
           <div>2025-03-25</div>
         </div>
 
-        <img src="upload/blog/12.webp" alt="Best Pharmacy College in Dehradun" class="post-hero-img" loading="lazy">
+        <img src="upload/blog/12.webp" alt="Best Pharmacy College in Dehradun" class="post-hero-img" loading="lazy" width="auto" height="auto">
 
         <!-- Fixed TOC -->
         <nav id="toc" class="toc" aria-label="Table of Contents">
@@ -175,22 +175,22 @@
         <div class="suggested" aria-labelledby="you-may-like">
           <h3 id="you-may-like">You May Also Like</h3>
           <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
-            <img class="sc-image" src="upload/blog/2.webp" alt="Designing Modern Static Blog Pages">
+            <img class="sc-image" src="upload/blog/2.webp" alt="Designing Modern Static Blog Pages" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
           <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php">
-            <img class="sc-image" src="upload/blog/3.webp" alt="BMLT at GNC">
+            <img class="sc-image" src="upload/blog/3.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BPT Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-30</div>
           </a>
           <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
-            <img class="sc-image" src="upload/blog/4.webp" alt="BMLT at GNC">
+            <img class="sc-image" src="upload/blog/4.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
           </a>
           <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
-            <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC">
+            <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>
           </a>

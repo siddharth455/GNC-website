@@ -5,8 +5,8 @@
 <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Top B.Sc Optometry College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Explore the premier Bachelor of Optometry program at Guru Nanak College in Dehradun, Uttarakhand Offering cutting-edge training, experienced faculty, and state-of-the-art facilities, GNC prepares students for successful careers in optometry.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-bsc-optometry-College-in-dehradun">
+    <meta name="description" content="Explore the premier Bachelor of Optometry program at Guru Nanak College in Dehradun, Uttarakhand Offering cutting-edge training, experienced faculty,...">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top B.Sc Optometry College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -1095,7 +1095,7 @@
             <div class="col-lg-6 bmr-reveal">
                 <div class="gnc-benefits-card bmr-item">
                     <div class="benefits-image-wrapper">
-                        <img src="upload/hero/radio-4.webp" alt="Optometry Training">
+                        <img src="upload/hero/radio-4.webp" alt="Optometry Training" width="auto" height="auto">
                         <div class="benefits-overlay">
                             <h3 class="fw-bold">Why GNC for B.Sc Optometry?</h3>
                         </div>
@@ -1128,7 +1128,7 @@
             
             <div class="col-lg-4 student-image-col">
                 <div class="red-vertical-bar"></div>
-                <img src="upload/infra/student-1.webp" alt="GNC Optometry Students" class="student-img-cutout">
+                <img src="upload/infra/student-1.webp" alt="GNC Optometry Students" class="student-img-cutout" width="auto" height="auto">
             </div>
     
             

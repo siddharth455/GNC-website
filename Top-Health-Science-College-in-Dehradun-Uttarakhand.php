@@ -3,12 +3,11 @@
 
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best Health Science College in Dehradun, Uttarakhand | Guru Nanak College</title>
+    <title>Best Health Science College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="School of Health Sciences at Guru Nanak College, Dehradun a premier institution
-      for advanced healthcare education. Explore our Master of Hospital Administration (MHA) and Master of
-       Public Health (MPH) programs, designed to meet the challenges of the modern healthcare industry.">
-    <link rel="canonical" href="https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand">
+      for advanced healthcare education. Explore our Master of Hospital...">
+    <link rel="canonical" href="https://www.gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Health Science College in Dehradun, Uttarakhand | Guru Nanak College" />
@@ -910,13 +909,13 @@
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="upload/dpt/7.jpg" class="d-block w-100" alt="Brochure Page 1">
+                            <img src="upload/dpt/7.jpg" class="d-block w-100" alt="Brochure Page 1" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/8.jpg" class="d-block w-100" alt="Brochure Page 2">
+                            <img src="upload/dpt/8.jpg" class="d-block w-100" alt="Brochure Page 2" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/9.jpg" class="d-block w-100" alt="Brochure Page 3">
+                            <img src="upload/dpt/9.jpg" class="d-block w-100" alt="Brochure Page 3" width="auto" height="auto">
                         </div>
                     </div>
 

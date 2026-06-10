@@ -5,7 +5,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-<title>BBA vs BCom: Which Course is Better After 12th? | Guru Nanak College</title>
+<title>BBA vs BCom: Which Course is Better After 12th? | GNC</title>
 
 <meta name="description"
 content="Complete comparison between BBA and BCom covering eligibility, subjects, career opportunities, and which course is better after 12th for business careers." />
@@ -421,7 +421,7 @@ content="BBA vs BCom, BBA course after 12th, BCom course details, BBA vs BCom co
 <img src="upload/blog/bba-vs-bcom.webp"
 alt="BBA vs BCom comparison guru nanak college"
 class="post-hero-img"
-loading="lazy">
+loading="lazy" width="auto" height="auto">
 
 <article class="post-body">
 
@@ -696,27 +696,27 @@ loading="lazy">
         <div class="suggested">
           <h3>You May Also Like</h3>
           <a class="suggest-card" href="Best-Hotel-Management-Colleges-in-Dehradun-2026.php">
-            <img class="sc-image" src="upload/blog/hm-banner.webp" alt="HM Colleges">
+            <img class="sc-image" src="upload/blog/hm-banner.webp" alt="HM Colleges" width="auto" height="auto">
             <div class="sc-title">Best Hotel Management Colleges in Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026-02-16</div>
           </a>
           <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
-            <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges">
+            <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
           <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
-            <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges">
+            <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-21</div>
           </a>
           <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
-            <img class="sc-image" src="upload/blog/4.webp" alt="Top 5 Nursing Colleges">
+            <img class="sc-image" src="upload/blog/4.webp" alt="Top 5 Nursing Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-27</div>
           </a>
           <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php">
-            <img class="sc-image" src="upload/blog/3.webp" alt="Top 5 BPT Colleges">
+            <img class="sc-image" src="upload/blog/3.webp" alt="Top 5 BPT Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BPT Colleges in Dehradun Ultimate Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-30</div>
           </a>

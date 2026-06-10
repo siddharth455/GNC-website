@@ -5,8 +5,8 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Best BMRIT College in Dehradun | Medical Radiology at GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced curriculum, hands-on training, and expert faculty, GNC prepares students for successful careers in radiology and medical imaging.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">
+    <meta name="description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced...">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best BMRIT College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -888,7 +888,7 @@
             <div class="col-lg-6 bmr-reveal">
                 <div class="gnc-benefits-card bmr-item">
                     <div class="benefits-image-wrapper">
-                        <img src="upload/hero/radio-4.webp" alt="Medical Imaging">
+                        <img src="upload/hero/radio-4.webp" alt="Medical Imaging" width="auto" height="auto">
                         <div class="benefits-overlay">
                             <h3 class="fw-bold">Why GNC for BMRIT?</h3>
                         </div>

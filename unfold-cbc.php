@@ -35,7 +35,7 @@
                 <div class="row text-white">
                     <h2 style="text-align: center; "><span style="color:#eee30d; font-weight:bold">Career Buddy Club</span> : A high professional and experienced management which assists you to get your dream job in your field of interest.</h2>
                     <div class="col-lg-5 col-md-5 col-sm-none">
-                        <img src="upload/aboutus.jpeg" alt="About GNC" loading="lazy" style="width: 100%; height:500px; border-radius:10px">
+                        <img src="upload/aboutus.jpeg" alt="About GNC" loading="lazy" style="width: 100%; height:500px; border-radius:10px" width="auto" height="auto">
                     </div>
                     <div class="col-lg-7 col-md-7 col-sm-12">
                         <p style="font-size:17px; line-height: 1.6;">CBC is an end-to-end career services management solution that provides personalized career development plans, networking opportunities, training and mentorship programs, job and internship opportunities, and resources for budding entrepreneurs. Career Buddy club is your go to platform for your career evolution and furtherance. We aim to connect professionals from different industrial backgrounds to the students thereby bestowing them with the support, knowledge , experience and resources that they would require to accomplish their career goals. Whether you are seeking jobs, resume tips, or growth strategies , we are here to help you out.
@@ -81,7 +81,7 @@
             <div class="row cbc-icon" style="width: 100%;margin:5px">
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-01.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-01.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">60 Hours of specialized training</h5>
                             <!-- <p class="card-text">Focused and intensive learning for specialized skills Ensuring that training materials can easily transition between offline and online formats to accommodate various learning environments.</p> -->
@@ -91,7 +91,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-02.webp" class="card-img-top " alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-02.webp" class="card-img-top " alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">200+ skill assessment tests</h5>
                             <!-- <p class="card-text">Improves proficiency and efficiency in students.</p> -->
@@ -101,7 +101,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-03.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-03.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">Fresher focused job portal</h5>
                             <!-- <p class="card-text">Great Job opportunities for fresh graduates.</p> -->
@@ -111,7 +111,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-04.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-04.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">4 industry integrated certifications</h5>
                             <!-- <p class="card-text">Get verified and industry worthy integrated certifications.</p> -->
@@ -121,7 +121,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-05.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-05.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">50+ job interviews</h5>
                             <!-- <p class="card-text">Gain valuable experience through sustained and continual interviews.</p> -->
@@ -131,7 +131,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-06.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-06.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">Pre Employment Training</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
@@ -141,7 +141,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-08.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-08.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">60+ hrs Personalized Mentorship</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
@@ -151,7 +151,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-09.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-09.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">4-6 Months On Job Training</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
@@ -161,7 +161,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-07.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-07.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">Physical Training Centers in 4 Locations</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
@@ -171,7 +171,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-10.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-10.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">300+ Industry Experts from Ivy League & Fortune 500</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
@@ -181,7 +181,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-11.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-11.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title">10+ Real-Life Projects</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
@@ -191,7 +191,7 @@
                 </div>
                 <div class="col-lg-3 ">
                     <div class="card">
-                        <img src="upload/cbc/logo/Icon-12.webp" class="card-img-top" alt="..." loading="lazy">
+                        <img src="upload/cbc/logo/Icon-12.webp" class="card-img-top" alt="..." loading="lazy" width="auto" height="auto">
                         <div class="card-body logo-head">
                             <h5 class="card-title"> Live Mentors / Life Coach sessions around the year</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
@@ -243,7 +243,7 @@
             <div class="row">
                 <div class="col-lg-5 d-none d-sm-block">
                     <div class="about-girl pt-8 position-relative" style=" width: 438px !important;">
-                        <img src="upload/young-student.webp" alt="Guru Nanak College, Dehradun" loading="lazy">
+                        <img src="upload/young-student.webp" alt="Guru Nanak College, Dehradun" loading="lazy" width="auto" height="auto">
                     </div>
                     <div class="line"></div>
                 </div>
@@ -301,7 +301,7 @@
             <div class="container pt-5 pb-5">
                 <dev class="row text-white ">
                     <div class="col-lg-6 col-md-6 col-sm-12 ">
-                        <img src="upload/Unlock-Your-Future.webp" alt="Unlock Your Future" loading="lazy" class="img-fluid">
+                        <img src="upload/Unlock-Your-Future.webp" alt="Unlock Your Future" loading="lazy" class="img-fluid" width="auto" height="auto">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <h3>Unlock Your Future with Career Buddy Club: 100% Job Placement Guaranteed Courses</h3>
@@ -324,7 +324,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 ">
-                    <img src="upload/Personalized-counseling.webp" alt="Personalized counseling" loading="lazy" class="img-fluid">
+                    <img src="upload/Personalized-counseling.webp" alt="Personalized counseling" loading="lazy" class="img-fluid" width="auto" height="auto">
                 </div>
             </dev>
         </div>
@@ -332,7 +332,7 @@
             <div class="container pt-5 pb-5">
                 <dev class="row container text-white">
                     <div class="col-lg-6 col-md-6 col-sm-12 ">
-                        <img src="upload/Student-Exchange-Programme.webp" alt="Student Exchange Programme" loading="lazy" class="img-fluid">
+                        <img src="upload/Student-Exchange-Programme.webp" alt="Student Exchange Programme" loading="lazy" class="img-fluid" width="auto" height="auto">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 ">
                         <h3>Student Exchange Programme</h3>
@@ -354,7 +354,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="upload/Career-Aptitude-Test.webp" alt="Career Aptitude Test" loading="lazy" class="img-fluid">
+                    <img src="upload/Career-Aptitude-Test.webp" alt="Career Aptitude Test" loading="lazy" class="img-fluid" width="auto" height="auto">
                 </div>
             </dev>
         </div>
@@ -362,7 +362,7 @@
             <div class="container pt-5 pb-5">
                 <dev class="row text-white">
                     <div class="col-lg-6 col-md-6 col-sm-12 ">
-                        <img src="upload/securing-placements.webp" alt="Securing placements" loading="lazy" class="img-fluid">
+                        <img src="upload/securing-placements.webp" alt="Securing placements" loading="lazy" class="img-fluid" width="auto" height="auto">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <h3>Placements</h3>
@@ -386,7 +386,7 @@
                 <div class="col-lg-4 mb-4">
                     <!-- Row -->
                     <div class="pillar-of-cbc">
-                        <img src="upload/saithjeet.jpg" alt="wrapkit" loading="lazy" class="img-fluid" />
+                        <img src="upload/saithjeet.jpg" alt="wrapkit" loading="lazy" class="img-fluid" width="auto" height="auto" />
                         <h5>Saithjeet Arora</h5>
                         <h6>Founder and Chief Executive officer (CEO)</h6>
                         <p>At Career Buddy Club, we believe in individuals' potential to succeed. Our dedication is to provide guidance and resources for goal achievement.</p>
@@ -399,7 +399,7 @@
                 </div>
                 <div class="col-lg-4 mb-4">
                     <div class="pillar-of-cbc">
-                        <img src="upload/tanvir.jpg" alt="wrapkit" loading="lazy" class="img-fluid" />
+                        <img src="upload/tanvir.jpg" alt="wrapkit" loading="lazy" class="img-fluid" width="auto" height="auto" />
                         <h5>Tanvir Shah</h5>
                         <h6>Founder and Chief Strategy Officer (CSO)</h6>
                         <p>As CSO of Career Buddy Club, I foster connections empowering individuals to thrive in their careers, envisioning a world of universal success.</p>
@@ -411,7 +411,7 @@
                 </div>
                 <div class="col-lg-4 mb-4">
                     <div class="pillar-of-cbc">
-                        <img src="upload/anukriti.jpg" alt="wrapkit" loading="lazy" class="img-fluid" />
+                        <img src="upload/anukriti.jpg" alt="wrapkit" loading="lazy" class="img-fluid" width="auto" height="auto" />
                         <h5>Anukriti Batra Arora</h5>
                         <h6>Cheif Operating officer (COO)</h6>
                         <p>As COO of Career Buddy Club, I assure unwavering commitment to your growth. Together, let's unlock potential for a successful future. Welcome aboard!</p>
@@ -664,7 +664,7 @@
         </div>
         <div class="trainer_slider">
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-1.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-1.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title">Saithjeet Arora</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Founder and Chief Executive Officer</h6>
@@ -678,7 +678,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-2.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-2.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title">Tanvir Shah </h5>
                     <h6 class="card-subtitle mb-2 text-muted">Founder and Chief Strategy Officer</h6>
@@ -694,7 +694,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-3.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-3.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title">Anukriti Batra</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Chief Operating Officer</h6>
@@ -707,7 +707,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-4.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-4.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title">Sunil Kumar Malik</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Vice President (Placements)</h6>
@@ -722,7 +722,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-5.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-5.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title">Anupam Singh</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Vice President (Training)</h6>
@@ -738,7 +738,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-6.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-6.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title"> Pallavi Gupta</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Head, Training Dept.</h6>
@@ -754,7 +754,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-7.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-7.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title"> Avantika Devrani </h5>
                     <h6 class="card-subtitle mb-2 text-muted">Senior Trainer</h6>
@@ -769,7 +769,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-8.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-8.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title">Puneet Vashisth</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Senior Trainer</h6>
@@ -784,7 +784,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-9.webp" loading="lazy" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-9.webp" loading="lazy" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title">Mansi Pant</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Senior Trainer</h6>
@@ -792,7 +792,7 @@
                 </div>
             </div>
             <!-- <div class="card">
-                <img src="upload/cbc/professionals/Training-Professionals-10.webp" class="card-img-top" alt="...">
+                <img src="upload/cbc/professionals/Training-Professionals-10.webp" class="card-img-top" alt="..." width="auto" height="auto">
                 <div class="card-body">
                     <h5 class="card-title">Dheeraj Preet</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Senior Trainer</h6>
@@ -816,7 +816,7 @@
                 <?php
                 for ($i = 1; $i <= 16; $i++) {
                     echo '<div class="card"> ';
-                    echo '<img src="upload/news/' . $i . '.webp" alt="CBC Media Presence" class="img-fluid">';
+                    echo '<img src="upload/news/' . $i . '.webp" alt="CBC Media Presence" class="img-fluid" width="auto" height="auto">';
                     echo '</div>';
                 }
 
@@ -833,7 +833,7 @@
                 <?php
                 for ($i = 1; $i <= 72; $i++) {
                     echo '<div class="col-md-1 col-sm-2 col-3 mt-4"> ';
-                    echo '<img src="upload/cbc-logo/logo%20(' . $i . ').webp" alt="Cbc Recutring patnars" class="img-fluid">';
+                    echo '<img src="upload/cbc-logo/logo%20(' . $i . ').webp" alt="Cbc Recutring patnars" class="img-fluid" width="auto" height="auto">';
                     echo '</div>';
                 }
 

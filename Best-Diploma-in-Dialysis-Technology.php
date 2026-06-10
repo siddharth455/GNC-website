@@ -4,13 +4,13 @@
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
 
-<title>Guru Nanak College | Best Diploma in Dialysis Technology College in Dehradun, Uttarakhand</title>
+<title>Guru Nanak College | Best Diploma in Dialysis | GNC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta name="description" content="Looking for the best Diploma in Dialysis Technology college in Dehradun, Uttarakhand? Guru Nanak College offers a 2-year diploma program with clinical training, modern labs and Power Degree included for a successful healthcare career.">
+<meta name="description" content="Looking for the best Diploma in Dialysis Technology college in Dehradun, Uttarakhand? Guru Nanak College offers a 2-year diploma program with clinical...">
 
-<link rel="canonical" href="https://gnc.edu.in/Best-Diploma-in-Dialysis-Technology.php">
+<link rel="canonical" href="https://www.gnc.edu.in/Best-Diploma-in-Dialysis-Technology.php">
 
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
@@ -139,7 +139,7 @@
                     <div class="col-lg-12 about-program-image">
                         <img src="upload/infra/bpt.webp"
                              loading="lazy"
-                             style="width: -webkit-fill-available;" alt="Bpt">
+                             style="width: -webkit-fill-available;" alt="Bpt" width="auto" height="auto">
                     </div>
                 </div>
             </div>
@@ -348,7 +348,7 @@
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <div class="bigInfo-section__content pt-5 pb-8">
-                        <img style="width: -webkit-fill-available;" src="upload/infra/wjc.webp" alt="Wjc">
+                        <img style="width: -webkit-fill-available;" src="upload/infra/wjc.webp" alt="Wjc" width="auto" height="auto">
                     </div>
                 </div>
             </div>

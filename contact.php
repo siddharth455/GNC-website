@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Get in Touch with Us | Guru Nanak College Dehradun, Uttarakhand</title>
+    <title>Get in Touch with Us | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="We at Guru Nanak College (GNC) in Dehradun, Uttarakhand, are always here to assist you with any queries or information you may need.">
     <link rel="canonical" href="https://www.gnc.edu.in/contact">

@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best B.Sc Nursing College in Dehradun, Uttarakhand</title>
+    <title>Guru Nanak College | Best B.Sc Nursing College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, the top B.Sc Nursing college in Dehradun, Uttarakhand. Known for its comprehensive curriculum, expert faculty, and state-of-the-art clinical training, Guru Nanak College prepares future nursing professionals to excel in the healthcare industry with compassion and excellence.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun">
+    <meta name="description" content="Guru Nanak College, the top B.Sc Nursing college in Dehradun, Uttarakhand. Known for its comprehensive curriculum, expert faculty, and state-of-the-art...">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best B.Sc Nursing College in Dehradun 2026"/>
@@ -894,8 +894,8 @@ ul{list-style:none}
   <div class="g-wrap">
     <div class="about-grid">
       <div class="about-imgs" data-ani="left">
-        <div class="about-img-main"><img src="upload/infra/nursing-3.jpg" alt="BSc Nursing at GNC Dehradun"></div>
-        <div class="about-img-sub"><img src="upload/infra/nursing-2.jpg" alt="GNC Nursing Students"></div>
+        <div class="about-img-main"><img src="upload/infra/nursing-3.jpg" alt="BSc Nursing at GNC Dehradun" width="auto" height="auto"></div>
+        <div class="about-img-sub"><img src="upload/infra/nursing-2.jpg" alt="GNC Nursing Students" width="auto" height="auto"></div>
         <div class="about-badge"><strong>4+</strong><span>Years of Excellence</span></div>
       </div>
       <div data-ani="right">
@@ -1067,14 +1067,14 @@ ul{list-style:none}
     <!-- clinical posting -->
      <div id="cy5" class="curr-pane curr-pane-gallery">
   <div class="curr-gallery">
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-2.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-11.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"> </div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-12.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-5.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-6.webp" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-13.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-9.jpg" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-10.webp" alt="Nursing at GNC"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-2.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-11.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"> </div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-12.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-5.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-6.webp" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-13.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-9.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-10.webp" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
   </div>
 </div>
   </div>
@@ -1177,11 +1177,11 @@ ul{list-style:none}
       <p class="g-sub">A campus built for the future of healthcare education — modern labs, simulation centres, a central library, and fully-equipped hostels in Dehradun.</p>
     </div>
     <div class="mosaic" data-ani="up">
-      <div class="mosaic-item big"><img src="upload/infra/nursing-7.JPG" alt="Nursing Department GNC"><div class="mosaic-cap"><div class="mosaic-lbl">Nursing Department</div></div></div>
-      <div class="mosaic-item"><img src="upload/infra/scholarship-admission.webp" alt="Student Life at GNC"><div class="mosaic-cap"><div class="mosaic-lbl">Student Life</div></div></div>
-      <div class="mosaic-item"><img src="upload/infra/nursing-6.webp" alt="GNC Simulation Lab"><div class="mosaic-cap"><div class="mosaic-lbl">Simulation Lab</div></div></div>
-      <div class="mosaic-item"><img src="upload/infra/nursing-4.webp" alt="GNC Library"><div class="mosaic-cap"><div class="mosaic-lbl">Central Library</div></div></div>
-      <div class="mosaic-item"><img src="upload/infra/nursing-5.jpg" alt="Clinical Training GNC"><div class="mosaic-cap"><div class="mosaic-lbl">Clinical Training</div></div></div>
+      <div class="mosaic-item big"><img src="upload/infra/nursing-7.JPG" alt="Nursing Department GNC" width="auto" height="auto"><div class="mosaic-cap"><div class="mosaic-lbl">Nursing Department</div></div></div>
+      <div class="mosaic-item"><img src="upload/infra/scholarship-admission.webp" alt="Student Life at GNC" width="auto" height="auto"><div class="mosaic-cap"><div class="mosaic-lbl">Student Life</div></div></div>
+      <div class="mosaic-item"><img src="upload/infra/nursing-6.webp" alt="GNC Simulation Lab" width="auto" height="auto"><div class="mosaic-cap"><div class="mosaic-lbl">Simulation Lab</div></div></div>
+      <div class="mosaic-item"><img src="upload/infra/nursing-4.webp" alt="GNC Library" width="auto" height="auto"><div class="mosaic-cap"><div class="mosaic-lbl">Central Library</div></div></div>
+      <div class="mosaic-item"><img src="upload/infra/nursing-5.jpg" alt="Clinical Training GNC" width="auto" height="auto"><div class="mosaic-cap"><div class="mosaic-lbl">Clinical Training</div></div></div>
     </div>
     <div class="cf-row">
       <div class="cf-item" data-ani="up" data-delay="1"><div class="cf-ico">📚</div><div class="cf-title">Central Library</div><div class="cf-sub">10,000+ books &amp; e-journals</div></div>
@@ -1197,8 +1197,8 @@ ul{list-style:none}
   <div class="g-wrap">
     <div class="career-grid">
       <div class="career-imgs" data-ani="left">
-        <div class="career-img1"><img src="upload/infra/nursing-10.webp" alt="Nursing Career GNC"></div>
-        <div class="career-img2"><img src="upload/infra/nursing-9.jpg" alt="GNC Nursing Student"></div>
+        <div class="career-img1"><img src="upload/infra/nursing-10.webp" alt="Nursing Career GNC" width="auto" height="auto"></div>
+        <div class="career-img2"><img src="upload/infra/nursing-9.jpg" alt="GNC Nursing Student" width="auto" height="auto"></div>
         <div class="career-badge"><strong>₹8L+</strong><span>Avg Starting Package</span></div>
       </div>
       <div data-ani="right">
@@ -1270,9 +1270,9 @@ ul{list-style:none}
         <a href="https://application.gnc.edu.in/" target="_blank" class="g-btn g-btn-orange">Apply Now <i class="fas fa-arrow-right"></i></a>
       </div>
       <div class="why-imgs" data-ani="right">
-        <div><img src="upload/infra/nursing-8.webp" alt="GNC Campus Nursing"></div>
-        <div><img src="upload/infra/sports.webp" alt="GNC Students"></div>
-        <div><img src="upload/infra/convocation.webp" alt="GNC Labs"></div>
+        <div><img src="upload/infra/nursing-8.webp" alt="GNC Campus Nursing" width="auto" height="auto"></div>
+        <div><img src="upload/infra/sports.webp" alt="GNC Students" width="auto" height="auto"></div>
+        <div><img src="upload/infra/convocation.webp" alt="GNC Labs" width="auto" height="auto"></div>
       </div>
     </div>
   </div>

@@ -3,10 +3,10 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best B.Sc CBZ College in Dehradun Uttarakhand</title>
+    <title>Guru Nanak College | Best B.Sc CBZ College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"content="Guru Nanak College, Dehradun's top college for B.Sc. CBZ. With an engaging curriculum, exceptional faculty, and vibrant academic community, Guru Nanak College ignites passion for chemistry, botany, and zoology, preparing students to excel in the dynamic scientific arena.">
-    <link rel="canonical" href="https://gnc.edu.in/Bsc-cbz">
+    <link rel="canonical" href="https://www.gnc.edu.in/Bsc-cbz">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title"content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
@@ -1222,7 +1222,7 @@
                 for ($i = 31; $i <= 63; $i++) {
                     $imgNum = ($i == 53) ? 32 : $i;
                     echo '<div class="recruit-item">
-                            <img src="upload/' . $imgNum . '.webp" alt="GNC Recruitments" loading="lazy">
+                            <img src="upload/' . $imgNum . '.webp" alt="GNC Recruitments" loading="lazy" width="auto" height="auto">
                           </div>';
                 }
                 ?>
@@ -1237,7 +1237,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6">
                         <div class="content-img">
-                            <img src="upload/labs/cbz-1.webp" alt="Laboratory Infrastructure">
+                            <img src="upload/labs/cbz-1.webp" alt="Laboratory Infrastructure" width="auto" height="auto">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -1478,7 +1478,7 @@
                         </a>
                         <a data-fancybox href="https://www.youtube.com/watch?v=GYfTrZM7YrA&autoplay=1&si=78HAqf0BSfAOH5ca"
                             class="video-thumb-link">
-                            <img src="https://img.youtube.com/vi/GYfTrZM7YrA/maxresdefault.jpg" alt="Video Thumbnail">
+                            <img src="https://img.youtube.com/vi/GYfTrZM7YrA/maxresdefault.jpg" alt="Video Thumbnail" width="auto" height="auto">
                         </a>
                     </div>
                     <div class="video-promo-content" data-aos="fade-left" data-aos-duration="500">
@@ -1662,15 +1662,15 @@
 
                 <div class="gnc-mb-why-mosaic-col">
                     <div class="gnc-mb-why-mosaic-tall">
-                        <img src="upload/labs/cbz-2.webp" alt="CBZ Research">
+                        <img src="upload/labs/cbz-2.webp" alt="CBZ Research" width="auto" height="auto">
                     </div>
 
                     <div class="gnc-mb-why-mosaic-stacked">
                         <div class="gnc-mb-why-mosaic-square">
-                            <img src="upload/labs/geo-2.webp" alt="Lab Session">
+                            <img src="upload/labs/geo-2.webp" alt="Lab Session" width="auto" height="auto">
                         </div>
                         <div class="gnc-mb-why-mosaic-square">
-                            <img src="upload/programs/LE-4.jpg" alt="Student Group">
+                            <img src="upload/programs/LE-4.jpg" alt="Student Group" width="auto" height="auto">
                         </div>
                     </div>
                 </div>
@@ -1703,17 +1703,17 @@
                                 </div>
                             <?php } ?>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (35).webp" alt="Partner logo" loading="lazy">
+                                <img src="upload/Corporate-Partners/cp (35).webp" alt="Partner logo" loading="lazy" width="auto" height="auto">
                             </div>
                             <div class="gnc-mb-partner-logo">
-                                <img src="upload/Corporate-Partners/cp (37).webp" alt="Partner logo" loading="lazy">
+                                <img src="upload/Corporate-Partners/cp (37).webp" alt="Partner logo" loading="lazy" width="auto" height="auto">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-5">
                         <div class="gnc-mb-exchange-img position-relative h-100">
                             <img src="upload/labs/cbz-3.webp" alt="Semester Exchange"
-                                class="w-100 h-100 object-fit-cover">
+                                class="w-100 h-100 object-fit-cover" width="auto" height="auto">
                         </div>
                     </div>
                 </div>
@@ -1794,7 +1794,7 @@
                                 <a href="https://gnc.edu.in/campus-life.php" class="gnc-mb-feature-btn">EXPLORE →</a>
                             </div>
                             <div class="gnc-mb-feature-img">
-                                <img src="images/campus-life.webp" alt="Campus Life">
+                                <img src="images/campus-life.webp" alt="Campus Life" width="auto" height="auto">
                             </div>
                         </div>
                     </div>
@@ -1808,7 +1808,7 @@
                                 <a href="https://gnc.edu.in/scholarships.php" class="gnc-mb-feature-btn">VIEW →</a>
                             </div>
                             <div class="gnc-mb-feature-img">
-                                <img src="upload/infra/placement.webp" alt="Scholarships">
+                                <img src="upload/infra/placement.webp" alt="Scholarships" width="auto" height="auto">
                             </div>
                         </div>
                     </div>
@@ -1825,7 +1825,7 @@
                                     →</a>
                             </div>
                             <div class="gnc-mb-feature-img">
-                                <img src="images/stude-84.jpeg" alt="Placements">
+                                <img src="images/stude-84.jpeg" alt="Placements" width="auto" height="auto">
                             </div>
                         </div>
                     </div>
@@ -1840,7 +1840,7 @@
                                     →</a>
                             </div>
                             <div class="gnc-mb-feature-img">
-                                <img src="upload/infra/gnc.webp" alt="Academic Overview">
+                                <img src="upload/infra/gnc.webp" alt="Academic Overview" width="auto" height="auto">
                             </div>
                         </div>
                     </div>

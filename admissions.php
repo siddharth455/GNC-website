@@ -3,10 +3,10 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Online Registration Open For Admission | Guru Nanak College Dehradun</title>
+    <title>Online Registration Open For Admission | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join Guru Nanak College, Dehradun, for a future in Pharma, Paramedical, Nursing, and more. Seamless admission process with global opportunities.">
-    <link rel="canonical" href="https://gnc.edu.in/admissions">
+    <link rel="canonical" href="https://www.gnc.edu.in/admissions">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Admissions 2026 Open — Guru Nanak College Dehradun"/>
@@ -63,7 +63,7 @@
                     </div>
                 </div>
                 <div class=" col-lg-5">
-                    <img src="https://gncdehradun.com/assets/images/gncmh-scaled.webp" alt="Best college in dehradun" loading="lazy" decoding="async" style="border-radius: 10px; width:-webkit-fill-available;">
+                    <img src="https://gncdehradun.com/assets/images/gncmh-scaled.webp" alt="Best college in dehradun" loading="lazy" decoding="async" style="border-radius: 10px; width:-webkit-fill-available;" width="auto" height="auto">
                 </div>
             </div>
         </div>

@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alumni | Guru Nanak College - Connecting Past and Present Achievements</title>
+    <title>Alumni | Guru Nanak College - Connecting Past and | GNC</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
-    <link rel="canonical" href="https://gnc.edu.in/alumni">
+    <link rel="canonical" href="https://www.gnc.edu.in/alumni">
     <style>
         .content {
             margin: 20px;
@@ -79,8 +79,8 @@
 
 <body>
     <div class="image-container">
-        <a href="alumni_registration.php"><img src="upload/alumni_desktop.webp" alt="Desktop Image" loading="lazy" class="desktop-image"></a>
-        <a href="alumni_registration.php"> <img src="upload/alumni_phone.webp" alt="Phone Image" loading="lazy" class="phone-image"></a>
+        <a href="alumni_registration.php"><img src="upload/alumni_desktop.webp" alt="Desktop Image" loading="lazy" class="desktop-image" width="auto" height="auto"></a>
+        <a href="alumni_registration.php"> <img src="upload/alumni_phone.webp" alt="Phone Image" loading="lazy" class="phone-image" width="auto" height="auto"></a>
     </div>
     <section class="container mt-5 mb-5">
         <div class="alumni_content">

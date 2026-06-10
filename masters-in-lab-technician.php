@@ -6,7 +6,7 @@
     <title>Masters of Medical Laboratory Technician</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join Guru Nanak College, Dehradun, for a future in Pharma, Paramedical, Nursing, and more. Seamless admission process with global opportunities.">
-    <link rel="canonical" href="https://gnc.edu.in/masters-in-lab-technician">
+    <link rel="canonical" href="https://www.gnc.edu.in/masters-in-lab-technician">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Masters of Medical Laboratory Technician | Guru Nanak College Dehradun" />
@@ -1124,7 +1124,7 @@
             <div class="col-lg-6 bmr-reveal">
                 <div class="gnc-benefits-card bmr-item">
                     <div class="benefits-image-wrapper">
-                        <img src="upload/hero/radio-4.webp" alt="MMLT Training">
+                        <img src="upload/hero/radio-4.webp" alt="MMLT Training" width="auto" height="auto">
                         <div class="benefits-overlay">
                             <h3 class="fw-bold">Why GNC for MMLT?</h3>
                         </div>
@@ -1157,7 +1157,7 @@
             
             <div class="col-lg-4 student-image-col">
                 <div class="red-vertical-bar"></div>
-                <img src="upload/infra/student-1.webp" alt="GNC MMLT Students" class="student-img-cutout">
+                <img src="upload/infra/student-1.webp" alt="GNC MMLT Students" class="student-img-cutout" width="auto" height="auto">
             </div>
     
             

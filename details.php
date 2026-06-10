@@ -25,7 +25,7 @@ if (!$visit) {
 
     <div class="container">
         <!-- Top Banner Image -->
-        <!-- <img src="upload/infra/visit-tupper.jpg" alt="Event Banner" class="banner-img"> -->
+        <!-- <img src="upload/infra/visit-tupper.jpg" alt="Event Banner" class="banner-img" width="auto" height="auto"> -->
         
         <!-- Event Details -->
         <!-- <div class="event-details">

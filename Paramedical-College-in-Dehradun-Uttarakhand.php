@@ -2,11 +2,11 @@
 <html>
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-     <title>Guru Nanak College - Best Paramedical College in Dehradun, Uttarakhand</title>
+     <title>Guru Nanak College - Best Paramedical College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best paramedical college in Dehradun, Uttarakhand, offers BPT, BMLT, BMRIT, Optometry, Operation Theatre Technology, MPT programs approved by AICTE & affiliated with HNBGU." />
+    <meta name="description" content="Guru Nanak College is the best paramedical college in Dehradun, Uttarakhand, offers BPT, BMLT, BMRIT, Optometry, Operation Theatre Technology, MPT..." />
     <meta name="keywords" content="Best Paramedical College in Dehradun, Paramedical College in Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical College in Dehradun 2026 — GNC" />
@@ -542,11 +542,11 @@
                     </div>  
                     <div class="swiper gnc-img-swiper mt-4" data-aos="fade-up" data-aos-duration="600">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide"><img src="images/para-slide-1.webp" alt="Campus Life 1"></div>
-                            <div class="swiper-slide"><img src="images/para-slide-2.webp" alt="Campus Life 2"></div>
-                            <div class="swiper-slide"><img src="images/para-slide-3.webp" alt="Campus Life 3"></div>
-                            <div class="swiper-slide"><img src="images/para-slide-4.webp" alt="Campus Life 4"></div>
-                            <div class="swiper-slide"><img src="images/para-slide-5.webp" alt="Campus Life 5"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-1.webp" alt="Campus Life 1" width="auto" height="auto"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-2.webp" alt="Campus Life 2" width="auto" height="auto"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-3.webp" alt="Campus Life 3" width="auto" height="auto"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-4.webp" alt="Campus Life 4" width="auto" height="auto"></div>
+                            <div class="swiper-slide"><img src="images/para-slide-5.webp" alt="Campus Life 5" width="auto" height="auto"></div>
                         </div>
                     </div>
                 </div> 
@@ -957,11 +957,11 @@
         <div class="gnc-clinical-area">
             <div class="gnc-clinical-media" data-aos="fade-right">
                 <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true, "imagesLoaded": true, "pageDots": true, "prevNextButtons": false }'>
-                    <div class="carousel-cell"><img src="images/para-slide-1.webp" alt="Clinical Training 1"></div>
-                    <div class="carousel-cell"><img src="images/para-slide-2.webp" alt="Clinical Training 2"></div>
-                    <div class="carousel-cell"><img src="images/para-slide-3.webp" alt="Clinical Training 3"></div>
-                    <div class="carousel-cell"><img src="images/para-slide-4.webp" alt="Clinical Training 4"></div>
-                    <div class="carousel-cell"><img src="images/para-slide-5.webp" alt="Clinical Training 5"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-1.webp" alt="Clinical Training 1" width="auto" height="auto"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-2.webp" alt="Clinical Training 2" width="auto" height="auto"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-3.webp" alt="Clinical Training 3" width="auto" height="auto"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-4.webp" alt="Clinical Training 4" width="auto" height="auto"></div>
+                    <div class="carousel-cell"><img src="images/para-slide-5.webp" alt="Clinical Training 5" width="auto" height="auto"></div>
                 </div>
             </div>
 
@@ -1686,13 +1686,13 @@
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="upload/dpt/15.jpg" class="d-block w-100" alt="Brochure Page 1">
+                            <img src="upload/dpt/15.jpg" class="d-block w-100" alt="Brochure Page 1" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/16.jpg" class="d-block w-100" alt="Brochure Page 2">
+                            <img src="upload/dpt/16.jpg" class="d-block w-100" alt="Brochure Page 2" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/17.jpg" class="d-block w-100" alt="Brochure Page 3">
+                            <img src="upload/dpt/17.jpg" class="d-block w-100" alt="Brochure Page 3" width="auto" height="auto">
                         </div>
                     </div>
 

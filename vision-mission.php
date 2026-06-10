@@ -204,7 +204,7 @@
         </div>
         <div class="vision-image-box">
             <div class="vision-circle">
-             <img src="images/vision-1.webp" alt="College Vision">
+             <img src="images/vision-1.webp" alt="College Vision" width="auto" height="auto">
             </div>
         </div>
     </section>
@@ -224,7 +224,7 @@
         </div>
         <div class="mission-image-area">
             
-            <img src="images/mission.webp" alt="College Mission" class="mission-img-styled">
+            <img src="images/mission.webp" alt="College Mission" class="mission-img-styled" width="auto" height="auto">
         </div>
     </section>
 

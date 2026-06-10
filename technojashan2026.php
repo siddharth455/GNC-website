@@ -21,7 +21,7 @@
         <div class="tj-floating-words"></div>
         <div class="tj-logo-wrapper">
             <div class="tj-img-container">
-                <img src="upload/techno-2026/technoj-logo.png" alt="Technojashan Logo">
+                <img src="upload/techno-2026/technoj-logo.png" alt="Technojashan Logo" width="auto" height="auto">
             </div>
             <div class="tj-status-container">
                 <div class="tj-status-bar">
@@ -37,8 +37,8 @@
             <nav class="navbar navbar-expand-lg navbar-dark">
                 <div class="container-fluid">
                     <a class="navbar-brand d-flex align-items-center" href="https://gnc.edu.in">
-                        <img src="upload/techno-2026/logo.webp" alt="Guru Nanak Logo" class="tj-nav-logo me-2">
-                        <img src="upload/techno-2026/technoj-logo.png" alt="Technojashan Logo" class="tj-nav-logo-secondary">
+                        <img src="upload/techno-2026/logo.webp" alt="Guru Nanak Logo" class="tj-nav-logo me-2" width="auto" height="auto">
+                        <img src="upload/techno-2026/technoj-logo.png" alt="Technojashan Logo" class="tj-nav-logo-secondary" width="auto" height="auto">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#tj-navbar-nav">
@@ -83,7 +83,7 @@
                     <div
                         class="container h-100 d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="tj-hero-content">
-                            <img src="upload/techno-2026/technoj-logo.png" alt="Technojashan 2026" class="tj-hero-logo mb-2">
+                            <img src="upload/techno-2026/technoj-logo.png" alt="Technojashan 2026" class="tj-hero-logo mb-2" width="auto" height="auto">
                             <p class="tj-hero-subtitle mb-4">Inter-College Cultural, Technical & Career Fest</p>
                             <h2 class="tj-hero-date-loc mb-4">28–30 April | Dehradun</h2>
 
@@ -139,7 +139,7 @@
                             <div class="tj-philosophy-content pe-lg-5">
                                 <!-- <span class="tj-philosophy-subtitle">ABOUT THE FEST</span> -->
                                 <img src="upload/techno-2026/technoj-logo.png" alt="Technojashan 2026"
-                                    class="tj-about-logo mt-3 mb-4">
+                                    class="tj-about-logo mt-3 mb-4" width="auto" height="auto">
                                 <p class="tj-philosophy-text mb-4" style="text-align: justify;">Uniting young and
                                     passionate innovators with experienced and distinguished leaders from diverse
                                     domains under one roof, Technojashan 2026 will create a dynamic ecosystem to
@@ -156,7 +156,7 @@
                                 <div class="tj-phi-image-container tj-single-about-image">
                                     <div class="tj-phi-img-wrapper">
                                         <img src="upload/techno-2026/tech-about.JPG" alt="Technojashan About"
-                                            class="tj-grayscale">
+                                            class="tj-grayscale" width="auto" height="auto">
                                     </div>
                                 </div>
                             </div>
@@ -230,7 +230,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="tj-featured-card">
                                 <div class="tj-featured-media position-relative">
-                                    <img src="upload/techno-2026/tech-eve.jpg" alt="Cultural Events">
+                                    <img src="upload/techno-2026/tech-eve.jpg" alt="Cultural Events" width="auto" height="auto">
                                 </div>
                                 <h3>Cultural Events</h3>
                                 <div class="tj-featured-cat">Star Event</div>
@@ -241,7 +241,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="tj-featured-card">
                                 <div class="tj-featured-media position-relative">
-                                    <img src="upload/techno-2026/career-expo.jpeg" alt="Career Expo" style="object-fit: cover;">
+                                    <img src="upload/techno-2026/career-expo.jpeg" alt="Career Expo" style="object-fit: cover;" width="auto" height="auto">
 
                                 </div>
                                 <h3>Career-Expo</h3>
@@ -253,7 +253,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="tj-featured-card">
                                 <div class="tj-featured-media position-relative">
-                                    <img src="upload/techno-2026/paint-ball.avif" alt="Paint Ballss">
+                                    <img src="upload/techno-2026/paint-ball.avif" alt="Paint Ballss" width="auto" height="auto">
 
                                 </div>
                                 <h3>Paint Ball</h3>
@@ -744,29 +744,29 @@
                         <div class="marquee-track">
                             <!-- Original Items -->
                             <div class="marquee-item">
-                                <img src="upload/techno-2026/cbc-logo.webp" alt="Career Buddy Club">
+                                <img src="upload/techno-2026/cbc-logo.webp" alt="Career Buddy Club" width="auto" height="auto">
                                 <p>Career Buddy Club</p>
                             </div>
                             <div class="marquee-item">
-                                <img src="upload/techno-2026/PYM.avif" alt="Plan Your Memories">
+                                <img src="upload/techno-2026/PYM.avif" alt="Plan Your Memories" width="auto" height="auto">
                                 <p>Plan Your Memories</p>
                             </div>
                             <div class="marquee-item">
-                                <img src="upload/techno-2026/inanna-logo.webp" alt="Inanna">
+                                <img src="upload/techno-2026/inanna-logo.webp" alt="Inanna" width="auto" height="auto">
                                 <p>Inanna</p>
                             </div>
 
                             <!-- Duplicate for seamless loop -->
                             <div class="marquee-item">
-                                <img src="upload/techno-2026/cbc-logo.webp" alt="Career Buddy Club">
+                                <img src="upload/techno-2026/cbc-logo.webp" alt="Career Buddy Club" width="auto" height="auto">
                                 <p>Career Buddy Club</p>
                             </div>
                             <div class="marquee-item">
-                                <img src="upload/techno-2026/PYM.avif" alt="Plan Your Memories">
+                                <img src="upload/techno-2026/PYM.avif" alt="Plan Your Memories" width="auto" height="auto">
                                 <p>Plan Your Memories</p>
                             </div>
                             <div class="marquee-item">
-                                <img src="upload/techno-2026/inanna-logo.webp" alt="Inanna">
+                                <img src="upload/techno-2026/inanna-logo.webp" alt="Inanna" width="auto" height="auto">
                                 <p>Inanna</p>
                             </div>
                         </div>
@@ -1006,7 +1006,7 @@
   <div id="popup" class="popup">
     <div class="popup-content">
       <span class="close-btn">&times;</span>
-      <img src="upload/techno-2026/tech-artist.jpeg" alt="Popup Image">
+      <img src="upload/techno-2026/tech-artist.jpeg" alt="Popup Image" width="auto" height="auto">
     </div>
   </div>
 
@@ -1095,7 +1095,7 @@ document.getElementById("popup").onclick = function (e) {
         <div class="container">
             <div class="tj-final-cta-inner">
                 <div class="tj-cta-left">
-                    <img src="upload/techno-2026/logo.webp" alt="Guru Nanak College Logo" class="tj-cta-logo">
+                    <img src="upload/techno-2026/logo.webp" alt="Guru Nanak College Logo" class="tj-cta-logo" width="auto" height="auto">
                     <div class="tj-cta-contact">
                         <h4>CONTACT DETAILS</h4>
                         <p>
@@ -1127,7 +1127,7 @@ document.getElementById("popup").onclick = function (e) {
                 </div>
 
                 <div class="tj-cta-right">
-                    <img src="upload/techno-2026/techno-Qr.jpeg" alt="Techno Jashan Registration QR" class="tj-cta-qr-img">
+                    <img src="upload/techno-2026/techno-Qr.jpeg" alt="Techno Jashan Registration QR" class="tj-cta-qr-img" width="auto" height="auto">
                     <p class="tj-cta-sponsored">QR Code tickets sponsored by <a href="https://qr-code-ticket.com" target="_blank">qr-code-ticket.com</a></p>
                 </div>
             </div>

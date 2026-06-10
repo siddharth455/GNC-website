@@ -2,10 +2,10 @@
 <html>
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College - Best Computer Science College in Dehradun, Uttarakhand</title>
+    <title>Guru Nanak College - Best Computer Science College | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best computer science college in Dehradun, Uttarakhand, offers B.Tech Computer Science, BCA programs approved by AICTE, affiliated with UTU, with 100% placement support." />
-    <link rel="canonical" href="https://gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun">
+    <meta name="description" content="Guru Nanak College is the best computer science college in Dehradun, Uttarakhand, offers B.Tech Computer Science, BCA programs approved by AICTE,..." />
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun">
     <meta name="keywords" content="Best Computer Science College in Dehradun, BCA College in Dehradun" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -864,7 +864,7 @@
                 </div>
             </div>
             <div class="circle-frame">
-                <img src="upload/hero/cs-2.webp" alt="Why Study Computer Science">
+                <img src="upload/hero/cs-2.webp" alt="Why Study Computer Science" width="auto" height="auto">
             </div>
         </section>
 
@@ -881,7 +881,7 @@
 
                 <div class="pathway-center">
                     <div class="circle-frame">
-                        <img src="upload/hero/cs-3.webp" alt="Career Pathways">
+                        <img src="upload/hero/cs-3.webp" alt="Career Pathways" width="auto" height="auto">
                     </div>
                 </div>
 
@@ -910,35 +910,35 @@
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide">
-                        <img src="upload/hero/cs-4.webp" alt="Computer Science Library" class="facility-image">
+                        <img src="upload/hero/cs-4.webp" alt="Computer Science Library" class="facility-image" width="auto" height="auto">
                         <div class="facility-caption">
                             The Central Library provides computer science students with a rich collection of technical textbooks, research journals, and digital learning resources, creating a quiet and resourceful environment for academic excellence and research.
                         </div>
                     </div>
 
                     <div class="swiper-slide">
-                        <img src="upload/hero/cs-5.webp" alt="Advanced Computing Labs" class="facility-image">
+                        <img src="upload/hero/cs-5.webp" alt="Advanced Computing Labs" class="facility-image" width="auto" height="auto">
                         <div class="facility-caption">
                             Students gain real industry exposure in our advanced computing labs, learning software development, networking, and professional IT teamwork.
                         </div>
                     </div>
 
                     <div class="swiper-slide">
-                        <img src="upload/hero/cs-6.webp" alt="Project Development Training" class="facility-image">
+                        <img src="upload/hero/cs-6.webp" alt="Project Development Training" class="facility-image" width="auto" height="auto">
                         <div class="facility-caption">
                             Project development sessions help students understand software architecture and systems design through hands-on learning with modern tools and guided instruction.
                         </div>
                     </div>
 
                     <div class="swiper-slide">
-                        <img src="upload/hero/cs-7.webp" alt="Coding Workshops" class="facility-image">
+                        <img src="upload/hero/cs-7.webp" alt="Coding Workshops" class="facility-image" width="auto" height="auto">
                         <div class="facility-caption">
                             Students learn advanced programming techniques using high-end workstations, enabling accurate development of complex software solutions and algorithms.
                         </div>
                     </div>
 
                     <div class="swiper-slide">
-                        <img src="upload/hero/cs-8.webp" alt="Tech Innovations Lab" class="facility-image">
+                        <img src="upload/hero/cs-8.webp" alt="Tech Innovations Lab" class="facility-image" width="auto" height="auto">
                         <div class="facility-caption">
                             Practical lab sessions allow students to conduct technological experiments and prototype innovations, strengthening their technical development skills.
                         </div>
@@ -1081,7 +1081,7 @@
             <div class="col-md-6 col-lg-4">
                 <article class="blog-card">
                     <div class="blog-thumb">
-                        <img src="upload/blog/bcavsbtech.webp" alt="BCA vs BTech comparison">
+                        <img src="upload/blog/bcavsbtech.webp" alt="BCA vs BTech comparison" width="auto" height="auto">
                     </div>
                     <div class="blog-content">
                         <div class="blog-meta">
@@ -1101,7 +1101,7 @@
             <div class="col-md-6 col-lg-4">
                 <article class="blog-card">
                     <div class="blog-thumb">
-                        <img src="upload/blog/2.webp" alt="Top 5 BCA Colleges">
+                        <img src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
                     </div>
                     <div class="blog-content">
                         <div class="blog-meta">
@@ -1121,7 +1121,7 @@
             <div class="col-md-6 col-lg-4">
                 <article class="blog-card">
                     <div class="blog-thumb" style="background: #f8f9fa;">
-                        <img src="upload/blog/9.webp" alt="BCA Admissions 2025" style="object-fit: contain;">
+                        <img src="upload/blog/9.webp" alt="BCA Admissions 2025" style="object-fit: contain;" width="auto" height="auto">
                     </div>
                     <div class="blog-content">
                         <div class="blog-meta">
@@ -1451,13 +1451,13 @@
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="upload/dpt/1.jpg" class="d-block w-100" alt="Brochure Page 1">
+                            <img src="upload/dpt/1.jpg" class="d-block w-100" alt="Brochure Page 1" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/3.jpg" class="d-block w-100" alt="Brochure Page 2">
+                            <img src="upload/dpt/3.jpg" class="d-block w-100" alt="Brochure Page 2" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/2.jpg" class="d-block w-100" alt="Brochure Page 3">
+                            <img src="upload/dpt/2.jpg" class="d-block w-100" alt="Brochure Page 3" width="auto" height="auto">
                         </div>
                     </div>
 

@@ -4,8 +4,8 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College Dehradun, Uttarakhand | Academic Overview </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College in Dehradun, Uttarakhand, offers a diverse range of academic programs designed to meet the demands of the modern world. The college emphasizes practical training, higher employability, higher engagement, and effectiveness through immersive learning and innovative teaching methods.">
-    <link rel="canonical" href="https://gnc.edu.in/academic-overview">
+    <meta name="description" content="Guru Nanak College in Dehradun, Uttarakhand, offers a diverse range of academic programs designed to meet the demands of the modern world. The college...">
+    <link rel="canonical" href="https://www.gnc.edu.in/academic-overview">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
    <meta property="og:title" content="Academic Overview | Guru Nanak College Dehradun, Uttarakhand" />
@@ -251,7 +251,7 @@
                     <p class="text-secondary mb-4">We offers a diverse range of academic programs tailored to meet the modern world's demands. Our offerings include paramedical courses like Radio Imaging & Technology, Medical Laboratory Technology, Physiotherapy, Optometry, Operation Theatre Technology, and a specialized two-year Diploma in Dialysis Technology. We also provide comprehensive options in pharmacy with a four-year Bachelor of Pharmacy program, a three-year Lateral Entry B. Pharma program, and a two-year Diploma in Pharmacy. Additionally, our nursing department offers B.Sc. in Nursing and General Nursing and Midwifery programs, while our vocational diplomas in Hotel Management, Event Management, and Hospitality Management provide practical skills for job readiness. Our commitment is to provide academically enriching and professionally relevant education for our graduates' future careers.</p>
                 </div>
                 <div class="col-lg-6">
-                    <img src="upload/extra/graduation-day.webp" alt="Students" class="img-fluid hero-image">
+                    <img src="upload/extra/graduation-day.webp" alt="Students" class="img-fluid hero-image" width="auto" height="auto">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-5 mb-4 mb-md-0">
-                    <img src="upload/immersive-learning.webp" alt="Immersive Learning" class="academic-img">
+                    <img src="upload/immersive-learning.webp" alt="Immersive Learning" class="academic-img" width="auto" height="auto">
                 </div>
                 <div class="col-md-7 ps-md-5">
                     
@@ -282,7 +282,7 @@
                     <p>In the realm of education, innovative teaching is a dynamic force that redefines traditional approaches. It integrates cutting-edge technology, active learning, and personalization to engage students and cultivate critical thinking. Technology plays a central role, with digital tools and online resources enhancing the learning experience. Innovative teaching fosters connections between academic concepts and real-world applications, ensuring relevance. Collaborative learning encourages teamwork and problem-solving, while the flipped classroom model optimizes in-class time for discussions and practical work. This approach equips students with adaptable skills and a passion for learning that transcends traditional boundaries.</p>
                 </div>
                 <div class="col-md-5 mb-4 mb-md-0 order-1 order-md-2">
-                    <img src="upload/innovative-teaching.webp" alt="Innovative Teaching" class="academic-img">
+                    <img src="upload/innovative-teaching.webp" alt="Innovative Teaching" class="academic-img" width="auto" height="auto">
                 </div>
             </div>
         </div>
@@ -293,7 +293,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-5 mb-4 mb-md-0">
-                    <img src="upload/mentoring-advising.webp" alt="Mentoring" class="academic-img">
+                    <img src="upload/mentoring-advising.webp" alt="Mentoring" class="academic-img" width="auto" height="auto">
                 </div>
                 <div class="col-md-7 ps-md-5">
                     <h2 class="pillar-title">MENTORING & ADVISING</h2>
@@ -312,7 +312,7 @@
                     <p>Career development is a lifelong journey encompassing deliberate steps to achieve one's professional aspirations. It begins with self-assessment, where individuals identify their interests, strengths, and values to pinpoint potential career paths. Skill enhancement follows, involving the acquisition and refinement of necessary qualifications. Networking is crucial, as building relationships can provide valuable insights and open doors to opportunities. Goal setting is key; establishing clear objectives and creating a roadmap keeps individuals motivated. In today's dynamic job market, continuous learning is vital for staying competitive.</p>
                 </div>
                 <div class="col-md-5 mb-4 mb-md-0 order-1 order-md-2">
-                    <img src="upload/career-development.webp" alt="Career Development" class="academic-img">
+                    <img src="upload/career-development.webp" alt="Career Development" class="academic-img" width="auto" height="auto">
                 </div>
             </div>
         </div>
@@ -323,7 +323,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-5 mb-4 mb-md-0">
-                    <img src="upload/learning-experience.webp" alt="Resources" class="academic-img">
+                    <img src="upload/learning-experience.webp" alt="Resources" class="academic-img" width="auto" height="auto">
                 </div>
                 <div class="col-md-7 ps-md-5">
                     <h2 class="pillar-title">RESOURCES TO ENHANCE YOUR LEARNING EXPERIENCE</h2>
@@ -347,10 +347,10 @@
                 <div class="col-lg-6">
                     <div class="row g-3">
                         <div class="col-6">
-                            <img src="upload/extra/hospital.webp" alt="Work" class="img-fluid shadow academic-img">
+                            <img src="upload/extra/hospital.webp" alt="Work" class="img-fluid shadow academic-img" width="auto" height="auto">
                         </div>
                         <div class="col-6">
-                            <img src="upload/extra/international.webp" alt="Music" class="img-fluid shadow mt-4 academic-img">
+                            <img src="upload/extra/international.webp" alt="Music" class="img-fluid shadow mt-4 academic-img" width="auto" height="auto">
                         </div>
                     </div>
                 </div>

@@ -20,7 +20,7 @@
               </p>
             </div>
             <div class="why-img">
-              <img src="assets/image/faq-1.webp" alt="Networking">
+              <img src="assets/image/faq-1.webp" alt="Networking" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@
               </p>
             </div>
             <div class="why-img">
-              <img src="assets/image//faq-2.webp" alt="Learning">
+              <img src="assets/image//faq-2.webp" alt="Learning" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@
               </p>
             </div>
             <div class="why-img">
-              <img src="assets/image//faq-3.webp" alt="Industry Partnership">
+              <img src="assets/image//faq-3.webp" alt="Industry Partnership" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -81,7 +81,7 @@
               </p>
             </div>
             <div class="why-img">
-              <img src="assets/image//faq-4.webp" alt="Learning">
+              <img src="assets/image//faq-4.webp" alt="Learning" width="auto" height="auto">
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@
               </p>
             </div>
             <div class="why-img">
-              <img src="assets/image//faq-5.webp" alt="Learning">
+              <img src="assets/image//faq-5.webp" alt="Learning" width="auto" height="auto">
             </div>
           </div>
         </div>

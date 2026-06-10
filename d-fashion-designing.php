@@ -3,10 +3,10 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Diploma in Fashion Designing College in Dehradun, Uttarakhand</title>
+    <title>Guru Nanak College | Best Diploma in Fashion | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College in Dehradun offers a Diploma in Fashion Designing program. This vibrant and comprehensive two-year program is tailored for individuals passionate about the fashion industry.">
-    <link rel="canonical" href="https://gnc.edu.in/d-fashion-designing">
+    <meta name="description" content="Guru Nanak College in Dehradun offers a Diploma in Fashion Designing program. This vibrant and comprehensive two-year program is tailored for...">
+    <link rel="canonical" href="https://www.gnc.edu.in/d-fashion-designing">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Diploma in Fashion Designing College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -57,7 +57,7 @@
                 <div class="col-lg-6">
                     <div class="specialization-slider pagination-style-1">
                         <div class="specialization-slider__item">
-                            <img src="upload/hero/fd-3.jpg" alt="Fd 3">
+                            <img src="upload/hero/fd-3.jpg" alt="Fd 3" width="auto" height="auto">
                         </div>
                     </div>
                 </div>
@@ -358,7 +358,7 @@
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <div class="bigInfo-section__content pt-8 pb-8">
-                        <div style="     background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/why-apply-gnc.webp" alt="Why apply gnc"></div>
+                        <div style="     background-size: cover; background-size: cover; background-repeat: no-repeat;"><img src="upload/why-apply-gnc.webp" alt="Why apply gnc" width="auto" height="auto"></div>
                     </div>
                 </div>
             </div>

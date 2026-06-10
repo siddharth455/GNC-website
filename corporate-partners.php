@@ -3,9 +3,9 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College Dehradun, Uttarakhand | Corporate Partners</title>
+    <title>Guru Nanak College Dehradun, Uttarakhand | Corporate | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College in Dehradun has established strong partnerships with various corporate entities to enhance the educational and professional development of its students. These partnerships provide students with valuable opportunities for internships, placements, and industry exposure.">
+    <meta name="description" content="Guru Nanak College in Dehradun has established strong partnerships with various corporate entities to enhance the educational and professional...">
     <link rel="canonical" href="https://www.gnc.edu.in/corporate-partners">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -58,7 +58,7 @@
                 <?php
                 for ($i = 1; $i <= 108; $i++) {
                     echo '<div class="col-md-1 col-sm-2 col-3 mt-4"> ';
-                    echo '<img src="upload/Corporate-Partners/cp%20(' . $i . ').webp" alt="Cbc Recutring patnars" class="img-fluid">';
+                    echo '<img src="upload/Corporate-Partners/cp%20(' . $i . ').webp" alt="Cbc Recutring patnars" class="img-fluid" width="auto" height="auto">';
                     echo '</div>';
                 }
 

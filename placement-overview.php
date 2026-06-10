@@ -391,13 +391,13 @@
         
         <div class="slide-item active">
             <div class="absolute inset-0 slide-bg">
-                <img src="upload/infra/acad-image.webp" class="w-full h-full object-cover brightness-50 blur-sm" alt="Acad image">
+                <img src="upload/infra/acad-image.webp" class="w-full h-full object-cover brightness-50 blur-sm" alt="Acad image" width="auto" height="auto">
                 <div class="absolute inset-0 bg-overlay"></div>
             </div>
             
             <div>
                 <div class="student-image-wrap slide-student">
-                    <img src="upload/infra/abhishek.webp" alt="Student Image">
+                    <img src="upload/infra/abhishek.webp" alt="Student Image" width="auto" height="auto">
                 </div>
             </div>
 
@@ -432,13 +432,13 @@
 
         <div class="slide-item">
             <div class="absolute inset-0 slide-bg">
-                <img src="upload/infra/place-banner.webp" class="w-full h-full object-cover brightness-40 blur-sm" alt="Place banner">
+                <img src="upload/infra/place-banner.webp" class="w-full h-full object-cover brightness-40 blur-sm" alt="Place banner" width="auto" height="auto">
                 <div class="absolute inset-0 bg-overlay"></div>
             </div>
 
             <div>
                 <div class="student-image-wrap slide-student">
-                    <img src="upload/infra/ritika.webp" alt="Student Image">
+                    <img src="upload/infra/ritika.webp" alt="Student Image" width="auto" height="auto">
                 </div>
             </div>
             
@@ -725,7 +725,7 @@
     </style>
 
     <div class="relative w-full min-h-550px flex flex-col justify-center px-6 md-px-24 py-16 overflow-hidden">
-        <img src="upload/infra/gnc.webp" class="absolute inset-0 w-full h-full object-cover z-0" alt="GNC Hero">
+        <img src="upload/infra/gnc.webp" class="absolute inset-0 w-full h-full object-cover z-0" alt="GNC Hero" width="auto" height="auto">
         <div class="absolute inset-0 hero-overlay z-10"></div>
 
         <div class="relative z-20 max-w-5xl">
@@ -734,23 +734,23 @@
             
             <div class="flex flex-wrap items-center gap-6 text-white-90">
                 <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
-                    <img src="https://cdn-icons-png.flaticon.com/512/3074/3074058.png" class="w-5 h-5 invert" alt="3074058"> 
+                    <img src="https://cdn-icons-png.flaticon.com/512/3074/3074058.png" class="w-5 h-5 invert" alt="3074058" width="auto" height="auto"> 
                     <span class="text-10px font-bold uppercase tracking-wider">Academic Excellence</span>
                 </div>
                 <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
-                    <img src="https://cdn-icons-png.flaticon.com/512/993/993891.png" class="w-5 h-5 invert" alt="993891"> 
+                    <img src="https://cdn-icons-png.flaticon.com/512/993/993891.png" class="w-5 h-5 invert" alt="993891" width="auto" height="auto"> 
                     <span class="text-10px font-bold uppercase tracking-wider">Industry Patronage</span>
                 </div>
                 <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2622/2622112.png" class="w-5 h-5 invert" alt="2622112"> 
+                    <img src="https://cdn-icons-png.flaticon.com/512/2622/2622112.png" class="w-5 h-5 invert" alt="2622112" width="auto" height="auto"> 
                     <span class="text-10px font-bold uppercase tracking-wider">Global Exposure</span>
                 </div>
                 <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
-                    <img src="https://cdn-icons-png.flaticon.com/512/1063/1063376.png" class="w-5 h-5 invert" alt="1063376"> 
+                    <img src="https://cdn-icons-png.flaticon.com/512/1063/1063376.png" class="w-5 h-5 invert" alt="1063376" width="auto" height="auto"> 
                     <span class="text-10px font-bold uppercase tracking-wider">Choice Based Careers</span>
                 </div>
                 <div class="flex items-center gap-2 border-r border-white-20 pr-6 last-border-0">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2168/2168931.png" class="w-5 h-5 invert" alt="2168931"> 
+                    <img src="https://cdn-icons-png.flaticon.com/512/2168/2168931.png" class="w-5 h-5 invert" alt="2168931" width="auto" height="auto"> 
                     <span class="text-10px font-bold uppercase tracking-wider">Return on Investment</span>
                 </div>
             </div>
@@ -768,7 +768,7 @@
             
             <div class="column-offset md-mt-40">
                 <div class="bg-gnc-teal card-inner text-white">
-                    <img src="https://cdn-icons-png.flaticon.com/512/3074/3074058.png" class="w-12 h-12 invert mb-6 opacity-80" alt="3074058">
+                    <img src="https://cdn-icons-png.flaticon.com/512/3074/3074058.png" class="w-12 h-12 invert mb-6 opacity-80" alt="3074058" width="auto" height="auto">
                     <h3 class="text-2xl font-bold mb-4 uppercase leading-tight">Edge with<br>Internships and On-the-job Trainings</h3>
                     <p class="text-13px leading-relaxed opacity-90">During your course of studies, you will have ample opportunities to gain industry experience through internships and on-the-job training.</p>
                 </div>
@@ -776,12 +776,12 @@
 
             <div class="flex flex-col gap-3">
                 <div class="bg-gnc-yellow card-inner text-gray-900">
-                    <img src="https://cdn-icons-png.flaticon.com/512/993/993891.png" class="w-12 h-12 mb-6 opacity-70" alt="993891">
+                    <img src="https://cdn-icons-png.flaticon.com/512/993/993891.png" class="w-12 h-12 mb-6 opacity-70" alt="993891" width="auto" height="auto">
                     <h3 class="text-2xl font-bold mb-4 uppercase leading-tight">Edge with <br>Corporate Connect Program</h3>
                     <p class="text-13px leading-relaxed font-medium">We have established the Career Competency Program (CCP) at Guru Nanak College with the aim of boosting our graduates' job prospects and creating an environment that attracts a greater number of multinational corporations (MNCs).</p>
                 </div>
                 <div class="bg-gnc-white card-inner text-gray-800 border-l-4 border-gray-200">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2622/2622112.png" class="w-12 h-12 mb-6 opacity-40" alt="2622112">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2622/2622112.png" class="w-12 h-12 mb-6 opacity-40" alt="2622112" width="auto" height="auto">
                     <h3 class="text-xl font-bold mb-3 uppercase text-gray-900 leading-tight">Edge with <br>Career Resource Centre</h3>
                     <p class="text-12px leading-relaxed">Empowerment comes through awareness. At Guru Nanak College, the Career Resource Centre is dedicated to enlightening, linking, and offering guidance to students regarding placement prospects.</p>
                 </div>
@@ -789,7 +789,7 @@
 
             <div class="column-offset md-mt-20">
                 <div class="bg-gnc-dark card-inner text-white min-h-500px">
-                    <img src="https://cdn-icons-png.flaticon.com/512/1063/1063376.png" class="w-12 h-12 invert mb-6 opacity-70" alt="1063376">
+                    <img src="https://cdn-icons-png.flaticon.com/512/1063/1063376.png" class="w-12 h-12 invert mb-6 opacity-70" alt="1063376" width="auto" height="auto">
                     <h3 class="text-2xl font-bold mb-4 uppercase leading-tight">Edge with<br>Accreditations & Validations</h3>
                     <p class="text-13px leading-relaxed opacity-90">Accreditations and validations stand as the foundational pillars of accuracy and trustworthiness, playing a pivotal role in attracting multinational corporations to our campus for recruitment purposes.</p>
                 </div>
@@ -797,7 +797,7 @@
 
             <div class="column-offset md-mt-64">
                 <div class="bg-gnc-pink card-inner text-white">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2168/2168931.png" class="w-12 h-12 invert mb-6 opacity-80" alt="2168931">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2168/2168931.png" class="w-12 h-12 invert mb-6 opacity-80" alt="2168931" width="auto" height="auto">
                     <h3 class="text-2xl font-bold mb-4 uppercase leading-tight">Edge with Foreign  <br>Internships & Semester Exchange</h3>
                     <p class="text-13px leading-relaxed opacity-90">Participating in Global Internships and Semester Exchange programs enhances your marketability by providing you with a unique blend of international exposure, hands-on experience, and a wealth of knowledge and skills acquired on the job.</p>
                 </div>
@@ -954,7 +954,7 @@
             <div class="placement-track scroll-left" id="m-track1">
                 <?php
                 for ($i = 1; $i <= 150; $i++) {
-                    echo '<img src="upload/placement/placement-1%20(' . $i . ').webp" alt="Placement">';
+                    echo '<img src="upload/placement/placement-1%20(' . $i . ').webp" alt="Placement" width="auto" height="auto">';
                 }
                 ?>
             </div>
@@ -964,7 +964,7 @@
             <div class="placement-track scroll-right" id="m-track2">
                 <?php
                 for ($i = 150; $i >= 1; $i--) {
-                    echo '<img src="upload/placement/placement-1%20(' . $i . ').webp" alt="Placement">';
+                    echo '<img src="upload/placement/placement-1%20(' . $i . ').webp" alt="Placement" width="auto" height="auto">';
                 }
                 ?>
             </div>

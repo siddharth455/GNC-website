@@ -3,10 +3,10 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Top BCA College in Dehradun – BCA Admission 2026 | Guru Nanak College</title>
+    <title>Top BCA College in Dehradun – BCA Admission 2026 | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study at the top BCA college in Dehradun. AI, Web Dev & Cybersecurity specializations. MNC campus placements. BCA Admission 2026 open at Guru Nanak.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords" content="BCA college in Dehradun,Best BCA college in Dehradun,BCA admission Dehradun,BCA course Dehradun,BCA fees Dehradun,Top BCA college Uttarakhand,BCA after 12th Dehradun,Computer applications course Dehradun,Best IT college Dehradun" />
     <meta property="og:type" content="website"/>
@@ -214,7 +214,7 @@
                                     <a href="https://application.gnc.edu.in/" class="btn btn-primary btn-hoverEffect"
                                         target="_blank">Apply Today <img
                                             src="images/long-arrow-right.png" alt="Button Arrow"
-                                            width="22" class="ms-2"></a>
+                                            width="22" class="ms-2" height="auto"></a>
                                 </div>
                             </div>
                         </div>
@@ -241,7 +241,7 @@
                             <div class="almni-photo">
 
                                 <div class="hpCompany">
-                                    <img src="upload/cultural/helloween/09.webp" alt="Company logo" width="121">
+                                    <img src="upload/cultural/helloween/09.webp" alt="Company logo" width="121" height="auto">
                                 </div>
                             </div>
                             <div class="hp-info">
@@ -257,7 +257,7 @@
                             <div class="almni-photo">
 
                                 <div class="hpCompany">
-                                    <img src="images/bca-5.jpeg" alt="Company logo" width="121">
+                                    <img src="images/bca-5.jpeg" alt="Company logo" width="121" height="auto">
                                 </div>
                             </div>
                             <div class="hp-info">
@@ -273,7 +273,7 @@
                             <div class="almni-photo">
 
                                 <div class="hpCompany">
-                                    <img src="" alt="Company logo" >
+                                    <img src="" alt="Company logo" width="auto" height="auto">
                                 </div>
                             </div>
                             <div class="hp-info">
@@ -289,7 +289,7 @@
                             <div class="almni-photo">
 
                                 <div class="hpCompany">
-                                    <img src="images/bca-3.jpeg" alt="Company logo" width="120">
+                                    <img src="images/bca-3.jpeg" alt="Company logo" width="120" height="auto">
                                 </div>
                             </div>
                             <div class="hp-info">
@@ -305,7 +305,7 @@
                             <div class="almni-photo">
 
                                 <div class="hpCompany">
-                                    <img src="images/bca-2.jpeg" alt="Company logo" width="150">
+                                    <img src="images/bca-2.jpeg" alt="Company logo" width="150" height="auto">
                                 </div>
                             </div>
                             <div class="hp-info">
@@ -332,7 +332,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="dept-cover position-relative">
-                        <img src="images/bca-about.JPG" alt="Bachelor of Computer Applications">
+                        <img src="images/bca-about.JPG" alt="Bachelor of Computer Applications" width="auto" height="auto">
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -357,10 +357,10 @@
                         data-aos-duration="500">
                         <a href="https://application.gnc.edu.in/" class="btn btn-primary btn-hoverEffect"
                             target="_blank">Apply Today <img src="images/long-arrow-right.png" alt="Button Arrow"
-                                            width="22" class="ms-2"></a>
+                                            width="22" class="ms-2" height="auto"></a>
                         <a href="upload/pdf/BCA.pdf" class="btn btn-primary btn-hoverEffect ms-2 mt-2"
                             target="_blank">Download Brochure <img src="images/long-arrow-right.png" alt="Button Arrow"
-                                            width="22" class="ms-2"></a>
+                                            width="22" class="ms-2" height="auto"></a>
                     </div>
                 </div>
             </div>
@@ -454,7 +454,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4">
                     <div class="course-logo text-end" data-aos="fade-left" data-aos-duration="500">
-                        <img src="assets/imgs-new/gnc-logo.png" alt="Guru Nanak College" width="232">
+                        <img src="assets/imgs-new/gnc-logo.png" alt="Guru Nanak College" width="232" height="auto">
                     </div>
                 </div>
             </div>
@@ -1061,7 +1061,7 @@
                     <!-- Text color inside this button is now #FB7B1C -->
                     <a href="#" class="btn-kc-primary">
                         APPLY NOW
-                        <img src="images/long-arrow-right.png" alt="arrow">
+                        <img src="images/long-arrow-right.png" alt="arrow" width="auto" height="auto">
                     </a>
                     <a href="#" class="btn-kc-outline" data-aos="fade-left" data-aos-delay="200" data-aos-duration="600">
                         DOWNLOAD BROCHURE <span class="arrow">→</span>
@@ -1080,13 +1080,13 @@
             <div role="list" class="key-figures-wrapper mt-5">
                 <div role="listitem" class="key-figure-wrapper vertwrap">
                     <div class="key-figure-closed"><img data-src="upload/infra/global.webp"
-                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" />
+                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" width="auto" height="auto" />
                         <div class="h3 key-figure-closed-title light whitespace-nowrap">Connecting Minds, Creating Futures
                         </div>
                     </div>
                     <div class="key-figure-details"><img data-src="upload/infra/gobal.webp"
                             alt="a group of people from various cultures smile as they pose for the photo" sizes="100vw"
-                            class="lazy-img key-figure-image" />
+                            class="lazy-img key-figure-image" width="auto" height="auto" />
                         <div class="key-figure-gradient"></div>
                         <div class="key-figure-details-wrapper">
                             <div class="display-1 regular text-white">Connecting Minds, Creating Futures</div>
@@ -1100,13 +1100,13 @@
                 </div>
                 <div role="listitem" class="key-figure-wrapper vertwrap">
                     <div class="key-figure-closed"><img data-src="upload/infra/sports.webp"
-                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon"/>
+                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" width="auto" height="auto" />
                         <div class="h3 key-figure-closed-title light whitespace-nowrap">Fueling Champions, On and Off
                             the Field</div>
                     </div>
                     <div class="key-figure-details"><img data-src="upload/infra/sports.webp"
                             alt="a group of people from various cultures smile as they pose for the photo" sizes="100vw"
-                            class="lazy-img key-figure-image" />
+                            class="lazy-img key-figure-image" width="auto" height="auto" />
                         <div class="key-figure-gradient"></div>
                         <div class="key-figure-details-wrapper">
                             <div class="display-1 regular text-white">Fueling Champions, On and Off the Field</div>
@@ -1120,14 +1120,14 @@
                 </div>
                 <div role="listitem" class="key-figure-wrapper vertwrap">
                     <div class="key-figure-closed"><img data-src="upload/infra/placement.webp"
-                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" />
+                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" width="auto" height="auto" />
                         <div class="h3 key-figure-closed-title light whitespace-nowrap">Your Pathway to Professional
                             Success
                         </div>
                     </div>
                     <div class="key-figure-details"><img data-src="upload/infra/placement.webp"
                             alt="a group of people from various cultures smile as they pose for the photo" sizes="100vw"
-                            class="lazy-img key-figure-image" />
+                            class="lazy-img key-figure-image" width="auto" height="auto" />
                         <div class="key-figure-gradient"></div>
                         <div class="key-figure-details-wrapper">
                             <div class="display-1 regular text-white">Your Pathway to Professional Success</div>
@@ -1141,12 +1141,12 @@
                 </div>
                 <div role="listitem" class="key-figure-wrapper vertwrap">
                     <div class="key-figure-closed"><img data-src="images/grad.webp"
-                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" />
+                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" width="auto" height="auto" />
                         <div class="h3 key-figure-closed-title light whitespace-nowrap">Think. Create. Innovate.</div>
                     </div>
                     <div class="key-figure-details"><img data-src="images/grad.webp"
                             alt="a group of people from various cultures smile as they pose for the photo" sizes="100vw"
-                            class="lazy-img key-figure-image" />
+                            class="lazy-img key-figure-image" width="auto" height="auto" />
                         <div class="key-figure-gradient"></div>
                         <div class="key-figure-details-wrapper">
                             <div class="display-1 regular text-white">Think. Create. Innovate.</div>
@@ -1160,12 +1160,12 @@
                 </div>
                 <div role="listitem" class="key-figure-wrapper vertwrap">
                     <div class="key-figure-closed"><img data-src="upload/infra/convocation.webp"
-                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" />
+                            alt="accordion expand icon" class="lazy-img key-figure-closed-close-icon" width="auto" height="auto" />
                         <div class="h3 key-figure-closed-title light whitespace-nowrap">Moments Turned Milestones</div>
                     </div>
                     <div class="key-figure-details"><img data-src="upload/infra/convocation.webp"
                             alt="a group of people from various cultures smile as they pose for the photo" sizes="100vw"
-                            class="lazy-img key-figure-image" />
+                            class="lazy-img key-figure-image" width="auto" height="auto" />
                         <div class="key-figure-gradient"></div>
                         <div class="key-figure-details-wrapper">
                             <div class="display-1 regular text-white">Moments Turned Milestones</div>
@@ -1189,34 +1189,34 @@
             </div>
             <div class="collab-slider mt-5">
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (1).webp" alt="Cp (1)">
+                    <img src="upload/Corporate-Partners/cp (1).webp" alt="Cp (1)" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (2).webp" alt="Cp (2)">
+                    <img src="upload/Corporate-Partners/cp (2).webp" alt="Cp (2)" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (3).webp" alt="Cp (3)">
+                    <img src="upload/Corporate-Partners/cp (3).webp" alt="Cp (3)" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (4).webp" alt="Cp (4)">
+                    <img src="upload/Corporate-Partners/cp (4).webp" alt="Cp (4)" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (5).webp" alt="Cp (5)">
+                    <img src="upload/Corporate-Partners/cp (5).webp" alt="Cp (5)" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (6).webp" alt="Cp (6)">
+                    <img src="upload/Corporate-Partners/cp (6).webp" alt="Cp (6)" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (7).webp" alt="Cp (7)">
+                    <img src="upload/Corporate-Partners/cp (7).webp" alt="Cp (7)" width="auto" height="auto">
                 </div>
             </div>
             <div class="btnsGroup text-center" data-aos="fade-left" data-aos-duration="500">
                 <a href="https://application.gnc.edu.in/" class="btn btn-primary btn-hoverEffect" target="_blank">Apply
                     Now <img data-src="images/right-arrow-btn.webp" alt="Button Arrow" width="22"
-                        class="lazy-img ms-2"></a>
+                        class="lazy-img ms-2" height="auto"></a>
                 <a href="https://gnc.edu.in/international-partners/" class="btn btn-primary btn-hoverEffect ms-2"
                     target="_blank">View More <img data-src="images/right-arrow-btn.webp" alt="Button Arrow"
-                        width="22" class="lazy-img ms-2"></a>
+                        width="22" class="lazy-img ms-2" height="auto"></a>
             </div>
         </div>
     </section>
@@ -1233,7 +1233,7 @@
         <div class="ps-188 position-relative">
             <div class="researchLabs-slider mt-5">
                 <div class="researchLabs-item">
-                    <img data-src="upload/computer-lab.webp" alt="Zoology Lab" class="lazy-img w-100 h-100">
+                    <img data-src="upload/computer-lab.webp" alt="Zoology Lab" class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">World-class Computer Centre</h3>
                         <p>Guru Nanak College provides modern computer education with hands-on training and
@@ -1241,7 +1241,7 @@
                     </div>
                 </div>
                 <div class="researchLabs-item">
-                    <img data-src="upload/lib.webp" alt="Botany Lab" class="lazy-img w-100 h-100">
+                    <img data-src="upload/lib.webp" alt="Botany Lab" class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Grand Libraries</h3>
                         <p>Guru Nanak College offers a well-equipped library with physical and digital resources
@@ -1249,7 +1249,7 @@
                     </div>
                 </div>
                 <div class="researchLabs-item">
-                    <img data-src="upload/infra/3l.webp" alt="Chemistry Lab" class="lazy-img w-100 h-100">
+                    <img data-src="upload/infra/3l.webp" alt="Chemistry Lab" class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Medical Facilities</h3>
                         <p>Guru Nanak College provides prompt and reliable healthcare for students through partnerships
@@ -1257,7 +1257,7 @@
                     </div>
                 </div>
                 <!-- <div class="researchLabs-item">
-                    <img data-src="assets/imgs-new/computer-bg.jpg" alt="Computer Lab" class="lazy-img w-100 h-100">
+                    <img data-src="assets/imgs-new/computer-bg.jpg" alt="Computer Lab" class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Auditorium</h3>
                         <p>Guru Nanak College has a modern 500-seat auditorium with advanced audio-visual facilities,
@@ -1266,7 +1266,7 @@
                 </div> -->
                 <div class="researchLabs-item">
                     <img data-src="upload/infra/5l.webp" alt="Zoology Research Lab"
-                        class="lazy-img w-100 h-100">
+                        class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Home-like Hostels</h3>
                         <p>Guru Nanak College offers safe and comfortable on-campus hostels for boys and girls, with
@@ -1301,7 +1301,7 @@
                             <a href="https://application.gnc.edu.in/" class="btn btn-primary btn-hoverEffect mt-5"
                                 target="_blank">
                                 Apply Now <img src="images/long-arrow-right.png" alt="Button Arrow" width="22"
-                                    class="ms-2">
+                                    class="ms-2" height="auto">
                             </a>
                         </div>
                     </div>

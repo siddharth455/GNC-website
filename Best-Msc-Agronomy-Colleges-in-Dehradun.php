@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best M.Sc Agronomy College in Dehradun Uttarakhand</title>
+    <title>Guru Nanak College | Best M.Sc Agronomy College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, Dehradun's best college for M.Sc. Agronomy. Known for its innovative curriculum, expert faculty, and advanced research facilities, Guru Nanak College empowers students to excel in agronomic sciences, shaping the agricultural leaders of tomorrow.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Agronomy College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -385,7 +385,7 @@
                         </p>   
                     </div>   
                     <div class="mt-5 gnc-agri-btnsGroup text-center text-md-start">
-                        <a href="https://application.gnc.edu.in/" class="btn btn-primary gnc-agri-btn-hoverEffect px-4 py-2 fw-bold" target="_blank" style="background: var(--gnc-orange); border: none;">Apply Now <img src="images/long-arrow-right.png" alt="Button Arrow" width="22" class="ms-2"></a>
+                        <a href="https://application.gnc.edu.in/" class="btn btn-primary gnc-agri-btn-hoverEffect px-4 py-2 fw-bold" target="_blank" style="background: var(--gnc-orange); border: none;">Apply Now <img src="images/long-arrow-right.png" alt="Button Arrow" width="22" class="ms-2" height="auto"></a>
                     </div>                                          
                 </div> 
                 <div class="col-md-6" data-aos="fade-left" data-aos-delay="400" data-aos-duration="600">
@@ -393,7 +393,7 @@
                         <p class="text-muted">Graduates of the M.Sc. Agronomy program from Guru Nanak College are well-prepared to explore diverse career opportunities in the field of agronomy and agricultural management. They can pursue roles in agricultural research organizations, environmental consultancies, research institutions, and non-governmental organizations. Opportunities also exist in sectors such as sustainable farming, resource management, and agribusiness consultancy. Furthermore, students can continue their education through doctoral programs (Ph.D.), enabling them to enhance their expertise and build successful careers in the agricultural research and environmental sector.</p>
                     </div> 
                     <div class="gnc-agri-about-cov text-center text-md-start mt-4">
-                        <img src="images/horticulture-10.webp" alt="Agriculture Images" class="img-fluid rounded shadow-sm">
+                        <img src="images/horticulture-10.webp" alt="Agriculture Images" class="img-fluid rounded shadow-sm" width="auto" height="auto">
                     </div>
                 </div>                 
             </div>   
@@ -930,7 +930,7 @@
                             <span>Play Video</span>
                         </div>
                         <div class="video-thumb-link" onclick="openVideoPopup('PpkHaa1lPjI')">
-                            <img src="https://img.youtube.com/vi/PpkHaa1lPjI/maxresdefault.jpg" alt="Video Thumbnail">
+                            <img src="https://img.youtube.com/vi/PpkHaa1lPjI/maxresdefault.jpg" alt="Video Thumbnail" width="auto" height="auto">
                         </div>
                     </div>
 
@@ -1121,7 +1121,7 @@
                     <!-- Text color inside this button is now #FB7B1C -->
                     <a href="https://application.gnc.edu.in/" class="btn-kc-primary">
                         APPLY NOW
-                        <img src="images/long-arrow-right.png" alt="arrow">
+                        <img src="images/long-arrow-right.png" alt="arrow" width="auto" height="auto">
                     </a>
                     <a href="#f" class="btn-kc-outline">
                         DOWNLOAD BROCHURE <span class="arrow">→</span>
@@ -1647,15 +1647,15 @@
 
         <div class="gnc-forestry-mosaic-col">
             <div class="mosaic-tall">
-                <img src="images/horticulture-6.webp" alt="Agronomy Research">
+                <img src="images/horticulture-6.webp" alt="Agronomy Research" width="auto" height="auto">
                 <div class="mosaic-overlay"></div>
             </div>
             <div class="mosaic-stacked">
                 <div class="mosaic-square">
-                    <img src="images/horticulture-14.webp" alt="Field Session">
+                    <img src="images/horticulture-14.webp" alt="Field Session" width="auto" height="auto">
                 </div>
                 <div class="mosaic-square">
-                    <img src="images/horticulture-15.webp" alt="Student Group">
+                    <img src="images/horticulture-15.webp" alt="Student Group" width="auto" height="auto">
                 </div>
             </div>
         </div>
@@ -1920,7 +1920,7 @@
                 <!-- Step 1 -->
                 <div class="step-content active">
                     <div class="step-left">
-                        <img src="images/step-1.jpg" alt="GNC Signup">
+                        <img src="images/step-1.jpg" alt="GNC Signup" width="auto" height="auto">
                     </div>
                     <div class="step-right">
                         <h6>Step 1 – Signup</h6>
@@ -1931,7 +1931,7 @@
                 <!-- Step 2 -->
                 <div class="step-content">
                     <div class="step-left">
-                        <img src="images/step-2.jpg" alt="GNC Application">
+                        <img src="images/step-2.jpg" alt="GNC Application" width="auto" height="auto">
                     </div>
                     <div class="step-right">
                         <h6>Step 2 – Application Form</h6>
@@ -1942,7 +1942,7 @@
                 <!-- Step 3 -->
                 <div class="step-content">
                     <div class="step-left">
-                        <img src="images/step-3.webp" alt="GNC Admission">
+                        <img src="images/step-3.webp" alt="GNC Admission" width="auto" height="auto">
                     </div>
                     <div class="step-right">
                         <h6>Step 3 – Admission</h6>

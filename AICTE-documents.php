@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AICTE || Guru Nanak College Dehradun</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="canonical" href="https://gnc.edu.in/AICTE-documents">
+  <link rel="canonical" href="https://www.gnc.edu.in/AICTE-documents">
 
   <style>
     .toggle-btn {
@@ -48,7 +48,7 @@
   <div id="myCarousel" class="carousel slide h-100" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="upload/infra/AICTE.jpg" class="d-block w-100 img-fluid" alt="Slide 1" loading="lazy">
+        <img src="upload/infra/AICTE.jpg" class="d-block w-100 img-fluid" alt="Slide 1" loading="lazy" width="auto" height="auto">
       </div>
     </div>
   </div>

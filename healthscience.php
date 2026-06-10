@@ -48,11 +48,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <!-- slider 5  -->
         <div class="swiper-slide">
-          <img src="assets/image/banner-5.webp" alt="DIS Mobile Banner" class="banner-image w-100">
+          <img src="assets/image/banner-5.webp" alt="DIS Mobile Banner" class="banner-image w-100" width="auto" height="auto">
           <div class="banner-overlay position-absolute bottom-0 start-0 text-white p-4">
             <div class="d-flex align-items-center logo-para">
               <div class="overlay-logo me-3">
-                <img src="assets/image/logo.webp" alt="Overlay Logo" class="logo-img-bottom">
+                <img src="assets/image/logo.webp" alt="Overlay Logo" class="logo-img-bottom" width="auto" height="auto">
               </div>
               <div class="overlay-text">
                 <h2>School of Health Science</h2>
@@ -342,7 +342,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- Student figure sits first in DOM. On desktop it's absolutely positioned and taller to extend below the slider.
              On mobile CSS makes it static left column 250x300. -->
         <div class="student-figure" aria-hidden="true">
-          <img src="assets/image/student-gnc.webp" alt="student">
+          <img src="assets/image/student-gnc.webp" alt="student" width="auto" height="auto">
         </div>
 
         <!-- Stats row -->
@@ -374,13 +374,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="slider-card" aria-roledescription="carousel" aria-label="Highlights slider">
         <div class="slides" aria-live="polite">
           <div class="slide active" role="group" aria-roledescription="slide" aria-label="Slide 1 of 3">
-            <img src="assets/image/ranking.webp" alt="Ranking">
+            <img src="assets/image/ranking.webp" alt="Ranking" width="auto" height="auto">
           </div>
           <div class="slide" role="group" aria-roledescription="slide" aria-label="Slide 2 of 3">
-            <img src="assets/image/awards.webp" alt="Awards">
+            <img src="assets/image/awards.webp" alt="Awards" width="auto" height="auto">
           </div>
           <div class="slide" role="group" aria-roledescription="slide" aria-label="Slide 3 of 3">
-            <img src="assets/image/dandiya-nights.webp" alt="Dandiya Nights">
+            <img src="assets/image/dandiya-nights.webp" alt="Dandiya Nights" width="auto" height="auto">
           </div>
         </div>
       </div>
@@ -973,19 +973,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-md-6 text-center mb-4 mb-md-0">
         <div class="accreditation-circle" id="accreditationCircle">
           <!-- Central College Logo -->
-          <img src="assets/image/logo.webp" class="center-logo" alt="College Logo" />
+          <img src="assets/image/logo.webp" class="center-logo" alt="College Logo" width="auto" height="auto" />
 
           <!-- Accreditation logos (dummy placeholders) -->
-          <img src="assets/image/HNBGMU.webp" class="circle-logo" alt="HNBGMU" />
-          <img src="assets/image/msme.webp" class="circle-logo" alt="Msme" />
-          <img src="assets/image/pci.webp" class="circle-logo" alt="Pci" />
-          <img src="assets/image/sdsuu.webp" class="circle-logo" alt="Sdsuu" />
-          <img src="assets/image/UBTER.webp" class="circle-logo" alt="UBTER" />
-          <img src="assets/image/ugc.webp" class="circle-logo" alt="Ugc" />
-          <img src="assets/image/Uttarakhand_Technical_University_logo.webp" class="circle-logo" alt="Uttarakhand Technical University logo" />
-          <img src="assets/image/aicte.webp" class="circle-logo" alt="Aicte" />
-          <img src="assets/image/iap-logo.jpeg" class="circle-logo" alt="Iap logo" />
-          <img src="assets/image/inc-logo.png" class="circle-logo" alt="Inc logo" />
+          <img src="assets/image/HNBGMU.webp" class="circle-logo" alt="HNBGMU" width="auto" height="auto" />
+          <img src="assets/image/msme.webp" class="circle-logo" alt="Msme" width="auto" height="auto" />
+          <img src="assets/image/pci.webp" class="circle-logo" alt="Pci" width="auto" height="auto" />
+          <img src="assets/image/sdsuu.webp" class="circle-logo" alt="Sdsuu" width="auto" height="auto" />
+          <img src="assets/image/UBTER.webp" class="circle-logo" alt="UBTER" width="auto" height="auto" />
+          <img src="assets/image/ugc.webp" class="circle-logo" alt="Ugc" width="auto" height="auto" />
+          <img src="assets/image/Uttarakhand_Technical_University_logo.webp" class="circle-logo" alt="Uttarakhand Technical University logo" width="auto" height="auto" />
+          <img src="assets/image/aicte.webp" class="circle-logo" alt="Aicte" width="auto" height="auto" />
+          <img src="assets/image/iap-logo.jpeg" class="circle-logo" alt="Iap logo" width="auto" height="auto" />
+          <img src="assets/image/inc-logo.png" class="circle-logo" alt="Inc logo" width="auto" height="auto" />
         </div>
       </div>
 
@@ -1071,12 +1071,12 @@ document.addEventListener("DOMContentLoaded", function(){
 
     <div class="gnc-campus-slider">
       <div class="gnc-campus-slides">
-        <img src="assets/image/computer-lab.webp" class="gnc-campus-slide" alt="Computer lab" />
-        <img src="assets/image/lib.webp" class="gnc-campus-slide" alt="Lib" />
-        <img src="assets/image/3l.webp" class="gnc-campus-slide" alt="3l" />
-        <img src="assets/image/4l.webp" class="gnc-campus-slide" alt="4l" />
-        <img src="assets/image/5l.webp" class="gnc-campus-slide" alt="5l" />
-        <img src="assets/image/6l.webp" class="gnc-campus-slide" alt="6l" />
+        <img src="assets/image/computer-lab.webp" class="gnc-campus-slide" alt="Computer lab" width="auto" height="auto" />
+        <img src="assets/image/lib.webp" class="gnc-campus-slide" alt="Lib" width="auto" height="auto" />
+        <img src="assets/image/3l.webp" class="gnc-campus-slide" alt="3l" width="auto" height="auto" />
+        <img src="assets/image/4l.webp" class="gnc-campus-slide" alt="4l" width="auto" height="auto" />
+        <img src="assets/image/5l.webp" class="gnc-campus-slide" alt="5l" width="auto" height="auto" />
+        <img src="assets/image/6l.webp" class="gnc-campus-slide" alt="6l" width="auto" height="auto" />
       </div>
 
       <!-- ✅ FIXED: Centered Overlay Content -->

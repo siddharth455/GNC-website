@@ -6,9 +6,8 @@
     <title>Guru Nanak College | Best Management College in Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="GNC, best management college, we nurture business minds, entrepreneurs, and
-change-makers. Our comprehensive business management program equips students with foundational
-knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.com, MBA, PGDM">
-    <link rel="canonical" href="https://gnc.edu.in/Best-Management-College-in-Dehradun">
+change-makers. Our comprehensive business management program equips...">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-Management-College-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Management College in Dehradun" />
@@ -873,13 +872,13 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="upload/dpt/25.jpg" class="d-block w-100" alt="Brochure Page 1">
+                            <img src="upload/dpt/25.jpg" class="d-block w-100" alt="Brochure Page 1" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/1.jpg" class="d-block w-100" alt="Brochure Page 2">
+                            <img src="upload/dpt/1.jpg" class="d-block w-100" alt="Brochure Page 2" width="auto" height="auto">
                         </div>
                         <div class="carousel-item">
-                            <img src="upload/dpt/24.jpg" class="d-block w-100" alt="Brochure Page 3">
+                            <img src="upload/dpt/24.jpg" class="d-block w-100" alt="Brochure Page 3" width="auto" height="auto">
                         </div>
                     </div>
 

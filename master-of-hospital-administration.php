@@ -3,10 +3,10 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best Master of Hospital Administration College in Dehradun | GNC</title>
+    <title>Best Master of Hospital Administration College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, Dehradun's leading institution for Master of Hospital Administration. With an innovative curriculum, esteemed faculty, and handson learning opportunities, Guru Nanak College prepares future leaders in hospital administration to excel in the healthcare industry.">
-    <link rel="canonical" href="https://gnc.edu.in/master-of-hospital-administration">
+    <link rel="canonical" href="https://www.gnc.edu.in/master-of-hospital-administration">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Master of Hospital Administration College in Dehradun | GNC" />
@@ -847,7 +847,7 @@
                 <div class="mha-image-right">
                     <div class="mha-image-wrapper">
                         <img src="upload/master-of-healthcare-administrat.webp"
-                            alt="MHA Healthcare Administration - Guru Nanak College">
+                            alt="MHA Healthcare Administration - Guru Nanak College" width="auto" height="auto">
                     </div>
                 </div>
 
@@ -939,7 +939,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/gnc-mha-4.webp"
-                                class="career-img" alt="Hospital Admin">
+                                class="career-img" alt="Hospital Admin" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Leadership</div>
                                 <h4 class="fw-bold">Hospital Administrator</h4>
@@ -955,7 +955,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/gnc-mha-1.webp"
-                                class="career-img" alt="Consultant">
+                                class="career-img" alt="Consultant" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Strategy</div>
                                 <h4 class="fw-bold">Healthcare Consultant</h4>
@@ -971,7 +971,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/gnc-mha-3.webp"
-                                class="career-img" alt="Policy">
+                                class="career-img" alt="Policy" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Governance</div>
                                 <h4 class="fw-bold">Healthcare Policy Analyst</h4>
@@ -987,7 +987,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/gnc-mha-2.webp"
-                                class="career-img" alt="Informatics">
+                                class="career-img" alt="Informatics" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Technology</div>
                                 <h4 class="fw-bold">Healthcare Informatics Manager</h4>
@@ -1210,7 +1210,7 @@
                         </a>
                         <a data-fancybox href="https://www.youtube.com/watch?v=0tg1fzQAQVo&autoplay=1"
                             class="video-thumb-link">
-                            <img src="https://img.youtube.com/vi/0tg1fzQAQVo/maxresdefault.jpg" alt="Video Thumbnail">
+                            <img src="https://img.youtube.com/vi/0tg1fzQAQVo/maxresdefault.jpg" alt="Video Thumbnail" width="auto" height="auto">
                         </a>
                     </div>
                     <div class="video-promo-content" data-aos="fade-up" data-aos-duration="500">
@@ -1417,7 +1417,7 @@
 <section class="curriculum-section">
     <div class="container">
         <div class="curriculum-visual reveal-left">
-            <img src="images/gnc-s-8.jpeg" alt="MHA Curriculum">
+            <img src="images/gnc-s-8.jpeg" alt="MHA Curriculum" width="auto" height="auto">
             <div class="overlay-card">
                 <h5>Core Focus Areas</h5>
                 <div class="prog">
@@ -1670,7 +1670,7 @@ function showSem(semId, btn) {
 
             <!-- Card 1: Curriculum -->
             <div class="mha-pin-card">
-                <img src="images/gnc-mha-5.webp" class="mha-pin-img" alt="Library">
+                <img src="images/gnc-mha-5.webp" class="mha-pin-img" alt="Library" width="auto" height="auto">
                 <div class="mha-pin-body">
                     <span class="mha-pin-tag">Academics</span>
                     <h3 class="mha-pin-title">Advanced Curriculum</h3>
@@ -1698,7 +1698,7 @@ function showSem(semId, btn) {
 
             <!-- Card 4: Clinical Training -->
             <div class="mha-pin-card">
-                <img src="images/gnc-s-88.jpeg" class="mha-pin-img" alt="Residency">
+                <img src="images/gnc-s-88.jpeg" class="mha-pin-img" alt="Residency" width="auto" height="auto">
                 <div class="mha-pin-body">
                     <span class="mha-pin-tag">Real World Exposure</span>
                     <h3 class="mha-pin-title">Clinical Trainings</h3>
@@ -1723,7 +1723,7 @@ function showSem(semId, btn) {
 
             <!-- Card 6: Infrastructure -->
             <div class="mha-pin-card">
-                <img src="images/gnc-s-103.webp" class="mha-pin-img" alt="Lab">
+                <img src="images/gnc-s-103.webp" class="mha-pin-img" alt="Lab" width="auto" height="auto">
                 <div class="mha-pin-body">
                     <span class="mha-pin-tag">Campus Assets</span>
                     <h3 class="mha-pin-title">Simulated Healthcare Labs</h3>
@@ -1924,7 +1924,7 @@ function showSem(semId, btn) {
     <div class="gallery-box">
         <!-- 1. Main View -->
         <div class="display-container">
-            <img id="activeImage" src="" alt="Infrastructure">
+            <img id="activeImage" src="" alt="Infrastructure" width="auto" height="auto">
             <div class="caption-bar">
                 <span id="activeCaption">Gym</span>
                 <!-- Navigation Controls inside caption bar -->
@@ -1942,37 +1942,37 @@ function showSem(semId, btn) {
         <!-- 3. Thumbnails -->
         <ul class="thumb-list" id="thumbContainer">
             <li class="thumb-item active" data-caption="Dandiya Dance">
-                <img src="images/gnc-s-18.jpeg" alt="Dandiya Dance">
+                <img src="images/gnc-s-18.jpeg" alt="Dandiya Dance" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Co-curricular Activity">
-                <img src="images/gnc-s-19.jpeg" alt="Co-curricular">
+                <img src="images/gnc-s-19.jpeg" alt="Co-curricular" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Nature Retreats & Outdoor Learning">
-                <img src="images/trip-2.webp" alt="Adventure Trip">
+                <img src="images/trip-2.webp" alt="Adventure Trip" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Sports Ground">
-                <img src="images/sports-2.webp" alt="Sports Ground">
+                <img src="images/sports-2.webp" alt="Sports Ground" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Healthcare Training Lab">
-                <img src="images/mha-lab-1.webp" alt="Healthcare Training Lab">
+                <img src="images/mha-lab-1.webp" alt="Healthcare Training Lab" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Graduation Day">
-                <img src="images/mha-grad.webp" alt="graduation-day">
+                <img src="images/mha-grad.webp" alt="graduation-day" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Smart Seminar Hall">
-                <img src="images/gnc-s-56.jpeg" alt="Seminar">
+                <img src="images/gnc-s-56.jpeg" alt="Seminar" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Sports Excellence">
-                <img src="images/sports-1.webp" alt="Sports Excellence">
+                <img src="images/sports-1.webp" alt="Sports Excellence" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Campus Fest Experience">
-                <img src="images/gnc-s-64.jpeg" alt="Campus Fest Experience">
+                <img src="images/gnc-s-64.jpeg" alt="Campus Fest Experience" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Skill Based Learning">
-                <img src="images/gnc-s-51.jpeg" alt="Skill Based Learning">
+                <img src="images/gnc-s-51.jpeg" alt="Skill Based Learning" width="auto" height="auto">
             </li>
             <li class="thumb-item" data-caption="Plantation Drive">
-                <img src="upload/infra/plantation.webp" alt="Plantation Drive">
+                <img src="upload/infra/plantation.webp" alt="Plantation Drive" width="auto" height="auto">
             </li>
         </ul>
     </div>
@@ -2032,8 +2032,8 @@ function showSem(semId, btn) {
             <div class="why-choose-us-layout">
                 <div class="why-choose-us-images">
                     <div class="image-stack">
-                        <img src="images/gnc-s-27.jpeg" alt="GNC Student 1" class="stack-img img-1">
-                        <img src="images/gnc-s-29.jpeg" alt="GNC Student 2" class="stack-img img-2">
+                        <img src="images/gnc-s-27.jpeg" alt="GNC Student 1" class="stack-img img-1" width="auto" height="auto">
+                        <img src="images/gnc-s-29.jpeg" alt="GNC Student 2" class="stack-img img-2" width="auto" height="auto">
                     </div>
                 </div>
                 <div class="why-choose-us-content">
@@ -2735,7 +2735,7 @@ function showSem(semId, btn) {
             <!-- Step 1 -->
             <div class="step-content active">
                 <div class="step-left">
-                    <img src="images/step-1.jpg" alt="GNC Signup">
+                    <img src="images/step-1.jpg" alt="GNC Signup" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 1 – Signup</h6>
@@ -2746,7 +2746,7 @@ function showSem(semId, btn) {
             <!-- Step 2 -->
             <div class="step-content">
                 <div class="step-left">
-                    <img src="images/step-2.jpg" alt="GNC Application">
+                    <img src="images/step-2.jpg" alt="GNC Application" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 2 – Application Form</h6>
@@ -2757,7 +2757,7 @@ function showSem(semId, btn) {
             <!-- Step 3 -->
             <div class="step-content">
                 <div class="step-left">
-                    <img src="images/step-3.webp" alt="GNC Admission">
+                    <img src="images/step-3.webp" alt="GNC Admission" width="auto" height="auto">
                 </div>
                 <div class="step-right">
                     <h6>Step 3 – Admission</h6>

@@ -5,15 +5,15 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-<title>B.Sc Nursing vs GNM 2026 — Fees, Salary, Scope & Which is Better | GNC Dehradun</title>
+<title>B.Sc Nursing vs GNM 2026 — Fees, Salary, Scope & | GNC</title>
 
 <meta name="description"
-content="B.Sc Nursing vs GNM — complete 2026 comparison of fees, duration, salary, government jobs, international scope and career growth. INC approved nursing at GNC Dehradun. Admissions open." />
+content="B.Sc Nursing vs GNM — complete 2026 comparison of fees, duration, salary, government jobs, international scope and career growth. INC approved nursing..." />
 
 <meta name="keywords"
 content="bsc nursing vs gnm, gnm vs bsc nursing salary, bsc nursing fees dehradun, gnm nursing college dehradun, nursing courses after 12th 2026, inc approved nursing college dehradun"/>
 
-<link rel="canonical" href="https://gnc.edu.in/blog/bsc-nursing-vs-gnm-2026/" />
+<link rel="canonical" href="https://www.gnc.edu.in/blog/bsc-nursing-vs-gnm-2026/" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="B.Sc Nursing vs GNM 2026 — Fees, Salary & Which is Better for Your Career?" />
@@ -511,7 +511,7 @@ content="bsc nursing vs gnm, gnm vs bsc nursing salary, bsc nursing fees dehradu
 <img src="upload/blog/bscnursing-vs-gnm.webp"
 alt="B.Sc Nursing vs GNM 2026 comparison Guru Nanak College Dehradun"
 class="post-hero-img"
-loading="lazy">
+loading="lazy" width="auto" height="auto">
 
 <article class="post-body">
 
@@ -970,27 +970,27 @@ loading="lazy">
         <div class="suggested">
           <h3>You May Also Like</h3>
           <a class="suggest-card" href="Best-B-Sc-Nursing-Colleges-in-dehradun">
-            <img class="sc-image" src="upload/blog/4.webp" alt="B.Sc Nursing College Dehradun">
+            <img class="sc-image" src="upload/blog/4.webp" alt="B.Sc Nursing College Dehradun" width="auto" height="auto">
             <div class="sc-title">Best B.Sc Nursing Colleges in Dehradun</div>
             <div class="sc-meta">GNC Dehradun • Nursing</div>
           </a>
           <a class="suggest-card" href="best-gnm-college-in-dehradun">
-            <img class="sc-image" src="upload/blog/4.webp" alt="GNM College Dehradun">
+            <img class="sc-image" src="upload/blog/4.webp" alt="GNM College Dehradun" width="auto" height="auto">
             <div class="sc-title">Best GNM College in Dehradun</div>
             <div class="sc-meta">GNC Dehradun • Nursing</div>
           </a>
           <a class="suggest-card" href="post-basic-nursing">
-            <img class="sc-image" src="upload/blog/4.webp" alt="Post Basic Nursing">
+            <img class="sc-image" src="upload/blog/4.webp" alt="Post Basic Nursing" width="auto" height="auto">
             <div class="sc-title">Post Basic B.Sc Nursing at GNC</div>
             <div class="sc-meta">GNC Dehradun • Nursing</div>
           </a>
           <a class="suggest-card" href="top-paramedical-courses-after-12th-dehradun-2026">
-            <img class="sc-image" src="upload/blog/para-blog-26.webp" alt="Paramedical Courses">
+            <img class="sc-image" src="upload/blog/para-blog-26.webp" alt="Paramedical Courses" width="auto" height="auto">
             <div class="sc-title">Top Paramedical Courses After 12th — Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026</div>
           </a>
           <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun">
-            <img class="sc-image" src="upload/blog/4.webp" alt="Top 5 Nursing Colleges">
+            <img class="sc-image" src="upload/blog/4.webp" alt="Top 5 Nursing Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun</div>
             <div class="sc-meta">GNC Dehradun • Nursing</div>
           </a>

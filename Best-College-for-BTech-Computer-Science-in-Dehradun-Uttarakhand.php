@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Apply for B.Tech Computer Science Engineering Admission 2026 at Guru Nanak College Dehradun. AI, Data Science, placements and career support">
-    <link rel="canonical" href="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://www.gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords"
         content="B.Tech CSE Admission 2026, B.Tech Computer Science Engineering Dehradun, Best BTech College in Dehradun, B.Tech CSE Guru Nanak College, engineering placements Dehradun" />
@@ -624,7 +624,7 @@
                                     <div class="gnc-bba-stat-box gnc-bba-stat-flex">
                                         <a href="admissions.php">
                                             <img src="https://cdn-icons-png.flaticon.com/128/2941/2941658.png"
-                                                alt="Study Abroad">
+                                                alt="Study Abroad" width="auto" height="auto">
                                             <span>Admissions</span>
                                         </a>
                                     </div>
@@ -633,7 +633,7 @@
                                     <div class="gnc-bba-stat-box gnc-bba-stat-flex">
                                         <a href="campus-life.php">
                                             <img src="https://cdn-icons-png.flaticon.com/128/942/942799.png"
-                                                alt="Program">
+                                                alt="Program" width="auto" height="auto">
                                             <span>Campus Life</span>
                                         </a>
                                     </div>
@@ -642,7 +642,7 @@
                                     <div class="gnc-bba-stat-box gnc-bba-stat-flex">
                                         <a href="scholarships.php">
                                             <img src="https://cdn-icons-png.flaticon.com/128/3135/3135706.png"
-                                                alt="Loan">
+                                                alt="Loan" width="auto" height="auto">
                                             <span>Scholarships</span>
                                         </a>
                                     </div>
@@ -651,7 +651,7 @@
                                     <div class="gnc-bba-stat-box gnc-bba-stat-flex">
                                         <a href="placement-overview.php">
                                             <img src="https://cdn-icons-png.flaticon.com/128/2490/2490332.png"
-                                                alt="Scholarship">
+                                                alt="Scholarship" width="auto" height="auto">
                                             <span>Placements</span>
                                         </a>
                                     </div>
@@ -672,7 +672,7 @@
 
                         <div class="gnc-bba-scope-wrap clearfix my-5">
                             <h3 class="gnc-bba-title-line">Scope</h3>
-                            <img src="images/bca-2.webp" class="gnc-bba-scope-img" alt="B.Tech CSE Scope">
+                            <img src="images/bca-2.webp" class="gnc-bba-scope-img" alt="B.Tech CSE Scope" width="auto" height="auto">
                             <p class="fst-italic text-muted small">The global technology market is expanding rapidly,
                                 offering diverse opportunities in AI, Data Science, and Software Development.</p>
                           <a href="https://application.gnc.edu.in/" target="_blank"><button class="btn btn-danger btn-sm px-4 fw-bold">APPLY NOW</button></a>  
@@ -1122,24 +1122,24 @@
             </div>
             <div class="glance-slider">
                 <div class="glance-item">
-                    <img src="images/computer-lab.jpeg" alt="Computer Lab">
+                    <img src="images/computer-lab.jpeg" alt="Computer Lab" width="auto" height="auto">
                     <h4>World-class Computer Centre</h4>
 f
                 </div>
                 <div class="glance-item">
-                    <img src="images/Lib.jpg" alt="Library" alt="Campus Library">
+                    <img src="images/Lib.jpg" alt="Library" alt="Campus Library" width="auto" height="auto">
                     <h4>Grand Libraries</h4>
                 </div>
                 <div class="glance-item">
-                    <img src="images/hostel-3.jpeg" alt="Home-like Hostels">
+                    <img src="images/hostel-3.jpeg" alt="Home-like Hostels" width="auto" height="auto">
                     <h4>Home-like Hostels</h4>
                 </div>
                 <div class="glance-item">
-                    <img src="images/Audi.jpg" alt="Main Auditorium">
+                    <img src="images/Audi.jpg" alt="Main Auditorium" width="auto" height="auto">
                     <h4>Main Auditorium</h4>
                 </div>
                 <div class="glance-item">
-                    <img src="upload/infra/6l.webp" alt="Safe Transport Services">
+                    <img src="upload/infra/6l.webp" alt="Safe Transport Services" width="auto" height="auto">
                     <h4>Safe Transport Services</h4>
                 </div>
                         
@@ -1182,7 +1182,7 @@ f
             </div> -->
             <div class="researchLabs-slider">
                 <div class="researchLabs-item">
-                    <img src="images/btech-sde.jpg" alt="Software Development">
+                    <img src="images/btech-sde.jpg" alt="Software Development" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Software Development</h3>
                         <p>Design, develop, and maintain complex software systems and applications using modern
@@ -1191,7 +1191,7 @@ f
                 </div>
                 <div class="researchLabs-item">
                     <img src="images/Ai&Ml.webp"
-                        alt="Artificial Intelligence and Machine Learning">
+                        alt="Artificial Intelligence and Machine Learning" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Artificial Intelligence & ML</h3>
                         <p>Build intelligent systems that learn and evolve, specializing in neural networks, computer
@@ -1199,7 +1199,7 @@ f
                     </div>
                 </div>
                 <div class="researchLabs-item">
-                    <img src="images/DSA.jpg" alt="Data Science and Analytics">
+                    <img src="images/DSA.jpg" alt="Data Science and Analytics" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Data Science & Analytics</h3>
                         <p>Transform raw data into actionable insights through statistical modeling, data mining, and
@@ -1207,7 +1207,7 @@ f
                     </div>
                 </div>
                 <div class="researchLabs-item">
-                    <img src="images/cyber.jpg" alt="Cyber Security">
+                    <img src="images/cyber.jpg" alt="Cyber Security" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Cyber Security</h3>
                         <p>Protect critical digital infrastructure and data from cyber threats through ethical hacking,
@@ -1215,7 +1215,7 @@ f
                     </div>
                 </div>
                 <div class="researchLabs-item">
-                    <img src="images/Cloud.jpg" alt="Cloud Computing and DevOps">
+                    <img src="images/Cloud.jpg" alt="Cloud Computing and DevOps" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Cloud Computing & DevOps</h3>
                         <p>Architect scalable cloud solutions and streamline software delivery pipelines using AWS,
@@ -1223,7 +1223,7 @@ f
                     </div>
                 </div>
                 <div class="researchLabs-item">
-                    <img src="images/web-mobile.jpg" alt="Web and Mobile Application Development">
+                    <img src="images/web-mobile.jpg" alt="Web and Mobile Application Development" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Web & Mobile App Development</h3>
                         <p>Create seamless, responsive digital experiences across platforms using cutting-edge web
@@ -1812,15 +1812,15 @@ f
 
         <div class="gnc-mosaic-col">
             <div class="mosaic-tall">
-                <img src="images/btech-1.webp" alt="Tech Hub">
+                <img src="images/btech-1.webp" alt="Tech Hub" width="auto" height="auto">
                 <div class="mosaic-overlay"></div>
             </div>
             <div class="mosaic-stacked">
                 <div class="mosaic-square">
-                    <img src="images/btech-3.jpg" alt="Coding Session">
+                    <img src="images/btech-3.jpg" alt="Coding Session" width="auto" height="auto">
                 </div>
                 <div class="mosaic-square">
-                    <img src="images/btech-4.jpg" alt="Student Group">
+                    <img src="images/btech-4.jpg" alt="Student Group" width="auto" height="auto">
                 </div>
             </div>
         </div>

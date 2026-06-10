@@ -14,18 +14,18 @@
       <div class="gnc-slider-track">
 
         <div class="gnc-slide-group">
-          <div class="gnc-slide-card"><img src="assets/image/placement-1.webp" alt="Harsh Vardhan"></div>
-          <div class="gnc-slide-card"><img src="assets/image/placement-2.webp" alt="Shanya Trehan"></div>
+          <div class="gnc-slide-card"><img src="assets/image/placement-1.webp" alt="Harsh Vardhan" width="auto" height="auto"></div>
+          <div class="gnc-slide-card"><img src="assets/image/placement-2.webp" alt="Shanya Trehan" width="auto" height="auto"></div>
         </div>
 
         <div class="gnc-slide-group">
-          <div class="gnc-slide-card"><img src="assets/image/placement-3.webp" alt="Another Student"></div>
-          <div class="gnc-slide-card"><img src="assets/image/placement-4.webp" alt="Shanya Trehan"></div>
+          <div class="gnc-slide-card"><img src="assets/image/placement-3.webp" alt="Another Student" width="auto" height="auto"></div>
+          <div class="gnc-slide-card"><img src="assets/image/placement-4.webp" alt="Shanya Trehan" width="auto" height="auto"></div>
         </div>
 
         <div class="gnc-slide-group">
-          <div class="gnc-slide-card"><img src="assets/image/placement-5.webp" alt="Shanya Trehan"></div>
-          <div class="gnc-slide-card"><img src="assets/image/placement-6.webp" alt="Shanya Trehan"></div>
+          <div class="gnc-slide-card"><img src="assets/image/placement-5.webp" alt="Shanya Trehan" width="auto" height="auto"></div>
+          <div class="gnc-slide-card"><img src="assets/image/placement-6.webp" alt="Shanya Trehan" width="auto" height="auto"></div>
         </div>
 
       </div>
@@ -70,17 +70,17 @@
     <h3>Bridging The Gap By Aligning With The Industry</h3>
     <div class="gnc-verticals-grid">
       <!-- First Row: 4 Logos -->
-      <div class="gnc-vertical-item"><img src="assets/image/practice.webp" alt="Training & Placements"><p>Training & Placements</p></div>
-      <div class="gnc-vertical-item"><img src="assets/image/integration.webp" alt="Work Integrated Programs"><p>Work Integrated Programs</p></div>
-      <div class="gnc-vertical-item"><img src="assets/image/industrial.webp" alt="Industry Collaborations"><p>Industry Collaborations</p></div>
-      <div class="gnc-vertical-item"><img src="assets/image/outstanding.webp" alt="Centers of Excellence"><p>Centers of Excellence</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/practice.webp" alt="Training & Placements" width="auto" height="auto"><p>Training & Placements</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/integration.webp" alt="Work Integrated Programs" width="auto" height="auto"><p>Work Integrated Programs</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/industrial.webp" alt="Industry Collaborations" width="auto" height="auto"><p>Industry Collaborations</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/outstanding.webp" alt="Centers of Excellence" width="auto" height="auto"><p>Centers of Excellence</p></div>
 
       <!-- Second Row: 5 Logos -->
-      <div class="gnc-vertical-item"><img src="assets/image/users.webp" alt="Executive Development Programs"><p>Executive Development Programs</p></div>
-      <div class="gnc-vertical-item"><img src="assets/image/community_1.webp" alt="Industry Visits"><p>Industry Visits</p></div>
-      <div class="gnc-vertical-item"><img src="assets/image/building_1.webp" alt="Industry Advisory Board"><p>Industry Advisory Board</p></div>
-      <div class="gnc-vertical-item"><img src="assets/image/creative-team.webp" alt="Career Competencies"><p>Career Competencies</p></div>
-      <div class="gnc-vertical-item"><img src="assets/image/document.webp" alt="Skill Development"><p>Skill Development</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/users.webp" alt="Executive Development Programs" width="auto" height="auto"><p>Executive Development Programs</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/community_1.webp" alt="Industry Visits" width="auto" height="auto"><p>Industry Visits</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/building_1.webp" alt="Industry Advisory Board" width="auto" height="auto"><p>Industry Advisory Board</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/creative-team.webp" alt="Career Competencies" width="auto" height="auto"><p>Career Competencies</p></div>
+      <div class="gnc-vertical-item"><img src="assets/image/document.webp" alt="Skill Development" width="auto" height="auto"><p>Skill Development</p></div>
     </div>
   </div>
 
@@ -93,11 +93,11 @@
       <?php
       for ($i = 1; $i <= 39; $i++) {
         $imageSrc = "./assets/image/company/c ($i).webp";
-        echo '<div class="gnc-company-logo"><img src="' . $imageSrc . '" alt="GNC Top Recruiter"></div>';
+        echo '<div class="gnc-company-logo"><img src="' . $imageSrc . '" alt="GNC Top Recruiter" width="auto" height="auto"></div>';
       }
       for ($i = 1; $i <= 39; $i++) {
         $imageSrc = "./assets/image/company/c ($i).webp";
-        echo '<div class="gnc-company-logo"><img src="' . $imageSrc . '" alt="GNC Top Recruiter"></div>';
+        echo '<div class="gnc-company-logo"><img src="' . $imageSrc . '" alt="GNC Top Recruiter" width="auto" height="auto"></div>';
       }
       ?>
     </div>
