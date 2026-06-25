@@ -14,6 +14,8 @@ if (!$visit) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($visit['title']); ?></title>
+  <meta name="description" content="View detailed information about programs and courses at Guru Nanak College Dehradun, Uttarakhand.">
+
     <link rel="stylesheet" href="styles.css">
   <link rel="canonical" href="https://www.gnc.edu.in/details">
 </head>

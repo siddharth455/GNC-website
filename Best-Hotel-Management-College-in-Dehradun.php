@@ -3,10 +3,13 @@
 
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Hotel Management College | GNC</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, Our School of Hotel Management blends theory with hands-on
-    experience. From culinary arts to event management, we prepare...">
+    <title>Guru Nanak College - Best Hotel Management College in Dehradun, 
+Uttarakhand</title> 
+<meta name="description" content="Guru Nanak College is the best hotel 
+management college in Dehradun, Uttarakhand, offers Diploma in Hotel Management (DHM) 
+with hands-on training, industry visits, and 100% placement assistance." /> 
+<meta name="keywords" content="Best Hotel Management College in Dehradun, DHM 
+College in Uttarakhand" /> 
     <link rel="canonical" href="https://www.gnc.edu.in/Best-Hotel-Management-College-in-Dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
@@ -179,6 +182,8 @@
 
 </head>
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College | Best Hotel Management College</h1>
+
  <?php
     require "common/header.php";
     ?>

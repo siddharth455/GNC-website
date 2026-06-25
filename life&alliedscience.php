@@ -37,6 +37,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link rel="canonical" href="https://www.gnc.edu.in/life&alliedscience">
 </head>
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Top Degrees &amp; Courses at Guru Nanak College, Dehradun</h1>
+
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGJTL3SJ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

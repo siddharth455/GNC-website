@@ -1,3 +1,4 @@
+<meta name="description" content="Explore world-class facilities at Guru Nanak College Dehradun including labs, library, sports complex, hostels and modern classrooms.">
 <style>
     /* Ensures text is readable without the black box overlay */
     .infra-content {
@@ -37,7 +38,8 @@
 </style>
 
 <section class="infraSection-slider position-relative">
-    <div class="infraSection-slider__heading">
+    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">World-Class Facilities at Guru Nanak College Dehradun</h1>
+<div class="infraSection-slider__heading">
         <div class="container">
             <div class="infraSection-slider__heading--content main-heading">
                 <h2 class="mb-3"><span>Best</span> Infrastructure</h2>

@@ -5,11 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Paper || Guru Nanak College Dehradun</title>
+  <meta name="description" content="Explore research publications and projects at Guru Nanak College Dehradun. Over 100 research papers published by our faculty and students.">
+
    <link rel="canonical" href="https://www.gnc.edu.in/research">
 </head>
  
 <section class="pageBanner-inner">
-        <div style="background-image: url('upload/infra/35.webp'); background-repeat: no-repeat; background-size: cover;">
+        <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Research Publications - Guru Nanak College Dehradun</h1>
+<div style="background-image: url('upload/infra/35.webp'); background-repeat: no-repeat; background-size: cover;">
             <div class="pageBanner-inner_in">
                 <div class="container">
                     <div class="row align-items-center">

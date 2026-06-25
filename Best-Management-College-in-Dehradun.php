@@ -3,10 +3,13 @@
 
 <head>
 <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best Management College in Dehradun</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="GNC, best management college, we nurture business minds, entrepreneurs, and
-change-makers. Our comprehensive business management program equips...">
+    <title>Guru Nanak College - Best BBA College in Dehradun, Uttarakhand</title> 
+<meta name="description" content="Guru Nanak College is the best BBA college in 
+Dehradun, Uttarakhand, offers Bachelor of Business Administration with 100% 
+placement support, industry exposure and affiliation with Uttarakhand 
+Technical University (UTU)." /> 
+<meta name="keywords" content="Best BBA College in Dehradun, BBA College in 
+Uttarakhand" /> 
     <link rel="canonical" href="https://www.gnc.edu.in/Best-Management-College-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -182,6 +185,8 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
 
 </head>
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College | Best Management College in Dehradun</h1>
+
   <?php
     require "common/header.php";
     ?>

@@ -4,6 +4,8 @@
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Thank You submitting- GNC Dehradun Success Stories</title>
+  <meta name="description" content="Thank you for contacting Guru Nanak College Dehradun. Our admissions team will get back to you shortly.">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex">

@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admissions | GNC Dehradun</title>
+  <meta name="description" content="Explore placement opportunities at Guru Nanak College Dehradun. Our students are placed in top companies with excellent salary packages.">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
@@ -445,10 +447,10 @@
             <div class="container mx-auto px-6 lg-px-24 z-20 relative h-full pt-56">
                 <div class="w-full grid grid-cols-1 lg-grid-cols-12 gap-8 items-start">
                     <div class="lg-col-span-6 text-white text-left animate-up">
-                        <h1 class="text-2xl md-text-3xl lg-text-4xl font-normal mb-3 uppercase leading-tight">
+                        <h2 class="text-2xl md-text-3xl lg-text-4xl font-normal mb-3 uppercase leading-tight">
                             Global <span class="font-black text-cyan-600">Placements</span> <br>
                             & Top Rankings
-                        </h1>
+                        </h2>
                         <div class="w-12 h-1 bg-cyan-600 mb-6"></div>
                         <p class="text-sm md-text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
                             Join the university ranked amongst the top 5% globally with a track record of 9500+ placement offers.
@@ -729,7 +731,7 @@
         <div class="absolute inset-0 hero-overlay z-10"></div>
 
         <div class="relative z-20 max-w-5xl">
-            <h1 class="text-white text-4xl md-text-6xl font-extrabold leading-tight mb-4">With a focus on innovation and academic strength, <br>Guru Nanak College Dehradun creates pathways for success.</h1>
+            <h2 class="text-white text-4xl md-text-6xl font-extrabold leading-tight mb-4">With a focus on innovation and academic strength, <br>Guru Nanak College Dehradun creates pathways for success.</h2>
             <p class="text-white-95 text-lg md-text-xl font-light mb-12 max-w-3xl leading-relaxed">The institution goes beyond traditional learning by nurturing talent, values, and professional skills essential for tomorrow’s pharmaceutical professionals.</p>
             
             <div class="flex flex-wrap items-center gap-6 text-white-90">

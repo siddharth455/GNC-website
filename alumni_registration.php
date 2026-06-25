@@ -8,6 +8,8 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Alumni Registration Form | Guru Nanak College, Dehradun</title>
+  <meta name="description" content="Register as an alumnus of Guru Nanak College Dehradun. Join our growing alumni community and stay connected with your alma mater.">
+
     <link rel="stylesheet" href="css/css/bootstrap.min.css">
     <style>
         body {
@@ -141,6 +143,8 @@ session_start();
 </head>
 
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Alumni Registration Form</h1>
+
     <div class="card-header logo-images">
         <img src="images/logo.webp" alt="alumni logo" loading="lazy" width="auto" height="auto">
     </div>

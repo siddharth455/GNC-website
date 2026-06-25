@@ -9,6 +9,8 @@
 </head>
 
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College | Industrial - Academic Collaboration</h1>
+
     <?php require "common/header.php" ?>
     <section class="pageBanner-inner">
         <div style="background-image: url('upload/infra/industry-banner.webp'); background-repeat: no-repeat; background-size: cover;">

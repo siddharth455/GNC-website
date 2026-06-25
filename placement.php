@@ -1,3 +1,4 @@
+<meta name="description" content="View placement records and top recruiters at Guru Nanak College Dehradun. 100+ companies visit campus for recruitment across all programs.">
 <section class="gnc-placement-section container mb-5">
 
   <!-- Main Heading -->
@@ -7,7 +8,8 @@
   </h2>
 
   <!-- Placement Slider + Content -->
-  <div class="gnc-placement-wrapper">
+  <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Placement Records - Guru Nanak College Dehradun</h1>
+<div class="gnc-placement-wrapper">
 
     <!-- Left: Placement Slider -->
     <div class="gnc-slider-left">

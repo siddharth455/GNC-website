@@ -4,6 +4,8 @@
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Career Opportunities at - Guru Nanak College Dehradun</title>
+  <meta name="description" content="Explore career opportunities at Guru Nanak College Dehradun. Join our team of dedicated educators and staff making a difference in higher education.">
+
     <link rel="canonical" href="https://www.gnc.edu.in/careers">
     <style>
         .kingster-page-title-wrap {
@@ -229,6 +231,8 @@
 </head>
 
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Career Opportunities at</h1>
+
     <?php require "common/header.php" ?>
     <div class="kingster-page-title-wrap">
         <img src="upload/join-wirh-us.webp" id="shakableImage" alt="Shakable Image" loading="lazy" width="auto" height="auto">

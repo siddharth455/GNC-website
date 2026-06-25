@@ -30,7 +30,9 @@ $header_html = ob_get_clean();
 
 // Inject dynamic title
 $page_title = $current_event['title'] . " - Guru Nanak College Dehradun";
-$header_html = preg_replace('/<title>.*?<\/title>/i', "<title>$page_title</title>", $header_html);
+$header_html = preg_replace('/<title>.*?<\/title>/i', "<title>$page_title</title>
+  <meta name="description" content="View details of upcoming and past campus events at Guru Nanak College Dehradun. Stay updated with cultural, academic and sports activities.">
+", $header_html);
 
 // Resolve asset paths (handles css/, js/, images/, assets/)
 $header_html = str_replace(

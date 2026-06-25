@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AICTE Feedback Box</title>
+  <meta name="description" content="Access the AICTE feedback portal for Guru Nanak College Dehradun. Share your feedback and help us improve our academic standards.">
+
     <style>
     .aicte-portal {
             display: flex;
@@ -48,6 +50,8 @@
   <link rel="canonical" href="https://www.gnc.edu.in/aicte-feedback-portal">
 </head>
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">AICTE Feedback Box</h1>
+
 <?php
     require "common/header.php";
     ?>

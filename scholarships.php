@@ -510,6 +510,8 @@
 </head>
 
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Scholarships – Empowering Student Dreams</h1>
+
     <?php require 'common/header.php'; ?>
      <section class="pageBanner-inner">
         <div style="background-image: url('upload/infra/scholar-image.webp'); background-repeat: no-repeat; background-size: cover;">

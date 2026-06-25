@@ -61,6 +61,8 @@ fostering visionary guidance and academic excellence" />
 </head>
 
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">GNC – Leadership | Best Mentors – Shaping Future</h1>
+
     <section class="pageBanner-inner">
         <div style="background-image: url('upload/infra/leader.webp'); background-repeat: no-repeat; background-size: cover;">
             <div class="pageBanner-inner_in">

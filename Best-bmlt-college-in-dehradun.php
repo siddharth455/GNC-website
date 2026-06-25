@@ -948,7 +948,7 @@
                 <div class="text-center mb-5 scroll-reveal">
                     <div class="text-center mb-5">
                         <h6 class="text-uppercase tracking-widest text-theme fw-bold">Academic Innovation</h6>
-                        <h1 class="display-3 gradient-text">Excellence Redefined</h1>
+                        <h2 class="display-3 gradient-text">Excellence Redefined</h2>
                     </div>
                 </div>
 

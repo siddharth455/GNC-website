@@ -1,5 +1,7 @@
+<meta name="description" content="Discover why Guru Nanak College Dehradun is the best choice for higher education. Top faculty, modern facilities, excellent placements and more.">
 <section class="why-choose" id="why-choose">
-  <div class="container">
+  <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Why Choose Guru Nanak College Dehradun</h1>
+<div class="container">
     <div class="why-header-title">
       <h2>Why Should You Choose <br><span>Guru Nanak College?</span></h2>
     </div>

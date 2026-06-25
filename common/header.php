@@ -1288,15 +1288,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <div class="admission-list">
         <ul>
-          <li data-index="0"><a href ="Paramedical-College-in-Dehradun-Uttarakhand.php">Paramedical Programs</a></li>
-          <li data-index="1"><a href ="Pharmacy-College-in-Dehradun-Uttarakhand.php">Pharmacy Programs</a></li>
-          <li data-index="2"><a href ="Nursing-College-in-Dehradun-Uttarakhand.php">Nursing Programs</a></li>
-          <li data-index="3"><a href ="Top-Health-Science-College-in-Dehradun-Uttarakhand.php">Health Science</a></li>
-          <li data-index="4"><a href ="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php">Life & Allied Sciences Programs</a></li>
-          <li data-index="5"><a href ="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php">Agriculture Science Programs</a></li>
-          <li data-index="6"><a href ="Best-College-For-Computer-Science-in-Dehradun.php">Computer Science Programs</a></li>
-          <li data-index="7"><a href ="Best-Management-College-in-Dehradun.php">Business School Programs</a></li>
-          <li data-index="8"><a href ="Best-Hotel-Management-College-in-Dehradun.php">Hotel Management</a></li>
+          <li> data-index="0"><a href ="Paramedical-College-in-Dehradun-Uttarakhand.php">Paramedical Programs</a></li>
+          <li> data-index="1"><a href ="Pharmacy-College-in-Dehradun-Uttarakhand.php">Pharmacy Programs</a></li>
+          <li> data-index="2"><a href ="Nursing-College-in-Dehradun-Uttarakhand.php">Nursing Programs</a></li>
+          <li> data-index="3"><a href ="Top-Health-Science-College-in-Dehradun-Uttarakhand.php">Health Science</a></li>
+          <li> data-index="4"><a href ="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php">Life & Allied Sciences Programs</a></li>
+          <li> data-index="5"><a href ="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php">Agriculture Science Programs</a></li>
+          <li> data-index="6"><a href ="Best-College-For-Computer-Science-in-Dehradun.php">Computer Science Programs</a></li>
+          <li> data-index="7"><a href ="Best-Management-College-in-Dehradun.php">Business School Programs</a></li>
+          <li> data-index="8"><a href ="Best-Hotel-Management-College-in-Dehradun.php">Hotel Management</a></li>
         </ul>
       </div>
     </div>

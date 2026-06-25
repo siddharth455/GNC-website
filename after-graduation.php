@@ -175,6 +175,8 @@
 </head>
 
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Master Program After Graduation</h1>
+
     <?php require "common/header.php" ?>
 
     <!-- HERO SECTION -->

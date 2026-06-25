@@ -6,11 +6,15 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guru Nanak College Dehradun, Uttarakhand | Lab | GNC</title>
+  <meta name="description" content="Explore state-of-the-art laboratory facilities at Guru Nanak College Dehradun for Pharmacy, Nursing, Paramedical, Agriculture and Science programs.">
+
     <meta description="Guru Nanak College in Dehradun is equipped with state-of-the-art laboratory infrastructure designed to support hands-on learning and cutting-edge research. The college is committed to fostering a culture of innovation and excellence, empowering students and faculty to explore, discover, and drive scientific advancements.">
   <link rel="canonical" href="https://www.gnc.edu.in/lab">
 </head>
 
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College Dehradun, Uttarakhand | Lab</h1>
+
     <?php require "common/header.php" ?>
     <section class="pageBanner-inner">
         <div style="background-image: url('upload/lab-banner.webp'); background-repeat: no-repeat; background-size: cover;">

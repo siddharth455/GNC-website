@@ -2,9 +2,13 @@
 <html>
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best College for Life and Allied Sciences in | GNC</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College of Life and Allied Sciences—the premier institution for life sciences education in Dehradun. Our programs blend theoretical...">
+    <title>Guru Nanak College - Best Life Sciences College in Dehradun, 
+Uttarakhand</title> 
+<meta name="description" content="Guru Nanak College is the best life sciences 
+college in Dehradun, Uttarakhand, offers B.Sc & M.Sc programs in Microbiology, 
+Biotechnology, Food Technology, Chemistry, Physics, Botany, Zoology, Geology, PCM & CBZ." /> 
+<meta name="keywords" content="Best Life Sciences College in Dehradun, 
+Microbiology College Uttarakhand" /> 
     <link rel="canonical" href="https://www.gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -64,7 +68,7 @@
         .placement-strip { background: #fff; padding: 30px 0; border-bottom: 1px solid #eee; }
         .placement-strip img { height: 25px; filter: grayscale(100%); opacity: 0.5; transition: 0.3s; }
         .placement-strip img:hover { filter: grayscale(0%); opacity: 1; }
-
+ 
         /* FAQ Styling */
         
 
@@ -177,6 +181,8 @@
 
 </head>
 <body>
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Best College for Life and Allied Sciences in</h1>
+
  <?php
     require "common/header.php";
     ?>

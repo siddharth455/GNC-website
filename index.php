@@ -241,19 +241,19 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
       </div>
       <div class="stats" data-aos="zoom-in" data-aos-duration="1000">
         <div class="stat-box">
-          <h3 class="counter" data-target="100">0</h3>
+          <h3 class="counter" data-target="100">100+</h3>
           <p>Companies<br>visited for Placements</p>
         </div>
         <div class="stat-box">
-          <h3 class="counter" data-target="300">0</h3>
+          <h3 class="counter" data-target="900">900+</h3>
           <p>Professionals successfully<br>working across the globe</p>
         </div>
         <div class="stat-box">
-          <h3 class="counter" data-target="1.01">0</h3>
+          <h3 class="counter" data-target="54.75">54.75</h3>
           <p>Highest<br>Package Offered (CR)</p>
         </div>
         <div class="stat-box">
-          <h3 class="counter" data-target="14">0</h3>
+          <h3 class="counter" data-target="15">15+</h3>
           <p>Years of<br>Excellence</p>
         </div>
       </div>
@@ -2186,9 +2186,9 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
   <section class="d-none d-md-block" style="background-image: url(images/gnc-program-1.webp); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;">
     <div class="container pt-5 pb-5">
       <div class="row align-items-center">
-        <h1 class="fnt-w-300" style="color:#000000; font-size: 36px; font-weight: bold; text-align: center; margin-bottom: 20px;">
+        <h2 class="fnt-w-300" style="color:#000000; font-size: 36px; font-weight: bold; text-align: center; margin-bottom: 20px;">
           <span>Find a Program</span>
-        </h1>
+        </h2>
       </div>
       <div class="accordion accordion-flush" id="accordionFlushDesktop">
         <div class="row desktop-program">

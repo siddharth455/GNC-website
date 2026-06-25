@@ -4,6 +4,8 @@
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Privacy Policy - GNC Dehradun</title>
+  <meta name="description" content="Read the privacy policy of Guru Nanak College Dehradun. Learn how we collect, use and protect your personal information on our website.">
+
     <style>
         .privacy{
             margin-bottom: 10px;

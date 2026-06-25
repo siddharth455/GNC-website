@@ -6,6 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grievance || Guru Nanak College Dehradun</title>
+  <meta name="description" content="Submit and track grievances at Guru Nanak College Dehradun. We are committed to addressing student, staff and stakeholder concerns promptly.">
+
     <link rel="canonical" href="https://www.gnc.edu.in/grievance">
  </head>
 <style>
@@ -50,7 +52,8 @@
     }
 </style>
 <section class="pageBanner-inner">
-    <div style="background-image: url('upload/infra/53.webp'); background-repeat: no-repeat; background-size: cover;">
+    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Grievance Portal - Guru Nanak College Dehradun</h1>
+<div style="background-image: url('upload/infra/53.webp'); background-repeat: no-repeat; background-size: cover;">
       <div class="pageBanner-inner_in">
         <div class="container">
           <div class="row align-items-center">

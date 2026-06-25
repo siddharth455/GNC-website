@@ -373,7 +373,7 @@
             <div class="row gnc-agri-flex-cr">
                 <div class="col-12" data-aos="fade-up" data-aos-duration="600">
                     <div class="gnc-agri-subHeading text-center text-md-start">
-                        <h1 class="mb-4">Guru Nanak College - Best B.sc Agriculture College in Dehradun, Uttarakhand<br> </h1>
+                        <h2 class="mb-4">Guru Nanak College - Best B.sc Agriculture College in Dehradun, Uttarakhand<br> </h2>
                     </div>
                 </div>
                 <div class="col-md-6" data-aos="fade-right" data-aos-delay="200" data-aos-duration="600">

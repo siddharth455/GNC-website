@@ -1,5 +1,4 @@
 <IfModule mod_headers.c>
-    # ── Security Headers ──────────────────────────────────────
     Header always set X-Content-Type-Options "nosniff"
     Header always set X-Frame-Options "SAMEORIGIN"
     Header always set Referrer-Policy "strict-origin-when-cross-origin"
@@ -7,26 +6,60 @@
 </IfModule>
 
 <IfModule mod_rewrite.c>
-RewriteEngine On 
+RewriteEngine On
 
-# 2. External Redirect: events.php -> /events
+# ── Uppercase URL → lowercase 301 redirects ──────────────────
+RewriteRule ^AICTE-documents$ /aicte-documents [R=301,L]
+RewriteRule ^B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand$ /b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Best-B-Sc-Nursing-Colleges-in-dehradun$ /best-b-sc-nursing-colleges-in-dehradun [R=301,L]
+RewriteRule ^Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun$ /best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun [R=301,L]
+RewriteRule ^Best-BPT-college-in-Dehradun-Uttarakhand$ /best-bpt-college-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand$ /best-bsc-agriculture-college-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Best-Bsc-Forestry-colleges-in-Dehradun$ /best-bsc-forestry-colleges-in-dehradun [R=301,L]
+RewriteRule ^Best-College-For-Computer-Science-in-Dehradun$ /best-college-for-computer-science-in-dehradun [R=301,L]
+RewriteRule ^Best-College-for-BCA-in-Dehradun-Uttarakhand$ /best-college-for-bca-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand$ /best-college-for-btech-computer-science-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Best-College-for-D-Pharm-in-Dehradun-Uttarakhand$ /best-college-for-d-pharm-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Best-DHM-Colleges-in-Dehradun$ /best-dhm-colleges-in-dehradun [R=301,L]
+RewriteRule ^Best-Diploma-in-Dialysis-Technology$ /best-diploma-in-dialysis-technology [R=301,L]
+RewriteRule ^Best-Hotel-Management-College-in-Dehradun$ /best-hotel-management-college-in-dehradun [R=301,L]
+RewriteRule ^Best-Hotel-Management-Colleges-in-Dehradun-2026$ /best-hotel-management-colleges-in-dehradun-2026 [R=301,L]
+RewriteRule ^Best-MPT-Master-of-Physiotherapy-College$ /best-mpt-master-of-physiotherapy-college [R=301,L]
+RewriteRule ^Best-Management-College-in-Dehradun$ /best-management-college-in-dehradun [R=301,L]
+RewriteRule ^Best-Msc-Agronomy-Colleges-in-Dehradun$ /best-msc-agronomy-colleges-in-dehradun [R=301,L]
+RewriteRule ^Best-bmlt-college-in-dehradun$ /best-bmlt-college-in-dehradun [R=301,L]
+RewriteRule ^Best-bsc-optometry-College-in-dehradun$ /best-bsc-optometry-college-in-dehradun [R=301,L]
+RewriteRule ^Best-operation-theatre-technology-colleges-in-dehradun$ /best-operation-theatre-technology-colleges-in-dehradun [R=301,L]
+RewriteRule ^Bsc-geology-College-in-Dehradun-Uttarakhand$ /bsc-geology-college-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand$ /bsc-microbiology-colleges-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Bsc-pcm-Colleges-in-Dehradun-Uttarakhand$ /bsc-pcm-colleges-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^ManagementStudies$ /managementstudies [R=301,L]
+RewriteRule ^Nursing-College-in-Dehradun-Uttarakhand$ /nursing-college-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Paramedical-College-in-Dehradun-Uttarakhand$ /paramedical-college-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Pharmacy-College-in-Dehradun-Uttarakhand$ /pharmacy-college-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand$ /top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^Top-Health-Science-College-in-Dehradun-Uttarakhand$ /top-health-science-college-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand$ /best-college-for-b-pharmacy-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^msc-botany-Colleges-in-Uttarakhand$ /msc-botany-colleges-in-uttarakhand [R=301,L]
+RewriteRule ^msc-chemistry-Colleges-in-Dehradun-Uttarakhand$ /msc-chemistry-colleges-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^msc-food-tech-Colleges-in-Dehradun-Uttarakhand$ /msc-food-tech-colleges-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^msc-microbiology-Colleges-in-Dehradun$ /msc-microbiology-colleges-in-dehradun [R=301,L]
+RewriteRule ^msc-physics-College-in-Dehradun-Uttarakhand$ /msc-physics-college-in-dehradun-uttarakhand [R=301,L]
+RewriteRule ^msc-zoology-Colleges-in-Dehradun-Uttarakhand$ /msc-zoology-colleges-in-dehradun-uttarakhand [R=301,L]
+
+# ── Remove .php extension (External Redirect) ────────────────
 RewriteCond %{THE_REQUEST} /events\.php\sHTTP [NC]
 RewriteRule ^events\.php$ events [R=301,L]
 
-# 3. External Redirect: event-details.php?slug=X -> /event/X
 RewriteCond %{THE_REQUEST} /event-details\.php\?slug=([^&\s]+)\sHTTP [NC]
 RewriteRule ^event-details\.php$ event/%1? [R=301,L]
 
-# 4. Remove .php extension from URL (External Redirect)
 RewriteCond %{THE_REQUEST} /([^.]+)\.php\sHTTP [NC]
 RewriteRule ^([^.]+)\.php$ $1 [R=301,L]
 
-# --- Internal Rewrites ---
-
-# Event details: event/slug -> event-details.php?slug=slug
+# ── Internal Rewrites ─────────────────────────────────────────
 RewriteRule ^event/([^/]+)$ event-details.php?slug=$1 [QSA,L]
 
-# Fallback for other .php files: /about -> about.php
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]

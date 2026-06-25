@@ -389,7 +389,7 @@
 
           <p>The healthcare industry in India is growing rapidly, and with it, the demand for skilled paramedical professionals is at an all-time high. If you are a student who has just completed Class 12th (Science – PCB/PCM) and wish to pursue a career in healthcare without going for MBBS or BDS, then paramedical courses are the perfect option.</p>
 
-          <h1>About Guru Nanak College (GNC)</h1>
+          <h2>About Guru Nanak College (GNC)</h2>
           <p>Guru Nanak College (GNC), one of the best paramedical colleges in Dehradun, offers a wide range of undergraduate, diploma, and postgraduate programs in paramedical sciences. With modern labs, hospital tie-ups, and expert faculty, the college ensures students get practical exposure and excellent placement opportunities in India and abroad.</p>
 
           <h2>What is a Paramedical Course?</h2>
