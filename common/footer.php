@@ -102,65 +102,128 @@
     </div>
 <!-- Floating Right Side Buttons -->
 <div id="gnc-float-btns">
+
+    <!-- Apply Now -->
+  <a href="https://application.gnc.edu.in/" target="_blank" id="gnc-apply-btn">
+    <span>Apply Now</span>
+</a>
+
+    <!-- WhatsApp -->
     <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank" aria-label="WhatsApp" id="gnc-wa-btn">
         <i class="fa-brands fa-whatsapp"></i>
     </a>
+
+    <!-- Call -->
     <a href="tel:+917300900900" aria-label="Call Us" id="gnc-call-btn">
         <i class="fa-solid fa-phone"></i>
     </a>
+
+    <!-- Chat -->
     <div id="gnc-chat-btn" title="Chat 24/7">
         <i class="fa-solid fa-comment-dots"></i>
         <span>24/7</span>
     </div>
+
 </div>
 
 <style>
-#gnc-float-btns {
-    position: fixed;
-    right: 0;
-    bottom: 50px;
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    z-index: 1060;
+#gnc-float-btns{
+    position:fixed;
+    right:0;
+    bottom:50px;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+    z-index:1060;
 }
-#gnc-float-btns a,
-#gnc-float-btns div#gnc-chat-btn {
-    width: 50px;
-    height: 50px;
-    border-radius: 8px 0 0 8px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color: #fff;
-    text-decoration: none;
-    font-size: 22px;
-    cursor: pointer;
-    box-shadow: -3px 3px 10px rgba(0,0,0,0.2);
-    transition: width 0.2s ease;
+
+/* WhatsApp, Call & Chat */
+#gnc-float-btns a:not(#gnc-apply-btn),
+#gnc-chat-btn{
+    width:50px;
+    height:50px;
+    border-radius:8px 0 0 8px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#fff;
+    text-decoration:none;
+    font-size:22px;
+    cursor:pointer;
+    box-shadow:-3px 3px 10px rgba(0,0,0,.2);
+    transition:.25s;
 }
-#gnc-float-btns a:hover,
-#gnc-float-btns div#gnc-chat-btn:hover {
-    width: 58px;
-    color: #fff;
+
+#gnc-float-btns a:not(#gnc-apply-btn):hover,
+#gnc-chat-btn:hover{
+    width:58px;
+    color:#fff;
 }
-#gnc-wa-btn   { background: #25d366; }
-#gnc-call-btn { background: #007bff; }
-#gnc-chat-btn { background: #fd7e14; font-size: 18px; }
-#gnc-chat-btn span {
-    font-size: 9px;
-    font-weight: 700;
-    margin-top: 2px;
-    line-height: 1;
+
+#gnc-apply-btn{
+    width:50px;
+    height:90px;
+    background:#dc3545;
+    border-radius:8px 0 0 8px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-decoration:none;
+    color:#fff;
+    box-shadow:-3px 3px 10px rgba(0,0,0,.2);
+    overflow:hidden;
 }
+
+#gnc-apply-btn span{
+    display:block;
+    transform:rotate(-90deg);
+    white-space:nowrap;
+    font-size:14px;
+    font-weight:700;
+    letter-spacing:.5px;
+}
+
+@media(max-width:768px){
+    #gnc-apply-btn{
+        width:48px;
+        height:90px;
+    }
+
+    #gnc-apply-btn span{
+        font-size:12px;
+    }
+}
+
+#gnc-wa-btn{
+    background:#25d366;
+}
+
+#gnc-call-btn{
+    background:#007bff;
+}
+
+#gnc-chat-btn{
+    background:#fd7e14;
+    flex-direction:column;
+    font-size:18px;
+}
+
+#gnc-chat-btn span{
+    font-size:9px;
+    font-weight:700;
+    margin-top:2px;
+    line-height:1;
+}
+
+/* Mobile */
+
 </style>
 
 <style>
 /* Hide VidyaAI launcher icon AND greeting bubbles */
 #__eechatIcon,
-#eeChatIndicator {
-    display: none !important;
+#eeChatIndicator{
+    display:none !important;
 }
 </style>
 
@@ -180,6 +243,7 @@ document.getElementById('gnc-chat-btn').addEventListener('click', function () {
     }
 });
 </script>
+
 <script src="https://extraaedgeresources.blob.core.windows.net/documents/applycbc/Chatbot/js/chat.vidyaai.js"></script>
 </footer>
 

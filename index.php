@@ -833,7 +833,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             <h2>Think. Create. Innovate.</h2>
             <p>Fostering a culture of creativity and critical thinking through modern, experiential learning.</p>
           </div>
-        </div>
+        </div> 
         <div class="accordion-panel from-left" id="panel1">
           <img src="upload/infra/convocation.webp" alt="Group of diverse students" width="auto" height="auto">
           <div class="accordion-overlay">
