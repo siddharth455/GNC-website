@@ -828,7 +828,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
           </div>
         </div>
         <div class="accordion-panel from-right" id="panel2">
-          <img src="Upload/infra/innovative.webp" alt="Student using a computer in a modern lab" width="auto" height="auto">
+          <img src="upload/infra/innovative.webp" alt="Student using a computer in a modern lab" width="auto" height="auto">
           <div class="accordion-overlay">
             <h2>Think. Create. Innovate.</h2>
             <p>Fostering a culture of creativity and critical thinking through modern, experiential learning.</p>

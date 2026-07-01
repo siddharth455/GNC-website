@@ -1155,7 +1155,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
             </div>
           </li>
-          <li><a href="unfold-cbc.php">Unfold CBC</a></li>
+          <li>
+            <a href="global-learning.php">CBC-Global Pathways</a>
+            
+          </li>
           <li>
             <a href="#">Campus Life</a>
             <!-- Dropdown starts here -->
@@ -1663,7 +1666,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <li><a href="campus-life.php">Campus Life Overview</a></li>
           <li><a href="cultural.php">Cultural Activities</a></li>
           <li><a href="nss.php">NSS</a></li>
-          <li><a href="events.php">Events</a>li>
+          <li><a href="events.php">Events</a></li>
         </ul>
       </li>
 
@@ -1683,7 +1686,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <li><a href="research-committee.php">R & D Cell & Code of Ethics</a></li>
         </ul>
       </li>
-
+<li><a href="global-learning.php">CBC-Global Pathways</a></li>
       <li><a href="https://student.gncdehradun.com/AccSoft_GNC/" target="_blank" rel="noopener noreferrer">Student ERP Login</a></li>
       <li><a href="https://staff.gncdehradun.com/AccSoft_GNC/Login.aspx" target="_blank" rel="noopener noreferrer">Staff ERP Login</a></li>
       <li><a href="library.php">Library</a></li>
