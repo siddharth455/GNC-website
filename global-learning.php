@@ -19,6 +19,9 @@
     <!-- Google Fonts (preconnect for speed) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Apply form widget (preconnect for faster load) -->
+    <link rel="preconnect" href="https://eeconfigstaticfiles.blob.core.windows.net" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -40,9 +43,14 @@
             --gl-grad-gold: linear-gradient(135deg, #ffc233, #ff8a3d);
         }
 
-        html, body {
+         body {
             max-width: 100%;
             overflow-x: hidden;
+            scroll-behavior: smooth;
+        }
+
+        #gl-apply-form {
+            scroll-margin-top: 110px;
         }
 
         .gl-page {
@@ -123,7 +131,7 @@
             position: relative;
             background: var(--gl-grad);
             padding: 250px 0 110px;
-            overflow: hidden;
+            overflow-y: visible;
             color: #fff;
             width: 100%;
             max-width: 100vw;
@@ -268,6 +276,8 @@
             gap: 10px;
             transition: transform .3s ease, box-shadow .3s ease;
             box-shadow: 0 10px 25px rgba(255, 107, 91, .3);
+            cursor: pointer;
+            border: none;
         }
 
         .gl-btn-gold:hover {
@@ -333,6 +343,50 @@
             border-radius: 4px;
             box-shadow: 0 0 0 1px rgba(0, 0, 0, .08);
             display: inline-block;
+        }
+
+        /* ===== Hero apply-form card (right side) ===== */
+        .gl-apply-card {
+            border-radius: 20px;
+            padding: 23px 23px 10px;
+            animation: glFadeUp 1s ease .3s both;
+            /* Intentionally no fixed/max height and no overflow clipping here —
+               that combination is what was cutting the form in half before. */
+        }
+
+
+        .gl-apply-card-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(0, 181, 251, .12);
+            color: var(--gnc-navy);
+            font-weight: 700;
+            font-size: .72rem;
+            letter-spacing: .3px;
+            text-transform: uppercase;
+            padding: 5px 14px;
+            border-radius: 50px;
+            margin-bottom: 10px;
+        }
+
+        .gl-apply-card-head h3 {
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: var(--gnc-navy);
+            margin-bottom: 4px;
+        }
+
+        .gl-apply-card-head p {
+            font-size: .8rem;
+            color: #6b7280;
+            margin: 0;
+        }
+
+        @media (max-width: 991px) {
+            .gl-apply-card {
+                margin-top: 30px;
+            }
         }
 
         /* ===== Partner strip ===== */
@@ -440,159 +494,6 @@
 
             .gl-partner-box img {
                 margin: 14px auto 20px;
-            }
-        }
-
-        /* ===== Hero illustration (right side) ===== */
-        .gl-hero-art {
-            position: relative;
-            height: 420px;
-            animation: glFadeUp 1s ease .3s both;
-        }
-
-        @media (max-width: 991px) {
-            .gl-hero-art {
-                height: 300px;
-                margin-top: 30px;
-            }
-        }
-
-        .gl-orbit-core {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 170px;
-            height: 170px;
-            transform: translate(-50%, -50%);
-            border-radius: 50%;
-            background: radial-gradient(circle at 35% 30%, #5fd4ff, #0061b3 65%, #002e63 100%);
-            box-shadow: 0 0 60px rgba(0, 181, 251, .55), inset -12px -12px 30px rgba(0, 0, 0, .3);
-            animation: glSpinSlow 18s linear infinite;
-        }
-
-        @keyframes glSpinSlow {
-            from {
-                transform: translate(-50%, -50%) rotate(0deg);
-            }
-
-            to {
-                transform: translate(-50%, -50%) rotate(360deg);
-            }
-        }
-
-        .gl-orbit-core::before {
-            content: "";
-            position: absolute;
-            inset: 8px;
-            border-radius: 50%;
-            background-image: repeating-linear-gradient(100deg, rgba(255, 255, 255, .12) 0 2px, transparent 2px 14px), repeating-linear-gradient(10deg, rgba(255, 255, 255, .08) 0 2px, transparent 2px 18px);
-        }
-
-        .gl-orbit-ring {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            border: 1.5px dashed rgba(255, 255, 255, .35);
-            border-radius: 50%;
-            transform: translate(-50%, -50%);
-        }
-
-        .gl-orbit-ring.r1 {
-            width: 280px;
-            height: 280px;
-            animation: glSpinSlow 26s linear infinite;
-        }
-
-        .gl-orbit-ring.r2 {
-            width: 400px;
-            height: 400px;
-            animation: glSpinSlow 38s linear infinite reverse;
-        }
-
-        @media (max-width: 991px) {
-            .gl-orbit-ring.r1 {
-                width: 220px;
-                height: 220px;
-            }
-
-            .gl-orbit-ring.r2 {
-                width: 300px;
-                height: 300px;
-            }
-
-            .gl-orbit-core {
-                width: 130px;
-                height: 130px;
-            }
-        }
-
-        .gl-orbit-flag {
-            position: absolute;
-            background: #fff;
-            color: var(--gnc-navy);
-            font-weight: 700;
-            font-size: .78rem;
-            padding: 9px 16px;
-            border-radius: 50px;
-            box-shadow: 0 10px 24px rgba(0, 20, 50, .35);
-            display: flex;
-            align-items: center;
-            gap: 7px;
-            animation: glBob 4.5s ease-in-out infinite;
-            white-space: nowrap;
-        }
-
-        .gl-orbit-flag.f1 {
-            top: 2%;
-            left: 38%;
-            animation-delay: 0s;
-        }
-
-        .gl-orbit-flag.f2 {
-            top: 22%;
-            right: 0%;
-            animation-delay: .5s;
-        }
-
-        .gl-orbit-flag.f3 {
-            top: 43%;
-            animation-delay: 1s;
-        }
-
-        .gl-orbit-flag.f4 {
-            bottom: 10%;
-            right: 6%;
-            animation-delay: 1.5s;
-        }
-
-        .gl-orbit-flag.f5 {
-            bottom: 2%;
-            left: 22%;
-            animation-delay: 2s;
-        }
-
-        .gl-orbit-flag.f6 {
-            top: 28%;
-            left: -6%;
-            animation-delay: 2.5s;
-        }
-
-        @keyframes glBob {
-
-            0%,
-            100% {
-                transform: translateY(0);
-            }
-
-            50% {
-                transform: translateY(-12px);
-            }
-        }
-
-        @media (max-width: 575px) {
-            .gl-orbit-flag {
-                font-size: .68rem;
-                padding: 6px 11px;
             }
         }
 
@@ -1000,6 +901,10 @@
             text-decoration: none;
             font-size: .9rem;
             margin-top: auto;
+            cursor: pointer;
+            background: none;
+            border: none;
+            padding: 0;
         }
 
         .gl-prog-btn i {
@@ -1088,6 +993,26 @@
             margin-bottom: 26px;
             position: relative;
         }
+
+        /* ===== Values chips ===== */
+        .gl-values-strip {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 14px;
+            margin-top: 22px;
+        }
+
+        .gl-value-chip {
+            background: rgba(0, 181, 251, .08);
+            border: 1px solid rgba(0, 181, 251, .25);
+            color: var(--gnc-navy);
+            font-weight: 700;
+            font-size: .82rem;
+            padding: 8px 18px;
+            border-radius: 50px;
+        }
+
     </style>
 </head>
 
@@ -1104,9 +1029,9 @@
                 <div class="col-lg-7">
                     <span class="gl-badge"><i class="fa-solid fa-earth-asia"></i> Admissions Open — 2026 Batch</span>
                     <h1>Go Global With Your <span>Healthcare Career</span></h1>
-                    <p class="lead">A specially curated International Exposure Track for Nursing, GNM and Physiotherapy students — delivered in partnership with Career Buddy College, combining hospital practice across Dubai, China and Singapore with a dedicated Japan/Germany career pathway, on top of your regular GNC degree.</p>
+                    <p class="lead">Since 2009, Guru Nanak College has been building INC-recognized nurses, GNM practitioners and physiotherapists in Dehradun. The Global Learning Track — delivered with our industry partner Career Buddy College — adds structured international hospital exposure across Dubai, China and Singapore, plus a dedicated Japan/Germany career pathway, on top of your regular GNC degree.</p>
                     <div class="gl-hero-ctas">
-                        <a href="https://careerbuddycollege.com/" target="_blank" class="gl-btn-gold">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="#gl-apply-form" class="gl-btn-gold">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
                         <a href="#gl-journey" class="gl-btn-outline">Explore the Journey</a>
                     </div>
                     <div class="gl-hero-flags">
@@ -1117,16 +1042,11 @@
                         <span class="gl-flag-chip"><img class="gl-flag-img" src="https://flagcdn.com/40x30/de.png" srcset="https://flagcdn.com/80x60/de.png 2x" alt="Germany flag" width="20" height="15" loading="lazy">Germany</span>
                     </div>
                 </div>
-                <div class="col-lg-5 d-none d-lg-block">
-                    <div class="gl-hero-art">
-                        <div class="gl-orbit-ring r2"></div>
-                        <div class="gl-orbit-ring r1"></div>
-                        <div class="gl-orbit-core"><i class="fa-solid fa-globe" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:2.4rem;color:rgba(255,255,255,.85);"></i></div>
-                        <span class="gl-orbit-flag f1"><img class="gl-flag-img" src="https://flagcdn.com/40x30/ae.png" srcset="https://flagcdn.com/80x60/ae.png 2x" alt="UAE flag" width="20" height="15" loading="lazy">Dubai</span>
-                        <span class="gl-orbit-flag f2"><img class="gl-flag-img" src="https://flagcdn.com/40x30/cn.png" srcset="https://flagcdn.com/80x60/cn.png 2x" alt="China flag" width="20" height="15" loading="lazy">China</span>
-                        <span class="gl-orbit-flag f3"><img class="gl-flag-img" src="https://flagcdn.com/40x30/sg.png" srcset="https://flagcdn.com/80x60/sg.png 2x" alt="Singapore flag" width="20" height="15" loading="lazy">Singapore</span>
-                        <span class="gl-orbit-flag f4"><img class="gl-flag-img" src="https://flagcdn.com/40x30/jp.png" srcset="https://flagcdn.com/80x60/jp.png 2x" alt="Japan flag" width="20" height="15" loading="lazy">Japan</span>
-                        <span class="gl-orbit-flag f5"><img class="gl-flag-img" src="https://flagcdn.com/40x30/de.png" srcset="https://flagcdn.com/80x60/de.png 2x" alt="Germany flag" width="20" height="15" loading="lazy">Germany</span>
+                <div class="col-lg-4" id="gl-apply-form">
+                    <div class="gl-apply-card gl-reveal-right is-visible">
+                        <span id="ee-form-36">
+                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applyadmission.gnc/ee-form-widget/form-36/widget.js"></script>
+                        </span>
                     </div>
                 </div>
             </div>
@@ -1138,24 +1058,24 @@
         <div class="container">
             <div class="gl-stats-card gl-reveal">
                 <div>
-                    <div class="gl-stat-icon" style="background:var(--gl-grad-purple);"><i class="fa-solid fa-earth-americas"></i></div>
-                    <div class="gl-stat-num">4+</div>
-                    <div class="gl-stat-label">Countries of Exposure</div>
+                    <div class="gl-stat-icon" style="background:var(--gl-grad-purple);"><i class="fa-solid fa-graduation-cap"></i></div>
+                    <div class="gl-stat-num">15+</div>
+                    <div class="gl-stat-label">Years of GNC Excellence</div>
                 </div>
                 <div>
                     <div class="gl-stat-icon" style="background:var(--gl-grad-coral);"><i class="fa-solid fa-handshake"></i></div>
                     <div class="gl-stat-num">100+</div>
-                    <div class="gl-stat-label">Global Hiring Partners</div>
+                    <div class="gl-stat-label">Recruiting Companies at GNC</div>
                 </div>
                 <div>
-                    <div class="gl-stat-icon" style="background:var(--gl-grad-gold);"><i class="fa-solid fa-sack-dollar"></i></div>
-                    <div class="gl-stat-num">₹18–35L</div>
-                    <div class="gl-stat-label">Avg. Global Package Range</div>
+                    <div class="gl-stat-icon" style="background:var(--gl-grad-gold);"><i class="fa-solid fa-earth-asia"></i></div>
+                    <div class="gl-stat-num">4+</div>
+                    <div class="gl-stat-label">Countries of Global Exposure</div>
                 </div>
                 <div>
                     <div class="gl-stat-icon" style="background:var(--gl-grad-green);"><i class="fa-solid fa-certificate"></i></div>
                     <div class="gl-stat-num">INC</div>
-                    <div class="gl-stat-label">Recognized Curriculum</div>
+                    <div class="gl-stat-label">Recognized Core Curriculum</div>
                 </div>
             </div>
         </div>
@@ -1168,7 +1088,13 @@
                 <span class="gl-kicker">A Powerful Collaboration</span>
                 <h2 class="gl-heading">Bringing Together Two Trusted Names</h2>
                 <img src="upload/cbc-gnc-partnership.webp" alt="Career Buddy College x Guru Nanak College Dehradun partnership" loading="lazy" width="1098" height="551">
-                <p>Guru Nanak College Dehradun brings INC-recognized academic excellence, while Career Buddy College brings the industry-facing layer — international hospital exposure, language training and global placement support. Together, they power the Global Learning Track for our Nursing, GNM and Physiotherapy students.</p>
+                <p>Guru Nanak College, Jhajhra, Chakrata Road, Dehradun, has been shaping nursing, paramedical and healthcare professionals since 2009, with programs recognized by the Indian Nursing Council (INC), the Indian Association of Physiotherapists (IAP) and other regulatory bodies. Career Buddy College is our industry-facing partner for this track — bringing international hospital exposure, language training and global placement support. Together, they power the Global Learning Track for our Nursing, GNM and Physiotherapy students, without changing who awards your degree or runs your core curriculum.</p>
+                <div class="gl-values-strip">
+                    <span class="gl-value-chip">Human Dignity</span>
+                    <span class="gl-value-chip">Empathy</span>
+                    <span class="gl-value-chip">Humility</span>
+                    <span class="gl-value-chip">Giving</span>
+                </div>
             </div>
         </div>
     </section>
@@ -1177,32 +1103,32 @@
     <section class="gl-section-padding">
         <div class="container">
             <div class="text-center mx-auto mb-5 gl-reveal" style="max-width:700px;">
-                <span class="gl-kicker">The Healthcare Job Market Is Changing</span>
-                <h2 class="gl-heading">Why Settle For A Regular Degree?</h2>
-                <p class="gl-sub mx-auto">Nursing and Physiotherapy graduates with international exposure are being hired faster and paid significantly more than those with a purely local-track education. Here's the difference the Global Learning Track makes.</p>
+                <span class="gl-kicker">Same GNC Degree, More Behind It</span>
+                <h2 class="gl-heading">What The Global Track Actually Adds</h2>
+                <p class="gl-sub mx-auto">Every GNC nursing, GNM and physiotherapy student already gets INC-recognized training and access to our Career Development Cell, which brings 100+ recruiting companies to campus each year. The Global Learning Track sits on top of that — it doesn't replace your regular programme, it adds four years of structured international exposure to it. Here's the side-by-side.</p>
             </div>
             <div class="row g-4">
                 <div class="col-md-6">
                     <div class="gl-compare-card gl-pro gl-reveal-left">
-                        <h4><i class="fa-solid fa-globe me-2"></i>With Global Learning Track</h4>
+                        <h4><i class="fa-solid fa-globe me-2"></i>GNC Global Learning Track</h4>
                         <ul>
-                            <li><i class="fa-solid fa-circle-check"></i> Curriculum aligned to international healthcare standards</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Hospital exposure across 4 countries during the course</li>
-                            <li><i class="fa-solid fa-circle-check"></i> German / Japanese language training included</li>
-                            <li><i class="fa-solid fa-circle-check"></i> AR/VR-based modern clinical training modules</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Graduate with a global-ready healthcare portfolio</li>
+                            <li><i class="fa-solid fa-circle-check"></i> The same INC-recognized GNC degree, with a guided international layer added on</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Faculty-accompanied hospital exposure in Dubai, China and Singapore, one country per year</li>
+                            <li><i class="fa-solid fa-circle-check"></i> German and Japanese language classes built into your final-year timetable</li>
+                            <li><i class="fa-solid fa-circle-check"></i> AR/VR clinical simulation modules added alongside your regular labs</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Career Buddy College's global network plugged into GNC's existing placement cell</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="gl-compare-card gl-con gl-reveal-right">
-                        <h4><i class="fa-solid fa-circle-minus me-2"></i>Traditional Nursing / Physiotherapy</h4>
+                        <h4><i class="fa-solid fa-circle-minus me-2"></i>The Regular GNC Programme</h4>
                         <ul>
-                            <li><i class="fa-solid fa-triangle-exclamation"></i> Curriculum rarely updated, exam-heavy approach</li>
-                            <li><i class="fa-solid fa-triangle-exclamation"></i> Little to no international clinical exposure</li>
-                            <li><i class="fa-solid fa-triangle-exclamation"></i> Limited internship opportunities in final year</li>
-                            <li><i class="fa-solid fa-triangle-exclamation"></i> No structured language or global placement support</li>
-                            <li><i class="fa-solid fa-triangle-exclamation"></i> Job search left entirely to the student</li>
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> Same strong INC-recognized curriculum, no built-in foreign hospital exposure</li>
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> Clinical training stays within GNC's Dehradun-affiliated hospitals</li>
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> No German or Japanese language classes as part of the timetable</li>
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> Placement support through GNC's Career Development Cell, India-focused</li>
+                            <li><i class="fa-solid fa-triangle-exclamation"></i> A great degree, just without the added international layer</li>
                         </ul>
                     </div>
                 </div>
@@ -1215,8 +1141,8 @@
         <div class="container">
             <div class="text-center mx-auto mb-5 gl-reveal" style="max-width:700px;">
                 <span class="gl-kicker">Year-Wise Roadmap</span>
-                <h2 class="gl-heading">Your Global Learning Journey</h2>
-                <p class="gl-sub mx-auto">A structured, year-on-year international exposure pathway built directly into your degree program.</p>
+                <h2 class="gl-heading">Your Global Learning Journey at GNC</h2>
+                <p class="gl-sub mx-auto">You remain a GNC student throughout — attending classes, clinicals and exams on our Dehradun campus every semester. What changes is that each year of your degree, we add a short, faculty-accompanied international exposure module, planned jointly by GNC's academic team and Career Buddy College. Here's how the four years actually break down.</p>
             </div>
 
             <div class="row">
@@ -1226,13 +1152,13 @@
                             <span class="gl-tl-dot" style="background:var(--gl-grad-purple);"></span>
                             <div class="gl-tl-content">
                                 <span class="gl-tl-year" style="background:rgba(124,92,255,.12);color:#5b3fd9;">Year 1</span>
-                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/ae.png" srcset="https://flagcdn.com/80x60/ae.png 2x" alt="UAE flag" width="30" height="22" loading="lazy">Dubai Track</h4>
-                                <p>An immersive healthcare study tour introducing students to Dubai's world-class hospital infrastructure and international patient-care standards.</p>
+                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/ae.png" srcset="https://flagcdn.com/80x60/ae.png 2x" alt="UAE flag" width="30" height="22" loading="lazy">Foundation Year + Dubai Orientation</h4>
+                                <p>Your first year is spent building the fundamentals on campus — anatomy, physiology, foundational nursing or physiotherapy skills, and your first rounds in GNC's own labs and affiliated teaching hospitals. Once foundational coursework is complete, a short Dubai orientation trip lets you see how a globally benchmarked hospital system operates, so the standards you're taught in Dehradun have real-world context from day one.</p>
                                 <ul>
-                                    <li>Guided visits to leading hospitals & healthcare facilities</li>
-                                    <li>Exposure to international care protocols</li>
-                                    <li>Professional learning sessions with practitioners</li>
-                                    <li>Orientation on UAE healthcare licensing pathways</li>
+                                    <li>GNC faculty accompany students throughout the Dubai module</li>
+                                    <li>Structured hospital walkthroughs, not tourist-style visits</li>
+                                    <li>Comparing UAE clinical protocols with what you're learning in class</li>
+                                    <li>First look at what international licensing pathways require</li>
                                 </ul>
                             </div>
                             <div class="gl-tl-media">
@@ -1243,13 +1169,13 @@
                             <span class="gl-tl-dot" style="background:var(--gl-grad-coral);"></span>
                             <div class="gl-tl-content">
                                 <span class="gl-tl-year" style="background:rgba(255,107,91,.12);color:#d9402b;">Year 2</span>
-                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/cn.png" srcset="https://flagcdn.com/80x60/cn.png 2x" alt="China flag" width="30" height="22" loading="lazy">China Track</h4>
-                                <p>A technology-focused track exploring how Artificial Intelligence is reshaping diagnosis, monitoring and rehabilitation in modern healthcare.</p>
+                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/cn.png" srcset="https://flagcdn.com/80x60/cn.png 2x" alt="China flag" width="30" height="22" loading="lazy">Core Clinical Year + China Tech Immersion</h4>
+                                <p>Year 2 is where your clinical subjects deepen — patient care, pharmacology, and (for physiotherapy students) rehabilitation science. The China module is timed to sit alongside this, showing you how AI-assisted diagnosis and robotic rehabilitation tools are used in practice, so you can connect the theory from your GNC classroom to where the field is headed.</p>
                                 <ul>
-                                    <li>Understanding AI-assisted diagnosis & treatment planning</li>
-                                    <li>Visits to advanced hospitals and innovation centres</li>
-                                    <li>Introduction to robotic rehabilitation systems</li>
-                                    <li>Cultural and academic immersion</li>
+                                    <li>Visits built around your actual second-year subjects</li>
+                                    <li>Hands-on look at AI-assisted diagnostic tools in use</li>
+                                    <li>Robotic rehabilitation systems relevant to physiotherapy students</li>
+                                    <li>Debrief sessions back on campus to tie learnings to your coursework</li>
                                 </ul>
                             </div>
                             <div class="gl-tl-media">
@@ -1260,13 +1186,13 @@
                             <span class="gl-tl-dot" style="background:var(--gl-grad-green);"></span>
                             <div class="gl-tl-content">
                                 <span class="gl-tl-year" style="background:rgba(22,199,154,.12);color:#0e9c79;">Year 3</span>
-                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/sg.png" srcset="https://flagcdn.com/80x60/sg.png 2x" alt="Singapore flag" width="30" height="22" loading="lazy">Singapore Track</h4>
-                                <p>Exposure to one of the world's most advanced healthcare delivery systems, with a strong focus on preventive and evidence-based care.</p>
+                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/sg.png" srcset="https://flagcdn.com/80x60/sg.png 2x" alt="Singapore flag" width="30" height="22" loading="lazy">Advanced Practice Year + Singapore Systems Study</h4>
+                                <p>By your third year, you're handling more advanced clinical responsibilities and starting to think about specialization. The Singapore module exposes you to one of the world's most efficient, evidence-based healthcare systems — useful whether you eventually want to work abroad or simply bring stronger, protocol-driven practice back into your career here in India.</p>
                                 <ul>
-                                    <li>Understanding Singapore's healthcare delivery model</li>
-                                    <li>Evidence-based clinical practice exposure</li>
-                                    <li>Digital health records & systems orientation</li>
-                                    <li>Elderly care and rehabilitation services overview</li>
+                                    <li>How Singapore structures preventive and evidence-based care</li>
+                                    <li>Digital health records and hospital systems, hands-on</li>
+                                    <li>Elderly care and rehabilitation services relevant to Indian healthcare too</li>
+                                    <li>One-on-one sessions with GNC mentors to plan your final-year direction</li>
                                 </ul>
                             </div>
                             <div class="gl-tl-media">
@@ -1277,13 +1203,13 @@
                             <span class="gl-tl-dot" style="background:var(--gl-grad-gold);"></span>
                             <div class="gl-tl-content">
                                 <span class="gl-tl-year" style="background:rgba(255,194,51,.18);color:#b3690a;">Year 4</span>
-                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/jp.png" alt="Japan flag" width="30" height="22" loading="lazy"><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/de.png" alt="Germany flag" width="30" height="22" loading="lazy" style="margin-left:-10px;">Japan / Germany Career Track</h4>
-                                <p>A dedicated, placement-driven pathway preparing final-year students for long-term healthcare careers abroad — not just a study tour, but a complete career launchpad.</p>
+                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/jp.png" alt="Japan flag" width="30" height="22" loading="lazy"><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/de.png" alt="Germany flag" width="30" height="22" loading="lazy" style="margin-left:-10px;">Final Year — Career Launch with GNC + Career Buddy College</h4>
+                                <p>Your final year is where GNC's own Career Development Cell — the same team that brings 100+ recruiters to campus every year — works directly with Career Buddy College's international network. This isn't a side activity; it runs through your last two semesters alongside internship, language classes and interview preparation, so you graduate with your GNC degree in hand and a real shot at a Japan or Germany placement, if that's the path you choose.</p>
                                 <ul>
-                                    <li>German & Japanese language training</li>
-                                    <li>English & IELTS preparation</li>
-                                    <li>AR/VR based advanced clinical training</li>
-                                    <li>Mock interviews and global placement assistance</li>
+                                    <li>German & Japanese language training, integrated into your final-year timetable</li>
+                                    <li>English & IELTS preparation run on campus</li>
+                                    <li>AR/VR based advanced clinical training modules</li>
+                                    <li>Mock interviews and placement support from both GNC and Career Buddy College</li>
                                 </ul>
                             </div>
                             <div class="gl-tl-media">
@@ -1296,13 +1222,54 @@
         </div>
     </section>
 
+    <!-- ================= WHY CHOOSE GNC ================= -->
+    <section class="gl-section-padding">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 gl-reveal" style="max-width:700px;">
+                <span class="gl-kicker">Why Choose Guru Nanak College</span>
+                <h2 class="gl-heading">Why Students Choose GNC for the Global Track</h2>
+                <p class="gl-sub mx-auto">Career Buddy College brings the international exposure layer — but the degree, the campus, the faculty and the day-to-day education is all GNC. Here's what that actually means for you.</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="gl-feature-card gl-reveal">
+                        <div class="gl-feature-icon" style="background:var(--gl-grad-purple);"><i class="fa-solid fa-certificate"></i></div>
+                        <h5>A Degree That Stands on Its Own</h5>
+                        <p>Since 2009, GNC has been an INC-recognized institution. Your degree is awarded by GNC regardless of whether you take the Global Track — the international exposure is an add-on layer, not a substitute for a real qualification.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="gl-feature-card gl-reveal" style="transition-delay:.1s;">
+                        <div class="gl-feature-icon" style="background:var(--gl-grad-coral);"><i class="fa-solid fa-building-columns"></i></div>
+                        <h5>A Campus You Actually Live On</h5>
+                        <p>Modern labs, on-campus hostels for boys and girls, a 500-seat auditorium, and a well-stocked library — you're not commuting between disconnected training centres, everything is on one campus in Jhajhra, Dehradun.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="gl-feature-card gl-reveal" style="transition-delay:.2s;">
+                        <div class="gl-feature-icon" style="background:var(--gl-grad-green);"><i class="fa-solid fa-people-group"></i></div>
+                        <h5>An Established Placement Cell</h5>
+                        <p>GNC's Career Development Cell already brings 100+ recruiting companies to campus every year. The Global Track plugs Career Buddy College's international network into that existing pipeline — you're not relying on a placement process built from scratch.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="gl-feature-card gl-reveal" style="transition-delay:.3s;">
+                        <div class="gl-feature-icon" style="background:var(--gl-grad-gold);"><i class="fa-solid fa-shield-heart"></i></div>
+                        <h5>15+ Years of Track Record</h5>
+                        <p>GNC isn't new to healthcare education. Fifteen-plus years of running nursing, paramedical and pharmacy programs means the fundamentals of your training are already proven — the Global Track adds to that, it doesn't replace it.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- ================= PROGRAMS ================= -->
     <section class="gl-section-padding">
         <div class="container">
             <div class="text-center mx-auto mb-5 gl-reveal" style="max-width:700px;">
                 <span class="gl-kicker">Featured Programs</span>
                 <h2 class="gl-heading">Choose Your Global Track</h2>
-                <p class="gl-sub mx-auto">Globally aligned undergraduate programs at GNC Dehradun, built to make you internationally job-ready from day one.</p>
+                <p class="gl-sub mx-auto">INC-recognized, globally aligned undergraduate programs at GNC Dehradun, built to make you internationally job-ready from day one.</p>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6">
@@ -1313,16 +1280,16 @@
                         </div>
                         <div class="gl-prog-body">
                             <div class="gl-prog-fee">
-                                <span class="gl-fee-label">Fee</span>
+                                <span class="gl-fee-label">Indicative Fee</span>
                                 <span class="gl-fee-amount">₹ 18.50 Lakhs</span>
                             </div>
                             <ul>
                                 <li><i class="fa-solid fa-check"></i> AI in healthcare practice exposure — China</li>
                                 <li><i class="fa-solid fa-check"></i> German language classes</li>
-                                <li><i class="fa-solid fa-check"></i> International clinical practice</li>
+                                <li><i class="fa-solid fa-check"></i> International clinical practice — Dubai & Singapore</li>
                                 <li><i class="fa-solid fa-check"></i> IELTS preparation classes</li>
                             </ul>
-                            <a href="https://careerbuddycollege.com/" target="_blank" class="gl-prog-btn">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="#gl-apply-form" class="gl-prog-btn">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1334,16 +1301,16 @@
                         </div>
                         <div class="gl-prog-body">
                             <div class="gl-prog-fee">
-                                <span class="gl-fee-label">Fee</span>
+                                <span class="gl-fee-label">Indicative Fee</span>
                                 <span class="gl-fee-amount">₹ 11.50 Lakhs</span>
                             </div>
                             <ul>
                                 <li><i class="fa-solid fa-check"></i> International general nursing practice</li>
-                                <li><i class="fa-solid fa-check"></i> Global hospital exposure</li>
+                                <li><i class="fa-solid fa-check"></i> Global hospital exposure — Dubai, China & Singapore</li>
                                 <li><i class="fa-solid fa-check"></i> German language classes</li>
                                 <li><i class="fa-solid fa-check"></i> IELTS preparation classes</li>
                             </ul>
-                            <a href="https://careerbuddycollege.com/" target="_blank" class="gl-prog-btn">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="#gl-apply-form" class="gl-prog-btn">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1355,16 +1322,16 @@
                         </div>
                         <div class="gl-prog-body">
                             <div class="gl-prog-fee">
-                                <span class="gl-fee-label">Fee</span>
+                                <span class="gl-fee-label">Indicative Fee</span>
                                 <span class="gl-fee-amount">₹ 12.50 Lakhs</span>
                             </div>
                             <ul>
                                 <li><i class="fa-solid fa-check"></i> Dubai clinical exposure pathway</li>
                                 <li><i class="fa-solid fa-check"></i> China AI & smart rehabilitation exposure</li>
-                                <li><i class="fa-solid fa-check"></i> Australia career-track preparation</li>
+                                <li><i class="fa-solid fa-check"></i> Japan / Germany career-track preparation</li>
                                 <li><i class="fa-solid fa-check"></i> German language training (A1–B2)</li>
                             </ul>
-                            <a href="https://careerbuddycollege.com/" target="_blank" class="gl-prog-btn">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="#gl-apply-form" class="gl-prog-btn">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1384,7 +1351,7 @@
                     <div class="gl-feature-card gl-reveal">
                         <div class="gl-feature-icon" style="background:var(--gl-grad-purple);"><i class="fa-solid fa-book-open-reader"></i></div>
                         <h5>Global-Aligned Curriculum</h5>
-                        <p>Designed around international healthcare standards and updated practices.</p>
+                        <p>Built on GNC's INC-recognized curriculum, updated to reflect international healthcare standards and practices.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
@@ -1398,14 +1365,14 @@
                     <div class="gl-feature-card gl-reveal" style="transition-delay:.2s;">
                         <div class="gl-feature-icon" style="background:var(--gl-grad-green);"><i class="fa-solid fa-user-tie"></i></div>
                         <h5>1:1 Mentor Support</h5>
-                        <p>Guidance from experienced healthcare mentors with regular one-on-one sessions.</p>
+                        <p>Guidance from GNC's experienced faculty and healthcare mentors, with regular one-on-one sessions.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="gl-feature-card gl-reveal" style="transition-delay:.3s;">
                         <div class="gl-feature-icon" style="background:var(--gl-grad-gold);"><i class="fa-solid fa-plane-departure"></i></div>
                         <h5>Abroad Placement Support</h5>
-                        <p>Dedicated career services for international placements, interview prep and referrals.</p>
+                        <p>Backed by GNC's Career Development Cell and Career Buddy College's dedicated career services — interview prep, referrals and international placement assistance.</p>
                     </div>
                 </div>
             </div>
@@ -1644,67 +1611,6 @@
     .admsn-step-content span.admsn-cyan { color: #0ea5e9; }
     .admsn-step-content span.admsn-green { color: #22c55e; }
     .admsn-step-content span.admsn-orange { color: #ea580c; }
-    
-    /* Modal Styles */
-    .modal-overlay {
-        display: none;
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.7);
-        z-index: 9999;
-        justify-content: center;
-        align-items: center;
-        padding: 20px;
-    }
-    
-    .modal-overlay.active {
-        display: flex;
-    }
-    
-    .modal-content {
-        background: white;
-        border-radius: 16px;
-        max-width: 800px;
-        width: 100%;
-        max-height: 90vh;
-        overflow-y: auto;
-        position: relative;
-    }
-    
-    .modal-close {
-        position: absolute;
-        top: 16px;
-        right: 16px;
-        background: #f3f4f6;
-        border: none;
-        width: 36px;
-        height: 36px;
-        border-radius: 50%;
-        font-size: 20px;
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 10;
-        transition: background 0.2s;
-    }
-    
-    .modal-close:hover {
-        background: #e5e7eb;
-    }
-    
-    .admsn-apply-btn {
-        cursor: pointer;
-        text-decoration: underline;
-        transition: color 0.2s;
-    }
-    
-    .admsn-apply-btn:hover {
-        color: #5b21b6;
-    }
 
     @media (max-width: 768px) {
         .admsn-hero-card {
@@ -1735,7 +1641,7 @@
                    CBC <span></span> CBC Aptitude Test
                 </div>
                 <h2>Don't Worry About Your NEET Rank</h2>
-                <p>The CBCAT  isn't just another entrance test. It's designed to identify students with the aptitude and mindset for Healthcare Studies.</p>
+                <p>The CBCAT isn't just another entrance test. It's designed to identify students with the aptitude and mindset for Healthcare Studies.</p>
                 <div class="admsn-hero-metrics">
                     <div class="admsn-metric-item">
                         <strong>60 questions</strong>
@@ -1819,81 +1725,12 @@
                 </div>
             </div>
         </div>
-    </div>
 
-    <!-- Modal -->
-    <div class="modal-overlay" id="applyModal">
-        <div class="modal-content">
-            <button class="modal-close" id="closeModal">&times;</button>
-            <div class="cta-contact-form cta-reveal-up" style="padding: 40px;">
-                <span id="ee-form-36-modal">
-                    <!-- Widget will be initialized here manually -->
-                </span>
-            </div>
+        <div class="text-center mt-4">
+            <a href="#gl-apply-form" class="gl-btn-gold">Start Your Application <i class="fa-solid fa-arrow-right"></i></a>
         </div>
     </div>
-
-    <!-- Modal Script -->
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const openBtn = document.getElementById('openApplyModal');
-            const closeBtn = document.getElementById('closeModal');
-            const modal = document.getElementById('applyModal');
-            let modalWidgetInitialized = false;
-
-            const initializeModalWidget = async () => {
-                if (modalWidgetInitialized) return;
-                if (window._eeFormWidget) {
-                    await window._eeFormWidget.init("applycbc", "form-36", "ee-form-36-modal");
-                    modalWidgetInitialized = true;
-                } else {
-                    // Wait for _eeFormWidget to be available
-                    const checkWidget = setInterval(async () => {
-                        if (window._eeFormWidget) {
-                            clearInterval(checkWidget);
-                            await window._eeFormWidget.init("applycbc", "form-36", "ee-form-36-modal");
-                            modalWidgetInitialized = true;
-                        }
-                    }, 100);
-                }
-            };
-
-            if (openBtn && modal) {
-                openBtn.addEventListener('click', () => {
-                    modal.classList.add('active');
-                    document.body.style.overflow = 'hidden';
-                    initializeModalWidget();
-                });
-            }
-
-            if (closeBtn && modal) {
-                closeBtn.addEventListener('click', () => {
-                    modal.classList.remove('active');
-                    document.body.style.overflow = '';
-                });
-            }
-
-            if (modal) {
-                modal.addEventListener('click', (e) => {
-                    if (e.target === modal) {
-                        modal.classList.remove('active');
-                        document.body.style.overflow = '';
-                    }
-                });
-            }
-
-            // Close modal on escape key
-            document.addEventListener('keydown', (e) => {
-                if (e.key === 'Escape' && modal && modal.classList.contains('active')) {
-                    modal.classList.remove('active');
-                    document.body.style.overflow = '';
-                }
-            });
-        });
-    </script>
 </div>
-
-
 
     <!-- ================= FAQ ================= -->
     <section class="gl-section-padding" style="background:#f8fafc;">
@@ -1941,6 +1778,9 @@
                                     How do I get more details or apply?
                                 </button>
                             </h2>
+                            <div id="glFaq4" class="accordion-collapse collapse" data-bs-parent="#glFaqAccordion">
+                                <div class="accordion-body">Use the "Apply Now" button anywhere on this page to open our application form, or reach out to GNC's Admission Helpline at 7300900900. Our team will walk you through eligibility, the CBCAT process (if applicable) and the Global Track add-on for your chosen program.</div>
+                            </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
@@ -1966,8 +1806,8 @@
                     <img src="upload/cbc-gnc-partnership.webp" alt="Career Buddy College x Guru Nanak College Dehradun" loading="lazy" width="200" height="40">
                 </div>
                 <h3>Ready to Build a Global Healthcare Career?</h3>
-                <p>Limited seats available for the 2026 batch under the Global Learning Track, in partnership with Career Buddy College.</p>
-                <a href="https://careerbuddycollege.com/" target="_blank" class="gl-btn-gold">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
+                <p>Limited seats available for the 2026 batch under the Global Learning Track, in partnership with Career Buddy College. Call our Admission Helpline at 7300900900 or apply online.</p>
+                <a href="#gl-apply-form" class="gl-btn-gold">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
             </div>
         </div>
     </section>

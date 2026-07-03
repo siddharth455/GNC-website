@@ -471,7 +471,7 @@
         }
 
         .why-join-blue {
-            background: linear-gradient(90deg, rgb(11, 87, 138) 30%, rgba(30, 34, 82, .1)), url('upload/programs/B.opto.webp') !important;
+            background: linear-gradient(90deg, rgb(11, 87, 138) 30%, rgba(30, 34, 82, .1)), url('upload/B-opto.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
@@ -590,7 +590,7 @@
                             </button>
                         </div>
                     </div>
-
+ 
                     <div class="col-lg-4 reveal">
                         <div class="premium-card">
                             <h3 class="fw-800 mb-4">Financial <br><span class="text-muted">Support</span></h3>

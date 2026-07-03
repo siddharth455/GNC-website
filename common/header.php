@@ -1279,15 +1279,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <span class="close-overlay" id="closeOverlay" title="Close overlay"><i class="fa-solid fa-xmark"></i></span>
     <div class="admission-content" role="dialog" aria-modal="true" aria-label="Admission Helpline">
       <div class="admission-images">
-        <img src="upload/Bachelor of Optometry.webp" class="active" alt="Paramedical">
-        <img src="upload/Bachelor of Pharmacy.webp" alt="Pharmacy">
-        <img src="upload/Bachelor of Science in Nursing.webp" alt="Nursing">
+        <img src="upload/Bachelor-of-Optometry.webp" class="active" alt="Paramedical">
+        <img src="upload/Bachelor-of-Pharmacy.webp" alt="Pharmacy">
+        <img src="upload/Bachelor-of-Science-in-Nursing.webp" alt="Nursing">
         <img src="upload/health-science-head.webp" alt="Health Science">
         <img src="upload/infra/life-allied.webp" alt="Life & Allied Sciences">
         <img src="upload/infra/agri-image.webp" alt="Agriculture Science">
         <img src="upload/infra/bca.webp" alt="Computer Science">
         <img src="upload/hero/mange-1.webp" alt="Business School">
-        <img src="upload/Diploma in Hotel Management.webp" alt="Hotel Management">
+        <img src="upload/Diploma-in-Hotel-Management.webp" alt="Hotel Management">
       </div>
       <div class="admission-list">
         <ul>
