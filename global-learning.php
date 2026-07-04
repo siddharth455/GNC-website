@@ -43,7 +43,7 @@
             --gl-grad-gold: linear-gradient(135deg, #ffc233, #ff8a3d);
         }
 
-         body {
+        html, body {
             max-width: 100%;
             overflow-x: hidden;
             scroll-behavior: smooth;
@@ -51,6 +51,12 @@
 
         #gl-apply-form {
             scroll-margin-top: 110px;
+        }
+
+       @media (max-width: 991px) {
+            #gl-apply-form img {
+                display: none;
+            }
         }
 
         .gl-page {
@@ -1042,13 +1048,19 @@
                         <span class="gl-flag-chip"><img class="gl-flag-img" src="https://flagcdn.com/40x30/de.png" srcset="https://flagcdn.com/80x60/de.png 2x" alt="Germany flag" width="20" height="15" loading="lazy">Germany</span>
                     </div>
                 </div>
-                <div class="col-lg-4" id="gl-apply-form">
-                    <div class="gl-apply-card gl-reveal-right is-visible">
-                        <span id="ee-form-36">
-                            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applyadmission.gnc/ee-form-widget/form-36/widget.js"></script>
-                        </span>
-                    </div>
-                </div>
+               <div class="col-lg-4" id="gl-apply-form" style="position:relative;">
+
+    <img src="upload/cbc-gnc-partnership.webp"
+         alt="Career Buddy College x Guru Nanak College Dehradun partnership"
+         style="position:absolute; left:-180px; top:50%; transform:rotate(270deg); width:300px; height:auto;">
+
+    <div class="gl-apply-card gl-reveal-right is-visible">
+        <span id="ee-form-36">
+            <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applyadmission.gnc/ee-form-widget/form-36/widget.js"></script>
+        </span>
+    </div>
+
+</div>
             </div>
         </div>
     </section>
@@ -1074,7 +1086,7 @@
                 </div>
                 <div>
                     <div class="gl-stat-icon" style="background:var(--gl-grad-green);"><i class="fa-solid fa-certificate"></i></div>
-                    <div class="gl-stat-num">INC</div>
+                    <div class="gl-stat-num">INC/IAP</div>
                     <div class="gl-stat-label">Recognized Core Curriculum</div>
                 </div>
             </div>
@@ -1152,13 +1164,13 @@
                             <span class="gl-tl-dot" style="background:var(--gl-grad-purple);"></span>
                             <div class="gl-tl-content">
                                 <span class="gl-tl-year" style="background:rgba(124,92,255,.12);color:#5b3fd9;">Year 1</span>
-                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/ae.png" srcset="https://flagcdn.com/80x60/ae.png 2x" alt="UAE flag" width="30" height="22" loading="lazy">Foundation Year + Dubai Orientation</h4>
-                                <p>Your first year is spent building the fundamentals on campus — anatomy, physiology, foundational nursing or physiotherapy skills, and your first rounds in GNC's own labs and affiliated teaching hospitals. Once foundational coursework is complete, a short Dubai orientation trip lets you see how a globally benchmarked hospital system operates, so the standards you're taught in Dehradun have real-world context from day one.</p>
-                                <ul>
-                                    <li>GNC faculty accompany students throughout the Dubai module</li>
-                                    <li>Structured hospital walkthroughs, not tourist-style visits</li>
-                                    <li>Comparing UAE clinical protocols with what you're learning in class</li>
-                                    <li>First look at what international licensing pathways require</li>
+                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/ae.png" srcset="https://flagcdn.com/80x60/ae.png 2x" alt="UAE flag" width="30" height="22" loading="lazy">Dubai Track</h4>
+                                <p>Dubai track is the specially designed health care study & practice tour for Nursing & Physiotherpay students offering a unique opportunity to explore Dubai's world-class health care eco-system, Modern medical facilities & International health care practices.</p>
+                                <ul> Program Outcome
+                                    <li>Hospital & healthcare facility visits.</li>
+                                    <li>Understanding International health care standards & patient care practices.</li>
+                                    <li>Professional learning sessions</li>
+                                    <li>Guidance on health care licensing pathways in the UAE</li>
                                 </ul>
                             </div>
                             <div class="gl-tl-media">
@@ -1169,13 +1181,13 @@
                             <span class="gl-tl-dot" style="background:var(--gl-grad-coral);"></span>
                             <div class="gl-tl-content">
                                 <span class="gl-tl-year" style="background:rgba(255,107,91,.12);color:#d9402b;">Year 2</span>
-                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/cn.png" srcset="https://flagcdn.com/80x60/cn.png 2x" alt="China flag" width="30" height="22" loading="lazy">Core Clinical Year + China Tech Immersion</h4>
-                                <p>Year 2 is where your clinical subjects deepen — patient care, pharmacology, and (for physiotherapy students) rehabilitation science. The China module is timed to sit alongside this, showing you how AI-assisted diagnosis and robotic rehabilitation tools are used in practice, so you can connect the theory from your GNC classroom to where the field is headed.</p>
-                                <ul>
-                                    <li>Visits built around your actual second-year subjects</li>
-                                    <li>Hands-on look at AI-assisted diagnostic tools in use</li>
-                                    <li>Robotic rehabilitation systems relevant to physiotherapy students</li>
-                                    <li>Debrief sessions back on campus to tie learnings to your coursework</li>
+                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/cn.png" srcset="https://flagcdn.com/80x60/cn.png 2x" alt="China flag" width="30" height="22" loading="lazy">China Track</h4>
+                                <p>The China track is a speically designed study & practice tour for Nursing & Physiotherapy students, offering an exciting opportunity to experience how Artificial Intelligence(AI) is transforming health care in one of the world's leading technology & innovation hubs.</p>
+                                <ul>Program Outcome
+                                    <li>Learning how AI assist in diagnosis, patient monitoring, & treatment planning</li>
+                                    <li>Visits to advanced health care institutions & innovation centers</li>
+                                    <li>Introduction to robotic rehabilitation systems</li>
+                                    <li>Experienced Chinese culture, Education & tehnological advancement</li>
                                 </ul>
                             </div>
                             <div class="gl-tl-media">
@@ -1186,13 +1198,14 @@
                             <span class="gl-tl-dot" style="background:var(--gl-grad-green);"></span>
                             <div class="gl-tl-content">
                                 <span class="gl-tl-year" style="background:rgba(22,199,154,.12);color:#0e9c79;">Year 3</span>
-                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/sg.png" srcset="https://flagcdn.com/80x60/sg.png 2x" alt="Singapore flag" width="30" height="22" loading="lazy">Advanced Practice Year + Singapore Systems Study</h4>
-                                <p>By your third year, you're handling more advanced clinical responsibilities and starting to think about specialization. The Singapore module exposes you to one of the world's most efficient, evidence-based healthcare systems — useful whether you eventually want to work abroad or simply bring stronger, protocol-driven practice back into your career here in India.</p>
+                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/sg.png" srcset="https://flagcdn.com/80x60/sg.png 2x" alt="Singapore flag" width="30" height="22" loading="lazy">Singapore Track</h4>
+                                <p>The Singapore track is a specially designed health care study & practice tour for students offering an opportunity to experience a high health care standards, excellent preparation outcomes, advanced medical infrastructure & strong emphasis on preventive care, making it an ideal destination for future health care professionals.</p>
                                 <ul>
-                                    <li>How Singapore structures preventive and evidence-based care</li>
-                                    <li>Digital health records and hospital systems, hands-on</li>
-                                    <li>Elderly care and rehabilitation services relevant to Indian healthcare too</li>
-                                    <li>One-on-one sessions with GNC mentors to plan your final-year direction</li>
+                                    <li>Understanding Singapore's health care delivery model</li>
+                                    <li>Learning evidence-based clinical practices</li>
+                                    <li>Understanding digital health & electronic medical records</li>
+                                    <li>Exposure to community & preventive health care programs</li>
+                                    <li>Understanding elderly care & rehabilitation services in Singapore</li>
                                 </ul>
                             </div>
                             <div class="gl-tl-media">
@@ -1203,13 +1216,16 @@
                             <span class="gl-tl-dot" style="background:var(--gl-grad-gold);"></span>
                             <div class="gl-tl-content">
                                 <span class="gl-tl-year" style="background:rgba(255,194,51,.18);color:#b3690a;">Year 4</span>
-                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/jp.png" alt="Japan flag" width="30" height="22" loading="lazy"><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/de.png" alt="Germany flag" width="30" height="22" loading="lazy" style="margin-left:-10px;">Final Year — Career Launch with GNC + Career Buddy College</h4>
-                                <p>Your final year is where GNC's own Career Development Cell — the same team that brings 100+ recruiters to campus every year — works directly with Career Buddy College's international network. This isn't a side activity; it runs through your last two semesters alongside internship, language classes and interview preparation, so you graduate with your GNC degree in hand and a real shot at a Japan or Germany placement, if that's the path you choose.</p>
-                                <ul>
-                                    <li>German & Japanese language training, integrated into your final-year timetable</li>
-                                    <li>English & IELTS preparation run on campus</li>
-                                    <li>AR/VR based advanced clinical training modules</li>
-                                    <li>Mock interviews and placement support from both GNC and Career Buddy College</li>
+                                <h4><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/jp.png" alt="Japan flag" width="30" height="22" loading="lazy"><img class="gl-flag-img-lg" src="https://flagcdn.com/40x30/de.png" alt="Germany flag" width="30" height="22" loading="lazy" style="margin-left:-10px;">Germany/Japan Career Track</h4>
+                                <p>The Japan/Germany career track is a specialised placement-driven program designed for nursing & physiotherapy students who aspire to build succedful careers in Germany or Japan.
+Unlike a study tour, this is long-term career development pathway that prepares students through language training, International health care orientation, interview preparation, certification support, & placement assistance.</p>
+                                <ul>Program Outcome
+                                    <li>International career planning</li>
+                                    <li>German language training</li>
+                                    <li>Japanese language training</li>
+                                    <li>English & IELTS preparation</li>
+                                    <li>AR/VR classes for advanced health care training purpose</li>
+                                    <li>Mock examinations & practice sessions</li>
                                 </ul>
                             </div>
                             <div class="gl-tl-media">
@@ -1283,6 +1299,10 @@
                                 <span class="gl-fee-label">Indicative Fee</span>
                                 <span class="gl-fee-amount">₹ 18.50 Lakhs</span>
                             </div>
+                             <div class="gl-prog-fee">
+                                <span class="gl-fee-label">Avg. Salary Package</span>
+                                <span class="gl-fee-amount">₹18 - 35 LPA</span>
+                            </div>
                             <ul>
                                 <li><i class="fa-solid fa-check"></i> AI in healthcare practice exposure — China</li>
                                 <li><i class="fa-solid fa-check"></i> German language classes</li>
@@ -1304,6 +1324,10 @@
                                 <span class="gl-fee-label">Indicative Fee</span>
                                 <span class="gl-fee-amount">₹ 11.50 Lakhs</span>
                             </div>
+                              <div class="gl-prog-fee">
+                                <span class="gl-fee-label">Avg. Salary Package</span>
+                                <span class="gl-fee-amount">₹15 - 30 LPA</span>
+                            </div>
                             <ul>
                                 <li><i class="fa-solid fa-check"></i> International general nursing practice</li>
                                 <li><i class="fa-solid fa-check"></i> Global hospital exposure — Dubai, China & Singapore</li>
@@ -1324,6 +1348,10 @@
                             <div class="gl-prog-fee">
                                 <span class="gl-fee-label">Indicative Fee</span>
                                 <span class="gl-fee-amount">₹ 12.50 Lakhs</span>
+                            </div>
+                            <div class="gl-prog-fee">
+                                <span class="gl-fee-label">Avg. Salary Package</span>
+                                <span class="gl-fee-amount">₹20 - 40 LPA</span>
                             </div>
                             <ul>
                                 <li><i class="fa-solid fa-check"></i> Dubai clinical exposure pathway</li>
