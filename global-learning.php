@@ -1032,7 +1032,7 @@
         <div class="gl-hero-bgdots"></div>
         <div class="container position-relative">
             <div class="row align-items-center">
-                <div class="col-lg-7">
+                <div class="col-lg-6">
                     <span class="gl-badge"><i class="fa-solid fa-earth-asia"></i> Admissions Open — 2026 Batch</span>
                     <h1>Go Global With Your <span>Healthcare Career</span></h1>
                     <p class="lead">Since 2009, Guru Nanak College has been building INC-recognized nurses, GNM practitioners and physiotherapists in Dehradun. The Global Learning Track — delivered with our industry partner Career Buddy College — adds structured international hospital exposure across Dubai, China and Singapore, plus a dedicated Japan/Germany career pathway, on top of your regular GNC degree.</p>
@@ -1048,12 +1048,13 @@
                         <span class="gl-flag-chip"><img class="gl-flag-img" src="https://flagcdn.com/40x30/de.png" srcset="https://flagcdn.com/80x60/de.png 2x" alt="Germany flag" width="20" height="15" loading="lazy">Germany</span>
                     </div>
                 </div>
-               <div class="col-lg-4" id="gl-apply-form" style="position:relative;">
+               <div class="col-lg-2" id="logo" style="position:relative;">
 
-    <img src="upload/cbc-gnc-partnership.webp"
+    <img src="upload/cbc-x-gnc-logo.png"
          alt="Career Buddy College x Guru Nanak College Dehradun partnership"
-         style="position:absolute; left:-180px; top:50%; transform:rotate(270deg); width:300px; height:auto;">
-
+         style="width:200px; height:auto;">
+               </div>
+<div class="col-lg-4" id="gl-apply-form" style="position:relative;">
     <div class="gl-apply-card gl-reveal-right is-visible">
         <span id="ee-form-36">
             <script src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/applyadmission.gnc/ee-form-widget/form-36/widget.js"></script>
