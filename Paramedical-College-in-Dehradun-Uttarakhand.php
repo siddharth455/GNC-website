@@ -28,6 +28,44 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+    { 
+      "@type": "Question", 
+      "name": "What paramedical courses are offered at Guru Nanak College?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College offers BMRIT, BMLT, BPT, B.Optometry, B.OTT, MMLT, and 
+MPT under the School of Paramedical Sciences, with strong placement support and clinical 
+training tie-ups." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "What is the highest package offered to paramedical students at GNC?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+                                      
+        "text": "The highest national package offered to Paramedical students at Guru Nanak 
+College is ₹54.75 LPA, with an average placement package of ₹12 LPA and over 900 placement 
+offers from 100+ companies." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "Is clinical training provided for paramedical students at GNC?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Yes. Guru Nanak College provides hands-on clinical training through hospital 
+tie-ups, lab sessions, and internships as part of the paramedical curriculum." 
+      } 
+    } 
+  ] 
+} 
+</script> 
 
     <script type="application/ld+json">
         {

@@ -13,7 +13,7 @@ content="B.Sc Nursing vs GNM — complete 2026 comparison of fees, duration, sal
 <meta name="keywords"
 content="bsc nursing vs gnm, gnm vs bsc nursing salary, bsc nursing fees dehradun, gnm nursing college dehradun, nursing courses after 12th 2026, inc approved nursing college dehradun"/>
 
-<link rel="canonical" href="https://www.gnc.edu.in/blog/bsc-nursing-vs-gnm-2026/" />
+<link rel="canonical" href="https://www.gnc.edu.in/bsc-nursing-vs-gnm-2026/" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="B.Sc Nursing vs GNM 2026 — Fees, Salary & Which is Better for Your Career?" />
@@ -21,7 +21,7 @@ content="bsc nursing vs gnm, gnm vs bsc nursing salary, bsc nursing fees dehradu
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/bscnursing-vs-gnm.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/blog/bsc-nursing-vs-gnm-2026/" />
+<meta property="og:url" content="https://gnc.edu.in/bsc-nursing-vs-gnm-2026/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 
@@ -57,7 +57,7 @@ content="bsc nursing vs gnm, gnm vs bsc nursing salary, bsc nursing fees dehradu
  "dateModified": "2026-04-28",
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://gnc.edu.in/blog/bsc-nursing-vs-gnm-2026/"
+   "@id": "https://gnc.edu.in/bsc-nursing-vs-gnm-2026/"
  }
 }
 </script>
@@ -78,13 +78,13 @@ content="bsc nursing vs gnm, gnm vs bsc nursing salary, bsc nursing fees dehradu
      "@type": "ListItem",
      "position": 2,
      "name": "Blog",
-     "item": "https://gnc.edu.in/blog"
+     "item": "https://gnc.edu.in"
    },
    {
      "@type": "ListItem",
      "position": 3,
      "name": "B.Sc Nursing vs GNM 2026",
-     "item": "https://gnc.edu.in/blog/bsc-nursing-vs-gnm-2026/"
+     "item": "https://gnc.edu.in/bsc-nursing-vs-gnm-2026/"
    }
  ]
 }

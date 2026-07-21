@@ -29,6 +29,34 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
+    <script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+    { 
+      "@type": "Question", 
+      "name": "What management program does GNC offer?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College offers BBA (Bachelor of Business Administration) under 
+the Business School, a 3-year undergraduate program focused on management fundamentals." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "What placement support is available for BBA students at GNC?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College's placement cell provides BBA students with internship 
+opportunities, campus recruitment drives, and pre-placement training sessions with industry 
+partners." 
+      } 
+    } 
+  ] 
+} 
+</script> 
+
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",

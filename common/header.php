@@ -5,6 +5,7 @@
   <title></title>
   <meta name="robots" content="INDEX, FOLLOW">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <!-- ✅ Preload critical CSS -->
   <link rel="preload" as="style" href="css/bootstrap.min.css">
   <link rel="preload" as="style" href="css/slick.css">

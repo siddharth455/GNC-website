@@ -27,6 +27,41 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+    { 
+      "@type": "Question", 
+      "name": "Is the Pharmacy program at GNC approved by PCI?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Yes. Guru Nanak College's B.Pharma and D.Pharma programs are approved by the 
+Pharmacy Council of India (PCI)." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "Does GNC offer lateral entry for B.Pharma?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Yes. Guru Nanak College offers lateral entry admission into B.Pharma for 
+D.Pharma diploma holders, allowing direct entry into the second year." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "What is the duration of B.Pharma at GNC?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "B.Pharma at Guru Nanak College is a 4-year full-time program. D.Pharma is a 
+2-year diploma program." 
+      } 
+    } 
+  ] 
+} 
+</script> 
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",

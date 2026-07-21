@@ -25,6 +25,35 @@
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+    { 
+      "@type": "Question", 
+      "name": "What health science programs does GNC offer?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College offers Master of Public Health (MPH) and Master of 
+Hospital Administration (MHA) under the School of Health Science, both 2-year postgraduate 
+programs." 
+      } 
+    }, 
+                                      
+    { 
+      "@type": "Question", 
+      "name": "What career options are available after MHA from GNC?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Graduates of Master of Hospital Administration from Guru Nanak College can 
+work as hospital administrators, healthcare consultants, and operations managers in hospitals 
+and healthcare facilities." 
+      } 
+    } 
+  ] 
+} 
+</script> 
 
     <script type="application/ld+json">
         {

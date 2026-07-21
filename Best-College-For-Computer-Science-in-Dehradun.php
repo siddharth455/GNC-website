@@ -27,6 +27,33 @@
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
     <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
+    
+<script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+    { 
+      "@type": "Question", 
+      "name": "What computer science programs does GNC offer?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College offers B.Tech Computer Science Engineering (CSE) and 
+Bachelor of Computer Applications (BCA) under the School of Computer Sciences." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "What is the eligibility for B.Tech CSE at GNC?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Mathematics 
+(PCM) with minimum 45% aggregate marks for B.Tech CSE admission at Guru Nanak College." 
+      } 
+    } 
+  ] 
+} 
+</script> 
 
     <script type="application/ld+json">
         {

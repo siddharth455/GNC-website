@@ -124,6 +124,7 @@
             font-weight: 700;
             color: var(--primary-blue);
             margin-bottom: 20px;
+            text-align: center;
             min-height: 54px; /* Ensures alignment */
             display: flex;
             align-items: center;
@@ -242,10 +243,20 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="modern-card">
                         <div class="card-icon-wrapper">
+                            <img src="upload/infra/HNBG-new-logo.png" alt="HNBGU" width="auto" height="auto">
+                        </div>
+                        <h3>HNB Garhwal Central Govt. University</h3>
+                        <p>Hemvati Nandan Bahuguna Garhwal University (HNBGU) is a public university located in Uttarakhand, India. Established in 1973, it offers undergraduate, postgraduate, and doctoral programs across various disciplines. Known for its scenic campus in the Garhwal region, the university focuses on research, higher education, and community development, contributing to the socio-economic growth of the region.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="modern-card">
+                        <div class="card-icon-wrapper">
                             <img src="images/HNBGMU.webp" alt="HNBGU" width="auto" height="auto">
                         </div>
-                        <h3>HNB Garhwal University</h3>
-                        <p>Hemvati Nandan Bahuguna Garhwal University (HNBGU) is a public university located in Uttarakhand, India. Established in 1973, it offers undergraduate, postgraduate, and doctoral programs across various disciplines. Known for its scenic campus in the Garhwal region, the university focuses on research, higher education, and community development, contributing to the socio-economic growth of the region.</p>
+                        <h3>HNB Garhwal Medical Education University</h3>
+                        <p>Hemvati Nandan Bahuguna Uttarakhand Medical Education University (HNBUMU) is a state medical university located in Dehradun, Uttarakhand. Established in 2014, the university is dedicated to regulating and promoting quality medical, nursing, paramedical, dental, and allied health sciences education across the state. HNBUMU affiliates numerous government and private medical institutions, conducts entrance examinations, and oversees academic standards, examinations, and degree programs to ensure excellence in healthcare education and research.</p>
                     </div>
                 </div>
 

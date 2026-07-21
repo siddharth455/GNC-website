@@ -423,6 +423,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             <img src="images/Aicte-logo.webp" class="circle-logo" alt="Aicte logo" width="auto" height="auto" />
             <img src="upload/infra/iap-logo.jpeg" class="circle-logo" alt="Iap logo" width="auto" height="auto" />
             <img src="upload/infra/inc-logo.png" class="circle-logo" alt="Inc logo" width="auto" height="auto" />
+            <img src="upload/infra/HNBG-new-logo.png" class="circle-logo" alt="HNBG logo" width="auto" height="auto" />
           </div>
         </div>
         <div class="col-md-6">
@@ -441,6 +442,7 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
             <li>The Indian Association of Physiotherapists (IAP)</li>
             <li>The Indian Nursing Council (INC)</li>
             <li>Sri Dev Suman Uttarakhand University (SDSUU)</li>
+            <li>HNB Garhwal Central Govt. University</li> 
           </ol>
         </div>
       </div>
@@ -469,7 +471,6 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
       /* ensures it fits inside */
       z-index: 2;
     }
-
     /* Accreditation logos initially on top of center logo */
     .circle-logo {
       position: absolute;

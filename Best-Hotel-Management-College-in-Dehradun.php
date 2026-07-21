@@ -28,6 +28,34 @@ College in Uttarakhand" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
+    
+<script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+    { 
+      "@type": "Question", 
+      "name": "What hotel management course does GNC offer?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College offers a Diploma in Hotel Management (DHM), a focused 
+program covering front office, food production, housekeeping, and hospitality operations." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "Does GNC provide hotel placement support?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Yes. Guru Nanak College's placement cell has industry tie-ups to support 
+hotel management students with internships and job placements in hospitality brands." 
+      } 
+    } 
+  ] 
+} 
+</script> 
+
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",

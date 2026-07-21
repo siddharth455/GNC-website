@@ -26,20 +26,48 @@ Microbiology College Uttarakhand" />
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    
+<script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+    { 
+      "@type": "Question", 
+      "name": "What B.Sc. programs are offered under Life & Allied Sciences at GNC?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College offers B.Sc. Microbiology, B.Sc. Biotechnology, B.Sc. 
+Food Technology, B.Sc. PCM, B.Sc. CBZ, and B.Sc. Geology under the School of Life & Allied 
+Sciences." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "Does GNC offer M.Sc. programs in science subjects?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Yes. Guru Nanak College offers M.Sc. in Microbiology, Food Technology, 
+Chemistry, Physics, Botany, and Zoology at the postgraduate level." 
+      } 
+    } 
+  ] 
+} 
+</script> 
 
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Life & Allied Sciences — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-DehradunUttarakhand.php",
+            "url": "https://www.gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
                     "@type": "Course",
                     "name": "B.Sc. Microbiology",
-                    "url": "https://www.gnc.edu.in/Bsc-microbiology-Colleges-in-DehradunUttarakhand.php",
+                    "url": "https://www.gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php",
                     "description": "B.Sc. Microbiology offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",

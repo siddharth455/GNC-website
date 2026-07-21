@@ -29,6 +29,41 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+    { 
+      "@type": "Question", 
+      "name": "Is the Nursing program at GNC approved by Indian Nursing Council?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Yes. The B.Sc. Nursing and GNM programs at Guru Nanak College are approved 
+by the Indian Nursing Council (INC)." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "What is the eligibility for B.Sc. Nursing at GNC?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Biology (PCB) 
+with minimum 45% marks for admission to B.Sc. Nursing at Guru Nanak College." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "Does GNC offer Post Basic B.Sc. Nursing for GNM holders?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Yes. Guru Nanak College offers Post Basic B.Sc. Nursing, a bridge program 
+for GNM diploma holders to upgrade to a bachelor's degree in nursing." 
+      } 
+    } 
+  ] 
+} 
+</script> 
 
     <script type="application/ld+json">
         {

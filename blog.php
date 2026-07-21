@@ -7,7 +7,7 @@ $posts = [
   [
     'id' => 1,
     'title' => 'Top Paramedical Courses After 12th in India | GNC Dehradun',
-    'url' => 'Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun',
+    'url' => 'Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-and-Scope-at-Guru-Nanak-College-Dehradun',
     'date' => '2025-08-20',
     'excerpt' => 'The healthcare industry in India is growing rapidly, and with it, the demand for skilled paramedical professionals is at an all-time high.',
     'author' => ['name' => 'GNC Dehradun'],
@@ -261,6 +261,61 @@ programs for aspiring business leaders.',
     'author' => ['name' => 'GNC Dehradun Academic Team'],
     'tags' => ['BBA'],
     'image' => 'upload/blog/top-bba.png',
+    'featured' => false
+  ],
+  [
+    'id' => 25,
+    'title' => 'BMLT vs BMRIT — Which Paramedical Course is Better in 2026?',
+    'url' => 'bmlt-vs-bmrit-which-paramedical-course-is-better',
+    'date' => '2026-06-07',
+    'excerpt' => 'Choosing between BMLT (Bachelor of Medical Laboratory Technology) and BMRIT (Bachelor of Medical Radio Diagnosis & Imaging Technology) is one of the most common dilemmas for students exploring paramedical careers after Class 12.',
+    'author' => ['name' => 'GNC Dehradun'],
+    'tags' => ['Paramedical'],
+    'image' => 'upload/blog/bmlt-vs-bmrit.jpg',
+    'featured' => false
+  ],
+  [
+    'id' => 26,
+    'title' => 'D.Pharma vs B.Pharma — Complete Guide for 2026 Admissions',
+    'url' => 'd-pharma-vs-b-pharma-complete-guide',
+    'date' => '2026-07-07',
+    'excerpt' => 'Pharmacy is one of the most stable and respected healthcare career paths in India. At Guru Nanak College, Dehradun, students often ask whether to pursue D.Pharma (Diploma in Pharmacy) or go directly for B.Pharma (Bachelor of Pharmacy). ',
+    'author' => ['name' => 'GNC Dehradun'],
+    'tags' => ['Pharmacy'],
+    'image' => 'upload/blog/b-pharm-vs-d-pharm.jpg',
+    'featured' => false
+  ],
+  [
+    'id' => 27,
+    'title' => 'B.Sc Nursing vs GNM — Which Nursing Course is Right for You?',
+    'url' => 'bsc-nursing-vs-gnm-which-is-right-for-you',
+    'date' => '2026-07-08',
+    'excerpt' => 'Nursing is one of the fastest-growing healthcare careers in India, with strong domestic and international demand.',
+    'author' => ['name' => 'GNC Dehradun'],
+    'tags' => ['Nursing'],
+    'image' => 'upload/blog/gnm-vs-nursing.webp',
+    'featured' => false
+  ],
+  [
+    'id' => 28,
+    'title' => 'Top Career Options After B.Sc Agriculture — Salary, Scope & Opportunities 2026',
+    'url' => 'career-options-after-bsc-agriculture',
+    'date' => '2026-07-08',
+    'excerpt' => 'B.Sc Agriculture is no longer just about farming — its a gateway to careers in agribusiness, government services, research, and agri-tech startups.',
+    'author' => ['name' => 'GNC Dehradun'],
+    'tags' => ['Agriculture'],
+    'image' => 'upload/blog/career-after-bsc-agriculture.webp',
+    'featured' => false
+  ],
+  [
+    'id' => 29,
+    'title' => 'Why Dehradun is Becoming India Top Destination for Healthcare Education ',
+    'url' => 'why-dehradun-top-destination-healthcare-education',
+    'date' => '2026-07-08',
+    'excerpt' => 'Over the last decade, Dehradun has quietly become one of India most sought-after destinations for healthcare education — particularly in nursing, paramedical sciences, and pharmacy.',
+    'author' => ['name' => 'GNC Dehradun'],
+    'tags' => ['General'],
+    'image' => 'upload/blog/dehradun-healthcare-education.webp',
     'featured' => true
   ],
 ];
@@ -286,7 +341,8 @@ if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Blogs & Activities</title>
   <meta name="description" content="A static blog index built with HTML, CSS, PHP and vanilla JS.">
-  <link rel="canonical" href="https://www.gnc.edu.in/blog">
+  <link rel="canonical" href="https://www.gnc.edu.in">
+  <link rel="icon" type="image/webp" href="images/logog.webp">
 </head>
 
 <body>

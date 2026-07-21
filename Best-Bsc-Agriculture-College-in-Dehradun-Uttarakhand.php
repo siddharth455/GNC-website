@@ -25,7 +25,33 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-
+<script type="application/ld+json"> 
+{ 
+  "@context": "https://schema.org", 
+  "@type": "FAQPage", 
+  "mainEntity": [ 
+                                      
+    { 
+      "@type": "Question", 
+      "name": "What agriculture programs does GNC offer?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College offers B.Sc. Agriculture, B.Sc. Forestry at the 
+undergraduate level, and M.Sc. Agronomy and M.Sc. Horticulture at the postgraduate level." 
+      } 
+    }, 
+    { 
+      "@type": "Question", 
+      "name": "Is the B.Sc. Agriculture program at GNC ICAR recognised?", 
+      "acceptedAnswer": { 
+        "@type": "Answer", 
+        "text": "Guru Nanak College's agriculture programs follow ICAR-aligned curriculum 
+standards, providing students with practical farming exposure and research training." 
+      } 
+    } 
+  ] 
+} 
+</script>
 
     <script type="application/ld+json">
         {
