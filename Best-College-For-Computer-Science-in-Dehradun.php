@@ -3,15 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College - Best Computer Science College | GNC</title>
+    <title>Best Computer Science College in Dehradun | B.Tech & BCA</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best computer science college in Dehradun, Uttarakhand, offers B.Tech Computer Science, BCA programs approved by AICTE,..." />
+    <meta name="description" content="Guru Nanak College offers B.Tech CSE & BCA in Dehradun with modern labs, coding-focused curriculum & placement support. Admissions 2026 now open. Apply." />
     <link rel="canonical" href="https://www.gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun">
     <meta name="keywords" content="Best Computer Science College in Dehradun, BCA College in Dehradun" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Computer Science College in Dehradun, Uttarakhand" />
-    <meta property="og:description" content="Guru Nanak College, the leading Computer Science college in Dehradun, Uttarakhand. Experience excellence in education and prepare for a successful future. Courses Offered: B.Tech (CSE), Cyber Security, AI & ML, B.Sc IT" />
+    <meta property="og:description" content="Guru Nanak College offers B.Tech CSE & BCA in Dehradun with modern labs, coding-focused curriculum & placement support. Admissions 2026 now open. Apply." />
     <meta property="og:url" content="https://gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -901,7 +901,7 @@ Bachelor of Computer Applications (BCA) under the School of Computer Sciences."
             <div class="row g-5 align-items-center">
                 <div class="col-lg-7">
                     <h6 class="text-gnc-blue fw-black uppercase mb-2">School of Computer Science</h6>
-                    <h2 class="fw-black mb-4 display-6">Best Colleges for Computer Science in Dehradun, Uttarakhand.</h2>
+                    <h2 class="fw-black mb-4 display-6">Best Computer Science College in Dehradun – B.Tech & BCA</h2>
                     <div class="accent-bar mb-4"></div>
                     <div class="text-secondary leading-relaxed space-y-4">
                         <p>The School of Computer Science at Guru Nanak College, Dehradun, is a hub of academic and professional excellence tailored to nurture the computer science experts of the future. We present a curriculum that balances deep academic theory with vital practical skills. Our students delve into computer programming, database management, software development, and network architecture, alongside emerging fields such as machine learning and block chain technology.</p>

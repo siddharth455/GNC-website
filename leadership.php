@@ -187,7 +187,7 @@ fostering visionary guidance and academic excellence" />
                             <img src="upload/infra/saithjeet.webp" alt="leader image" loading="lazy" class="w-100" width="auto" height="auto">
                             <div class="stu-info__name">
                                 <b>SAITHJEET SINGH ARORA</b>
-                                <small>CFO, Guru Nanak College</small>
+                                <small>CSO, Guru Nanak College</small>
                             </div>
                         </div>
                         <!-- <p class="sub-para inner px-4">
@@ -196,9 +196,9 @@ fostering visionary guidance and academic excellence" />
                         </p> -->
                     </div>
                     <div class="col-lg-7 order-1">
-                    <h2>Financial literacy is the cornerstone of sustainable growth and success.</h2>
+                    <h2>Strategic vision today creates greater opportunities tomorrow.</h2>
                         
-                        <p>As the Chief Financial Officer of Guru Nanak College, Dehradun, I am committed to financial responsibility and transparency. Sound financial management is vital for our institution’s daily operations and long-term success. We prioritize strategic resource allocation to enhance academics, infrastructure, and extracurricular initiatives, ensuring students and faculty have the tools to excel. Promoting financial literacy, we equip our community with the knowledge to make informed financial decisions. Through transparency, accountability, and strategic planning, we build a strong financial foundation that supports growth and innovation. Our commitment ensures Guru Nanak College remains a hub of opportunity, excellence, and sustainable progress.</p>
+                        <p>As the Chief Strategy Officer (CSO) of Guru Nanak College, Dehradun, I am committed to driving strategic growth, innovation, and excellence. We focus on strengthening academics, industry partnerships, and student opportunities while aligning our vision with emerging trends. Together, we are building a progressive institution focused on sustainable growth and future success.</p>
                         
                     </div>
                 </div>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College | Best B.Sc Nursing College in | GNC</title>
+    <title>Best B.Sc Nursing College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the top B.Sc Nursing college in Dehradun, Uttarakhand. Known for its comprehensive curriculum, expert faculty, and state-of-the-art...">
     <link rel="canonical" href="https://www.gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun">

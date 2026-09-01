@@ -874,6 +874,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
       </div>
+      <div class="col-md-4 filter-item cs" data-aos="zoom-in">
+      <div class="card course-card h-100">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">B.tech Computer Science</h5>
+            <p class="card-text">B.Tech in Computer Science is a four-year undergraduate program focused on computer science fundamentals, software engineering, artificial intelligence, data structures, cloud computing, cybersecurity, and emerging technologies.</p>
+            <p class="card-text" style="color: #212529 !important;">4 Years | Fee: ₹85,000 /- year (Included Power Degree Fee)</p>
+            <div class="text-center mt-auto">
+              <a href="#" class="btn btn-primary apply-now-btn mt-2 w-50">Apply Now</a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- View More Button -->
@@ -911,7 +923,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       } else {
         item.style.display = 'none';
       }
-    });
+    }); 
 
     // Show View More button only if there are more than 3 courses
     const hiddenCount = document.querySelectorAll(`.${filter}.hidden-course`).length;

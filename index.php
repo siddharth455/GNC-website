@@ -2,8 +2,8 @@
 <html>
 
 <head>
- <title>Guru Nanak College - Best College in Dehradun, Uttarakhand</title>
-  <meta name="description" content="Guru Nanak College is the best college in Dehradun, Uttarakhand, offers Nursing, Pharmacy, Paramedical, Agriculture, BCA, BBA, B.Tech, Life Sciences,..." />
+ <title>Best College in Dehradun, Uttarakhand | Guru Nanak College</title>
+  <meta name="description" content="Guru Nanak College (GNC), Dehradun — NAAC-accredited college for Nursing, Pharmacy, Paramedical, Agriculture, BCA, BBA & B.Tech. Admissions 2026 open." />
   <meta name="keywords" content="Best College in Dehradun, Guru Nanak College Dehradun" />
   <link rel="canonical" href="https://www.gnc.edu.in/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,8 +12,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Guru Nanak College (GNC), Dehradun's best educational institute, dedicated to
 excellence in academics and holistic development." />
-  <meta property="og:description" content="Guru Nanak College (GNC), Dehradun's best educational institute, dedicated to
-excellence in academics and holistic development." />
+  <meta property="og:description" content="Guru Nanak College (GNC), Dehradun — NAAC-accredited college for Nursing, Pharmacy, Paramedical, Agriculture, BCA, BBA & B.Tech. Admissions 2026 open." />
   <meta property="og:url" content="https://gnc.edu.in/" />
   <meta property="og:site_name" content="GNC Dehradun" />
   <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -222,8 +221,8 @@ Paramedical, BCA, BBA, Agriculture, and more programs.",
   <section id="about-gnc" class="about-section">
     <div class="container">
       <div class="about-content" data-aos="fade-up" data-aos-duration="1000">
-        <h2 class="about-title">About <span>Guru Nanak College</span></h2>
-        <h3 class="about-subtitle">Best College in Uttarakhand, India</h3>
+        <h2 class="about-title">Guru Nanak College, <span>Dehradun</span></h2>
+        <h3 class="about-subtitle">Best College in Uttarakhand</h3>
         <p class="about-text">
           Guru Nanak College, situated in the serene and academically vibrant city of Dehradun, has established itself
           as a prestigious center of higher education since its inception under the aegis of NIMS, Dehradun in 2009.
@@ -2836,11 +2835,11 @@ document.addEventListener("DOMContentLoaded", () => {
               </div>
               <div class="col-md-6">
                 <div class="facMsg position-relative">
-                  <p class="mb-5"><b>“ Empowering financial knowledge today ensures a brighter tomorrow for all” </b>As the Chief Financial Officer of Guru Nanak College, Dehradun, I am dedicated to fostering a culture of financial responsibility and transparency within our institution. We at GNC understand that sound financial management is crucial for sustaining our commitment to academic excellence. By effectively allocating resources, we ensure that our diverse programs and initiatives receive the support they need to thrive. Additionally, we prioritize financial literacy, equipping our students and staff with the knowledge to make informed decisions. Together, we are building a strong financial foundation that will empower our community and pave the way for future success...</p>
+                  <p class="mb-5"><b>“Empowering minds today to build a brighter tomorrow.” </b>As the Chief Strategy Officer (CSO) of Guru Nanak College, Dehradun, I am committed to driving innovation, strategic growth, and new opportunities. At GNC, we align our vision with emerging trends to strengthen academics, industry collaboration, and student success. Together, we are building a progressive institution prepared for a successful and sustainable future.</p>
                   <a href="leadership.php" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                   <div class="facName">
                     <h4>Mr. SAITHJEET SINGH ARORA</h4>
-                    <small>CFO</small>
+                    <small>CSO</small>
                   </div>
                 </div>
               </div>

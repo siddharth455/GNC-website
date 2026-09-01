@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>B.Sc. Agriculture at Guru Nanak College Dehradun - | GNC</title>
+    <title>B.Sc. Agriculture at Guru Nanak College Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Cultivate a deep understanding of agriculture with the B.Sc. Agriculture program at Guru Nanak College, Dehradun, for a thriving career in agronomy.">
     <link rel="canonical" href="https://www.gnc.edu.in/agriculture-science">
@@ -351,9 +351,7 @@
                 <h1>Bachelor of <br>Science in Agriculture<br> at Guru Nanak College</h1>
                 <div class="mt-4 d-flex gap-2">
                    <a href="https://application.gnc.edu.in/" target="_blank"> <button class="btn px-4 py-2 fw-bold text-white" style="background: var(--gnc-orange);">APPLY NOW</button></a>
-                    <a href="upload/pdf/BBA.pdf" target="_blank" id="printButton1" target="_blank">
-                        <button class="btn px-4 py-2 fw-bold text-white" style="background: var(--gnc-blue);">Download Brochure</button>
-                    </a>
+                    
                 </div>
                 
             </div>

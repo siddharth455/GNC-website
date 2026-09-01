@@ -3,15 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College - Best Paramedical College in | GNC</title>
+    <title>Best Paramedical College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best paramedical college in Dehradun, Uttarakhand, offers BPT, BMLT, BMRIT, Optometry, Operation Theatre Technology, MPT..." />
+    <meta name="description" content="Study paramedical courses at Guru Nanak College Dehradun — BMLT, BMRIT, BPT, Optometry & OT Technology with modern labs & 100% placement. Apply 2026." />
     <meta name="keywords" content="Best Paramedical College in Dehradun, Paramedical College in Uttarakhand" />
     <link rel="canonical" href="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical College in Dehradun 2026 — GNC" />
-    <meta property="og:description" content="Guru Nanak College is the best paramedical college in Dehradun, Uttarakhand, offers BPT, BMLT, BMRIT, Optometry, Operation Theatre Technology, MPT programs approved by AICTE & affiliated with HNBGU." />
+    <meta property="og:description" content="Study paramedical courses at Guru Nanak College Dehradun — BMLT, BMRIT, BPT, Optometry & OT Technology with modern labs & 100% placement. Apply 2026." />
     <meta property="og:url" content="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -943,7 +943,7 @@ tie-ups, lab sessions, and internships as part of the paramedical curriculum."
             <div class="row g-5 align-items-center">
                 <div class="col-lg-7">
                     <h6 class="text-gnc-blue fw-black uppercase mb-2">School of Paramedical</h6>
-                    <h2 class="fw-black mb-4 display-6">Best Paramedical College in Dehradun – Admission 2026</h2>
+                    <h2 class="fw-black mb-4 display-6">Best Paramedical College in Dehradun, Uttarakhand – GNC</h2>
                     <div class="accent-bar mb-4"></div>
                     <div class="text-secondary leading-relaxed space-y-4">
                         <p>A paramedical course is a healthcare-focused program that prepares students for careers in medical laboratories, radiology, physiotherapy, operation theatre technology, and clinical support services. It combines theoretical knowledge with hands-on clinical training to develop skilled healthcare professionals.</p>

@@ -3,19 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College - Best Hotel Management College in Dehradun,
-        Uttarakhand</title>
-    <meta name="description" content="Guru Nanak College is the best hotel 
-management college in Dehradun, Uttarakhand, offers Diploma in Hotel Management (DHM) 
-with hands-on training, industry visits, and 100% placement assistance." />
+    <title>Best Hotel Management College in Dehradun | GNC</title>
+    <meta name="description" content="Guru Nanak College offers Diploma in Hotel Management in Dehradun with industry training, modern kitchens & placement support. Admissions 2026 open." />
     <meta name="keywords" content="Best Hotel Management College in Dehradun, DHM 
 College in Uttarakhand" />
     <link rel="canonical" href="https://www.gnc.edu.in/Best-Hotel-Management-College-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Hotel Management College in Dehradun" />
-    <meta property="og:description" content="Guru Nanak College, Our School of Hotel Management blends theory with hands-on
-    experience. From culinary arts to event management, we prepare students for success in the fast-paced industry." />
+    <meta property="og:description" content="Guru Nanak College offers Diploma in Hotel Management in Dehradun with industry training, modern kitchens & placement support. Admissions 2026 open." />
     <meta property="og:url" content="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -446,7 +442,7 @@ hotel management students with internships and job placements in hospitality bra
             <div class="row g-5 align-items-center">
                 <div class="col-lg-7">
                     <h6 class="text-gnc-blue fw-black uppercase mb-2">School of Hotel Management</h6>
-                    <h2 class="fw-black mb-4 display-6">Best Hotel Management Colleges in Dehradun, Uttarakhand.</h2>
+                    <h2 class="fw-black mb-4 display-6">Best Hotel Management College in Dehradun – Guru Nanak College</h2>
                     <div class="accent-bar mb-4"></div>
                     <div class="text-secondary leading-relaxed space-y-4">
                         <p>The School of Hotel Management at Guru Nanak College, Dehradun, offers a vibrant education platform combining robust academic theory with practical industry skills. Our curriculum is crafted to provide an in-depth understanding of hospitality, catering, and tourism management, while also fostering practical proficiency through hands-on experience in our advanced training facilities. We emphasize culinary arts, event management, customer service excellence, and operational know-how in the fast-paced hospitality sector.</p>

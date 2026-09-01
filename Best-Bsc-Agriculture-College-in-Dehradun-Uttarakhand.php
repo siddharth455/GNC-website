@@ -3,15 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College - Best Agriculture College in | GNC</title>
+    <title>Best B.Sc Agriculture College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture..." />
+    <meta name="description" content="Study B.Sc Agriculture, Forestry, M.Sc Agronomy & Horticulture at Guru Nanak College Dehradun. Expert faculty, modern farms & placements. Admissions 2026." />
     <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
     <link rel="canonical" href="https://www.gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Agriculture College in Dehradun, Uttarakhand" />
-    <meta property="og:description" content="Guru Nanak College is the best agriculture college in Dehradun, Uttarakhand, offers B.Sc Agriculture, B.Sc Forestry, M.Sc Agronomy, M.Sc Horticulture programs affiliated with HNBGU & SDSUU." />
+    <meta property="og:description" content="Study B.Sc Agriculture, Forestry, M.Sc Agronomy & Horticulture at Guru Nanak College Dehradun. Expert faculty, modern farms & placements. Admissions 2026." />
     <meta property="og:url" content="https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -531,7 +531,7 @@ standards, providing students with practical farming exposure and research train
             <div class="row g-5 align-items-center">
                 <div class="col-lg-7">
                     <h6 class="text-gnc-blue fw-black uppercase mb-2">School of Agriculture Sciences</h6>
-                    <h2 class="fw-black mb-4 display-6">Best Agriculture Colleges in Dehradun, Uttarakhand.</h2>
+                    <h2 class="fw-black mb-4 display-6">Best B.Sc Agriculture College in Dehradun, Uttarakhand – GNC</h2>
                     <div class="accent-bar mb-4"></div>
                     <div class="text-secondary leading-relaxed space-y-4">
                         <p>Welcome to the School of Agriculture Science at Guru Nanak College, Dehradun. Our esteemed institution offers a wide range of programs including B.Sc. in Agriculture, B.Sc. in Forestry, and M.Sc. degrees in Agronomy, Seed Science and Technology, and Horticulture. These programs are meticulously designed to meet the evolving demands of the agricultural sector.</p>

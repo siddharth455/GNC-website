@@ -7,8 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <!-- ✅ Preload critical CSS -->
-  <link rel="preload" as="style" href="css/bootstrap.min.css">
-  <link rel="preload" as="style" href="css/slick.css">
   <link rel="preload" as="style" href="css/style.css">
   <!-- ✅ Preload hero image (LCP) -->
   <link rel="preload" as="image" href="upload/infra/accredition-banner.webp" fetchpriority="high">
@@ -19,18 +17,13 @@
   <link rel="stylesheet" href="./css/animate.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://getbootstrap.com/docs/5.3/assets/css/docs.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"> -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
   <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
   <!-- SWIPER JS (place before your init, near end of body) -->
   <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-  <link rel="preload" as="image"
-    href="upload/infra/accredition-banner.webp"
-    fetchpriority="high">
 
   <script type="application/ld+json">
     {

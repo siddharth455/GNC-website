@@ -3,15 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College - Best Pharmacy College in | GNC</title>
+    <title>Best Pharmacy College in Dehradun | B.Pharm & D.Pharm</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best pharmacy college in Dehradun, Uttarakhand, offers B.Pharm, D.Pharm, Lateral Entry B.Pharm programs approved by PCI &..." />
+    <meta name="description" content="Guru Nanak College is a leading pharmacy college in Dehradun offering PCI-aligned B.Pharm, D.Pharm & B.Pharm Lateral Entry (UTU affiliated). Apply 2026." />
     <link rel="canonical" href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
     <meta name="keywords" content="Best Pharmacy College in Dehradun, Pharmacy College in Uttarakhand" />
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Best Pharmacy College in Dehradun, Uttarakhand | Guru Nanak College">
-    <meta property="og:description" content="Guru Nanak College is the best pharmacy college in Dehradun, Uttarakhand, offers B.Pharm, D.Pharm, Lateral Entry B.Pharm programs approved by PCI & AICTE, affiliated with HNBGU, with 100% placement support.">
+    <meta property="og:description" content="Guru Nanak College is a leading pharmacy college in Dehradun offering PCI-aligned B.Pharm, D.Pharm & B.Pharm Lateral Entry (UTU affiliated). Apply 2026.">
     <meta property="og:url" content="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
     <meta property="og:site_name" content="GNC Dehradun">
     <meta property="og:image" content="https://gnc.edu.in/assets/images/pharmacy-campus.jpg">
@@ -527,7 +527,7 @@ D.Pharma diploma holders, allowing direct entry into the second year."
             <div class="row g-5 align-items-center">
                 <div class="col-lg-7" data-aos="fade-right" data-aos-duration="600">
                     <h6 class="text-gnc-blue fw-black uppercase mb-2">School of Pharmacy</h6>
-                    <h2 class="fw-black mb-4 display-6">Best Pharmacy Colleges in Dehradun, Uttarakhand.</h2>
+                    <h2 class="fw-black mb-4 display-6">Best Pharmacy College in Dehradun, Uttarakhand – Guru Nanak College</h2>
                     <div class="accent-bar mb-4"></div>
                     <div class="text-secondary leading-relaxed space-y-4">
                         <p>Welcome to the School of Pharmacy at Guru Nanak College, Dehradun, a leading centre of excellence committed to quality pharmaceutical education and industry-oriented training. Recognised among the best pharmacy colleges in Dehradun and Uttarakhand, our institution focuses on nurturing competent, ethical, and skilled pharmacy professionals</p>

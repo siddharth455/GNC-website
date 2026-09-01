@@ -3,7 +3,7 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best Master of Hospital Administration College in | GNC</title>
+    <title>Best MHA College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, Dehradun's leading institution for Master of Hospital Administration. With an innovative curriculum, esteemed faculty, and handson learning opportunities, Guru Nanak College prepares future leaders in hospital administration to excel in the healthcare industry.">
     <link rel="canonical" href="https://www.gnc.edu.in/master-of-hospital-administration">
@@ -17,7 +17,7 @@
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:type" content="image/webp" />
+    <meta property="og:image:type" content="image/webp" /> 
     <link rel="stylesheet" href="new-assets/css/all-styles.css">
 
     <!-- External Libraries -->

@@ -3,16 +3,16 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Guru Nanak College - Best Nursing College in | GNC</title>
+    <title>Best Nursing College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offers B.Sc Nursing, GNM, Post Basic B.Sc Nursing programs approved by INC &..." />
+    <meta name="description" content="Guru Nanak College is a top nursing college in Dehradun offering INC & USNC-approved B.Sc Nursing, GNM & Post Basic B.Sc Nursing. 100% placement. Apply 2026." />
     <meta name="keywords" content="Best Nursing College in Dehradun, Nursing College in Uttarakhand" />
     <link rel="canonical" href="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
 
     <!-- Open Graph (WhatsApp, Facebook, LinkedIn previews) -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Nursing College in Dehradun | Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College is the best nursing college in Dehradun, Uttarakhand, offers B.Sc Nursing, GNM, Post Basic B.Sc Nursing programs approved by INC & USNC, affiliated with HNBGU, with 100% placement support" />
+    <meta property="og:description" content="Guru Nanak College is a top nursing college in Dehradun offering INC & USNC-approved B.Sc Nursing, GNM & Post Basic B.Sc Nursing. 100% placement. Apply 2026." />
     <meta property="og:url" content="https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
     <meta property="og:image" content="https://gnc.edu.in/upload/Bachelor-of-Science-in-Nursing.webp" />
     <meta property="og:site_name" content="Guru Nanak College, Dehradun" />
@@ -664,7 +664,7 @@ for GNM diploma holders to upgrade to a bachelor's degree in nursing."
             <div class="row g-5 align-items-center">
                 <div class="col-lg-7">
                     <h6 class="text-gnc-blue fw-black uppercase mb-2">School of Nursing</h6>
-                    <h2 class="fw-black mb-4 display-6">Best Nursing Colleges in Dehradun, Uttarakhand.</h2>
+                    <h2 class="fw-black mb-4 display-6">Best Nursing College in Dehradun, Uttarakhand – Guru Nanak College</h2>
                     <div class="accent-bar mb-4"></div>
                     <div class="text-secondary leading-relaxed space-y-4">
                         <p>Choosing the right institution for your nursing education is one of the most important decisions in your academic journey. Guru Nanak College, Dehradun, stands proudly among the best nursing colleges in Dehradun and Uttarakhand, offering world-class infrastructure, experienced faculty, and a strong commitment to shaping competent healthcare professionals.</p>

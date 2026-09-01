@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
      <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Top BBA College in Dehradun – BBA Admission 2026 | GNC</title>
+    <title>Best BBA College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Study at the top BBA college in Dehradun. Guru Nanak College offers industry-focused BBA program, affordable fees, scholarships, and 100% placement...">
+    <meta name="description" content="Study BBA at Guru Nanak College Dehradun with an industry-focused curriculum, experienced faculty & placement support. Admissions 2026 open. Apply now.">
     <link rel="canonical" href="https://www.gnc.edu.in/best-bba-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta name="keywords" content="BBA college in Dehradun, best BBA college in Dehradun, BBA admission Dehradun, BBA course Dehradun, BBA fees Dehradun"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best BBA College in Dehradun 2025 | Guru Nanak College (GNC), Uttarakhand" />
-    <meta property="og:description" content="Study at the top BBA college in Dehradun. Guru Nanak College offers industry-focused BBA program, affordable fees, scholarships, and 100% placement training. Admissions open 2026." />
+    <meta property="og:description" content="Study BBA at Guru Nanak College Dehradun with an industry-focused curriculum, experienced faculty & placement support. Admissions 2026 open. Apply now." />
     <meta property="og:url" content="https://gnc.edu.in/best-bba-college-in-dehradun" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -491,7 +491,7 @@
             <!-- GNC BBA RIGHT SIDE CONTENT -->
             <div class="col-lg-6">
                 <div class="gnc-bba-content-right">
-                    <h2 class="fw-bold mb-4">Best BBA College in Dehradun, Uttarakhand</h2>
+                    <h2 class="fw-bold mb-4">Best BBA College in Dehradun, Uttarakhand – Guru Nanak College</h2>
                     <p class="text-muted">Choosing the right college is one of the most important decisions for students planning a career in business and management. If you are searching for a reliable and career-oriented BBA college in Dehradun, Guru Nanak College stands out as one of the most preferred institutions for management education in Uttarakhand.</p>
                 <p class="text-muted">Recognized for its academic excellence, practical learning approach, and strong placement support, Guru Nanak College offers a comprehensive Bachelor of Business Administration (BBA) program designed to prepare students for the real business world. With more than 16 years of educational experience, modern infrastructure, and industry-aligned curriculum, the college has established itself as a leading destination for students seeking <a href="https://gnc.edu.in/admissions.php">BBA admission Dehradun</a></p>
                     
@@ -1107,7 +1107,7 @@
                     <img src="upload/infra/bba-3.webp" alt="Industry Oriented Curriculum" width="auto" height="auto">
                     <h4>Hands-on Industrial Visits Bridging Academic Knowledge with Practical Experience</h4>
                     
-                </div>
+                </div> 
                 <div class="glance-item">
                     <img src="upload/infra/seminar_bba_1.webp" alt="Choice Based Credit System" width="auto" height="auto">
                     <h4>Interactive Seminars and Workshops Led by Industry Experts and Professionals</h4>

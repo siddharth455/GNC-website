@@ -3,15 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Top BCA College in Dehradun – BCA Admission 2026 | GNC</title>
+    <title>Best BCA College in Dehradun — Admission 2026</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Study at the top BCA college in Dehradun. AI, Web Dev & Cybersecurity specializations. MNC campus placements. BCA Admission 2026 open at Guru Nanak.">
+    <meta name="description" content="Do BCA at Guru Nanak College Dehradun — industry-aligned curriculum, modern computer labs & strong placements. Admissions 2026 open. Apply online now.">
     <link rel="canonical" href="https://www.gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
-    <meta name="keywords" content="BCA college in Dehradun,Best BCA college in Dehradun,BCA admission Dehradun,BCA course Dehradun,BCA fees Dehradun,Top BCA college Uttarakhand,BCA after 12th Dehradun,Computer applications course Dehradun,Best IT college Dehradun" />
+    <meta name="keywords" content="bca college in dehradun 2026 · BCA Admission in Dehradun 2026 · BCA college Admission in Dehradun 2026 · top 5 bca colleges in dehradun" />
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Top BCA college in Dehradun – BCA Admission 2026 | Guru Nanak ." />
-    <meta property="og:description" content="Study at the top BCA college in Dehradun. Guru Nanak College offers industry-focused BCA program, advanced computer labs, affordable fees, scholarships, and strong placement training. Admissions open 2026." />
+    <meta property="og:description" content="Do BCA at Guru Nanak College Dehradun — industry-aligned curriculum, modern computer labs & strong placements. Admissions 2026 open. Apply online now." />
     <meta property="og:url" content="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -326,9 +326,8 @@
     <section class="about-sec pt-5 pb-115">
         <div class="container">
             <div class="row flex-cr align-items-end">
-                <div class="subHeading text-center">
-                    <h3 data-aos="fade-up" data-aos-duration="500" class="position-relative">Bachelor of Computer
-                        Applications<br>GURU NANAK COLLEGE, DEHRADUN</h3>
+                <div class="subHeading text-center">    
+                    <h3 data-aos="fade-up" data-aos-duration="500" class="position-relative">Best BCA College in Dehradun — Admission 2026</h3>
                 </div>
                 <div class="col-lg-6">
                     <div class="dept-cover position-relative">
@@ -1353,7 +1352,43 @@
         </div>
     </section>
 
-    <!-- testimonials -->
+    <section class="container">
+    <div class="subHeading" data-aos="fade-right" data-aos-duration="500">
+                            <h3 class="position-relative">FAQs</h3>
+                        </div>
+<div class="accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        Which is the best BCA college in Dehradun?
+      </button>
+    </h2>
+    <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Guru Nanak College is one of the top BCA colleges in Dehradun offering industry-focused IT education and placement support.</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        What is eligibility for BCA admission?
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Students must have passed 10+2 from a recognized board with minimum required marks.</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+        What is the duration of BCA?
+      </button>
+    </h2>
+    <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">The BCA program duration is three years.</div>
+    </div>
+  </div>
+</div>
+</section> 
 
 
 
@@ -1800,8 +1835,7 @@
         </div>
     </div>
 </section>
-
-
+ 
 <section class="admission-process-section">
     <div class="admission-container">
         <div class="dis-journey-intro" data-aos="fade-up">
