@@ -5,12 +5,12 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Best Master of Hospital Administration College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, Dehradun's leading institution for Master of Hospital Administration. With an innovative curriculum, esteemed faculty, and handson learning opportunities, Guru Nanak College prepares future leaders in hospital administration to excel in the healthcare industry.">
+    <meta name="description" content="Best Master of Public Health (MPH) college in Dehradun, Uttarakhand at Guru Nanak College. Expert faculty, research exposure and 100% placement assistance.">
     <link rel="canonical" href="https://www.gnc.edu.in/master-of-hospital-administration">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Master of Hospital Administration College in Dehradun | GNC" />
-    <meta property="og:description" content="Guru Nanak College, Dehradun's leading institution for Master of Hospital Administration. With an innovative curriculum, esteemed faculty, and handson learning opportunities, Guru Nanak College prepares future leaders in hospital administration to excel in the healthcare industry." />
+    <meta property="og:description" content="Best Master of Public Health (MPH) college in Dehradun, Uttarakhand at Guru Nanak College. Expert faculty, research exposure and 100% placement assistance." />
     <meta property="og:url" content="https://gnc.edu.in/master-of-hospital-administration" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -919,11 +919,11 @@
         </div>
     </section>
 
-    <!-- CAREER PROSPECTIVES SLIDER -->
+    <!-- CAREER PERSPECTIVES SLIDER -->
     <section class="career-section">
         <div class="container">
             <div class="text-center mb-5" data-aos="fade-up">
-                <h2 class="display-5 fw-bold">Career <span class="text-primary">Prospectives</span></h2>
+                <h2 class="display-5 fw-bold">Career <span class="text-primary">Perspectives</span></h2>
                 <p class="max-width-700 mx-auto text-muted">A Master of Public Health (MPH) degree opens up
                     a wide range of career opportunities in the healthcare industry. Potential roles include:</p>
             </div>

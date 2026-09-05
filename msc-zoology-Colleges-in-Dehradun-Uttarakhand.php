@@ -5,12 +5,12 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College | Best M.Sc Zoology College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, Dehradun's top institution for M.Sc. Zoology. Renowned for its comprehensive curriculum, exceptional faculty, and advanced research facilities, Guru Nanak College empowers students to excel in zoological sciences and become leaders in the field.">
+    <meta name="description" content="Best M.Sc Zoology college in Dehradun, Uttarakhand at Guru Nanak College. Advanced research labs, expert faculty and comprehensive zoological sciences.">
     <link rel="canonical" href="https://www.gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Zoology College in Dehradun, Uttarakhand - Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College, Dehradun's top institution for M.Sc. Zoology. Renowned for its comprehensive curriculum, exceptional faculty, and advanced research facilities, Guru Nanak College empowers students to excel in zoological sciences and become leaders in the field." />
+    <meta property="og:description" content="Best M.Sc Zoology college in Dehradun, Uttarakhand at Guru Nanak College. Advanced research labs, expert faculty and comprehensive zoological sciences." />
     <meta property="og:url" content="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />

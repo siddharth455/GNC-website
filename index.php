@@ -39,10 +39,7 @@ excellence in academics and holistic development." />
  "height": 80
  },
  "image": "https://www.gnc.edu.in/upload/about-us-head.webp",
- "description": "Guru Nanak College (GNC) is a premier educational institution in Dehradun,
-Uttarakhand, established in 2009. Specialising in Pharmacy, Paramedical, Nursing, Life Sciences,
-Agriculture, Computer Science, Business Administration, and Hotel Management programs. Approved by
-AICTE, UGC, PCI, INC, and affiliated with HNBGU, UTU, and SDSUU.",
+ "description": "Guru Nanak College (GNC) is a premier educational institution in Dehradun, Uttarakhand, established in 2009. Specialising in Pharmacy, Paramedical, Nursing, Life Sciences, Agriculture, Computer Science, Business Administration, and Hotel Management programs. Approved by AICTE, UGC, PCI, INC, and affiliated with HNBGU, UTU, and SDSUU.",
  "foundingDate": "2009",
  "telephone": "+917300900900",
  "email": "info@gnc.edu.in",
@@ -137,8 +134,7 @@ AICTE, UGC, PCI, INC, and affiliated with HNBGU, UTU, and SDSUU.",
  "@id": "https://gnc.edu.in/#website",
  "url": "https://gnc.edu.in/",
  "name": "Guru Nanak College – Best College in Dehradun, Uttarakhand",
- "description": "Official website of Guru Nanak College, Dehradun. Apply for Pharmacy, Nursing,
-Paramedical, BCA, BBA, Agriculture, and more programs.",
+ "description": "Official website of Guru Nanak College, Dehradun. Apply for Pharmacy, Nursing, Paramedical, BCA, BBA, Agriculture, and more programs.",
  "publisher": {
  "@id": "https://gnc.edu.in/#organization"
  },

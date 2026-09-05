@@ -35,9 +35,7 @@
       "name": "What health science programs does GNC offer?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College offers Master of Public Health (MPH) and Master of 
-Hospital Administration (MHA) under the School of Health Science, both 2-year postgraduate 
-programs." 
+        "text": "Guru Nanak College offers Master of Public Health (MPH) and Master of  Hospital Administration (MHA) under the School of Health Science, both 2-year postgraduate  programs." 
       } 
     }, 
                                       
@@ -46,9 +44,7 @@ programs."
       "name": "What career options are available after MHA from GNC?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Graduates of Master of Hospital Administration from Guru Nanak College can 
-work as hospital administrators, healthcare consultants, and operations managers in hospitals 
-and healthcare facilities." 
+        "text": "Graduates of Master of Hospital Administration from Guru Nanak College can  work as hospital administrators, healthcare consultants, and operations managers in hospitals  and healthcare facilities." 
       } 
     } 
   ] 
@@ -447,8 +443,6 @@ and healthcare facilities."
 </head>
 
 <body>
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Best Health Science College in Dehradun, Uttarakhand</h1>
-
     <?php
     require "common/header.php";
     ?>
@@ -460,7 +454,7 @@ and healthcare facilities."
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Health Science</span><br><big>Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Health Science</span><br><big>Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Health Sciences focuses on interdisciplinary learning, hands-on experience, and holistic development for future healthcare professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>

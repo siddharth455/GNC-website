@@ -1188,25 +1188,25 @@
             </div>
             <div class="collab-slider mt-5">
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (1).webp" alt="Cp (1)" width="auto" height="auto">
+                    <img src="upload/Corporate-Partners/cp (1).webp" alt="TCS Recruiter Partner Logo" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (2).webp" alt="Cp (2)" width="auto" height="auto">
+                    <img src="upload/Corporate-Partners/cp (2).webp" alt="Infosys Recruiter Partner Logo" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (3).webp" alt="Cp (3)" width="auto" height="auto">
+                    <img src="upload/Corporate-Partners/cp (3).webp" alt="Wipro Recruiter Partner Logo" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (4).webp" alt="Cp (4)" width="auto" height="auto">
+                    <img src="upload/Corporate-Partners/cp (4).webp" alt="HCL Tech Recruiter Partner Logo" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (5).webp" alt="Cp (5)" width="auto" height="auto">
+                    <img src="upload/Corporate-Partners/cp (5).webp" alt="Tech Mahindra Partner Logo" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (6).webp" alt="Cp (6)" width="auto" height="auto">
+                    <img src="upload/Corporate-Partners/cp (6).webp" alt="Accenture Recruiter Partner Logo" width="auto" height="auto">
                 </div>
                 <div class="ip-item">
-                    <img src="upload/Corporate-Partners/cp (7).webp" alt="Cp (7)" width="auto" height="auto">
+                    <img src="upload/Corporate-Partners/cp (7).webp" alt="Deloitte Recruiter Partner Logo" width="auto" height="auto">
                 </div>
             </div>
             <div class="btnsGroup text-center" data-aos="fade-left" data-aos-duration="500">
@@ -1232,7 +1232,7 @@
         <div class="ps-188 position-relative">
             <div class="researchLabs-slider mt-5">
                 <div class="researchLabs-item">
-                    <img data-src="upload/computer-lab.webp" alt="Zoology Lab" class="lazy-img w-100 h-100" width="auto" height="auto">
+                    <img data-src="upload/computer-lab.webp" alt="BCA students in the computer lab at Guru Nanak College, Dehradun" class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">World-class Computer Centre</h3>
                         <p>Guru Nanak College provides modern computer education with hands-on training and
@@ -1240,7 +1240,7 @@
                     </div>
                 </div>
                 <div class="researchLabs-item">
-                    <img data-src="upload/lib.webp" alt="Botany Lab" class="lazy-img w-100 h-100" width="auto" height="auto">
+                    <img data-src="upload/lib.webp" alt="Central Library and Learning Resource Center at Guru Nanak College Dehradun" class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Grand Libraries</h3>
                         <p>Guru Nanak College offers a well-equipped library with physical and digital resources
@@ -1248,7 +1248,7 @@
                     </div>
                 </div>
                 <div class="researchLabs-item">
-                    <img data-src="upload/infra/3l.webp" alt="Chemistry Lab" class="lazy-img w-100 h-100" width="auto" height="auto">
+                    <img data-src="upload/infra/3l.webp" alt="Healthcare and Medical Facilities at Guru Nanak College Dehradun" class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Medical Facilities</h3>
                         <p>Guru Nanak College provides prompt and reliable healthcare for students through partnerships
@@ -1264,7 +1264,7 @@
                     </div>
                 </div> -->
                 <div class="researchLabs-item">
-                    <img data-src="upload/infra/5l.webp" alt="Zoology Research Lab"
+                    <img data-src="upload/infra/5l.webp" alt="Student Hostel Facility at Guru Nanak College Dehradun"
                         class="lazy-img w-100 h-100" width="auto" height="auto">
                     <div class="box">
                         <h3 class="title">Home-like Hostels</h3>

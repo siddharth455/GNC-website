@@ -5,13 +5,13 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College (GNC) Dehradun, Uttarakhand | Campus Life</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Campus life at Guru Nanak College (GNC) in Dehradun is vibrant and enriching, offering students a well-rounded experience that goes beyond academics....'s truly a home away from home!">
+    <meta name="description" content="Vibrant campus life at Guru Nanak College (GNC) Dehradun. Student clubs, cultural events, sports, state-of-the-art infrastructure & hostel facilities.">
     <link rel="canonical" href="https://www.gnc.edu.in/campus-life">
     <!-- Open Graph Tags (Preserved) -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Campus Life at Guru Nanak College Dehradun, Uttarakhand" />
-    <meta property="og:description" content="Campus life at Guru Nanak College (GNC) in Dehradun is vibrant and enriching..." />
+    <meta property="og:description" content="Vibrant campus life at Guru Nanak College (GNC) Dehradun. Student clubs, cultural events, sports, state-of-the-art infrastructure & hostel facilities." />
     <meta property="og:url" content="https://gnc.edu.in/campus-life" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

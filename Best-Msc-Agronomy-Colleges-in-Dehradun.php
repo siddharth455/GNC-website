@@ -4,12 +4,12 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College | Best M.Sc Agronomy College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, Dehradun's best college for M.Sc. Agronomy. Known for its innovative curriculum, expert faculty, and advanced research facilities, Guru Nanak College empowers students to excel in agronomic sciences, shaping the agricultural leaders of tomorrow.">
+    <meta name="description" content="Best M.Sc Agronomy college in Dehradun, Uttarakhand at Guru Nanak College. Advanced research facilities, expert faculty and practical agricultural training.">
     <link rel="canonical" href="https://www.gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Agronomy College in Dehradun, Uttarakhand - Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College, Dehradun's best college for M.Sc. Agronomy. Known for its innovative curriculum, expert faculty, and advanced research facilities, Guru Nanak College empowers students to excel in agronomic sciences, shaping the agricultural leaders of tomorrow." />
+    <meta property="og:description" content="Best M.Sc Agronomy college in Dehradun, Uttarakhand at Guru Nanak College. Advanced research facilities, expert faculty and practical agricultural training." />
     <meta property="og:url" content="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>

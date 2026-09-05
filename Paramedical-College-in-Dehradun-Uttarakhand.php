@@ -38,9 +38,7 @@
       "name": "What paramedical courses are offered at Guru Nanak College?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College offers BMRIT, BMLT, BPT, B.Optometry, B.OTT, MMLT, and 
-MPT under the School of Paramedical Sciences, with strong placement support and clinical 
-training tie-ups." 
+        "text": "Guru Nanak College offers BMRIT, BMLT, BPT, B.Optometry, B.OTT, MMLT, and  MPT under the School of Paramedical Sciences, with strong placement support and clinical  training tie-ups." 
       } 
     }, 
     { 
@@ -49,9 +47,7 @@ training tie-ups."
       "acceptedAnswer": { 
         "@type": "Answer", 
                                       
-        "text": "The highest national package offered to Paramedical students at Guru Nanak 
-College is ₹54.75 LPA, with an average placement package of ₹12 LPA and over 900 placement 
-offers from 100+ companies." 
+        "text": "The highest national package offered to Paramedical students at Guru Nanak  College is ₹54.75 LPA, with an average placement package of ₹12 LPA and over 900 placement  offers from 100+ companies." 
       } 
     }, 
     { 
@@ -59,8 +55,7 @@ offers from 100+ companies."
       "name": "Is clinical training provided for paramedical students at GNC?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Yes. Guru Nanak College provides hands-on clinical training through hospital 
-tie-ups, lab sessions, and internships as part of the paramedical curriculum." 
+        "text": "Yes. Guru Nanak College provides hands-on clinical training through hospital  tie-ups, lab sessions, and internships as part of the paramedical curriculum." 
       } 
     } 
   ] 
@@ -901,8 +896,6 @@ tie-ups, lab sessions, and internships as part of the paramedical curriculum."
 </head>
 
 <body>
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College - Best Paramedical College in</h1>
-
     <?php require "common/header.php"; ?>
     <section class="pageBanner-inner">
         <div style="background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('upload/paramedical-head.webp'); background-repeat: no-repeat; background-size: cover;">
@@ -912,7 +905,7 @@ tie-ups, lab sessions, and internships as part of the paramedical curriculum."
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Paramedical</span><br><big>Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Paramedical</span><br><big>Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Paramedical Sciences focuses on skill-based training, clinical expertise, and holistic development for future healthcare support professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>

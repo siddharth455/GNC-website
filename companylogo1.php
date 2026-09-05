@@ -88,10 +88,45 @@
         
         <div class="placementLogos-section__slider">
             <?php
+            $recruiterNames = [
+                31 => 'KPMG',
+                32 => 'Apollo Hospitals',
+                33 => 'Fortis Healthcare',
+                34 => 'Max Healthcare',
+                35 => 'Cipla',
+                36 => 'Sun Pharma',
+                37 => 'Ranbaxy',
+                38 => 'Mankind Pharma',
+                39 => 'TCS',
+                40 => 'Infosys',
+                41 => 'Wipro',
+                42 => 'HCL Technologies',
+                43 => 'Tech Mahindra',
+                44 => 'Accenture',
+                45 => 'Deloitte',
+                46 => 'L&T',
+                47 => 'Taj Hotels',
+                48 => 'Oberoi Hotels',
+                49 => 'JW Marriott',
+                50 => 'Radisson',
+                51 => 'Hyatt',
+                52 => 'ITC Hotels',
+                54 => 'Biocon',
+                55 => 'Dr. Reddys',
+                56 => 'Lupin Pharmaceuticals',
+                57 => 'Cadila Healthcare',
+                58 => 'Torrent Pharma',
+                59 => 'Glenmark',
+                60 => 'AstraZeneca',
+                61 => 'GlaxoSmithKline',
+                62 => 'Pfizer',
+                63 => 'Novartis',
+            ];
             for ($i = 31; $i <= 63; $i++) {
                 $imgNum = ($i == 53) ? 32 : $i; 
+                $altText = isset($recruiterNames[$imgNum]) ? $recruiterNames[$imgNum] . ' Recruiter Logo' : 'Top Industry Recruiter Logo';
                 echo '<div class="pl-item">
-                        <img src="upload/' . $imgNum . '.webp" alt="Recruiters Logo">
+                        <img src="upload/' . $imgNum . '.webp" alt="' . htmlspecialchars($altText) . '">
                       </div>';
             }
             ?>

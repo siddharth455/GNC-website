@@ -5,12 +5,12 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College | Best M.Sc Microbiology College | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, Dehradun's leading M.Sc. Microbiology institution. With a cuttingedge curriculum, renowned faculty, and groundbreaking research opportunities, Guru Nanak College nurtures the innovators ready to make their mark in microbiology.">
+    <meta name="description" content="Best M.Sc Microbiology college in Dehradun, Uttarakhand at Guru Nanak College. Advanced labs, research focus and industry-aligned curriculum.">
     <link rel="canonical" href="https://www.gnc.edu.in/msc-microbiology-Colleges-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Microbiology College in Dehradun, Uttarakhand - Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College, Dehradun's leading M.Sc. Microbiology institution. With a cuttingedge curriculum, renowned faculty, and groundbreaking research opportunities, Guru Nanak College nurtures the innovators ready to make their mark in microbiology." />
+    <meta property="og:description" content="Best M.Sc Microbiology college in Dehradun, Uttarakhand at Guru Nanak College. Advanced labs, research focus and industry-aligned curriculum." />
     <meta property="og:url" content="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />

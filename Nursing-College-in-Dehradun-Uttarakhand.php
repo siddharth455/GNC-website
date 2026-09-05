@@ -39,8 +39,7 @@
       "name": "Is the Nursing program at GNC approved by Indian Nursing Council?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Yes. The B.Sc. Nursing and GNM programs at Guru Nanak College are approved 
-by the Indian Nursing Council (INC)." 
+        "text": "Yes. The B.Sc. Nursing and GNM programs at Guru Nanak College are approved  by the Indian Nursing Council (INC)." 
       } 
     }, 
     { 
@@ -48,8 +47,7 @@ by the Indian Nursing Council (INC)."
       "name": "What is the eligibility for B.Sc. Nursing at GNC?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Biology (PCB) 
-with minimum 45% marks for admission to B.Sc. Nursing at Guru Nanak College." 
+        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Biology (PCB)  with minimum 45% marks for admission to B.Sc. Nursing at Guru Nanak College." 
       } 
     }, 
     { 
@@ -57,8 +55,7 @@ with minimum 45% marks for admission to B.Sc. Nursing at Guru Nanak College."
       "name": "Does GNC offer Post Basic B.Sc. Nursing for GNM holders?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Yes. Guru Nanak College offers Post Basic B.Sc. Nursing, a bridge program 
-for GNM diploma holders to upgrade to a bachelor's degree in nursing." 
+        "text": "Yes. Guru Nanak College offers Post Basic B.Sc. Nursing, a bridge program  for GNM diploma holders to upgrade to a bachelor's degree in nursing." 
       } 
     } 
   ] 
@@ -619,8 +616,6 @@ for GNM diploma holders to upgrade to a bachelor's degree in nursing."
 </head>
 
 <body>
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College - Best Nursing College in</h1>
-
     <?php
     require "common/header.php";
     ?>
@@ -632,7 +627,7 @@ for GNM diploma holders to upgrade to a bachelor's degree in nursing."
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of <span>Nursing</span><br><big>Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">School of <span>Nursing</span><br><big>Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Nursing focuses on compassionate care, clinical expertise, and holistic development for future healthcare professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>

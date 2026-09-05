@@ -36,8 +36,7 @@
       "name": "What agriculture programs does GNC offer?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College offers B.Sc. Agriculture, B.Sc. Forestry at the 
-undergraduate level, and M.Sc. Agronomy and M.Sc. Horticulture at the postgraduate level." 
+        "text": "Guru Nanak College offers B.Sc. Agriculture, B.Sc. Forestry at the  undergraduate level, and M.Sc. Agronomy and M.Sc. Horticulture at the postgraduate level." 
       } 
     }, 
     { 
@@ -45,8 +44,7 @@ undergraduate level, and M.Sc. Agronomy and M.Sc. Horticulture at the postgradua
       "name": "Is the B.Sc. Agriculture program at GNC ICAR recognised?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College's agriculture programs follow ICAR-aligned curriculum 
-standards, providing students with practical farming exposure and research training." 
+        "text": "Guru Nanak College's agriculture programs follow ICAR-aligned curriculum  standards, providing students with practical farming exposure and research training." 
       } 
     } 
   ] 
@@ -485,8 +483,6 @@ standards, providing students with practical farming exposure and research train
 </head>
 
 <body>
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College - Best Agriculture College in</h1>
-
     <?php
     require "common/header.php";
     ?>
@@ -498,7 +494,7 @@ standards, providing students with practical farming exposure and research train
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Agriculture</span>Sciences<br><big>Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Agriculture</span> Sciences<br><big>Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Management emphasizes leadership skills, strategic thinking, and holistic development for future business professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>

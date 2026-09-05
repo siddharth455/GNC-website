@@ -4,12 +4,12 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College | Best M.Sc Horticulture College | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, Dehradun's top M.Sc. Horticulture institution. With a state-of the art curriculum, expert faculty, and innovative research opportunities, Guru Nanak College cultivates the future leaders of horticultural sciences.">
+    <meta name="description" content="Best M.Sc Horticulture college in Dehradun, Uttarakhand at Guru Nanak College. State-of-the-art labs, expert faculty and innovative research.">
     <link rel="canonical" href="https://www.gnc.edu.in/msc-horticulture">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Horticulture College in Dehradun, Uttarakhand - Guru Nanak College" />
-    <meta property="og:description" content="Guru Nanak College, Dehradun's top M.Sc. Horticulture institution. With a state-of the art curriculum, expert faculty, and innovative research opportunities, Guru Nanak College cultivates the future leaders of horticultural sciences." />
+    <meta property="og:description" content="Best M.Sc Horticulture college in Dehradun, Uttarakhand at Guru Nanak College. State-of-the-art labs, expert faculty and innovative research." />
     <meta property="og:url" content="https://gnc.edu.in/msc-horticulture" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>

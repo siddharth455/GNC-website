@@ -1067,14 +1067,14 @@ ul{list-style:none}
     <!-- clinical posting -->
      <div id="cy5" class="curr-pane curr-pane-gallery">
   <div class="curr-gallery">
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-2.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-11.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"> </div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-12.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-5.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-6.webp" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-13.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-9.jpg" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
-    <div class="curr-gallery-item"><img src="upload/infra/nursing-10.webp" alt="Nursing at GNC" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-2.jpg" alt="B.Sc Nursing students attending practical clinical session at Guru Nanak College Dehradun" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-11.jpg" alt="Nursing students performing patient care simulation at GNC Dehradun" width="auto" height="auto"><div class="curr-gallery-cap"> </div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-12.jpg" alt="B.Sc Nursing laboratory clinical posting practice at Guru Nanak College" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-5.jpg" alt="Nursing faculty instructing students during clinical training at GNC Dehradun" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-6.webp" alt="Advanced nursing simulation lab training at Guru Nanak College Dehradun" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-13.jpg" alt="Nursing students preparing medical equipment during practical class" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-9.jpg" alt="Student nurses interacting with patient during hospital posting at GNC Dehradun" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
+    <div class="curr-gallery-item"><img src="upload/infra/nursing-10.webp" alt="B.Sc Nursing students in professional uniform at Guru Nanak College Dehradun" width="auto" height="auto"><div class="curr-gallery-cap"></div></div>
   </div>
 </div>
   </div>
@@ -1270,9 +1270,9 @@ ul{list-style:none}
         <a href="https://application.gnc.edu.in/" target="_blank" class="g-btn g-btn-orange">Apply Now <i class="fas fa-arrow-right"></i></a>
       </div>
       <div class="why-imgs" data-ani="right">
-        <div><img src="upload/infra/nursing-8.webp" alt="GNC Campus Nursing" width="auto" height="auto"></div>
-        <div><img src="upload/infra/sports.webp" alt="GNC Students" width="auto" height="auto"></div>
-        <div><img src="upload/infra/convocation.webp" alt="GNC Labs" width="auto" height="auto"></div>
+        <div><img src="upload/infra/nursing-8.webp" alt="Nursing department academic block at Guru Nanak College Dehradun" width="auto" height="auto"></div>
+        <div><img src="upload/infra/sports.webp" alt="Sports ground and student activities at Guru Nanak College Dehradun" width="auto" height="auto"></div>
+        <div><img src="upload/infra/convocation.webp" alt="Annual convocation ceremony for nursing graduates at GNC Dehradun" width="auto" height="auto"></div>
       </div>
     </div>
   </div>

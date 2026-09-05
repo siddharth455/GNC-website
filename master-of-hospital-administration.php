@@ -5,12 +5,12 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Best MHA College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guru Nanak College, Dehradun's leading institution for Master of Hospital Administration. With an innovative curriculum, esteemed faculty, and handson learning opportunities, Guru Nanak College prepares future leaders in hospital administration to excel in the healthcare industry.">
+    <meta name="description" content="Master of Hospital Administration (MHA) at Guru Nanak College, Dehradun. Top MHA college in Uttarakhand offering expert faculty and hands-on clinical training.">
     <link rel="canonical" href="https://www.gnc.edu.in/master-of-hospital-administration">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Master of Hospital Administration College in Dehradun | GNC" />
-    <meta property="og:description" content="Guru Nanak College, Dehradun's leading institution for Master of Hospital Administration. With an innovative curriculum, esteemed faculty, and handson learning opportunities, Guru Nanak College prepares future leaders in hospital administration to excel in the healthcare industry." />
+    <meta property="og:description" content="Master of Hospital Administration (MHA) at Guru Nanak College, Dehradun. Top MHA college in Uttarakhand offering expert faculty and hands-on clinical training." />
     <meta property="og:url" content="https://gnc.edu.in/master-of-hospital-administration" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -779,6 +779,50 @@
             }
         }
     </style>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Course",
+          "name": "Master of Hospital Administration (MHA)",
+          "description": "A 2-year postgraduate program in hospital administration and healthcare management.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "Guru Nanak College",
+            "url": "https://gnc.edu.in/"
+          },
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "duration": "P2Y",
+            "courseMode": "Full-time",
+            "location": "Dehradun, Uttarakhand"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the duration of the Master of Hospital Administration (MHA) program at Guru Nanak College?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The MHA program at Guru Nanak College is a 2-year postgraduate degree program divided into 4 semesters."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the career opportunities after completing MHA at GNC Dehradun?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Graduates can work as Hospital Administrators, Healthcare Quality Managers, Clinical Operations Managers, and Healthcare Consultants in top private and government hospitals."
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -924,11 +968,11 @@
         </div>
     </section>
 
-    <!-- CAREER PROSPECTIVES SLIDER -->
+    <!-- CAREER PERSPECTIVES SLIDER -->
     <section class="career-section">
         <div class="container">
             <div class="text-center mb-5" data-aos="fade-up">
-                <h2 class="display-5 fw-bold">Career <span class="text-primary">Prospectives</span></h2>
+                <h2 class="display-5 fw-bold">Career <span class="text-primary">Perspectives</span></h2>
                 <p class="max-width-700 mx-auto text-muted">A Master of Hospital Administration (M.H.A) degree opens up
                     a wide range of career opportunities in the healthcare industry. Potential roles include:</p>
             </div>
@@ -939,7 +983,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/gnc-mha-4.webp"
-                                class="career-img" alt="Hospital Admin" width="auto" height="auto">
+                                class="career-img" alt="Master of Hospital Administration graduate leading hospital operations" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Leadership</div>
                                 <h4 class="fw-bold">Hospital Administrator</h4>
@@ -955,7 +999,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/gnc-mha-1.webp"
-                                class="career-img" alt="Consultant" width="auto" height="auto">
+                                class="career-img" alt="Healthcare consultant analyzing hospital management strategies" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Strategy</div>
                                 <h4 class="fw-bold">Healthcare Consultant</h4>
@@ -971,7 +1015,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/gnc-mha-3.webp"
-                                class="career-img" alt="Policy" width="auto" height="auto">
+                                class="career-img" alt="Healthcare policy analyst researching medical governance at GNC Dehradun" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Governance</div>
                                 <h4 class="fw-bold">Healthcare Policy Analyst</h4>
@@ -987,7 +1031,7 @@
                     <div class="swiper-slide">
                         <div class="career-card">
                             <img src="images/gnc-mha-2.webp"
-                                class="career-img" alt="Informatics" width="auto" height="auto">
+                                class="career-img" alt="Healthcare informatics manager managing clinical data systems" width="auto" height="auto">
                             <div class="career-body">
                                 <div class="career-label">Technology</div>
                                 <h4 class="fw-bold">Healthcare Informatics Manager</h4>
@@ -2032,8 +2076,8 @@ function showSem(semId, btn) {
             <div class="why-choose-us-layout">
                 <div class="why-choose-us-images">
                     <div class="image-stack">
-                        <img src="images/gnc-s-27.jpeg" alt="GNC Student 1" class="stack-img img-1" width="auto" height="auto">
-                        <img src="images/gnc-s-29.jpeg" alt="GNC Student 2" class="stack-img img-2" width="auto" height="auto">
+                        <img src="images/gnc-s-27.jpeg" alt="Master of Hospital Administration students during academic seminar at Guru Nanak College" class="stack-img img-1" width="auto" height="auto">
+                        <img src="images/gnc-s-29.jpeg" alt="MHA healthcare management students at Guru Nanak College Dehradun campus" class="stack-img img-2" width="auto" height="auto">
                     </div>
                 </div>
                 <div class="why-choose-us-content">

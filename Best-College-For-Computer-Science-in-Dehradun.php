@@ -38,8 +38,7 @@
       "name": "What computer science programs does GNC offer?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College offers B.Tech Computer Science Engineering (CSE) and 
-Bachelor of Computer Applications (BCA) under the School of Computer Sciences." 
+        "text": "Guru Nanak College offers B.Tech Computer Science Engineering (CSE) and  Bachelor of Computer Applications (BCA) under the School of Computer Sciences." 
       } 
     }, 
     { 
@@ -47,8 +46,7 @@ Bachelor of Computer Applications (BCA) under the School of Computer Sciences."
       "name": "What is the eligibility for B.Tech CSE at GNC?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Mathematics 
-(PCM) with minimum 45% aggregate marks for B.Tech CSE admission at Guru Nanak College." 
+        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Mathematics  (PCM) with minimum 45% aggregate marks for B.Tech CSE admission at Guru Nanak College." 
       } 
     } 
   ] 
@@ -858,8 +856,6 @@ Bachelor of Computer Applications (BCA) under the School of Computer Sciences."
 </head>
 
 <body>
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College - Best Computer Science College</h1>
-
     <?php require "common/header.php"; ?>
     <section class="pageBanner-inner">
         <div style="background-image: url('upload/hero/cs-1.webp'); background-repeat: no-repeat; background-size: cover;">
@@ -869,7 +865,7 @@ Bachelor of Computer Applications (BCA) under the School of Computer Sciences."
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Computer Science</span><br><big>Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Computer Science</span><br><big>Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Computer Science focuses on technological innovation, problem-solving skills, and holistic development for future IT professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>

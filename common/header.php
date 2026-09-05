@@ -1475,28 +1475,6 @@ document.addEventListener("DOMContentLoaded", function () {
   </script>
   <!-- ================= MOBILE HEADER START ================= -->
   <header class="mobile-header">
-  <!-- ================== TOP BAR ================== -->
-  <div class="top-bar">
-    <div class="marquee-container">
-      <marquee behavior="scroll" direction="left" scrollamount="5">
-        <i class="fa-solid fa-circle-arrow-right"></i>
-        Disclaimer: This is our official website. There is no other website for any admission to Guru Nanak College, Jhajra, Dehradun.
-        Please do not send any amount to any account other than the official one.
-        <a href="bank-details.php" class="btn btn-danger btn-sm ms-2"
-          style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE for account details</a>
-      </marquee>
-    </div>
-    <div class="social-icons">
-      <a href="https://wa.me/917300900900?text=Hi GNC" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
-      <a href="tel:+917300900900"><i class="fa fa-phone"></i></a>
-      <a href="https://maps.app.goo.gl/WWNhKqccPRahyEya9" target="_blank" rel="noopener noreferrer"><i class="fa fa-location-arrow"></i></a>
-      <a href="https://www.facebook.com/gncmh"><i class="fa-brands fa-facebook-f"></i></a>
-      <a href="https://www.instagram.com/gncdehradun/"><i class="fa-brands fa-instagram"></i></a>
-      <a href="https://www.linkedin.com/company/gncdehradun/"><i class="fa-brands fa-linkedin-in"></i></a>
-      <a href="https://www.youtube.com/@gncdehradun"><i class="fa-brands fa-youtube"></i></a>
-    </div>
-  </div>
-
   <!-- ================== MOBILE HEADER BAR ================== -->
   <div class="mobile-header-bar">
     <!-- Logo -->

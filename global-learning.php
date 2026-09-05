@@ -5,13 +5,13 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Global Learning Track | International Healthcare Exposure | Guru Nanak College Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Explore the Global Learning Track at Guru Nanak College Dehradun, in partnership with Career Buddy College — international hospital exposure across Dubai, China, Singapore, Japan & Germany for Nursing, GNM and Physiotherapy students.">
+    <meta name="description" content="Global Learning Track at Guru Nanak College Dehradun with Career Buddy College. International hospital exposure in Dubai, China, Singapore, Japan & Germany.">
     <link rel="canonical" href="https://www.gnc.edu.in/global-learning">
     <!-- Open Graph Tags -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Global Learning Track | Guru Nanak College Dehradun x Career Buddy College" />
-    <meta property="og:description" content="International hospital exposure across Dubai, China, Singapore, Japan & Germany for healthcare students at GNC Dehradun, in partnership with Career Buddy College." />
+    <meta property="og:description" content="Global Learning Track at Guru Nanak College Dehradun with Career Buddy College. International hospital exposure in Dubai, China, Singapore, Japan & Germany." />
     <meta property="og:url" content="https://gnc.edu.in/global-learning" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -1023,8 +1023,6 @@
 </head>
 
 <body class="gl-page">
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Global Learning Track at Guru Nanak College Dehradun</h1>
-
     <?php require "common/header.php" ?>
 
     <!-- ================= HERO ================= -->
@@ -1660,7 +1658,7 @@ Unlike a study tour, this is long-term career development pathway that prepares 
     <div class="admsn-container">
         <div class="admsn-section-header">
             <div class="admsn-section-label">Your Path to <span class="text-accent">Career Buddy College</span><sup class="logo-sup">+<sup></div>
-            <h1 class="admsn-section-title">Admission Process</h1>
+            <h2 class="admsn-section-title">Admission Process</h2>
             <p class="admsn-section-subtitle">A simple 4-step journey from application to enrollment.</p>
         </div>
 

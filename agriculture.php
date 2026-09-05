@@ -1097,12 +1097,12 @@ document.addEventListener("DOMContentLoaded", function(){
 
     <div class="gnc-campus-slider">
       <div class="gnc-campus-slides">
-        <img src="assets/image/computer-lab.webp" class="gnc-campus-slide" alt="Computer lab" width="auto" height="auto" />
-        <img src="assets/image/lib.webp" class="gnc-campus-slide" alt="Lib" width="auto" height="auto" />
-        <img src="assets/image/3l.webp" class="gnc-campus-slide" alt="3l" width="auto" height="auto" />
-        <img src="assets/image/4l.webp" class="gnc-campus-slide" alt="4l" width="auto" height="auto" />
-        <img src="assets/image/5l.webp" class="gnc-campus-slide" alt="5l" width="auto" height="auto" />
-        <img src="assets/image/6l.webp" class="gnc-campus-slide" alt="6l" width="auto" height="auto" />
+        <img src="assets/image/computer-lab.webp" class="gnc-campus-slide" alt="B.Sc Agriculture IT lab and computing center at Guru Nanak College Dehradun" width="auto" height="auto" />
+        <img src="assets/image/lib.webp" class="gnc-campus-slide" alt="Agricultural research library and study area at GNC Dehradun" width="auto" height="auto" />
+        <img src="assets/image/3l.webp" class="gnc-campus-slide" alt="Soil science and agricultural chemistry lab at Guru Nanak College" width="auto" height="auto" />
+        <img src="assets/image/4l.webp" class="gnc-campus-slide" alt="Agronomy research laboratory facility at Guru Nanak College Dehradun" width="auto" height="auto" />
+        <img src="assets/image/5l.webp" class="gnc-campus-slide" alt="Plant pathology and microbiology lab at GNC Dehradun" width="auto" height="auto" />
+        <img src="assets/image/6l.webp" class="gnc-campus-slide" alt="Horticulture and crop science experimental lab at Guru Nanak College" width="auto" height="auto" />
       </div>
 
       <!-- ✅ FIXED: Centered Overlay Content -->

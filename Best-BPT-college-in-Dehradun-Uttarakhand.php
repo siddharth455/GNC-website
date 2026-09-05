@@ -480,8 +480,7 @@
  "@context": "https://schema.org",
  "@type": "Course",
  "name": "Bachelor of Physiotherapy (BPT)",
- "description": "The Bachelor of Physiotherapy (BPT) program at Guru Nanak College, Dehradun, is a
-4-year degree with clinical training. Recognized as one of the best BPT colleges in Uttarakhand.",
+ "description": "The Bachelor of Physiotherapy (BPT) program at Guru Nanak College, Dehradun, is a 4-year degree with clinical training. Recognized as one of the best BPT colleges in Uttarakhand.",
  "provider": {
  "@type": "CollegeOrUniversity",
  "name": "Guru Nanak College, Dehradun",

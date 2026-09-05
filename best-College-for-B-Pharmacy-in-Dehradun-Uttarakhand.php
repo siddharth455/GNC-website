@@ -5,12 +5,12 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Best B Pharma College in Dehradun | B.Pharm | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty, scholarships,...">
+    <meta name="description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty and top placements.">
     <link rel="canonical" href="https://www.gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best B.Pharm College in Dehradun — Admission 2026"/>
-    <meta property="og:description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty, scholarships, and strong placement support." />
+    <meta property="og:description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty and top placements." />
     <meta property="og:url" content="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -1182,6 +1182,38 @@
             }
         }
     </style>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the duration of the B.Pharm course at Guru Nanak College Dehradun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Bachelor of Pharmacy (B.Pharm) is a 4-year undergraduate degree program spread across 8 semesters."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Guru Nanak College PCI approved for B.Pharmacy in Uttarakhand?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Guru Nanak College's School of Pharmacy is approved by the Pharmacy Council of India (PCI) and affiliated with Uttarakhand Technical University."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the career prospects after completing B.Pharm in Dehradun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates can work as Pharmacists, Quality Control Analysts, Regulatory Affairs Executives, Production Managers, and Clinical Research Associates in top pharma firms."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 <body>
     <?php require("common/header.php"); ?>
@@ -1707,10 +1739,10 @@
         </div>
 
         <div class="grid-left">
-            <div class="img-box"><img src="images/b.pharma-1.webp" alt="Pharmacy Lab" width="auto" height="auto"></div>
-            <div class="img-box"><img src="upload/programs/b-pharma-3.jpg" alt="Medicine Quality" width="auto" height="auto"></div>
-            <div class="img-box"><img src="upload/programs/b-pharma-4.webp" alt="Research" width="auto" height="auto"></div>
-            <div class="img-box"><img src="images/bp-4.jpg" alt="Pharmacy Lab" width="auto" height="auto"></div>
+            <div class="img-box"><img src="images/b.pharma-1.webp" alt="Pharmacy students performing drug synthesis in GNC Dehradun chemistry lab" width="auto" height="auto"></div>
+            <div class="img-box"><img src="upload/programs/b-pharma-3.jpg" alt="Pharmaceutical quality control and medicine testing laboratory at Guru Nanak College" width="auto" height="auto"></div>
+            <div class="img-box"><img src="upload/programs/b-pharma-4.webp" alt="Pharmacology research and formulation development at GNC Dehradun" width="auto" height="auto"></div>
+            <div class="img-box"><img src="images/bp-4.jpg" alt="B.Pharm students working with advanced analytical instruments in pharmacy lab" width="auto" height="auto"></div>
         </div>
     </section>
 
@@ -1723,8 +1755,8 @@
             <div class="why-choose-us-layout">
                 <div class="why-choose-us-images">
                     <div class="image-stack">
-                        <img src="images/bp-8.jpg" alt="GNC Student 1" class="stack-img img-1" width="auto" height="auto">
-                        <img src="images/bp-9.jpg" alt="GNC Student 2" class="stack-img img-2" width="auto" height="auto">
+                        <img src="images/bp-8.jpg" alt="B.Pharm students in pharmacy lab practical at Guru Nanak College Dehradun" class="stack-img img-1" width="auto" height="auto">
+                        <img src="images/bp-9.jpg" alt="Pharmacy students conducting experiment at Guru Nanak College campus" class="stack-img img-2" width="auto" height="auto">
                     </div>
                 </div>
                 <div class="why-choose-us-content">
@@ -1927,6 +1959,27 @@
 
     <!-- Need Help FAQ Section -->
 
+    
+    <!-- UTTARAKHAND FOCUSED B.PHARM CONTENT BLOCK -->
+    <section class="py-5 bg-white" id="gnc-bpharm-uttarakhand-sec">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <span class="text-primary fw-bold text-uppercase">Top Pharmacy Colleges in Uttarakhand</span>
+                    <h2 class="display-6 fw-bold mt-2">Why Pursue B.Pharmacy in Uttarakhand at Guru Nanak College?</h2>
+                    <p class="lead text-secondary">Uttarakhand, particularly Dehradun, has emerged as a premier pharmaceutical and educational hub in Northern India. Choosing Guru Nanak College for your Bachelor of Pharmacy (B.Pharm) gives you a competitive edge with direct access to industrial exposure, PCI-approved labs, and leading pharma companies across the state.</p>
+                    <ul class="list-unstyled mt-3">
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i> <strong>PCI Approved Curriculum:</strong> Rigorous academic framework aligned with Pharmacy Council of India guidelines.</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i> <strong>Proximity to Pharma Hubs:</strong> Close proximity to SIDCUL Haridwar and Pantnagar industrial corridors for internship and training.</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-primary me-2"></i> <strong>100% Placement Support:</strong> Top recruiters from pharmaceutical manufacturing, R&amp;D, quality control, and clinical research.</li>
+                    </ul>
+                </div>
+                <div class="col-lg-5 text-center">
+                    <img src="upload/pharmacy.webp" alt="Top Pharmacy Colleges in Uttarakhand - Guru Nanak College" class="img-fluid rounded shadow-lg" loading="lazy">
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="gnc-faq-wrapper">
     <style>
         #gnc-faq-wrapper {

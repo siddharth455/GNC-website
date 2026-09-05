@@ -5,8 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Top Paramedical Courses After 12th 2026 | GNC</title>
-  <meta name="description"
-    content="Looking for the best paramedical college in Dehradun? Explore GNC's 2026 admissions for BPT, BMLT, Radiology & more. High salary, 100% placement support, and modern labs." />
+  <meta name="description" content="Best Paramedical courses after 12th in Dehradun at GNC. Explore BPT, BMLT, Radiology admissions 2026 with high salary scope & 100% placement support.">
   <meta name="keywords"
     content="Paramedical Courses After 12th in Dehradun 2026" />
   <link rel="icon" type="image/webp" href="images/logog.webp">

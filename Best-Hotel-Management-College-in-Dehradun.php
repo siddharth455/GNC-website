@@ -35,8 +35,7 @@ College in Uttarakhand" />
       "name": "What hotel management course does GNC offer?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College offers a Diploma in Hotel Management (DHM), a focused 
-program covering front office, food production, housekeeping, and hospitality operations." 
+        "text": "Guru Nanak College offers a Diploma in Hotel Management (DHM), a focused  program covering front office, food production, housekeeping, and hospitality operations." 
       } 
     }, 
     { 
@@ -44,8 +43,7 @@ program covering front office, food production, housekeeping, and hospitality op
       "name": "Does GNC provide hotel placement support?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Yes. Guru Nanak College's placement cell has industry tie-ups to support 
-hotel management students with internships and job placements in hospitality brands." 
+        "text": "Yes. Guru Nanak College's placement cell has industry tie-ups to support  hotel management students with internships and job placements in hospitality brands." 
       } 
     } 
   ] 
@@ -396,8 +394,6 @@ hotel management students with internships and job placements in hospitality bra
 </head>
 
 <body>
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College | Best Hotel Management College</h1>
-
     <?php
     require "common/header.php";
     ?>
@@ -409,7 +405,7 @@ hotel management students with internships and job placements in hospitality bra
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Hotel Management</span><br><big>Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Hotel Management</span><br><big>Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Hotel Management emphasizes hospitality excellence, industry-focused training, and holistic development for future hospitality professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>

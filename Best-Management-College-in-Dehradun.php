@@ -4,19 +4,14 @@
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College - Best BBA College in Dehradun, Uttarakhand</title>
-    <meta name="description" content="Guru Nanak College is the best BBA college in 
-Dehradun, Uttarakhand, offers Bachelor of Business Administration with 100% 
-placement support, industry exposure and affiliation with Uttarakhand 
-Technical University (UTU)." />
+    <meta name="description" content="Best BBA college in Dehradun, Uttarakhand at Guru Nanak College. UTU affiliated BBA program with 100% placement support and top industry exposure.">
     <meta name="keywords" content="Best BBA College in Dehradun, BBA College in 
 Uttarakhand" />
     <link rel="canonical" href="https://www.gnc.edu.in/Best-Management-College-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Management College in Dehradun" />
-    <meta property="og:description" content="GNC, best management college, we nurture business minds, entrepreneurs, and
-change-makers. Our comprehensive business management program equips students with foundational
-knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.com, MBA, PGDM" />
+    <meta property="og:description" content="Best BBA college in Dehradun, Uttarakhand at Guru Nanak College. UTU affiliated BBA program with 100% placement support and top industry exposure." />
     <meta property="og:url" content="https://gnc.edu.in/Best-Management-College-in-Dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -39,8 +34,7 @@ knowledge in management, finance, marketing, and more. Courses Offered: BBA, B.c
       "name": "What management program does GNC offer?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College offers BBA (Bachelor of Business Administration) under 
-the Business School, a 3-year undergraduate program focused on management fundamentals." 
+        "text": "Guru Nanak College offers BBA (Bachelor of Business Administration) under  the Business School, a 3-year undergraduate program focused on management fundamentals." 
       } 
     }, 
     { 
@@ -48,9 +42,7 @@ the Business School, a 3-year undergraduate program focused on management fundam
       "name": "What placement support is available for BBA students at GNC?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College's placement cell provides BBA students with internship 
-opportunities, campus recruitment drives, and pre-placement training sessions with industry 
-partners." 
+        "text": "Guru Nanak College's placement cell provides BBA students with internship  opportunities, campus recruitment drives, and pre-placement training sessions with industry  partners." 
       } 
     } 
   ] 
@@ -403,8 +395,6 @@ partners."
 </head>
 
 <body>
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College | Best Management College in Dehradun</h1>
-
     <?php
     require "common/header.php";
     ?>
@@ -416,7 +406,7 @@ partners."
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Management</span><br><big>Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Management</span><br><big>Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Management emphasizes leadership skills, strategic thinking, and holistic development for future business professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>

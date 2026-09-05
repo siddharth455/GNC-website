@@ -5,16 +5,14 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College - Best Life Sciences College in Dehradun,
         Uttarakhand</title>
-    <meta name="description" content="Guru Nanak College is the best life sciences 
-college in Dehradun, Uttarakhand, offers B.Sc & M.Sc programs in Microbiology, 
-Biotechnology, Food Technology, Chemistry, Physics, Botany, Zoology, Geology, PCM & CBZ." />
+    <meta name="description" content="Best Life Sciences college in Dehradun, Uttarakhand. Guru Nanak College offers B.Sc & M.Sc in Microbiology, Biotech, Food Tech, Physics & Chemistry.">
     <meta name="keywords" content="Best Life Sciences College in Dehradun, 
 Microbiology College Uttarakhand" />
     <link rel="canonical" href="https://www.gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best College for Life and Allied Sciences in Dehradun, Uttarakhand" />
-    <meta property="og:description" content=" Guru Nanak College of Life and Allied Sciences—the premier institution for life sciences education in Dehradun. Our programs blend theoretical knowledge with practical skills, preparing students for impactful careers in fields such as biotechnology, microbiology, and environmental science." />
+    <meta property="og:description" content="Best Life Sciences college in Dehradun, Uttarakhand. Guru Nanak College offers B.Sc & M.Sc in Microbiology, Biotech, Food Tech, Physics & Chemistry." />
     <meta property="og:url" content="https://gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
@@ -37,9 +35,7 @@ Microbiology College Uttarakhand" />
       "name": "What B.Sc. programs are offered under Life & Allied Sciences at GNC?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Guru Nanak College offers B.Sc. Microbiology, B.Sc. Biotechnology, B.Sc. 
-Food Technology, B.Sc. PCM, B.Sc. CBZ, and B.Sc. Geology under the School of Life & Allied 
-Sciences." 
+        "text": "Guru Nanak College offers B.Sc. Microbiology, B.Sc. Biotechnology, B.Sc.  Food Technology, B.Sc. PCM, B.Sc. CBZ, and B.Sc. Geology under the School of Life & Allied  Sciences." 
       } 
     }, 
     { 
@@ -47,8 +43,7 @@ Sciences."
       "name": "Does GNC offer M.Sc. programs in science subjects?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Yes. Guru Nanak College offers M.Sc. in Microbiology, Food Technology, 
-Chemistry, Physics, Botany, and Zoology at the postgraduate level." 
+        "text": "Yes. Guru Nanak College offers M.Sc. in Microbiology, Food Technology,  Chemistry, Physics, Botany, and Zoology at the postgraduate level." 
       } 
     } 
   ] 
@@ -755,8 +750,6 @@ Chemistry, Physics, Botany, and Zoology at the postgraduate level."
 </head>
 
 <body>
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Best College for Life and Allied Sciences in</h1>
-
     <?php
     require "common/header.php";
     ?>
@@ -768,7 +761,7 @@ Chemistry, Physics, Botany, and Zoology at the postgraduate level."
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Life &amp; Allied Sciences</span><br><big>Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">School of<br><span>Life &amp; Allied Sciences</span><br><big>Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College promotes an inclusive environment, combining academic excellence, research opportunities, and extra-curricular activities. The School of Life & Allied Sciences offers a holistic approach to education and personal growth.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>

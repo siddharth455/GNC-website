@@ -37,8 +37,7 @@
       "name": "Is the Pharmacy program at GNC approved by PCI?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Yes. Guru Nanak College's B.Pharma and D.Pharma programs are approved by the 
-Pharmacy Council of India (PCI)." 
+        "text": "Yes. Guru Nanak College's B.Pharma and D.Pharma programs are approved by the  Pharmacy Council of India (PCI)." 
       } 
     }, 
     { 
@@ -46,8 +45,7 @@ Pharmacy Council of India (PCI)."
       "name": "Does GNC offer lateral entry for B.Pharma?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "Yes. Guru Nanak College offers lateral entry admission into B.Pharma for 
-D.Pharma diploma holders, allowing direct entry into the second year." 
+        "text": "Yes. Guru Nanak College offers lateral entry admission into B.Pharma for  D.Pharma diploma holders, allowing direct entry into the second year." 
       } 
     }, 
     { 
@@ -55,8 +53,7 @@ D.Pharma diploma holders, allowing direct entry into the second year."
       "name": "What is the duration of B.Pharma at GNC?", 
       "acceptedAnswer": { 
         "@type": "Answer", 
-        "text": "B.Pharma at Guru Nanak College is a 4-year full-time program. D.Pharma is a 
-2-year diploma program." 
+        "text": "B.Pharma at Guru Nanak College is a 4-year full-time program. D.Pharma is a  2-year diploma program." 
       } 
     } 
   ] 
@@ -495,7 +492,7 @@ D.Pharma diploma holders, allowing direct entry into the second year."
                         <div class="col-lg-6 col-xl-7">
                             <div class="pageBanner-inner__content inner-content banner-section">
                                 <div class="upper-content animate__animated animate__fadeInDown text-left">
-                                    <h2 class="animate__animated animate__fadeInUp animate__delay-1s">Best Pharmacy Colleges in Dehradun & Uttarakhand 2026</span><br><big> - Guru Nanak College</big></h2>
+                                    <h1 class="animate__animated animate__fadeInUp animate__delay-1s">Best Pharmacy Colleges in Dehradun & Uttarakhand 2026</span><br><big> - Guru Nanak College</big></h1>
                                     <p class="animate__animated animate__fadeInDown animate__delay-2s text-dark">Guru Nanak College fosters an inclusive learning environment, integrating academic excellence, research initiatives, and extracurricular engagement. The School of Pharmaceutical Sciences emphasizes innovation, practical training, and holistic development for aspiring pharmacy professionals.</p>
                                     <div class="mt-2 animate__animated animate__fadeInDown animate__delay-2s">
                                         <a href="https://application.gnc.edu.in/" class="btn btn-md btn-primary">Apply Today</a>
