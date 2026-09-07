@@ -19,7 +19,7 @@ foreach ($events as $event) {
 }
 
 if (!$current_event || strpos($current_event['image'], 'upload/gnc-events/') !== 0) {
-    header("Location: " . $base_url . "events.php");
+    header("Location: " . $base_url . "events");
     exit();
 }
 
@@ -30,9 +30,7 @@ $header_html = ob_get_clean();
 
 // Inject dynamic title
 $page_title = $current_event['title'] . " - Guru Nanak College Dehradun";
-$header_html = preg_replace('/<title>.*?<\/title>/i', "<title>$page_title</title>
-  <meta name="description" content="View details of upcoming and past campus events at Guru Nanak College Dehradun. Stay updated with cultural, academic and sports activities.">
-", $header_html);
+$header_html = preg_replace('/<title>.*?<\/title>/i', "<title>$page_title</title>\n  <meta name=\"description\" content=\"View details of upcoming and past campus events at Guru Nanak College Dehradun. Stay updated with cultural, academic and sports activities.\">\n", $header_html);
 
 // Resolve asset paths (handles css/, js/, images/, assets/)
 $header_html = str_replace(
@@ -283,7 +281,7 @@ $extra_styles = '
     }
 </style>
 ';
-$header_html = str_replace('  <link rel="canonical" href="https://www.gnc.edu.in/event-details">
+$header_html = str_replace('  <link rel="canonical" href="https://gnc.edu.in/event-details">
 </head>', $extra_styles . '</head>', $header_html);
 
 echo $header_html;
@@ -315,7 +313,7 @@ if (!filter_var($banner_img, FILTER_VALIDATE_URL) && strpos($banner_img, '/') !=
 <div class="site-wrap">
     <div class="article-layout">
         <main class="main-content">
-            <a href="<?php echo $base_url; ?>events.php" class="back-btn">
+            <a href="<?php echo $base_url; ?>events" class="back-btn">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                     stroke-linecap="round" stroke-linejoin="round">
                     <line x1="19" y1="12" x2="5" y2="12"></line>
@@ -356,7 +354,7 @@ if (isset($current_event['gallery']) && !empty($current_event['gallery'])) {
         if (!filter_var($g_img, FILTER_VALIDATE_URL) && strpos($g_img, '/') !== 0) {
             $g_img = $base_url . $g_img;
         }
-        echo "<div class='gallery-img'><img src='{$g_img}' alt='Gallery Image' loading='lazy' width="auto" height="auto"></div>";
+        echo "<div class='gallery-img'><img src='{$g_img}' alt='Gallery Image' loading='lazy' width='auto' height='auto'></div>";
     }
 }
 else {
@@ -375,7 +373,7 @@ $count = 0;
 foreach ($events as $e) {
     $has_local_image = strpos($e['image'], 'upload/gnc-events/') === 0;
     if ($e['slug'] != $slug && $has_local_image && $count < 4) {
-        echo "<a href='{$base_url}event-details.php?slug={$e['slug']}' class='recent-event-link'>{$e['title']}</a>";
+        echo "<a href='{$base_url}event/{$e['slug']}' class='recent-event-link'>{$e['title']}</a>";
         $count++;
     }
 }
@@ -399,7 +397,7 @@ $footer_html = ob_get_clean();
 
 // Resolve paths in footer (specifically logo and scripts)
 $footer_html = str_replace(
-['src="./images/', 'src="images/', 'src="js/', 'href="contact.php"'],
+['src="./images/', 'src="images/', 'src="js/', 'href="contact"'],
 [
     'src="' . $base_url . 'images/',
     'src="' . $base_url . 'images/',

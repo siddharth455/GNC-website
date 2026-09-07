@@ -5,7 +5,7 @@
     <title>B.Sc. Agriculture at Guru Nanak College Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Cultivate a deep understanding of agriculture with the B.Sc. Agriculture program at Guru Nanak College, Dehradun, for a thriving career in agronomy.">
-    <link rel="canonical" href="https://www.gnc.edu.in/agriculture-science">
+    <link rel="canonical" href="https://gnc.edu.in/agriculture-science">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="B.Sc. Agriculture at Guru Nanak College Dehradun - Best Agriculture College in Uttarakhand"/>
@@ -336,6 +336,55 @@
 
 
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an Agriculture course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is a program that teaches farming techniques, crop production, soil management, and modern agricultural practices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is eligible for this course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students who have completed 10th or 12th, preferably with a science background, can apply depending on the course level."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What career options are available after completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can work in government jobs, agribusiness, research, farm management, or start their own ventures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is agriculture a good career option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it offers growing opportunities in sustainable farming, agri-tech, and business sectors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the average salary after this course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Entry-level salaries start around ₹2–5 LPA and increase with experience and specialization."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
 <?php require("common/header.php"); ?>
@@ -1124,9 +1173,6 @@
                         APPLY NOW
                         <img src="images/long-arrow-right.png" alt="arrow" width="auto" height="auto">
                     </a>
-                    <a href="upload/pdf/BBA.pdf" class="btn-kc-outline">
-                        DOWNLOAD BROCHURE <span class="arrow">→</span>
-                    </a>
                 </div>
             </div>
         </div>
@@ -1523,7 +1569,7 @@
         
         if (count($bba_blogs) == 1):
             $post = reset($bba_blogs);
-            $link = $post['url'] . ".php";
+            $link = $post['url'];
         ?>
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
@@ -1548,7 +1594,7 @@
                 <div class="text-center text-lg-start">
                     <h2 class="section-title">Our latest <span>blogs</span></h2>
                     <p class="section-desc">Welcome to our blog section, where knowledge meets inspiration. Explore insightful articles, expert tips, and the latest trends in our field.</p>
-                    <a href="blog.php" class="view-all-btn">View All</a>
+                    <a href="blog" class="view-all-btn">View All</a>
                 </div>
                 <div class="slider-controls justify-content-center justify-content-lg-start">
                     <div class="bba-blog-prev">
@@ -1568,7 +1614,7 @@
                     <div class="swiper-wrapper">
                         <?php
                         foreach ($bba_blogs as $post):
-                            $link = $post['url'] . ".php";
+                            $link = $post['url'];
                         ?>
                         <div class="swiper-slide">
                             <div class="blog-card">

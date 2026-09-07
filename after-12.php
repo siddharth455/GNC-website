@@ -307,7 +307,7 @@
             .standout-title { font-size: 28px; }
         }
     </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/after-12">
+  <link rel="canonical" href="https://gnc.edu.in/after-12">
 </head>
 
 <body>
@@ -347,19 +347,19 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-laptop-code"></i> Computer Sciences</h4>
                         <ul>
-                            <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
+                            <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand">Bachelor of Computer Applications</a></li>
                         </ul>
                     </div>
 
                     <div class="program-card">
                         <h4><i class="fa-solid fa-microscope"></i> Life & Allied Science</h4>
                         <ul>
-                            <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. Microbiology</a></li>
-                            <li><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></li>
-                            <li><a href="bsc-food-technology.php">B.Sc. Food Technology</a></li>
-                            <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. PCM</a></li>
-                            <li><a href="bsc-cbz.php">B.Sc. CBZ</a></li>
-                            <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand.php">B.Sc. Geology</a></li>
+                            <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand">B.Sc. Microbiology</a></li>
+                            <li><a href="bsc-biotechnology">B.Sc. Biotechnology</a></li>
+                            <li><a href="bsc-food-technology">B.Sc. Food Technology</a></li>
+                            <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand">B.Sc. PCM</a></li>
+                            <li><a href="bsc-cbz">B.Sc. CBZ</a></li>
+                            <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand">B.Sc. Geology</a></li>
                         </ul>
                     </div>
 
@@ -373,25 +373,25 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-kit-medical"></i> Paramedical Programs</h4>
                         <ul>
-                             <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
-                            <li><a href="Best-bmlt-college-in-dehradun.php">Bachelor of Medical Laboratory Technology</a></li>
-                            <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand.php">Bachelor of Physiotherapy</a></li>
-                            <li><a href="Best-bsc-optometry-College-in-dehradun.php">Bachelor of Optometry</a></li>
-                             <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor of Operation Theatre Technology</a></li>
+                             <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
+                            <li><a href="Best-bmlt-college-in-dehradun">Bachelor of Medical Laboratory Technology</a></li>
+                            <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand">Bachelor of Physiotherapy</a></li>
+                            <li><a href="Best-bsc-optometry-College-in-dehradun">Bachelor of Optometry</a></li>
+                             <li><a href="Best-operation-theatre-technology-colleges-in-dehradun">Bachelor of Operation Theatre Technology</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-pills"></i> Pharmacy Programs</h4>
                         <ul>
-                           <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php">Bachelor of Pharmacy</a></li>
-                           <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php">Lateral Entry in B. Pharma</a></li>
-                           <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php">Diploma in Pharmacy</a></li>
+                           <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">Bachelor of Pharmacy</a></li>
+                           <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">Lateral Entry in B. Pharma</a></li>
+                           <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand">Diploma in Pharmacy</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-briefcase"></i> Business School</h4>
                         <ul>
-                            <li><a href="best-bba-college-in-dehradun.php">Bachelor of Business Administration</a></li>
+                            <li><a href="best-bba-college-in-dehradun">Bachelor of Business Administration</a></li>
                         </ul>
                     </div>
                 </div>
@@ -405,9 +405,9 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-user-nurse"></i> Nursing Program</h4>
                         <ul>
-                            <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun.php">B.Sc. Nursing</a></li>
-                            <li><a href="best-gnm-college-in-dehradun.php">General Nursing and Midwifery</a></li>
-                            <li><a href="post-basic-nursing.php">Post Basic B.Sc. Nursing</a></li>
+                            <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun">B.Sc. Nursing</a></li>
+                            <li><a href="best-gnm-college-in-dehradun">General Nursing and Midwifery</a></li>
+                            <li><a href="post-basic-nursing">Post Basic B.Sc. Nursing</a></li>
                         </ul>
                     </div>
                 </div>
@@ -416,25 +416,25 @@
                     <div class="program-card related-links">
                         <h4>Related Links</h4>
                         <ul>
-                            <li><a href="about-us.php">Why Join GNC?</a></li>
-                            <li><a href="admissions.php">Admissions 2026</a></li>
-                            <li><a href="cultural.php">Cultural Activities</a></li>
-                            <li><a href="placement-overview.php">Placements</a></li>
-                            <li><a href="sport.php">Sports & Adventure</a></li>
-                            <li><a href="campus-life.php">Campus Life</a></li>
+                            <li><a href="about-us">Why Join GNC?</a></li>
+                            <li><a href="admissions">Admissions 2026</a></li>
+                            <li><a href="cultural">Cultural Activities</a></li>
+                            <li><a href="placement-overview">Placements</a></li>
+                            <li><a href="sport">Sports & Adventure</a></li>
+                            <li><a href="campus-life">Campus Life</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-wheat-awn"></i> Agriculture Science</h4>
                         <ul>
-                           <li><a href="agriculture-science.php">B.Sc. Agriculture</a></li>
-                           <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun.php">B.Sc. Forestry</a></li>
+                           <li><a href="agriculture-science">B.Sc. Agriculture</a></li>
+                           <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun">B.Sc. Forestry</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-hotel"></i> Hotel Management</h4>
                         <ul>
-                            <li><a href="Best-DHM-Colleges-in-Dehradun.php">Diploma in Hotel Management</a></li>
+                            <li><a href="Best-DHM-Colleges-in-Dehradun">Diploma in Hotel Management</a></li>
                         </ul>
                     </div>
                 </div>

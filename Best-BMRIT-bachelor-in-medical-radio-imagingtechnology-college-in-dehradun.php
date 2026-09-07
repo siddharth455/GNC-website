@@ -6,7 +6,7 @@
     <title>Best BMRIT College in Dehradun | Medical Radiology at GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced...">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best BMRIT College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -403,7 +403,7 @@
                             <div class="list-item"><i class="fa-solid fa-circle"></i> Industry-focused programs</div>
                             <div class="list-item"><i class="fa-solid fa-circle"></i> Modern labs and infrastructure.</div>
                             <div class="list-item" style="border:none"><i class="fa-solid fa-circle"></i> Practical and skill-based learning</div>
-                            <button class="action-btn" onclick="window.location.href='academic-overview.php'">
+                            <button class="action-btn" onclick="window.location.href='academic-overview'">
                                 Explore More <i class="fa-solid fa-arrow-right ms-2"></i>
                             </button>
                         </div>
@@ -416,7 +416,7 @@
                             <div class="list-item"><i class="fa-solid fa-check-double"></i> Uttarakhand Domicile</div>
                             <div class="list-item"><i class="fa-solid fa-check-double"></i> Sports Category</div>
                             <div class="list-item" style="border:none"><i class="fa-solid fa-check-double"></i> Social Service (NCC/NSS)</div>
-                            <button class="action-btn" onclick="window.location.href='scholarships.php'">
+                            <button class="action-btn" onclick="window.location.href='scholarships'">
                                 View Schemes <i class="fa-solid fa-arrow-right ms-2"></i>
                             </button>
                         </div>

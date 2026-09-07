@@ -13,7 +13,7 @@ content="Discover why Dehradun is emerging as India's leading hub for nursing, p
 <meta name="keywords"
 content="healthcare education Dehradun, best healthcare colleges Uttarakhand, nursing college Dehradun, paramedical college Dehradun, pharmacy college Dehradun"/>
 
-<link rel="canonical" href="https://www.gnc.edu.in/why-dehradun-top-destination-healthcare-education/" />
+<link rel="canonical" href="https://gnc.edu.in/why-dehradun-top-destination-healthcare-education/" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="Why Dehradun is Becoming India's Top Destination for Healthcare Education" />

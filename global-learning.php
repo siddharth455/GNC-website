@@ -6,7 +6,7 @@
     <title>Global Learning Track | International Healthcare Exposure | Guru Nanak College Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Global Learning Track at Guru Nanak College Dehradun with Career Buddy College. International hospital exposure in Dubai, China, Singapore, Japan & Germany.">
-    <link rel="canonical" href="https://www.gnc.edu.in/global-learning">
+    <link rel="canonical" href="https://gnc.edu.in/global-learning">
     <!-- Open Graph Tags -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -1020,6 +1020,55 @@
         }
 
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the Global Learning Track actually include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is a structured, year-wise international exposure pathway built into your regular GNC degree — covering hospital visits and clinical exposure in Dubai, China and Singapore, plus a dedicated language and placement-focused career track for Japan/Germany in the final year."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which programs offer the Global Track?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "B.Sc Nursing, GNM (General Nursing & Midwifery) and Bachelor of Physiotherapy at GNC currently offer the Global Learning Track as an add-on to the regular curriculum."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the degree still recognised in India?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Your core degree continues to be awarded and recognised as per the applicable regulatory body (such as the Indian Nursing Council), with the Global Track running as an additional international-exposure layer alongside it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get more details or apply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the \"Apply Now\" button anywhere on this page to open our application form, or reach out to GNC's Admission Helpline at 7300900900. Our team will walk you through eligibility, the CBCAT process (if applicable) and the Global Track add-on for your chosen program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Career Buddy College and what is their role?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Career Buddy College is GNC's industry partner for the Global Learning Track. Your degree, admissions, curriculum and examinations remain entirely with Guru Nanak College — Career Buddy College supports the career-readiness layer: international hospital exposure, language training, AR/VR clinical modules and global placement assistance."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body class="gl-page">

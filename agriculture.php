@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- End Google Tag Manager -->
 
-  <link rel="canonical" href="https://www.gnc.edu.in/agriculture">
+  <link rel="canonical" href="https://gnc.edu.in/agriculture">
 </head>
 <body>
 <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Top Degrees &amp; Courses at Guru Nanak College, Dehradun</h1>

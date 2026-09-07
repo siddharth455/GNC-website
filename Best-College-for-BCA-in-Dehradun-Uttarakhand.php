@@ -6,7 +6,7 @@
     <title>Best BCA College in Dehradun — Admission 2026</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Do BCA at Guru Nanak College Dehradun — industry-aligned curriculum, modern computer labs & strong placements. Admissions 2026 open. Apply online now.">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords" content="bca college in dehradun 2026 · BCA Admission in Dehradun 2026 · BCA college Admission in Dehradun 2026 · top 5 bca colleges in dehradun" />
     <meta property="og:type" content="website"/>
@@ -23,72 +23,37 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     <meta name="theme-color" content="#ffffff">
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "Course",
-      "name": "Bachelor of Computer Applications (BCA)",
-      "description": "Industry-focused BCA program at Guru Nanak College Dehradun offering practical IT training, internships, and placement support.",
-      "provider": {
-        "@type": "CollegeOrUniversity",
-        "name": "Guru Nanak College",
-        "sameAs": "https://gnc.edu.in"
-      },
-      "educationalCredentialAwarded": "Bachelor Degree",
-      "timeRequired": "P3Y"
-    }
-    </script>
-    <script type="application/ld+json">
+      "@type": "Question",
+      "name": "Which is the best BCA college in Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Guru Nanak College is one of the top BCA colleges in Dehradun offering industry-focused IT education and placement support."
+      }
+    },
     {
-      "@context": "https://schema.org",
-      "@type": "CollegeOrUniversity",
-      "name": "Guru Nanak College",
-      "url": "https://gnc.edu.in",
-      "logo": "https://gnc.edu.in/images/logo.webp",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jhajhra, Chakrata Rd",
-        "addressLocality": "Dehradun",
-        "addressRegion": "Uttarakhand",
-        "postalCode": "248007",
-        "addressCountry": "IN"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-7300900900",
-        "contactType": "Admissions"
+      "@type": "Question",
+      "name": "What is eligibility for BCA admission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students must have passed 10+2 from a recognized board with minimum required marks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the duration of BCA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The BCA program duration is three years."
       }
     }
-    </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "Which is the best BCA college in Dehradun?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Guru Nanak College is one of the top BCA colleges in Dehradun offering industry-focused IT education and placement support."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is eligibility for BCA admission?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Students must have passed 10+2 from a recognized board with minimum required marks."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is the duration of BCA?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The BCA program duration is three years."
-        }
-      }]
-    }
-    </script>
+  ]
+}
+</script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -1789,7 +1754,7 @@
                 <div class="text-center text-lg-start">
                     <h2 class="section-title">Our latest <span>blogs</span></h2>
                     <p class="section-desc">Welcome to our blog section, where knowledge meets inspiration. Explore insightful articles, expert tips, and the latest trends in our field.</p>
-                    <a href="blog.php" class="view-all-btn">View All</a>
+                    <a href="blog" class="view-all-btn">View All</a>
                 </div>
                 <div class="slider-controls justify-content-center justify-content-lg-start">
                     <div class="bca-blog-prev">
@@ -1813,7 +1778,7 @@
                             return in_array('BCA', $post['tags']);
                         });
                         foreach ($bca_blogs as $post):
-                            $link = $post['url'] . ".php";
+                            $link = $post['url'];
                         ?>
                         <div class="swiper-slide">
                             <div class="blog-card">

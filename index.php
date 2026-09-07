@@ -5,7 +5,7 @@
  <title>Best College in Dehradun, Uttarakhand | Guru Nanak College</title>
   <meta name="description" content="Guru Nanak College (GNC), Dehradun — NAAC-accredited college for Nursing, Pharmacy, Paramedical, Agriculture, BCA, BBA & B.Tech. Admissions 2026 open." />
   <meta name="keywords" content="Best College in Dehradun, Guru Nanak College Dehradun" />
-  <link rel="canonical" href="https://www.gnc.edu.in/">
+  <link rel="canonical" href="https://gnc.edu.in/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/webp" href="images/logog.webp">
   <meta property="og:locale" content="en_US" />
@@ -1566,7 +1566,7 @@ excellence in academics and holistic development." />
           <h2 class="placement-title">The World's <strong>Leading Companies Hire Our Talent</strong></h2>
           <div class="placement-buttons">
             <a href="https://application.gnc.edu.in/" class="btn-apply">APPLY NOW →</a>
-            <a href="placement-overview.php" class="btn-view">VIEW PLACEMENTS →</a>
+            <a href="placement-overview" class="btn-view">VIEW PLACEMENTS →</a>
           </div>
           <div class="placement-stats">
             <div class="placement-stat">
@@ -2020,7 +2020,7 @@ excellence in academics and holistic development." />
                       <li><a href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Physiotherapy</a></li>
                       <li><a href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun" class="program-link">B.Sc. Optometry</a></li>
                       <li><a href="https://gnc.edu.in/masters-in-lab-technician" class="program-link">Master of Medical Laboratory Technology</a></li>
-                      <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php" class="program-link">Master of Physiotherapy</a></li>
+                      <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College" class="program-link">Master of Physiotherapy</a></li>
                     </ul>
                   </div>
                 </div>
@@ -2266,7 +2266,7 @@ excellence in academics and holistic development." />
                     <li><a href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Physiotherapy</a></li>
                     <li><a href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun" class="program-link">B.Sc. Optometry</a></li>
                     <li><a href="https://gnc.edu.in/masters-in-lab-technician" class="program-link">Master of Medical Laboratory Technology</a></li>
-                    <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php" class="program-link">Master of Physiotherapy</a></li>
+                    <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College" class="program-link">Master of Physiotherapy</a></li>
                   </ul>
                 </div>
               </div>
@@ -2748,7 +2748,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="col-md-6">
                 <div class="facMsg position-relative">
                   <p class="mb-5"><b>“Empowerment through education leads to limitless possibilities” </b>As the Chairman of Guru Nanak College, Dehradun, I am proud to lead an institution that emphasizes comprehensive education. We at GNC are committed to equipping our students with the skills and knowledge necessary for success in a rapidly changing world. Our experienced faculty fosters a dynamic learning environment that prioritizes understanding and practical application. Through personal development programs and industry exposure, we prepare our students to face real-world challenges confidently. Together, we inspire our learners to achieve their aspirations and make a meaningful impact in their fields, paving the way for a brighter future...</p>
-                  <a href="leadership.php" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                  <a href="leadership" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                   <div class="facName">
                     <h4>Mr. JOGINDER SINGH ARORA</h4>
                     <small>CHAIRMAN</small>
@@ -2769,7 +2769,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="col-md-6">
                 <div class="facMsg position-relative">
                   <p class="mb-5"><b>“Leadership is not about being in charge. It is about taking care of those in your charge.” </b>At GNC Dehradun, we believe effective leadership is the cornerstone of success. As Vice Chairman, I am dedicated to fostering an environment that nurtures innovative thinking, collaboration, and integrity. Our leadership program emphasizes adaptability and resilience, equipping students with essential skills to navigate a dynamic world. We encourage future leaders to embrace diversity, inspire others, and drive positive change in their communities. By promoting critical thinking, ethical decision-making, and effective communication, we aim to prepare our students to face global challenges with confidence and creativity, shaping compassionate and visionary leaders for tomorrow....</p>
-                  <a href="leadership.php" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                  <a href="leadership" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                   <div class="facName">
                     <h4>Mrs. RAJENDRA KAUR ARORA</h4>
                     <small>VICE CHAIRMAN</small>
@@ -2790,7 +2790,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="col-md-6">
                 <div class="facMsg position-relative">
                   <p class="mb-5"><b>“Empowering youth today shapes a brighter tomorrow for all” </b>As the CEO of Guru Nanak College, Dehradun, I warmly welcome you to our esteemed institution, a true temple of learning. We at GNC are dedicated to fostering innovation and creativity, particularly in cutting-edge technologies. Our commitment to quality education is unwavering, ensuring that every aspect of our institute reflects excellence. We believe that the future belongs to those who harness the potential of young minds. In a world facing numerous challenges, we strive to instill strong moral values and environmental consciousness in our students, preparing them to excel in their chosen fields and contribute positively to society...</p>
-                  <a href="leadership.php" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                  <a href="leadership" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                   <div class="facName">
                     <h4>Mr. BHUPINDER SINGH ARORA</h4>
                     <small>CEO</small>
@@ -2811,7 +2811,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="col-md-6">
                 <div class="facMsg position-relative">
                   <p class="mb-5"><b>“Empowering students today shapes visionary leaders for tomorrow.” </b>As the COO of Guru Nanak College, Dehradun, I warmly welcome all students, faculty, staff, and visitors. At GNC, we are committed to fostering an environment that promotes academic excellence and personal growth through a diverse range of programs. Our dedicated faculty not only impart knowledge but also instill essential values such as integrity, teamwork, and resilience, which are vital for success in today’s world. We celebrate diversity and inclusivity, creating a dynamic community where collaboration flourishes. Beyond academics, we prioritize social responsibility and community engagement, encouraging students to become compassionate leaders. Together, we strive to develop ethical individuals who are prepared to face the challenges of the future. Thank you for being an integral part of our journey towards excellence...</p>
-                  <a href="leadership.php" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                  <a href="leadership" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                   <div class="facName">
                     <h4>Mrs. VINEET ARORA</h4>
                     <small>COO</small>
@@ -2832,7 +2832,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="col-md-6">
                 <div class="facMsg position-relative">
                   <p class="mb-5"><b>“Empowering minds today to build a brighter tomorrow.” </b>As the Chief Strategy Officer (CSO) of Guru Nanak College, Dehradun, I am committed to driving innovation, strategic growth, and new opportunities. At GNC, we align our vision with emerging trends to strengthen academics, industry collaboration, and student success. Together, we are building a progressive institution prepared for a successful and sustainable future.</p>
-                  <a href="leadership.php" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                  <a href="leadership" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                   <div class="facName">
                     <h4>Mr. SAITHJEET SINGH ARORA</h4>
                     <small>CSO</small>
@@ -2853,7 +2853,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="col-md-6">
                 <div class="facMsg position-relative">
                   <p class="mb-5"><b>“ Empowering students today shapes responsible leaders for tomorrow” </b>As the Registrar of Guru Nanak College, Dehradun, I extend a heartfelt welcome to all students, faculty, staff, and visitors. We at GNC are dedicated to fostering academic excellence through a diverse array of programs that prepare students for successful careers. Our esteemed faculty instills essential values such as discipline, responsibility, and time management, crucial for personal and professional growth. We celebrate diversity and inclusivity, creating a vibrant community where collaboration thrives. Beyond academics, we emphasize empathy and social responsibility through community outreach initiatives...</p>
-                  <a href="leadership.php" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+                  <a href="leadership" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                   <div class="facName">
                     <h4>Dr. LALIT KUMAR</h4>
                     <small>REGISTRAR</small>
@@ -2886,7 +2886,7 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>
     </div>
     <div class="text-center mt-5">
-      <a href="leadership.php" class="btn btn-lg btn-primary btn-shadow">View All <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
+      <a href="leadership" class="btn btn-lg btn-primary btn-shadow">View All <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
     </div>
   </section>
   <?php require "research-sample.php"; ?>
@@ -2911,7 +2911,7 @@ foreach ($latest as $p) {
     "title" => $p["title"] ?? "",
     "date" => $dateFormatted,
     "image" => $p["image"] ?? "",
-    "link" => !empty($p["url"]) ? urlencode($p["url"]) . ".php" : ""
+    "link" => !empty($p["url"]) ? $p["url"] : ""
   ];
 }
 ?>

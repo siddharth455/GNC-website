@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best B.Sc Microbiology College | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best B.Sc Microbiology college in Dehradun, Uttarakhand. Guru Nanak College offers top faculty, cutting-edge labs and research-driven microbiology education.">
-    <link rel="canonical" href="https://www.gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best B.Sc Microbiology College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -641,6 +641,55 @@
         }
 
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Microbiology course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is a program that explores microorganisms and their impact on humans, animals, plants, and the environment, covering immunology, virology, bacteriology, and molecular biology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is eligible for this course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students who have passed 10+2 with Maths/Biology/Agriculture from any recognized board. Minimum percentage required is 45% for GEN/OBC and 40% for SC / ST."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What career options are available after completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can work in pharmaceuticals, clinical research, food & beverage industries, public health sectors, and diagnostic laboratories."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is microbiology a good career option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it offers immense opportunities in vaccine development, genetic engineering, environmental remediation, and industrial research."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the average salary after this course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Entry-level salaries typically start around ₹3–6 LPA and increase with experience and specialization."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>

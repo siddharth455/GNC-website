@@ -14,7 +14,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/techno-loader.css">
     <link rel="stylesheet" href="css/techno-style.css">
-  <link rel="canonical" href="https://www.gnc.edu.in/technojashan2026">
+  <link rel="canonical" href="https://gnc.edu.in/technojashan2026">
 </head>
 
 <body class="big-image">
@@ -49,7 +49,7 @@
                     <div class="collapse navbar-collapse justify-content-end" id="tj-navbar-nav">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="technojashan2026.php">Home</a>
+                                <a class="nav-link" href="technojashan2026">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#about">About Fest</a>

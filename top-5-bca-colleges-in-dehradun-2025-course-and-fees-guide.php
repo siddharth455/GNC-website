@@ -57,7 +57,7 @@
   @media (max-width:800px){ .post-grid{grid-template-columns:1fr} .banner{height:180px} .post-card{padding:18px} }
   @media (max-width:480px){ .site-wrap{padding:12px} .banner{height:140px} .post-card{padding:14px} .suggested img{width:72px;height:52px} .post-body{font-size:1rem} }
   </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
+  <link rel="canonical" href="https://gnc.edu.in/top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
 </head>
 <body>
 <?php
@@ -135,7 +135,7 @@
             <li>Recruiters: Startups, IT firms, edtech companies, software support teams</li>
           </ul>
           <p><strong>Why Choose:</strong> Guru Nanak College is gaining recognition as a leading BCA college in Dehradun. The program emphasizes hands-on learning, coding skills, and real-world projects. Its affordability, strong academic support, and central location make it a smart choice for aspiring IT professionals.</p>
-          <p><strong>Apply or Learn More:</strong> <a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php" target="_blank" rel="noopener">https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php</a></p>
+          <p><strong>Apply or Learn More:</strong> <a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php</a></p>
 
           <h2>3. Graphic Era University</h2>
           <p><strong>Location:</strong> Clement Town, Dehradun</p>
@@ -236,7 +236,7 @@
           <h2>Conclusion</h2>
           <p>Dehradun continues to thrive as a tech-education destination with a variety of BCA colleges catering to diverse career aspirations. From affordable public universities to globally aligned private institutions, students can choose a program that aligns with their goals. Among the top 5, Guru Nanak College stands out for its practical learning model, affordable fees, and central location, making it ideal for students who want real-world skills and personalized support.</p>
 
-          <p><strong>To apply or learn more about Guru Nanak College’s BCA program, visit: </strong><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php" target="_blank" rel="noopener">https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php</a></p>
+          <p><strong>To apply or learn more about Guru Nanak College’s BCA program, visit: </strong><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php</a></p>
 
         </article>
 
@@ -246,7 +246,7 @@
         </div>
 
         <div style="text-align:center;margin-top:18px">
-          <a href="blog.php" class="btn-ghost">← Back to All Posts</a>
+          <a href="blog" class="btn-ghost">← Back to All Posts</a>
         </div>
       </main>
 
@@ -254,22 +254,22 @@
       <aside>
         <div class="suggested" aria-labelledby="you-may-like">
           <h3 id="you-may-like">You May Also Like</h3>
-           <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
+           <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
             <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>
           </a>
-          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php">
+          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide">
             <img class="sc-image" src="upload/blog/3.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BPT Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-30</div>
           </a>
-          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
+          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun">
             <img class="sc-image" src="upload/blog/4.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
           </a>
-          <a class="suggest-card" href="Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun.php">
+          <a class="suggest-card" href="Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun">
             <img class="sc-image" src="upload/blog/1.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top Paramedical Courses After 12th in India</div>
             <div class="sc-meta">GNC Dehradun• 2025-08-20</div>

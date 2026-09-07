@@ -110,7 +110,7 @@
                 }
             }
         </style>
-      <link rel="canonical" href="https://www.gnc.edu.in/default">
+      <link rel="canonical" href="https://gnc.edu.in/default">
 </head>
     <body>
         <nav class="navigation">

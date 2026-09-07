@@ -7,7 +7,7 @@
     <title>Research Paper || Guru Nanak College Dehradun</title>
   <meta name="description" content="Explore research publications and projects at Guru Nanak College Dehradun. Over 100 research papers published by our faculty and students.">
 
-   <link rel="canonical" href="https://www.gnc.edu.in/research">
+   <link rel="canonical" href="https://gnc.edu.in/research">
 </head>
  
 <section class="pageBanner-inner">

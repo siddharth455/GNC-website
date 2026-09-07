@@ -308,7 +308,7 @@
       }
     }
   </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/guru-nanak-college-receives-inc-approval-for-b-sc-nursing-program">
+  <link rel="canonical" href="https://gnc.edu.in/guru-nanak-college-receives-inc-approval-for-b-sc-nursing-program">
 </head>
 
 <body>
@@ -393,7 +393,7 @@
         </div>
 
         <div style="text-align:center;margin-top:18px">
-          <a href="blog.php" class="btn-ghost">← Back to All Posts</a>
+          <a href="blog" class="btn-ghost">← Back to All Posts</a>
         </div>
       </main>
 
@@ -401,22 +401,22 @@
       <aside>
         <div class="suggested" aria-labelledby="you-may-like">
           <h3 id="you-may-like">You May Also Like</h3>
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
+          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
             <img class="sc-image" src="upload/blog/2.webp" alt="Designing Modern Static Blog Pages" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
-          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php">
+          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide">
             <img class="sc-image" src="upload/blog/3.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BPT Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-30</div>
           </a>
-          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
+          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun">
             <img class="sc-image" src="upload/blog/4.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
           </a>
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
             <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>

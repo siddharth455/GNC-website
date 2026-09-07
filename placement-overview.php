@@ -383,7 +383,7 @@
 }
 
     </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/placement-overview">
+  <link rel="canonical" href="https://gnc.edu.in/placement-overview">
 </head>
 <body>
     
@@ -455,7 +455,7 @@
                         <p class="text-sm md-text-base opacity-90 max-w-md mb-8 font-normal leading-relaxed">
                             Join the university ranked amongst the top 5% globally with a track record of 9500+ placement offers.
                         </p>
-                        <a  href ='https://www.gnc.edu.in/admissions.php' class="bg-custom-blue hover-bg-cyan-700 text-white font-bold py-4 px-10 text-12px uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
+                        <a  href="admissions" class="bg-custom-blue hover-bg-cyan-700 text-white font-bold py-4 px-10 text-12px uppercase tracking-widest mb-10 inline-flex items-center transition-all rounded-sm shadow-xl group">
                             Explore Programs <i class="fa-solid fa-arrow-right ml-3 group-hover-translate-x-1 transition-transform"></i>
                       </a>
 

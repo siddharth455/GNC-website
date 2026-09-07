@@ -47,7 +47,7 @@
             background-color: #003366;
         }
     </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/aicte-feedback-portal">
+  <link rel="canonical" href="https://gnc.edu.in/aicte-feedback-portal">
 </head>
 <body>
 <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">AICTE Feedback Box</h1>

@@ -13,7 +13,7 @@ content="What can you do after B.Sc Agriculture? Explore career options, salary 
 <meta name="keywords"
 content="career after B.Sc Agriculture, agriculture college Dehradun, B.Sc Agriculture Dehradun, M.Sc Agronomy, M.Sc Horticulture, B.Sc Forestry"/>
 
-<link rel="canonical" href="https://www.gnc.edu.in/career-options-after-bsc-agriculture/" />
+<link rel="canonical" href="https://gnc.edu.in/career-options-after-bsc-agriculture/" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="Top Career Options After B.Sc Agriculture — Salary, Scope & Opportunities 2026" />

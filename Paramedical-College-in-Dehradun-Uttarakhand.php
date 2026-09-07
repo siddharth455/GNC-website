@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study paramedical courses at Guru Nanak College Dehradun — BMLT, BMRIT, BPT, Optometry & OT Technology with modern labs & 100% placement. Apply 2026." />
     <meta name="keywords" content="Best Paramedical College in Dehradun, Paramedical College in Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical College in Dehradun 2026 — GNC" />
@@ -28,38 +28,53 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script type="application/ld+json"> 
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-    { 
-      "@type": "Question", 
-      "name": "What paramedical courses are offered at Guru Nanak College?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Guru Nanak College offers BMRIT, BMLT, BPT, B.Optometry, B.OTT, MMLT, and  MPT under the School of Paramedical Sciences, with strong placement support and clinical  training tie-ups." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "What is the highest package offered to paramedical students at GNC?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-                                      
-        "text": "The highest national package offered to Paramedical students at Guru Nanak  College is ₹54.75 LPA, with an average placement package of ₹12 LPA and over 900 placement  offers from 100+ companies." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "Is clinical training provided for paramedical students at GNC?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Yes. Guru Nanak College provides hands-on clinical training through hospital  tie-ups, lab sessions, and internships as part of the paramedical curriculum." 
-      } 
-    } 
-  ] 
-} 
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1. Which is the best paramedical college in Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Guru Nanak College is one of the best paramedical colleges in Dehradun offering practical training, modern labs, and placement support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2. What are paramedical courses after 12th?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students can pursue BMLT, BPT, Radiology, OTT, and Optometry after completing 12th with PCB."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3. What is the duration of paramedical courses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most paramedical programs are 3 to 4 years long, including internships."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "4. Does Guru Nanak College provide clinical training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the college provides hands-on clinical training through hospital internships and laboratory sessions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "5. What are career options after paramedical courses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students can work in hospitals, diagnostic labs, clinics, and healthcare organizations."
+      }
+    }
+  ]
+}
 </script> 
 
     <script type="application/ld+json">
@@ -1166,7 +1181,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Medical Lab Technologist, Lab Supervisor, Pathology Lab Manager</p>
-                                    <a href="Best-bmlt-college-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-bmlt-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1177,7 +1192,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Radiology Technician, MRI/CT Scan Specialist</p>
-                                    <a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1188,7 +1203,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: OT Technician, Surgical Assistant</p>
-                                    <a href="Best-operation-theatre-technology-colleges-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-operation-theatre-technology-colleges-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1199,7 +1214,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 50%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Physiotherapist, Rehabilitation Specialist</p>
-                                    <a href="Best-BPT-college-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-BPT-college-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1210,7 +1225,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Optometrist, Vision Consultant</p>
-                                    <a href="Best-bsc-optometry-College-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-bsc-optometry-College-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <!-- <div class="col-md-6 col-lg-4">
@@ -1236,7 +1251,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: BMLT or equivalent degree</li>
                                     </ul>
                                     <p class="text-muted mb-5 leading-relaxed">Advanced study of diagnostic sciences with specialization in clinical biochemistry, microbiology, or pathology.</p>
-                                    <a href="masters-in-lab-technician.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="masters-in-lab-technician" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -1247,7 +1262,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: BPT with internship completion</li>
                                     </ul>
                                     <p class="text-muted mb-5 leading-relaxed">Specialize in fields like Orthopedics, Neurology, or Sports to advance your clinical and research expertise.</p>
-                                    <a href="Best-MPT-Master-of-Physiotherapy-College.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-MPT-Master-of-Physiotherapy-College" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                         </div>

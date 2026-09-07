@@ -11,7 +11,7 @@
     content="Explore the top 5 BBA colleges in Dehradun in 2026. Compare fees, placements, eligibility, admission process, specializations, and career opportunities..." />
   <meta name="keywords"
     content="top 5 BBA Colleges in Dehradun 2026, Best BBA College in Dehradun, BBA Admission 2026, BBA Colleges in Dehradun, BBA Fees in Dehradun, BBA Placement in Dehradun, BBA Colleges in Uttarakhand, Best BBA College in Uttarakhand, BBA Course in Dehradun, BBA Colleges After 12th, Top Management Colleges in Dehradun, Business Administration Course, Career After BBA, Undergraduate Management Program" />
-  <link rel="canonical" href="https://www.gnc.edu.in/top-5-bba-colleges-in-dehradun-2026" />
+  <link rel="canonical" href="https://gnc.edu.in/top-5-bba-colleges-in-dehradun-2026" />
   <meta name="robots" content="index, follow" />
   <link rel="icon" type="image/webp" href="images/logog.webp">
 
@@ -916,7 +916,7 @@
         </div>
 
         <div style="text-align:center;margin-top:18px">
-          <a href="blog.php" class="btn-ghost">← Back to All Posts</a>
+          <a href="blog" class="btn-ghost">← Back to All Posts</a>
         </div>
       </main>
 
@@ -924,22 +924,22 @@
         <div class="suggested" aria-labelledby="you-may-like">
           <h3 id="you-may-like">You May Also Like</h3>
 
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
+          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
             <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
-          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php">
+          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide">
             <img class="sc-image" src="upload/blog/3.webp" alt="Top 5 BPT Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BPT Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-30</div>
           </a>
-          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
+          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun">
             <img class="sc-image" src="upload/blog/4.webp" alt="Top 5 Nursing Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
           </a>
-          <a class="suggest-card" href="top-paramedical-courses-after-12th-2026.php">
+          <a class="suggest-card" href="top-paramedical-courses-after-12th-2026">
             <img class="sc-image" src="upload/blog/para-blog-26.webp" alt="Top Paramedical Courses" width="auto" height="auto">
             <div class="sc-title">Top Paramedical Courses After 12th in India 2026 | GNC Dehradun</div>
             <div class="sc-meta">GNC Dehradun• 2026-03-30</div>

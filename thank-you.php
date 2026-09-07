@@ -105,7 +105,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             padding: 100px 0px 0px 20px;
         }
     </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/thank-you">
+  <link rel="canonical" href="https://gnc.edu.in/thank-you">
 </head>
 
 <body>

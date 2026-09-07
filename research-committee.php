@@ -7,7 +7,7 @@
     <title>Research Committee || Guru Nanak College Dehradun</title>
   <meta name="description" content="Meet the research committee of Guru Nanak College Dehradun. Our experts guide 100+ research publications and 15+ funded research projects.">
 
-    <link rel="canonical" href="https://www.gnc.edu.in/research-committee">
+    <link rel="canonical" href="https://gnc.edu.in/research-committee">
  </head>
 <section class="pageBanner-inner">
         <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Research Committee - Guru Nanak College Dehradun</h1>

@@ -9,7 +9,7 @@
   <meta name="description" content="Connect with Guru Nanak College alumni network. Explore achievements, success stories and stay connected with your batchmates from GNC Dehradun.">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
-    <link rel="canonical" href="https://www.gnc.edu.in/alumni">
+    <link rel="canonical" href="https://gnc.edu.in/alumni">
     <style>
         .content {
             margin: 20px;
@@ -81,8 +81,8 @@
 
 <body>
     <div class="image-container">
-        <a href="alumni_registration.php"><img src="upload/alumni_desktop.webp" alt="Desktop Image" loading="lazy" class="desktop-image" width="auto" height="auto"></a>
-        <a href="alumni_registration.php"> <img src="upload/alumni_phone.webp" alt="Phone Image" loading="lazy" class="phone-image" width="auto" height="auto"></a>
+        <a href="alumni_registration"><img src="upload/alumni_desktop.webp" alt="Desktop Image" loading="lazy" class="desktop-image" width="auto" height="auto"></a>
+        <a href="alumni_registration"> <img src="upload/alumni_phone.webp" alt="Phone Image" loading="lazy" class="phone-image" width="auto" height="auto"></a>
     </div>
     <section class="container mt-5 mb-5">
         <div class="alumni_content">
@@ -115,7 +115,7 @@
                 <li>Your journey is a source of inspiration to the GNC community. Share your successes, milestones, and stories with us. Your achievements highlight the value of a GNC education and motivate current and future students.</li>
                 <li>As a GNC alumnus, you carry the spirit and values of our institution wherever you go. The connections you make, the paths you pave, and the successes you achieve all contribute to the rich tapestry of our collective legacy.</li>
             </div>
-            <!-- <button href="alumni_registration.php">Register Now</button> -->
+            <!-- <button href="alumni_registration">Register Now</button> -->
         </div>
     </section>
     

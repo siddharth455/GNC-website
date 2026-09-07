@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College is a top nursing college in Dehradun offering INC & USNC-approved B.Sc Nursing, GNM & Post Basic B.Sc Nursing. 100% placement. Apply 2026." />
     <meta name="keywords" content="Best Nursing College in Dehradun, Nursing College in Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
+    <link rel="canonical" href="https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
 
     <!-- Open Graph (WhatsApp, Facebook, LinkedIn previews) -->
     <meta property="og:type" content="website" />
@@ -29,37 +29,37 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-    <script type="application/ld+json"> 
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-    { 
-      "@type": "Question", 
-      "name": "Is the Nursing program at GNC approved by Indian Nursing Council?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Yes. The B.Sc. Nursing and GNM programs at Guru Nanak College are approved  by the Indian Nursing Council (INC)." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "What is the eligibility for B.Sc. Nursing at GNC?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Biology (PCB)  with minimum 45% marks for admission to B.Sc. Nursing at Guru Nanak College." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "Does GNC offer Post Basic B.Sc. Nursing for GNM holders?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Yes. Guru Nanak College offers Post Basic B.Sc. Nursing, a bridge program  for GNM diploma holders to upgrade to a bachelor's degree in nursing." 
-      } 
-    } 
-  ] 
-} 
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the fee for B.Sc Nursing at GNC Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Annual tuition for B.Sc Nursing at Guru Nanak College is ₹ 2,00,000 for the 2026–27 session. The 4-year total cost including hostel is approximately ₹ 65,000. Contact 7300900900 for the full fee breakdown."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is GNC Dehradun nursing approved by INC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. B.Sc Nursing, GNM, and Post Basic Nursing at GNC are approved by the Indian Nursing Council (INC) and Uttarakhand State Nursing Council (USNC), and affiliated with HNBGU."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the eligibility for B.Sc Nursing admission 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candidates need 10+2 with PCB and English, minimum 45% marks, and must be at least 17 years old as per INC norms."
+      }
+    }
+  ]
+}
 </script> 
 
     <script type="application/ld+json">

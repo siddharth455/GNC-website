@@ -6,7 +6,7 @@
     <title>Best Computer Science College in Dehradun | B.Tech & BCA</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College offers B.Tech CSE & BCA in Dehradun with modern labs, coding-focused curriculum & placement support. Admissions 2026 now open. Apply." />
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun">
     <meta name="keywords" content="Best Computer Science College in Dehradun, BCA College in Dehradun" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -28,29 +28,53 @@
 
     <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
     
-<script type="application/ld+json"> 
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-    { 
-      "@type": "Question", 
-      "name": "What computer science programs does GNC offer?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Guru Nanak College offers B.Tech Computer Science Engineering (CSE) and  Bachelor of Computer Applications (BCA) under the School of Computer Sciences." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "What is the eligibility for B.Tech CSE at GNC?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Mathematics  (PCM) with minimum 45% aggregate marks for B.Tech CSE admission at Guru Nanak College." 
-      } 
-    } 
-  ] 
-} 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1. Why choose Guru Nanak College for the BCA program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The BCA program at GNC offers a perfect blend of computer science theory and hands-on training, preparing students for careers in software development and IT management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2. Is the BCA program affiliated and recognized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the BCA program is affiliated with HNBGU and recognized by the Government of Uttarakhand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3. What are the eligibility criteria for admission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students who have completed 10+2 (any stream) with at least 45% marks are eligible to apply for BCA."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "4. What programming languages are taught in BCA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students learn C, C++, Java, Python, SQL, HTML, CSS, JavaScript, and frameworks like React and Node.js."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "5. What are the career options after BCA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can work as software developers, system analysts, network administrators, or pursue MCA and other advanced IT degrees."
+      }
+    }
+  ]
+}
 </script> 
 
     <script type="application/ld+json">
@@ -1161,7 +1185,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Software Developer, Web/App Developer, Data Analyst, IT Consultant, System Administrator.
                                     </p>
-                                    <a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-College-for-BCA-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -1485,10 +1509,10 @@
                                 <span><i class="fas fa-calendar-alt"></i> 2026-03-06</span>
                                 <span><i class="fas fa-user"></i> GNC Dehradun</span>
                             </div>
-                            <h3 class="blog-title"><a href="bca-vs-btech-comparison.php">BCA vs BTech: Which is Better After 12th?</a></h3>
+                            <h3 class="blog-title"><a href="bca-vs-btech-comparison">BCA vs BTech: Which is Better After 12th?</a></h3>
                             <p class="blog-excerpt">Complete comparison between BCA and BTech covering eligibility, fees, duration, and career scope for students planning IT careers.</p>
                             <div class="blog-footer">
-                                <a href="bca-vs-btech-comparison.php" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
+                                <a href="bca-vs-btech-comparison" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </article>
@@ -1505,10 +1529,10 @@
                                 <span><i class="fas fa-calendar-alt"></i> 2025-07-21</span>
                                 <span><i class="fas fa-user"></i> GNC Dehradun</span>
                             </div>
-                            <h3 class="blog-title"><a href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</a></h3>
+                            <h3 class="blog-title"><a href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</a></h3>
                             <p class="blog-excerpt">Dehradun, a renowned academic destination in North India, is home to several reputed institutions offering quality computer application education.</p>
                             <div class="blog-footer">
-                                <a href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
+                                <a href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </article>
@@ -1525,10 +1549,10 @@
                                 <span><i class="fas fa-calendar-alt"></i> 2025-04-25</span>
                                 <span><i class="fas fa-user"></i> GNC Dehradun</span>
                             </div>
-                            <h3 class="blog-title"><a href="bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software.php">BCA Admissions 2025 Open at Guru Nanak College, Dehradun</a></h3>
+                            <h3 class="blog-title"><a href="bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software">BCA Admissions 2025 Open at Guru Nanak College, Dehradun</a></h3>
                             <p class="blog-excerpt">Guru Nanak College has established itself as a premier institution in Uttarakhand, known for its commitment to quality education and industry-aligned programs.</p>
                             <div class="blog-footer">
-                                <a href="bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software.php" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
+                                <a href="bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </article>
@@ -1536,7 +1560,7 @@
             </div>
 
             <div class="text-center mt-5">
-                <a href="blog.php" class="btn btn-outline-primary px-4 py-2 fw-bold" style="border-radius: 8px;">View All Blogs</a>
+                <a href="blog" class="btn btn-outline-primary px-4 py-2 fw-bold" style="border-radius: 8px;">View All Blogs</a>
             </div>
         </div>
     </section>

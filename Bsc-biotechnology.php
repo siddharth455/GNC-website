@@ -6,7 +6,7 @@
     <title>Top B.Sc Biotechnology College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the premier B.Sc. Biotechnology College in Dehradun, Uttarakhand. Celebrated for its rigorous academic programs, distinguished...">
-    <link rel="canonical" href="https://www.gnc.edu.in/bsc-biotechnology">
+    <link rel="canonical" href="https://gnc.edu.in/bsc-biotechnology">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
@@ -1371,7 +1371,7 @@
             <div class="hero-content-wrapper">
                 <div class="hero-left-text">
                     <h2>Inspiring Stories of Our Biotechnology Students’ Journeys</h2>
-                    <a href="https://gnc.edu.in/placement-overview.php" class="view-all-btn">VIEW ALL →</a>
+                    <a href="https://gnc.edu.in/placement-overview" class="view-all-btn">VIEW ALL →</a>
                 </div>
 
                 <div class="testimonial-glass-slider">
@@ -1422,7 +1422,7 @@
                                     <li>Diverse Cultural Events</li>
                                     <li>Advanced Sports Facilities</li>
                                 </ul>
-                                <a href="https://gnc.edu.in/campus-life.php" class="feature-cta-btn">EXPLORE MORE →</a>
+                                <a href="https://gnc.edu.in/campus-life" class="feature-cta-btn">EXPLORE MORE →</a>
                             </div>
                             <div class="feature-card-image">
                                 <img src="images/campus-life.webp" alt="Campus Life" width="auto" height="auto">
@@ -1435,7 +1435,7 @@
                             <div class="feature-card-top">
                                 <h3>Scholarships & Financial Aid</h3>
                                 <p>Empowering meritorious students with generous scholarship programs based on academic excellence and merit.</p>
-                                <a href="https://gnc.edu.in/scholarships.php" class="feature-cta-btn">VIEW MORE →</a>
+                                <a href="https://gnc.edu.in/scholarships" class="feature-cta-btn">VIEW MORE →</a>
                             </div>
                             <div class="feature-card-image">
                         <img src="upload/infra/placement.webp" alt="Placements" width="auto" height="auto">
@@ -1452,7 +1452,7 @@
                                     <li>1788+ Placement Drives</li>
                                     <li>Highest Package 1.01 CR</li>
                                 </ul>
-                                <a href="https://gnc.edu.in/placement-overview.php" class="feature-cta-btn">EXPLORE MORE →</a>
+                                <a href="https://gnc.edu.in/placement-overview" class="feature-cta-btn">EXPLORE MORE →</a>
                             </div>
                             <div class="feature-card-image">
                             <img src="images/stude-84.jpeg" alt="Scholarships" width="auto" height="auto">
@@ -1465,7 +1465,7 @@
                             <div class="feature-card-top">
                                 <h3>Academic Overview</h3>
                                 <p>Our curriculum is meticulously designed to foster analytical prowess and research acumen, ensuring students are future-ready.</p>
-                                <a href="https://gnc.edu.in/academic-overview.php" class="feature-cta-btn">VIEW MORE →</a>
+                                <a href="https://gnc.edu.in/academic-overview" class="feature-cta-btn">VIEW MORE →</a>
                             </div>
                             <div class="feature-card-image">
                                 <img src="upload/infra/gnc.webp" alt="Academic Overview" width="auto" height="auto">

@@ -5,7 +5,7 @@
     <title>Top GNM Nursing College in Dehradun | GNC Uttarakhand</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best GNM Nursing college in Dehradun, Uttarakhand. Guru Nanak College provides hands-on clinical training, expert faculty and 100% placement support.">
-    <link rel="canonical" href="https://www.gnc.edu.in/best-gnm-college-in-dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/best-gnm-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top GNM Nursing College in Dehradun, Uttarakhand - Guru Nanak College" />

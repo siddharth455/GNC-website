@@ -8,7 +8,7 @@
     <meta name="description" content="Best Life Sciences college in Dehradun, Uttarakhand. Guru Nanak College offers B.Sc & M.Sc in Microbiology, Biotech, Food Tech, Physics & Chemistry.">
     <meta name="keywords" content="Best Life Sciences College in Dehradun, 
 Microbiology College Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best College for Life and Allied Sciences in Dehradun, Uttarakhand" />
@@ -25,29 +25,45 @@ Microbiology College Uttarakhand" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     
-<script type="application/ld+json"> 
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-    { 
-      "@type": "Question", 
-      "name": "What B.Sc. programs are offered under Life & Allied Sciences at GNC?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Guru Nanak College offers B.Sc. Microbiology, B.Sc. Biotechnology, B.Sc.  Food Technology, B.Sc. PCM, B.Sc. CBZ, and B.Sc. Geology under the School of Life & Allied  Sciences." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "Does GNC offer M.Sc. programs in science subjects?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Yes. Guru Nanak College offers M.Sc. in Microbiology, Food Technology,  Chemistry, Physics, Botany, and Zoology at the postgraduate level." 
-      } 
-    } 
-  ] 
-} 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1. What makes the School of Life & Allied Sciences unique?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The School of Life & Allied Sciences at Guru Nanak College integrates life sciences, cutting-edge technology, and research-driven learning. Students benefit from modern laboratory facilities, an expert faculty body, and a curriculum designed to bridge the gap between academia and industrial application."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2. Are the programs affiliated and recognized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all undergraduate and postgraduate programs offered under the School of Life & Allied Sciences are officially affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) and approved by the relevant regulatory and scientific authorities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3. What are the research opportunities available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research is a cornerstone of our school. Students have opportunities to engage in practical research projects, industrial internships, and collaborative scientific ventures within our modern laboratories and in partnership with external biotech and pharmaceutical industries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "4. Does the college offer placement assistance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. GNC provides dedicated placement assistance to all its graduates. Our students secure rewarding roles in clinical laboratories, research and development (R&D) sectors, pharmaceutical giants, and prestigious academic institutions."
+      }
+    }
+  ]
+}
 </script> 
 
     <script type="application/ld+json">
@@ -1053,7 +1069,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 in Science with Biology</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Microbiologist, Lab Technician, Research Analyst, Food Quality Officer</p>
-                                    <a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1064,7 +1080,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB / PCM</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Biotechnologist, Research Associate, Clinical Researcher, Biotech Analyst</p>
-                                    <a href="bsc-biotechnology.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="bsc-biotechnology" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1075,7 +1091,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 in Science</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Food Analyst, QA Officer, Nutrition Consultant</p>
-                                    <a href="bsc-food-technology.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="bsc-food-technology" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1086,7 +1102,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCM</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Research Assistant, Data Analyst, Technical Consultant, Educator</p>
-                                    <a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1097,7 +1113,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Environmental Scientist, Biochemist, Educator, Researcher</p>
-                                    <a href="bsc-cbz.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="bsc-cbz" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1108,7 +1124,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with Science</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Geologist, Environmental Consultant, Mining Analyst</p>
-                                    <a href="Bsc-geology-College-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">Apply Now</a>
+                                    <a href="Bsc-geology-College-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">Apply Now</a>
                                 </div>
                             </div>
                         </div>
@@ -1123,7 +1139,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Microbiology or related Life Science field</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Research Scientist, Clinical Microbiologist, QC Officer</p>
-                                    <a href="msc-microbiology-Colleges-in-Dehradun.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-microbiology-Colleges-in-Dehradun" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1134,7 +1150,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Food Technology or related field</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Specialize in fields like Food Technologist, QA Manager, Nutrition Specialist, R&D Officer</p>
-                                    <a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1145,7 +1161,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Zoology or Life Sciences</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Specialize in fields like Wildlife Biologist, Zoologist, Environmental Consultant, Academic Researcher</p>
-                                    <a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1156,7 +1172,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Chemistry or related subject</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Specializes in organic, inorganic, and physical chemistry for careers in chemical industries and research.</p>
-                                    <a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1167,7 +1183,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Physics or related subject</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Advanced studies in theoretical and applied physics with opportunities in research and technology sectors.</p>
-                                    <a href="msc-physics-College-in-Dehradun-Uttarakhand.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-physics-College-in-Dehradun-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -1179,7 +1195,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Botany or Life Sciences</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Covers advanced plant science, physiology, genetics, and ecology to prepare students for careers in research and education.</p>
-                                    <a href="msc-botany-Colleges-in-Uttarakhand.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-botany-Colleges-in-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                         </div>

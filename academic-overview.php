@@ -5,7 +5,7 @@
     <title>Guru Nanak College Dehradun, Uttarakhand | Academic Overview </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College in Dehradun, Uttarakhand, offers a diverse range of academic programs designed to meet the demands of the modern world. The college...">
-    <link rel="canonical" href="https://www.gnc.edu.in/academic-overview">
+    <link rel="canonical" href="https://gnc.edu.in/academic-overview">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
    <meta property="og:title" content="Academic Overview | Guru Nanak College Dehradun, Uttarakhand" />
@@ -364,15 +364,15 @@
             <h2 class="pillar-title mb-5">Useful links</h2>
             <div class="row">
                 <div class="col-md-4">
-                    <a href="https://gnc.edu.in/college-and-department.php?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Academic Calendar</a>
-                    <a href="https://gnc.edu.in/library.php?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Libraries</a>
+                    <a href="https://gnc.edu.in/college-and-department?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Academic Calendar</a>
+                    <a href="https://gnc.edu.in/library?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Libraries</a>
                 </div>
                 <div class="col-md-4">
-                    <a href="https://gnc.edu.in/lab.php?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Lab Infrastructure</a>
-                    <a href="https://gnc.edu.in/sport.php?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Sports & Adventure</a>
+                    <a href="https://gnc.edu.in/lab?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Lab Infrastructure</a>
+                    <a href="https://gnc.edu.in/sport?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Sports & Adventure</a>
                 </div>
                 <div class="col-md-4">
-                    <a href="https://gnc.edu.in/college-and-department.php?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Colleges & Departments</a>
+                    <a href="https://gnc.edu.in/college-and-department?utm_source=Website&utm_medium=Online&utm_campaign=GNC-Website" class="orange-link"><div class="arrow-circle"><i class="fa-solid fa-arrow-right"></i></div> Colleges & Departments</a>
                     
                 </div>
             </div>

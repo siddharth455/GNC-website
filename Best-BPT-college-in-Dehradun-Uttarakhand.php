@@ -6,7 +6,7 @@
     <title>Top BPT College in Dehradun | Physiotherapy Course at GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Enrol in a BPT program at one of Dehradun's top physiotherapy colleges and build expertise in rehabilitation, manual therapy, and clinical practice.">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand">
     <meta name="keywords" content="BPT Course, Bachelor of Physiotherapy, best bpt colleges in dehradun, best physiotherapy colleges in dehradun, best physiotherapy colleges in dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -495,6 +495,55 @@
 
 
     
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Q1. What is the duration of the BPT course at Guru Nanak College?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Bachelor of Physiotherapy (BPT) at Guru Nanak College, Dehradun, is a 4-year undergraduate program followed by a 6-month compulsory internship."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Q2. What are the eligibility criteria for BPT in Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applicants must have passed 10+2 with Biology, Agriculture, or Mathematics from a recognized board. A minimum of 45% is required for General/OBC and 40% for SC/ST candidates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Q3. Is Guru Nanak College approved for BPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Guru Nanak College is affiliated and approved by relevant health and education bodies, offering a recognized BPT degree in Uttarakhand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Q4. What are the career options after completing BPT from GNC Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can work in hospitals, rehabilitation centers, sports injury clinics, or start their own physiotherapy practice. They are also eligible for master's degrees (MPT) or international licensing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Q5. Does GNC Dehradun offer placement support for BPT students?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the college offers full placement training, hospital tie-ups, and internship opportunities for BPT students."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>
@@ -606,7 +655,7 @@
                             <div class="list-item"><i class="fa-solid fa-circle"></i> Industry-focused programs</div>
                             <div class="list-item"><i class="fa-solid fa-circle"></i> Modern labs and infrastructure.</div>
                             <div class="list-item" style="border:none"><i class="fa-solid fa-circle"></i> Practical and skill-based learning</div>
-                            <button class="action-btn" onclick="window.location.href='academic-overview.php'">
+                            <button class="action-btn" onclick="window.location.href='academic-overview'">
                                 Explore More <i class="fa-solid fa-arrow-right ms-2"></i>
                             </button>
                         </div>
@@ -619,7 +668,7 @@
                             <div class="list-item"><i class="fa-solid fa-check-double"></i> Uttarakhand Domicile</div>
                             <div class="list-item"><i class="fa-solid fa-check-double"></i> Sports Category</div>
                             <div class="list-item" style="border:none"><i class="fa-solid fa-check-double"></i> Social Service (NCC/NSS)</div>
-                            <button class="action-btn" onclick="window.location.href='scholarships.php'">
+                            <button class="action-btn" onclick="window.location.href='scholarships'">
                                 View Schemes <i class="fa-solid fa-arrow-right ms-2"></i>
                             </button>
                         </div>

@@ -14,7 +14,7 @@
     color: black !important;
   }
     </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/privacy-policy">
+  <link rel="canonical" href="https://gnc.edu.in/privacy-policy">
 </head>
 
 <body>

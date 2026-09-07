@@ -8,7 +8,7 @@
   <meta name="description" content="View AICTE approved documents for Guru Nanak College Dehradun. Explore our accreditation, approvals and regulatory compliance for all programs.">
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="canonical" href="https://www.gnc.edu.in/AICTE-documents">
+  <link rel="canonical" href="https://gnc.edu.in/AICTE-documents">
 
   <style>
     .toggle-btn {

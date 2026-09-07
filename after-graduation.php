@@ -171,7 +171,7 @@
             .standout-title { font-size: 28px; }
         }
     </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/after-graduation">
+  <link rel="canonical" href="https://gnc.edu.in/after-graduation">
 </head>
 
 <body>
@@ -204,12 +204,12 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-microscope"></i> Life & Allied Science</h4>
                         <ul>
-                            <li><a href="msc-microbiology-Colleges-in-Dehradun.php">M.Sc. Microbiology</a></li>
-                            <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Food Technology</a></li>
-                            <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Chemistry</a></li>
-                            <li><a href="msc-physics-College-in-Dehradun-Uttarakhand.php">M.Sc. Physics</a></li>
-                            <li><a href="msc-botany-Colleges-in-Uttarakhand.php">M.Sc. Botany</a></li>
-                            <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Zoology</a></li>
+                            <li><a href="msc-microbiology-Colleges-in-Dehradun">M.Sc. Microbiology</a></li>
+                            <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand">M.Sc. Food Technology</a></li>
+                            <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand">M.Sc. Chemistry</a></li>
+                            <li><a href="msc-physics-College-in-Dehradun-Uttarakhand">M.Sc. Physics</a></li>
+                            <li><a href="msc-botany-Colleges-in-Uttarakhand">M.Sc. Botany</a></li>
+                            <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand">M.Sc. Zoology</a></li>
                         </ul>
                     </div>
                     <div class="research-promo-card">
@@ -222,15 +222,15 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-kit-medical"></i> Paramedical Programs</h4>
                         <ul>
-                            <li><a href="masters-in-lab-technician.php">M.Sc. Medical Laboratory Technology</a></li>
-                            <li><a href="Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
+                            <li><a href="masters-in-lab-technician">M.Sc. Medical Laboratory Technology</a></li>
+                            <li><a href="Best-MPT-Master-of-Physiotherapy-College">Master of Physiotherapy</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-heart-pulse"></i> Health Science</h4>
                         <ul>
-                           <li><a href="master-of-public-health.php">Master of Public Health</a></li>
-                           <li><a href="master-of-hospital-administration.php">Master of Hospital Administration</a></li>
+                           <li><a href="master-of-public-health">Master of Public Health</a></li>
+                           <li><a href="master-of-hospital-administration">Master of Hospital Administration</a></li>
                         </ul>
                     </div>
                 </div>
@@ -243,8 +243,8 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-wheat-awn"></i> Agriculture Science</h4>
                         <ul>
-                             <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun.php">M.Sc. Agronomy</a></li>
-                             <li><a href="msc-horticulture.php">M.Sc. Horticulture</a></li>
+                             <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun">M.Sc. Agronomy</a></li>
+                             <li><a href="msc-horticulture">M.Sc. Horticulture</a></li>
                         </ul>
                     </div>
                 </div>
@@ -253,10 +253,10 @@
                     <div class="program-card" style="background: rgba(0, 40, 80, 0.9); color: #fff;">
                         <h4 style="color: #fff; border-bottom: 1px solid rgba(255,255,255,0.2);">Quick Links</h4>
                         <ul>
-                            <li><a href="placement-overview.php" style="color: #fff;">Placement</a></li>
-                            <li><a href="admissions.php" style="color: #fff;">Admissions</a></li>
-                            <li><a href="scholarships.php" style="color: #fff;">Scholarships</a></li>
-                            <li><a href="contact.php" style="color: #fff;">How to reach us ?</a></li>
+                            <li><a href="placement-overview" style="color: #fff;">Placement</a></li>
+                            <li><a href="admissions" style="color: #fff;">Admissions</a></li>
+                            <li><a href="scholarships" style="color: #fff;">Scholarships</a></li>
+                            <li><a href="contact" style="color: #fff;">How to reach us ?</a></li>
                         </ul>
                     </div>
                 </div>

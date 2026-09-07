@@ -176,7 +176,7 @@
             .margin: 0 !important;
             }
     </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/vision-mission">
+  <link rel="canonical" href="https://gnc.edu.in/vision-mission">
 </head>
 <body>
 <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Vision, Mission & Core Values</h1>

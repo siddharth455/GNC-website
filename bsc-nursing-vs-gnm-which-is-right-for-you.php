@@ -13,7 +13,7 @@ content="B.Sc Nursing or GNM — compare duration, fees, salary, and career grow
 <meta name="keywords"
 content="B.Sc Nursing vs GNM Dehradun, nursing college Uttarakhand, B.Sc Nursing Dehradun, GNM Dehradun, Post Basic B.Sc Nursing"/>
 
-<link rel="canonical" href="https://www.gnc.edu.in/bsc-nursing-vs-gnm-which-is-right-for-you/" />
+<link rel="canonical" href="https://gnc.edu.in/bsc-nursing-vs-gnm-which-is-right-for-you/" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="B.Sc Nursing vs GNM — Which Nursing Course is Right for You?" />

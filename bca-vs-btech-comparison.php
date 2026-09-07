@@ -359,7 +359,7 @@
       padding-top: 20px;
     }
   </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/bca-vs-btech-comparison">
+  <link rel="canonical" href="https://gnc.edu.in/bca-vs-btech-comparison">
 </head>
 
 <body>
@@ -495,7 +495,7 @@
         </div>
 
         <div style="text-align:center;margin-top:18px">
-          <a href="blog.php" class="btn-ghost">← Back to All Posts</a>
+          <a href="blog" class="btn-ghost">← Back to All Posts</a>
         </div>
       </main>
 
@@ -503,27 +503,27 @@
       <aside>
         <div class="suggested">
           <h3>You May Also Like</h3>
-          <a class="suggest-card" href="Best-Hotel-Management-Colleges-in-Dehradun-2026.php">
+          <a class="suggest-card" href="Best-Hotel-Management-Colleges-in-Dehradun-2026">
             <img class="sc-image" src="upload/blog/hm-banner.webp" alt="HM Colleges" width="auto" height="auto">
             <div class="sc-title">Best Hotel Management Colleges in Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026-02-16</div>
           </a>
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
+          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
             <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
             <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-21</div>
           </a>
-          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
+          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun">
             <img class="sc-image" src="upload/blog/4.webp" alt="Top 5 Nursing Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-27</div>
           </a>
-          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php">
+          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide">
             <img class="sc-image" src="upload/blog/3.webp" alt="Top 5 BPT Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BPT Colleges in Dehradun Ultimate Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-30</div>

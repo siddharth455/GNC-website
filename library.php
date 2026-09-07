@@ -6,7 +6,7 @@
     <title>Guru Nanak College Dehradun, Uttarakhand | library</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College in Dehradun boasts a well-equipped Library and Knowledge Hub. The library is a treasure trove of knowledge, offering an extensive...">
-    <link rel="canonical" href="https://www.gnc.edu.in/library">
+    <link rel="canonical" href="https://gnc.edu.in/library">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />

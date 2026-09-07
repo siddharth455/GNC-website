@@ -65,7 +65,7 @@
   .suggest-card .sc-meta { color:var(--muted); font-size:0.88rem; }
   @media (min-width:992px){ aside .suggested { position:sticky; top:110px; } }
   </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/nursing-college-admission-2025-at-gurunanak-college-dehradun">
+  <link rel="canonical" href="https://gnc.edu.in/nursing-college-admission-2025-at-gurunanak-college-dehradun">
 </head>
 <body>
 <?php require "common/header.php"; ?>
@@ -232,7 +232,7 @@
         <h2 id="contact">📞 Contact Details</h2>
         <p>Gurunanak College of Nursing<br>
         Dehradun, Uttarakhand</p>
-        <p><strong>Website:</strong> <a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php" target="_blank" rel="noopener">https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php</a></p>
+        <p><strong>Website:</strong> <a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun" target="_blank" rel="noopener">https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php</a></p>
 
         <h2 id="conclusion">🎯 Conclusion</h2>
         <p>Nursing is not just a career—it’s a calling. At Gurunanak College, Dehradun, we provide more than just education. We shape compassionate healthcare professionals ready to lead with care, knowledge, and confidence. Enroll now for Nursing Admissions 2025 and take the first step towards a successful and meaningful future.</p>
@@ -245,7 +245,7 @@
       </div>
 
       <div style="text-align:center;margin-top:18px">
-        <a href="blog.php" class="btn-ghost">← Back to All Posts</a>
+        <a href="blog" class="btn-ghost">← Back to All Posts</a>
       </div>
     </main>
 
@@ -253,22 +253,22 @@
     <aside>
       <div class="suggested" aria-labelledby="you-may-like">
         <h3 id="you-may-like">You May Also Like</h3>
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
+          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
             <img class="sc-image" src="upload/blog/2.webp" alt="Designing Modern Static Blog Pages" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
-          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php">
+          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide">
             <img class="sc-image" src="upload/blog/3.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BPT Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-30</div>
           </a>
-          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
+          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun">
             <img class="sc-image" src="upload/blog/4.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
           </a>
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
             <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>

@@ -5,7 +5,7 @@
     <title>Guru Nanak College | Best B.Sc Forestry College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the top college for B.Sc. Forestry in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and...">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best B.Sc Forestry College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -337,6 +337,55 @@
 
 
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Forestry course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is a program that teaches silviculture, forest management, wildlife conservation, and sustainable resource management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is eligible for this course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students who have completed 10+2 with Physics, Chemistry, and Biology/Maths/Agriculture from a recognized board can apply."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What career options are available after completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can work in the Indian Forest Service (IFS), state forest departments, wildlife organizations, NGOs, and the timber industry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is forestry a good career option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with increasing focus on climate change and conservation, there is a high demand for forestry professionals globally."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the average salary after this course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Entry-level salaries start around ₹3–6 LPA and increase with experience and specialization in government or private sectors."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
 <?php require("common/header.php"); ?>
@@ -1867,7 +1916,7 @@
         
         if (count($bba_blogs) == 1):
             $post = reset($bba_blogs);
-            $link = $post['url'] . ".php";
+            $link = $post['url'];
         ?>
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
@@ -1892,7 +1941,7 @@
                 <div class="text-center text-lg-start">
                     <h2 class="section-title">Our latest <span>blogs</span></h2>
                     <p class="section-desc">Welcome to our blog section, where knowledge meets inspiration. Explore insightful articles, expert tips, and the latest trends in our field.</p>
-                    <a href="blog.php" class="view-all-btn">View All</a>
+                    <a href="blog" class="view-all-btn">View All</a>
                 </div>
                 <div class="slider-controls justify-content-center justify-content-lg-start">
                     <div class="bba-blog-prev">
@@ -1908,11 +1957,11 @@
                 </div>
             </div>
             <div class="col-lg-7">
-                <div class="swiper bbaBlogSwiper">
+                <div class="swiper bbaBlogSwiper overflow-hidden">
                     <div class="swiper-wrapper">
                         <?php
                         foreach ($bba_blogs as $post):
-                            $link = $post['url'] . ".php";
+                            $link = $post['url'];
                         ?>
                         <div class="swiper-slide">
                             <div class="blog-card">

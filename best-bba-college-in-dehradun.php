@@ -5,7 +5,7 @@
     <title>Best BBA College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study BBA at Guru Nanak College Dehradun with an industry-focused curriculum, experienced faculty & placement support. Admissions 2026 open. Apply now.">
-    <link rel="canonical" href="https://www.gnc.edu.in/best-bba-college-in-dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/best-bba-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta name="keywords" content="BBA college in Dehradun, best BBA college in Dehradun, BBA admission Dehradun, BBA course Dehradun, BBA fees Dehradun"/>
     <meta property="og:type" content="website"/>
@@ -26,76 +26,53 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="new-assets/css/all-styles.css">
      <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "Course",
-      "name": "Bachelor of Business Administration (BBA)",
-      "description": "Industry-focused BBA program at Guru Nanak College Dehradun offering practical learning, internships, and placement training.",
-      "provider": {
-        "@type": "CollegeOrUniversity",
-        "name": "Guru Nanak College",
-        "sameAs": "https://gnc.edu.in"
-      },
-      "educationalCredentialAwarded": "Bachelor Degree",
-      "timeRequired": "P3Y"
-    }
-    </script>
-
-    <script type="application/ld+json">
+      "@type": "Question",
+      "name": "What is the duration of the BBA course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The BBA program is a 3-year undergraduate course divided into six semesters, designed to provide a strong foundation in business management."
+      }
+    },
     {
-      "@context": "https://schema.org",
-      "@type": "CollegeOrUniversity",
-      "name": "Guru Nanak College",
-      "url": "https://gnc.edu.in",
-      "logo": "https://gnc.edu.in/images/logo.webp",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Jhajhra, Chakrata Rd",
-        "addressLocality": "Dehradun",
-        "addressRegion": "Uttarakhand",
-        "postalCode": "248007",
-        "addressCountry": "IN"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-7300900900",
-        "contactType": "Admissions"
+      "@type": "Question",
+      "name": "What is the eligibility for BBA admission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students must have completed 10+2 from any recognized board (CBSE, ICSE, or State Board) with the minimum required marks as per university norms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the college provide placement support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Guru Nanak College provides dedicated placement training, including soft skills development, mock interviews, and direct connections with top industrial recruiters."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are internships included in the BBA program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Internships are a core part of the curriculum, ensuring students gain real-world business experience and industry exposure before graduating."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What career options are available after BBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can explore diverse roles in Marketing, HR, Finance, and Operations, or choose to pursue higher studies like an MBA or PGDM."
       }
     }
-    </script>
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Which is the best BBA college in Dehradun?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Guru Nanak College is one of the top BBA colleges in Dehradun offering industry-focused education and placement support."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is eligibility for BBA admission?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Students must have passed 10+2 from any stream with minimum required marks."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the duration of BBA?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The BBA program duration is three years."
-          }
-        }
-      ]
-    }
-    </script>
+  ]
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -453,7 +430,7 @@
                         <div class="row g-0 gnc-bba-stat-row">
                             <div class="col-6 text-center">
                                 <div class="gnc-bba-stat-box gnc-bba-stat-flex">
-                                    <a href="admissions.php">
+                                    <a href="admissions">
                                         <img src="https://cdn-icons-png.flaticon.com/128/2941/2941658.png" alt="Study Abroad" width="auto" height="auto">
                                         <span>Admissions</span>
                                     </a>
@@ -461,7 +438,7 @@
                             </div>
                             <div class="col-6 text-center">
                                 <div class="gnc-bba-stat-box gnc-bba-stat-flex">
-                                    <a href="campus-life.php">
+                                    <a href="campus-life">
                                         <img src="https://cdn-icons-png.flaticon.com/128/942/942799.png" alt="Program" width="auto" height="auto">
                                         <span>Campus Life</span>
                                     </a>
@@ -469,7 +446,7 @@
                             </div>
                             <div class="col-6 text-center">
                                 <div class="gnc-bba-stat-box gnc-bba-stat-flex">
-                                    <a href="scholarships.php">
+                                    <a href="scholarships">
                                         <img src="https://cdn-icons-png.flaticon.com/128/3135/3135706.png" alt="Loan" width="auto" height="auto">
                                         <span>Scholarships</span>
                                     </a>
@@ -477,7 +454,7 @@
                             </div>
                             <div class="col-6 text-center">
                                 <div class="gnc-bba-stat-box gnc-bba-stat-flex">
-                                    <a href="placement-overview.php">
+                                    <a href="placement-overview">
                                         <img src="https://cdn-icons-png.flaticon.com/128/2490/2490332.png" alt="Scholarship" width="auto" height="auto">
                                         <span>Placements</span>
                                     </a>
@@ -493,7 +470,7 @@
                 <div class="gnc-bba-content-right">
                     <h2 class="fw-bold mb-4">Best BBA College in Dehradun, Uttarakhand – Guru Nanak College</h2>
                     <p class="text-muted">Choosing the right college is one of the most important decisions for students planning a career in business and management. If you are searching for a reliable and career-oriented BBA college in Dehradun, Guru Nanak College stands out as one of the most preferred institutions for management education in Uttarakhand.</p>
-                <p class="text-muted">Recognized for its academic excellence, practical learning approach, and strong placement support, Guru Nanak College offers a comprehensive Bachelor of Business Administration (BBA) program designed to prepare students for the real business world. With more than 16 years of educational experience, modern infrastructure, and industry-aligned curriculum, the college has established itself as a leading destination for students seeking <a href="https://gnc.edu.in/admissions.php">BBA admission Dehradun</a></p>
+                <p class="text-muted">Recognized for its academic excellence, practical learning approach, and strong placement support, Guru Nanak College offers a comprehensive Bachelor of Business Administration (BBA) program designed to prepare students for the real business world. With more than 16 years of educational experience, modern infrastructure, and industry-aligned curriculum, the college has established itself as a leading destination for students seeking <a href="https://gnc.edu.in/admissions">BBA admission Dehradun</a></p>
                     
                     <div class="gnc-bba-scope-wrap clearfix my-5">
                         <h3 class="gnc-bba-title-line">Scope</h3>
@@ -1485,7 +1462,7 @@
                 <div class="text-center text-lg-start">
                     <h2 class="section-title">Our latest <span>blogs</span></h2>
                     <p class="section-desc">Welcome to our blog section, where knowledge meets inspiration. Explore insightful articles, expert tips, and the latest trends in our field.</p>
-                    <a href="blog.php" class="view-all-btn">View All</a>
+                    <a href="blog" class="view-all-btn">View All</a>
                 </div>
                 <div class="slider-controls justify-content-center justify-content-lg-start">
                     <div class="bba-blog-prev">
@@ -1509,7 +1486,7 @@
                             return in_array('BBA', $post['tags']);
                         });
                         foreach ($bba_blogs as $post):
-                            $link = $post['url'] . ".php";
+                            $link = $post['url'];
                         ?>
                         <div class="swiper-slide">
                             <div class="blog-card">

@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best M.Sc Physics College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the pinnacle of M.Sc. Physics education in Dehradun, Uttarakhand. With an avantgarde curriculum, esteemed faculty, and...">
-    <link rel="canonical" href="https://www.gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Physics College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -1763,7 +1763,7 @@
             <div class="gnc-mb-journey-content">
                 <div class="gnc-mb-journey-title-box" data-aos="fade-right" data-aos-duration="500">
                     <h2 class="gnc-mb-title-h2 text-white">Inspiring Stories of Our M.Sc. Physics Students’ Journeys</h2>
-                    <a href="https://gnc.edu.in/placement-overview.php"
+                    <a href="https://gnc.edu.in/placement-overview"
                         class="btn-gnc  bg-white border-0 mt-3">VIEW ALL Stories →</a>
                 </div>
 
@@ -1818,7 +1818,7 @@
                                 <div class="gnc-mb-feature-body">
                                     <h3 class="gnc-mb-title-h3">Explore a Wide Range <br>of Courses After 12th</h3>
                                     <p>Find the right professional course to start your career journey with confidence.</p>
-                                    <a href="https://gnc.edu.in/after-12.php" class="gnc-mb-feature-btn">VIEW COURSES →</a>
+                                    <a href="https://gnc.edu.in/after-12" class="gnc-mb-feature-btn">VIEW COURSES →</a>
                                 </div>
                             </div>
                         </div>
@@ -1830,7 +1830,7 @@
                                 <div class="gnc-mb-feature-body">
                                     <h3 class="gnc-mb-title-h3">Unfold Your Career<br> with Career Buddy Club</h3>
                                     <p>Get 100% Job Guarantee with our Power Degree Program. Personalized mentorship and industry-integrated training.</p>
-                                    <a href="https://gnc.edu.in/unfold-cbc.php" class="gnc-mb-feature-btn">LEARN MORE →</a>
+                                    <a href="https://gnc.edu.in/unfold-cbc" class="gnc-mb-feature-btn">LEARN MORE →</a>
                                 </div>
                             </div>
                         </div>

@@ -341,7 +341,7 @@ if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Blogs & Activities</title>
   <meta name="description" content="A static blog index built with HTML, CSS, PHP and vanilla JS.">
-  <link rel="canonical" href="https://www.gnc.edu.in">
+  <link rel="canonical" href="https://gnc.edu.in">
   <link rel="icon" type="image/webp" href="images/logog.webp">
 </head>
 

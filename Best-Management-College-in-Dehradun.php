@@ -7,7 +7,7 @@
     <meta name="description" content="Best BBA college in Dehradun, Uttarakhand at Guru Nanak College. UTU affiliated BBA program with 100% placement support and top industry exposure.">
     <meta name="keywords" content="Best BBA College in Dehradun, BBA College in 
 Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-Management-College-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/Best-Management-College-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Management College in Dehradun" />
@@ -24,29 +24,53 @@ Uttarakhand" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
-    <script type="application/ld+json"> 
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-    { 
-      "@type": "Question", 
-      "name": "What management program does GNC offer?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Guru Nanak College offers BBA (Bachelor of Business Administration) under  the Business School, a 3-year undergraduate program focused on management fundamentals." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "What placement support is available for BBA students at GNC?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Guru Nanak College's placement cell provides BBA students with internship  opportunities, campus recruitment drives, and pre-placement training sessions with industry  partners." 
-      } 
-    } 
-  ] 
-} 
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1. Why choose Guru Nanak College for BBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The BBA program at GNC blends academic knowledge with practical business exposure, preparing students for leadership and entrepreneurial roles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2. What is the duration and eligibility for BBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The BBA program is 3 years long and open to students who have passed 10+2 in any stream with at least 45% marks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3. What kind of placements are offered after BBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students can work in marketing, finance, HR, or management roles in leading organizations, or pursue MBA and other higher studies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "4. Does the college provide internship opportunities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, GNC offers internships, industry visits, and live projects to help students gain real-world business experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "5. How can I apply for the BBA program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can apply online through www.gnc.edu.in and complete the admission process as per college guidelines"
+      }
+    }
+  ]
+}
 </script> 
 
     <script type="application/ld+json">
@@ -704,7 +728,7 @@ Uttarakhand" />
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong>Business Analyst, Marketing Executive, HR Manager, Financial Consultant, Entrepreneur.
                                     </p>
-                                    <a href="best-bba-college-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-bba-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                         </div>

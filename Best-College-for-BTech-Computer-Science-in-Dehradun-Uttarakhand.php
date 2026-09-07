@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Apply for B.Tech Computer Science Engineering Admission 2026 at Guru Nanak College Dehradun. AI, Data Science, placements and career support">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords"
         content="B.Tech CSE Admission 2026, B.Tech Computer Science Engineering Dehradun, Best BTech College in Dehradun, B.Tech CSE Guru Nanak College, engineering placements Dehradun" />
@@ -561,6 +561,47 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is admission open for 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, B.Tech CSE admission for the 2026 academic session is currently open. Candidates are encouraged to apply early to secure their preference."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the program approved?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the program strictly follows AICTE norms and university guidelines, ensuring a high standard of technical education."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are internships included in the program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, students receive multiple internship and live project opportunities to gain hands-on experience before graduation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the placement opportunities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our students receive full placement support, including specialized training in aptitude, coding skills, and direct industry exposure through recruitment drives."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>
@@ -622,7 +663,7 @@
                             <div class="row g-0 gnc-bba-stat-row">
                                 <div class="col-6 text-center">
                                     <div class="gnc-bba-stat-box gnc-bba-stat-flex">
-                                        <a href="admissions.php">
+                                        <a href="admissions">
                                             <img src="https://cdn-icons-png.flaticon.com/128/2941/2941658.png"
                                                 alt="Study Abroad" width="auto" height="auto">
                                             <span>Admissions</span>
@@ -631,7 +672,7 @@
                                 </div>
                                 <div class="col-6 text-center">
                                     <div class="gnc-bba-stat-box gnc-bba-stat-flex">
-                                        <a href="campus-life.php">
+                                        <a href="campus-life">
                                             <img src="https://cdn-icons-png.flaticon.com/128/942/942799.png"
                                                 alt="Program" width="auto" height="auto">
                                             <span>Campus Life</span>
@@ -640,7 +681,7 @@
                                 </div>
                                 <div class="col-6 text-center">
                                     <div class="gnc-bba-stat-box gnc-bba-stat-flex">
-                                        <a href="scholarships.php">
+                                        <a href="scholarships">
                                             <img src="https://cdn-icons-png.flaticon.com/128/3135/3135706.png"
                                                 alt="Loan" width="auto" height="auto">
                                             <span>Scholarships</span>
@@ -649,7 +690,7 @@
                                 </div>
                                 <div class="col-6 text-center">
                                     <div class="gnc-bba-stat-box gnc-bba-stat-flex">
-                                        <a href="placement-overview.php">
+                                        <a href="placement-overview">
                                             <img src="https://cdn-icons-png.flaticon.com/128/2490/2490332.png"
                                                 alt="Scholarship" width="auto" height="auto">
                                             <span>Placements</span>

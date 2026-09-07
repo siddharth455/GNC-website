@@ -800,6 +800,63 @@ ul{list-style:none}
 }
 .curr-gallery-item:hover .curr-gallery-cap{opacity:1;transform:translateY(0)}
 </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the eligibility for Post Basic Nursing at GNC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candidates must have completed a General Nursing and Midwifery (GNM) diploma or equivalent from a recognized nursing institution with a minimum of 50% marks in the GNM program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Post Basic Nursing at GNC approved by INC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the P.B.B.Sc. Nursing program at Guru Nanak College is fully approved by the Indian Nursing Council (INC) and is affiliated with Hemvati Nandan Bahuguna Garhwal University (HNBGU)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the total fee for the 2-year program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The all-inclusive course fee is ₹1,00,000 per year. Over 2 years, the total course fee is ₹2,00,000. This includes registration, lab, library, transport, uniforms, events, and more. Hostel fees are additional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are scholarships available for Post Basic Nursing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Merit scholarships range from 10% to Tuition Fee Waiver (TFW) for Uttarakhand domicile students. Extra 10% is available for girl candidates, orphan students, and GNC siblings. Scholarships can be combined."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the career options after P.B.B.Sc. Nursing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can pursue careers as advanced Registered Nurses, ICU/ER specialists, nursing managers, nurse educators, public health workers, and international nursing roles in GCC, UK, USA, Canada, and Australia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is hostel facility available at GNC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, GNC has separate fully-equipped hostels for boys and girls. Room options include single, double, triple, and four-sharing with and without meal packages. One-time enrollment fee is ₹5,000."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
 

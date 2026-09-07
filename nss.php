@@ -5,7 +5,7 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College Dehradun, Uttarakhand | National | GNC</title>
     <meta name="description" content="The National Service Scheme (NSS) at Guru Nanak College, Dehradun, is a studentcentered program that operates under the Ministry of Youth Affairs and...">
-    <link rel="canonical" href="https://www.gnc.edu.in/vision-mission">
+    <link rel="canonical" href="https://gnc.edu.in/vision-mission">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | National Service Scheme" />

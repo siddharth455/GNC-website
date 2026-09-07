@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study B.Sc Agriculture, Forestry, M.Sc Agronomy & Horticulture at Guru Nanak College Dehradun. Expert faculty, modern farms & placements. Admissions 2026." />
     <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Agriculture College in Dehradun, Uttarakhand" />
@@ -25,30 +25,53 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-<script type="application/ld+json"> 
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-                                      
-    { 
-      "@type": "Question", 
-      "name": "What agriculture programs does GNC offer?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Guru Nanak College offers B.Sc. Agriculture, B.Sc. Forestry at the  undergraduate level, and M.Sc. Agronomy and M.Sc. Horticulture at the postgraduate level." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "Is the B.Sc. Agriculture program at GNC ICAR recognised?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Guru Nanak College's agriculture programs follow ICAR-aligned curriculum  standards, providing students with practical farming exposure and research training." 
-      } 
-    } 
-  ] 
-} 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1. Why choose Guru Nanak College for Agriculture studies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GNC provides quality agricultural education with modern labs, research farms, and expert faculty focused on practical and sustainable learning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2. What are the eligibility criteria for B.Sc Agriculture and Forestry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candidates must have passed 10+2 with PCB/PCM or Agriculture subjects and scored at least 45% marks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3. What are the career opportunities after M.Sc Agronomy or M.Sc Horticulture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Postgraduates can work as Agronomists, Researchers, Agricultural Consultants, or pursue Ph.D. programs and government roles in agriculture departments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "4. Does the college provide field and research exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, students participate in field visits, live projects, and farm-based practical training to gain real-world agricultural experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "5. How can I apply for admission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students can apply online through www.gnc.edu.in and upload all necessary academic documents for admission consideration."
+      }
+    }
+  ]
+}
 </script>
 
     <script type="application/ld+json">
@@ -790,7 +813,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB/PCM/Agri. (minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Agriculture Officer, Agronomist, Research Assistant, Agripreneur, Government Sector Roles</p>
-                                    <a href="agriculture-science.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="agriculture-science" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -801,7 +824,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with Science (PCB/PCM)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Forest Officer, Wildlife Conservationist, Environmental Consultant, Researcher</p>
-                                    <a href="Best-Bsc-Forestry-colleges-in-Dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-Bsc-Forestry-colleges-in-Dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -820,7 +843,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc Agriculture or equivalent with minimum 45%.</li>
                                     </ul>
                                     <p class="text-muted mb-5 leading-relaxed">A 2-year postgraduate program specializing in crop production, soil management, irrigation techniques, and modern agronomic research methodologies.</p>
-                                    <a href="Best-Msc-Agronomy-Colleges-in-Dehradun.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-Msc-Agronomy-Colleges-in-Dehradun" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -831,7 +854,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc Agriculture/Horticulture or related discipline (min. 45%)</li>
                                     </ul>
                                     <p class="text-muted mb-5 leading-relaxed">Focuses on fruit science, vegetable production, floriculture, and post-harvest technology to enhance productivity and sustainability in horticultural industries.</p>
-                                    <a href="msc-horticulture.php" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-horticulture" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                         </div>

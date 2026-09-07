@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best Master of Physiotherapy | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Looking for the best MPT college in Dehradun, Uttarakhand? Guru Nanak College offers top-ranked Master of Physiotherapy programs with expert faculty,...">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php">
+    <link rel="canonical" href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best MPT College in Dehradun, Uttarakhand, India – Guru Nanak College (GNC Dehradun)"/>
@@ -606,7 +606,7 @@ well-being</p>
                             <div class="list-item"><i class="fa-solid fa-circle"></i> Industry-focused programs</div>
                             <div class="list-item"><i class="fa-solid fa-circle"></i> Modern labs and infrastructure.</div>
                             <div class="list-item" style="border:none"><i class="fa-solid fa-circle"></i> Practical and skill-based learning</div>
-                            <button class="action-btn" onclick="window.location.href='academic-overview.php'">
+                            <button class="action-btn" onclick="window.location.href='academic-overview'">
                                 Explore More <i class="fa-solid fa-arrow-right ms-2"></i>
                             </button>
                         </div>
@@ -619,7 +619,7 @@ well-being</p>
                             <div class="list-item"><i class="fa-solid fa-check-double"></i> Uttarakhand Domicile</div>
                             <div class="list-item"><i class="fa-solid fa-check-double"></i> Sports Category</div>
                             <div class="list-item" style="border:none"><i class="fa-solid fa-check-double"></i> Social Service (NCC/NSS)</div>
-                            <button class="action-btn" onclick="window.location.href='scholarships.php'">
+                            <button class="action-btn" onclick="window.location.href='scholarships'">
                                 View Schemes <i class="fa-solid fa-arrow-right ms-2"></i>
                             </button>
                         </div>

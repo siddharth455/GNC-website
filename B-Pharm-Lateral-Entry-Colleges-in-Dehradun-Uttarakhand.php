@@ -6,7 +6,7 @@
     <title>Best B.Pharma Lateral Entry College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Step into a world of pharmaceutical excellence at Guru Nanak College, the premier destination for B.Pharma (Lateral Entry) in Dehradun, Uttarakhand....">
-    <link rel="canonical" href="https://www.gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best B.Pharm Lateral Entry College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -1165,6 +1165,55 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is eligible for the B.Pharm Lateral Entry program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students who have successfully completed a Diploma in Pharmacy (D.Pharm) from a recognized institution are eligible to apply for the B.Pharm Lateral Entry program. This allows them to directly enter the second year of the B.Pharm degree."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the duration of the B.Pharm Lateral Entry course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The B.Pharm Lateral Entry program is a 3-year undergraduate degree course, as students are admitted directly into the second year (3rd semester) of the standard 4-year B.Pharm program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What career opportunities are available after completing B.Pharm Lateral Entry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can explore diverse career paths, including Licensed Pharmacist, Quality Control (QC) Analyst, Quality Assurance (QA) Officer, Clinical Research Associate, Drug Safety Associate, and Regulatory Affairs Officer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can B.Pharm Lateral Entry students pursue higher education?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, after completing the B.Pharm degree, students can pursue higher education such as M.Pharm, Pharm.D (Post Baccalaureate), MBA in Pharma Management, or research-based programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is practical training included in the Lateral Entry program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Practical training is a core component of the curriculum. Students gain hands-on experience in advanced laboratories, clinical settings, and through industrial training programs to ensure they are industry-ready."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
     <?php require("common/header.php"); ?>

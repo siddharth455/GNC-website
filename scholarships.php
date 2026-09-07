@@ -7,7 +7,7 @@
     <title>Scholarships – Empowering Student Dreams | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="At Guru Nanak College (GNC) in Dehradun, we believe in empowering students by providing them with opportunities to achieve their academic dreams. Our...">
-    <link rel="canonical" href="https://www.gnc.edu.in/scholarships">
+    <link rel="canonical" href="https://gnc.edu.in/scholarships">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40eBKSF5+oHw/Nn3tI8EHM649+sKkIpfGv+zJ2tM6j1f+P/L8Q0H/q2/V/Lq/G1T0I9/uUq5zW" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
         /* Define common variables */

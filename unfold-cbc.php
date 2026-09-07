@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/csss.css/about.css">
     <link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.2/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.3/components/blogs/blog-3/assets/css/blog-3.css">
-  <link rel="canonical" href="https://www.gnc.edu.in/unfold-cbc">
+  <link rel="canonical" href="https://gnc.edu.in/unfold-cbc">
 </head>
 
 <body>

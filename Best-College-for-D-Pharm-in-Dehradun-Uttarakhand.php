@@ -6,7 +6,7 @@
     <title>Best D.Pharm College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the best college for a Diploma in Pharmacy in Dehradun,Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and...">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best D.Pharm College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -1221,6 +1221,55 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is eligible for the D.Pharm program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Biology/Mathematics from a recognized board with at least 45% marks (40% for reserved categories)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the duration of the D.Pharm course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Diploma in Pharmacy (D.Pharm) is a 2-year diploma program followed by mandatory practical training."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What career opportunities are available after completing D.Pharm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can work as Pharmacists in hospitals or retail pharmacies, Medical Representatives, Production Technicians, or start their own pharmacy business."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pursue B.Pharm after D.Pharm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, D.Pharm holders are eligible for Lateral Entry into the second year of the B.Pharm program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is practical training included in the D.Pharm program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as per PCI regulations, D.Pharm students must complete mandatory practical training in a hospital or pharmacy after finishing their two-year academic course to become a registered pharmacist."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
     <?php require("common/header.php"); ?>

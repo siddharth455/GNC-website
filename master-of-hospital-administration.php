@@ -6,7 +6,7 @@
     <title>Best MHA College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Master of Hospital Administration (MHA) at Guru Nanak College, Dehradun. Top MHA college in Uttarakhand offering expert faculty and hands-on clinical training.">
-    <link rel="canonical" href="https://www.gnc.edu.in/master-of-hospital-administration">
+    <link rel="canonical" href="https://gnc.edu.in/master-of-hospital-administration">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Master of Hospital Administration College in Dehradun | GNC" />
@@ -780,49 +780,45 @@
         }
     </style>
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Course",
-          "name": "Master of Hospital Administration (MHA)",
-          "description": "A 2-year postgraduate program in hospital administration and healthcare management.",
-          "provider": {
-            "@type": "EducationalOrganization",
-            "name": "Guru Nanak College",
-            "url": "https://gnc.edu.in/"
-          },
-          "hasCourseInstance": {
-            "@type": "CourseInstance",
-            "duration": "P2Y",
-            "courseMode": "Full-time",
-            "location": "Dehradun, Uttarakhand"
-          }
-        },
-        {
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "name": "What is the duration of the Master of Hospital Administration (MHA) program at Guru Nanak College?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "The MHA program at Guru Nanak College is a 2-year postgraduate degree program divided into 4 semesters."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What are the career opportunities after completing MHA at GNC Dehradun?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Graduates can work as Hospital Administrators, Healthcare Quality Managers, Clinical Operations Managers, and Healthcare Consultants in top private and government hospitals."
-              }
-            }
-          ]
-        }
-      ]
+      "@type": "Question",
+      "name": "Is admission open for MHA 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Master of Hospital Administration (MHA) admission for the 2026 academic session is currently open. Candidates are encouraged to apply early to secure their preference in this specialized healthcare leadership program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the eligibility for the MHA program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candidates should have a graduation degree in any stream from a recognized university with at least 45% marks (40% for SC/ST candidates) to be eligible for the Master of Hospital Administration program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are hospital internships included in the MHA curriculum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, internships are a core part of our MHA program. Students gain hands-on experience in various hospital departments, learning clinical operations, quality management, and strategic administration first-hand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What career roles can I expect after MHA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can pursue roles such as Hospital Administrator, Healthcare Consultant, Operations Manager, Quality Manager, and Healthcare Policy Analyst in top-tier hospitals, consulting firms, and healthcare NGOs."
+      }
     }
-    </script>
+  ]
+}
+</script>
 </head>
 
 <body>

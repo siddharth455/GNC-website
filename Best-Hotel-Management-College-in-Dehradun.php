@@ -7,7 +7,7 @@
     <meta name="description" content="Guru Nanak College offers Diploma in Hotel Management in Dehradun with industry training, modern kitchens & placement support. Admissions 2026 open." />
     <meta name="keywords" content="Best Hotel Management College in Dehradun, DHM 
 College in Uttarakhand" />
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-Hotel-Management-College-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Hotel Management College in Dehradun" />
@@ -25,29 +25,53 @@ College in Uttarakhand" />
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
     
-<script type="application/ld+json"> 
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-    { 
-      "@type": "Question", 
-      "name": "What hotel management course does GNC offer?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Guru Nanak College offers a Diploma in Hotel Management (DHM), a focused  program covering front office, food production, housekeeping, and hospitality operations." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "Does GNC provide hotel placement support?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Yes. Guru Nanak College's placement cell has industry tie-ups to support  hotel management students with internships and job placements in hospitality brands." 
-      } 
-    } 
-  ] 
-} 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1. Why choose Guru Nanak College for Hotel Management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Guru Nanak College offers practical-based learning, expert faculty, and exposure to top hospitality brands, ensuring career-ready graduates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2. What is the eligibility for the Diploma in Hotel Management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candidates must have completed 10+2 in any stream with at least 45% marks from a recognized board."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3. Does the college provide internship opportunities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, students undergo internships in reputed hotels and hospitality establishments as part of their course curriculum."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "4. Are placement services available after completing the diploma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the college offers dedicated placement assistance with leading hospitality groups across India and abroad."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "5. What facilities are available for Hotel Management students?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Facilities include training kitchens, bakery, restaurant setup, front office labs, and housekeeping mock rooms for hands-on learning."
+      }
+    }
+  ]
+}
 </script> 
 
     <script type="application/ld+json">
@@ -708,7 +732,7 @@ College in Uttarakhand" />
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong>Hotel Manager, Front Office Executive, Chef, Food & Beverage Manager, Travel Consultant
                                     </p>
-                                    <a href="best-bba-college-in-dehradun.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-bba-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                         </div>

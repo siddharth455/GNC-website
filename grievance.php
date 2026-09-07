@@ -8,7 +8,7 @@
     <title>Grievance || Guru Nanak College Dehradun</title>
   <meta name="description" content="Submit and track grievances at Guru Nanak College Dehradun. We are committed to addressing student, staff and stakeholder concerns promptly.">
 
-    <link rel="canonical" href="https://www.gnc.edu.in/grievance">
+    <link rel="canonical" href="https://gnc.edu.in/grievance">
  </head>
 <style>
     .nav-pills {

@@ -29,8 +29,8 @@
                         <li><a href="https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand">Health Science</a></li>
                         <li><a href="https://www.gnc.edu.in/approvals-accreditation-memberships">Approvals &amp; Accreditation</a></li>
                         <li><a href="https://www.gnc.edu.in/admissions">Admission Overview</a></li>
-                        <li><a href="grievance.php">Grievance & Redressal Cell</a></li>
-                        <li><a href="AICTE-documents.php">AICTE Documents</a></li>
+                        <li><a href="grievance">Grievance & Redressal Cell</a></li>
+                        <li><a href="AICTE-documents">AICTE Documents</a></li>
                         <li><a href="https://www.aicte-india.org/feedback/index.php">AICTE Feedback</a></li>
 
                     </ul>
@@ -44,8 +44,8 @@
                         <li><a href="https://www.gnc.edu.in/iai">Industry-Academia Interface</a></li>
                         <li><a href="https://www.gnc.edu.in/scholarships">Scholarships</a></li>
                         <li><a href="https://www.gnc.edu.in/cultural">Cultural Activities</a></li>
-                        <li><a href="https://www.gnc.edu.in/upload/GNC-fee-structure-2025-26.pdf">Fee Structure</a></li>
-                        <li><a href="global-learning.php">CBC-Global Pathways</a></li>
+                        <li><a href="https://gnc.edu.in/upload/pdf/fee-structure-2026-27.pdf">Fee Structure</a></li>
+                        <li><a href="global-learning">CBC-Global Pathways</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-sm-4 col-lg-3">
@@ -57,7 +57,7 @@
                         <li><a href="https://www.gnc.edu.in/about-us">About Us</a></li>
                         <li><a href="https://wa.me/917300900900?text=Hi GNC" target="_blank">Chat on WhatsApp</a></li>
                         <li><a href="https://gnc.edu.in/careers">Careers</a></li>
-                        <li><a href="alumni.php">Alumni</a></li>
+                        <li><a href="alumni">Alumni</a></li>
 
                     </ul>
                 </div>
@@ -72,8 +72,8 @@
                 <div class="col-12 col-lg-6 col-md-7 nirf-links">
                     <ul class="m-0 list-unstyled d-flex justify-content-between">
                         <!-- <li><a href="assets/upload/nats.pdf" target="_blank">NATS</a></li>
-                        <li><a href="anti-ragging-policy/anti-ragging-policy.php">Anti-Ragging</a></li>
-                        <li><a href="anti-ragging-policy/national-ragging-prevention-programme.php">National Ragging Prevention Programme</a></li> -->
+                        <li><a href="anti-ragging-policy/anti-ragging-policy">Anti-Ragging</a></li>
+                        <li><a href="anti-ragging-policy/national-ragging-prevention-programme">National Ragging Prevention Programme</a></li> -->
                         <li>
                             <p class="mt-1">© All rights reserved 2025</p>
                         </li>

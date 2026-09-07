@@ -6,7 +6,7 @@
     <title>Best B Pharma College in Dehradun | B.Pharm | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty and top placements.">
-    <link rel="canonical" href="https://www.gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best B.Pharm College in Dehradun — Admission 2026"/>
@@ -1189,26 +1189,34 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is the duration of the B.Pharm course at Guru Nanak College Dehradun?",
+          "name": "Is admission open for B.Pharm 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Bachelor of Pharmacy (B.Pharm) is a 4-year undergraduate degree program spread across 8 semesters."
+            "text": "Yes, Bachelor of Pharmacy (B.Pharm) admission for the 2026 academic session is currently open. Candidates are encouraged to apply early to secure their preference in this specialized pharmaceutical program."
           }
         },
         {
           "@type": "Question",
-          "name": "Is Guru Nanak College PCI approved for B.Pharmacy in Uttarakhand?",
+          "name": "What is the eligibility for the B.Pharm program?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, Guru Nanak College's School of Pharmacy is approved by the Pharmacy Council of India (PCI) and affiliated with Uttarakhand Technical University."
+            "text": "Candidates should have completed 10+2 with Physics and Chemistry as compulsory subjects along with Mathematics or Biology, with at least 45% marks (40% for SC/ST candidates) from a recognized board."
           }
         },
         {
           "@type": "Question",
-          "name": "What are the career prospects after completing B.Pharm in Dehradun?",
+          "name": "Are laboratory practicals and internships included in the B.Pharm curriculum?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Graduates can work as Pharmacists, Quality Control Analysts, Regulatory Affairs Executives, Production Managers, and Clinical Research Associates in top pharma firms."
+            "text": "Yes, practical training in our state-of-the-art labs and industrial internships are core parts of our B.Pharm program. Students gain hands-on experience in drug formulation, analysis, and clinical research."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What career roles can I expect after B.Pharm?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Graduates can pursue roles such as Registered Pharmacist, Drug Inspector, Quality Control Associate, Clinical Research Coordinator, Production Manager in pharmaceutical industries, and Healthcare Consultant."
           }
         }
       ]

@@ -862,7 +862,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <marquee behavior="scroll" direction="left">
           <i class="fa-solid fa-circle-arrow-right"></i>
           Disclaimer: This is our official website. There is no other website for any admission to Guru Nanak College, Jhajra, Dehradun. Please do not send any amount to any account other than the official one.
-          <a href="bank-details.php" class="btn btn-danger btn-sm ms-2" style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE for account details</a> 
+          <a href="bank-details" class="btn btn-danger btn-sm ms-2" style="background:#0f9af1;color:#fff;padding:2px 8px;border-radius:4px;text-decoration:none;">CLICK HERE for account details</a> 
         </marquee>
       </div>
       
@@ -880,18 +880,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- Middle Logo + Links -->
     <div class="middle-bar">
-      <a class="navbar-brand" href="index.php">
+      <a class="navbar-brand" href="./">
         <img src="images/logo.webp" alt="Guru Nanak College logo" width="180">
       </a>
       <div class="middle-right">
         <ul class="top-links">
           <li><a href="https://student.gncdehradun.com/" target="_blank" rel="noopener noreferrer">Student ERP Login</a></li>
           <li><a href="https://staff.gncdehradun.com/" target="_blank" rel="noopener noreferrer">Staff ERP Login</a></li>
-          <li><a href="library.php">Library</a></li>
-          <li><a href="careers.php">Careers</a></li>
-          <li><a href="alumni.php">Alumni</a></li>
-          <li><a href="contact.php"> Contact Us</a></li>
-          <li><a href="blog.php"> Blog</a></li>
+          <li><a href="library">Library</a></li>
+          <li><a href="careers">Careers</a></li>
+          <li><a href="alumni">Alumni</a></li>
+          <li><a href="contact"> Contact Us</a></li>
+          <li><a href="blog"> Blog</a></li>
           
         </ul>
       </div>
@@ -916,16 +916,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="dropdown-column">
                 <h4>About Guru Nanak College</h4>
                 <ul>
-                  <li><a href="about-us.php">The Guru Nanak College</a></li>
-                  <li><a href="leadership.php">Leadership</a></li>
+                  <li><a href="about-us">The Guru Nanak College</a></li>
+                  <li><a href="leadership">Leadership</a></li>
                   <li>
-                    <a href="vision-mission.php">Vision &amp; Mission</a>
+                    <a href="vision-mission">Vision &amp; Mission</a>
                   </li>
                   <li>
-                    <a href="iai.php">Industry-Academia Interface</a>
+                    <a href="iai">Industry-Academia Interface</a>
                   </li>
                   <li>
-                    <a href="approvals-accreditation-memberships.php">Approvals,
+                    <a href="approvals-accreditation-memberships">Approvals,
                       Accreditation &amp; Memberships</a>
                   </li>
                 </ul>
@@ -934,15 +934,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h4>Related Links</h4>
                 <ul>
                   <li>
-                    <a href="admissions.php">Admissions</a>
+                    <a href="admissions">Admissions</a>
                   </li>
                   <li>
-                    <a href="scholarships.php">Scholarships</a>
+                    <a href="scholarships">Scholarships</a>
                   </li>
                   <li>
-                    <a href="campus-life.php">Campus Life</a>
+                    <a href="campus-life">Campus Life</a>
                   </li>
-                  <li><a href="contact.php">How to Reach Us?</a></li>
+                  <li><a href="contact">How to Reach Us?</a></li>
                 </ul>
               </div>
               <div class="dropdown-image">
@@ -975,80 +975,80 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="dropdown">
               <!-- Column 1 -->
               <div class="dropdown-column">
-                <h4><a href="Paramedical-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Paramedical Programs</a></h4>
+                <h4><a href="Paramedical-College-in-Dehradun-Uttarakhand" style="color: #0f9af1 !important;">Paramedical Programs</a></h4>
                 <ul>
-                  <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
-                  <li><a href="Best-bmlt-college-in-dehradun.php">Bachelor of Medical Laboratory Technology</a></li>
-                  <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand.php">Bachelor of Physiotherapy</a></li>
-                  <li><a href="Best-bsc-optometry-College-in-dehradun.php">Bachelor of Optometry</a></li>
-                  <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor of Operation Theatre Technology</a></li>
-                  <li><a href="masters-in-lab-technician.php">Master of Medical Laboratory Technology</a></li>
-                  <li><a href="Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
-                  <!-- <li><a href="Best-Diploma-in-Dialysis-Technology.php">Diploma in Dialysis Technology</a></li> -->
+                  <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
+                  <li><a href="Best-bmlt-college-in-dehradun">Bachelor of Medical Laboratory Technology</a></li>
+                  <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand">Bachelor of Physiotherapy</a></li>
+                  <li><a href="Best-bsc-optometry-College-in-dehradun">Bachelor of Optometry</a></li>
+                  <li><a href="Best-operation-theatre-technology-colleges-in-dehradun">Bachelor of Operation Theatre Technology</a></li>
+                  <li><a href="masters-in-lab-technician">Master of Medical Laboratory Technology</a></li>
+                  <li><a href="Best-MPT-Master-of-Physiotherapy-College">Master of Physiotherapy</a></li>
+                  <!-- <li><a href="Best-Diploma-in-Dialysis-Technology">Diploma in Dialysis Technology</a></li> -->
                 </ul>
               </div>
               <!-- Column 2 -->
               <div class="dropdown-column">
-                <h4><a href="Pharmacy-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Pharmacy Programs</a></h4>
+                <h4><a href="Pharmacy-College-in-Dehradun-Uttarakhand" style="color: #0f9af1 !important;">Pharmacy Programs</a></h4>
                 <ul>
-                  <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php">Bachelor of Pharmacy</a></li>
-                  <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php">Lateral Entry in B. Pharma</a></li>
-                  <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php">Diploma in Pharmacy</a></li>
+                  <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">Bachelor of Pharmacy</a></li>
+                  <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">Lateral Entry in B. Pharma</a></li>
+                  <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand">Diploma in Pharmacy</a></li>
                 </ul>
-                <h4><a href="Top-Health-Science-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Health Science</a></h4>
+                <h4><a href="Top-Health-Science-College-in-Dehradun-Uttarakhand" style="color: #0f9af1 !important;">Health Science</a></h4>
                 <ul>
-                  <li><a href="master-of-public-health.php">Master of Public Health</a></li>
-                  <li><a href="master-of-hospital-administration.php">Master of Hospital Administration</a></li>
+                  <li><a href="master-of-public-health">Master of Public Health</a></li>
+                  <li><a href="master-of-hospital-administration">Master of Hospital Administration</a></li>
                 </ul>
-                <h4><a href="Nursing-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Nursing Program</a></h4>
+                <h4><a href="Nursing-College-in-Dehradun-Uttarakhand" style="color: #0f9af1 !important;">Nursing Program</a></h4>
                 <ul>
-                  <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun.php">B.Sc. Nursing</a></li>
-                  <li><a href="best-gnm-college-in-dehradun.php">General Nursing and Midwifery</a></li>
-                  <li><a href="post-basic-nursing.php">Post Basic B.Sc. Nursing</a></li>
+                  <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun">B.Sc. Nursing</a></li>
+                  <li><a href="best-gnm-college-in-dehradun">General Nursing and Midwifery</a></li>
+                  <li><a href="post-basic-nursing">Post Basic B.Sc. Nursing</a></li>
                 </ul>
               </div>
               <!-- Column 3 -->
               <div class="dropdown-column">
-                <h4><a href="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Life & Allied Science</a></h4>
+                <h4><a href="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand" style="color: #0f9af1 !important;">Life & Allied Science</a></h4>
                 <ul>
-                  <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. Microbiology</a></li>
-                  <li><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></li>
-                  <li><a href="bsc-food-technology.php">B.Sc. Food Technology</a></li>
-                  <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. PCM</a></li>
-                  <li><a href="bsc-cbz.php">B.Sc. CBZ</a></li>
-                  <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand.php">B.Sc. Geology</a></li>
-                  <li><a href="msc-microbiology-Colleges-in-Dehradun.php">M.Sc. Microbiology</a></li>
-                  <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Food Technology</a></li>
-                  <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Chemistry</a></li>
-                  <li><a href="msc-physics-College-in-Dehradun-Uttarakhand.php">M.Sc. Physics</a></li>
-                  <li><a href="msc-botany-Colleges-in-Uttarakhand.php">M.Sc. Botany</a></li>
-                  <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Zoology</a></li>
+                  <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand">B.Sc. Microbiology</a></li>
+                  <li><a href="bsc-biotechnology">B.Sc. Biotechnology</a></li>
+                  <li><a href="bsc-food-technology">B.Sc. Food Technology</a></li>
+                  <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand">B.Sc. PCM</a></li>
+                  <li><a href="bsc-cbz">B.Sc. CBZ</a></li>
+                  <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand">B.Sc. Geology</a></li>
+                  <li><a href="msc-microbiology-Colleges-in-Dehradun">M.Sc. Microbiology</a></li>
+                  <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand">M.Sc. Food Technology</a></li>
+                  <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand">M.Sc. Chemistry</a></li>
+                  <li><a href="msc-physics-College-in-Dehradun-Uttarakhand">M.Sc. Physics</a></li>
+                  <li><a href="msc-botany-Colleges-in-Uttarakhand">M.Sc. Botany</a></li>
+                  <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand">M.Sc. Zoology</a></li>
                 </ul>
               </div>
               <!-- Column 4 -->
               <div class="dropdown-column">
-                <h4><a href="Best-College-For-Computer-Science-in-Dehradun.php" style="color: #0f9af1 !important;">Computer Sciences</a></h4>
+                <h4><a href="Best-College-For-Computer-Science-in-Dehradun" style="color: #0f9af1 !important;">Computer Sciences</a></h4>
                 <ul>
-                  <li><a href="Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li>
-                  <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
+                  <li><a href="Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand">B.Tech Computer Science</a></li>
+                  <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand">Bachelor of Computer Applications</a></li>
                   
                 </ul>
-                <h4><a href="Best-Management-College-in-Dehradun.php" style="color: #0f9af1 !important;">Business School</a></h4>
+                <h4><a href="Best-Management-College-in-Dehradun" style="color: #0f9af1 !important;">Business School</a></h4>
                 <ul>
-                  <li><a href="best-bba-college-in-dehradun.php">Bachelor of Business Administration</a></li>
+                  <li><a href="best-bba-college-in-dehradun">Bachelor of Business Administration</a></li>
                 </ul>
-                <h4><a href="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php" style="color: #0f9af1 !important;">Agriculture Science</a></h4>
+                <h4><a href="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand" style="color: #0f9af1 !important;">Agriculture Science</a></h4>
                 <ul>
-                  <li><a href="agriculture-science.php">B.Sc. Agriculture</a></li>
-                  <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun.php">B.Sc. Forestry</a></li>
-                  <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun.php">M.Sc. Agronomy</a></li>
-                  <li><a href="msc-horticulture.php">M.Sc. Horticulture</a></li>
+                  <li><a href="agriculture-science">B.Sc. Agriculture</a></li>
+                  <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun">B.Sc. Forestry</a></li>
+                  <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun">M.Sc. Agronomy</a></li>
+                  <li><a href="msc-horticulture">M.Sc. Horticulture</a></li>
                 </ul>
               </div>
               <div class="dropdown-column">
-                <h4><a href="Best-Hotel-Management-College-in-Dehradun.php" style="color: #0f9af1 !important;">Hotel Management</a></h4>
+                <h4><a href="Best-Hotel-Management-College-in-Dehradun" style="color: #0f9af1 !important;">Hotel Management</a></h4>
                 <ul>
-                  <li><a href="Best-DHM-Colleges-in-Dehradun.php">Diploma in Hotel Management</a></li>
+                  <li><a href="Best-DHM-Colleges-in-Dehradun">Diploma in Hotel Management</a></li>
                 </ul>
                
                 <!-- Right Section -->
@@ -1072,12 +1072,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="dropdown-column">
                 <h4>Academics</h4>
                 <ul>
-                  <li><a href="academic-overview.php">Academics Overview</a></li>
-                  <li><a href="college-and-department.php">Colleges & Departments</a></li>
-                  <li><a href="library.php">Libraries</a></li>
-                  <li><a href="lab.php">Lab Infrastructure</a></li>
-                  <li><a href="sport.php">Sports & Adventure</a></li>
-                  <li><a href="calendar.php">Academic Calendar</a></li>
+                  <li><a href="academic-overview">Academics Overview</a></li>
+                  <li><a href="college-and-department">Colleges & Departments</a></li>
+                  <li><a href="library">Libraries</a></li>
+                  <li><a href="lab">Lab Infrastructure</a></li>
+                  <li><a href="sport">Sports & Adventure</a></li>
+                  <li><a href="calendar">Academic Calendar</a></li>
                 </ul>
               </div>
               <div class="dropdown-image">
@@ -1112,17 +1112,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="dropdown-column">
                 <h4>Job Oriented Programs</h4>
                 <ul>
-                  <li><a href="after-12.php">After 12th</a></li>
-                  <li><a href="after-graduation.php">After Graduation</a></li>
-                  <li><a href="admissions.php">Admission Overview</a></li>
+                  <li><a href="after-12">After 12th</a></li>
+                  <li><a href="after-graduation">After Graduation</a></li>
+                  <li><a href="admissions">Admission Overview</a></li>
                 </ul>
               </div>
               <div class="dropdown-column">
                 <h4>Admission</h4>
                 <ul>
-                  <li><a href="iai.php">Industry-Academia Interface</a></li>
+                  <li><a href="iai">Industry-Academia Interface</a></li>
                   <li><a href="https://application.gnc.edu.in/">How to Apply</a></li>
-                  <li><a href="scholarships.php">Scholarships</a></li>
+                  <li><a href="scholarships">Scholarships</a></li>
                 </ul>
               </div>
               <div class="dropdown-image">
@@ -1150,7 +1150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </li>
           <li>
-            <a href="global-learning.php">CBC-Global Pathways</a>
+            <a href="global-learning">CBC-Global Pathways</a>
             
           </li>
           <li>
@@ -1160,10 +1160,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="dropdown-column">
                 <h4>A Home away from Home</h4>
                 <ul>
-                  <li><a href="campus-life.php">Campus Life Overview</a></li>
-                  <li><a href="cultural.php">Cultural Activities</a></li>
-                  <li><a href="nss.php">NSS</a></li>
-                  <li><a href="events.php">Events</a></li>
+                  <li><a href="campus-life">Campus Life Overview</a></li>
+                  <li><a href="cultural">Cultural Activities</a></li>
+                  <li><a href="nss">NSS</a></li>
+                  <li><a href="events">Events</a></li>
                 </ul>
               </div>
               <div class="dropdown-image">
@@ -1198,9 +1198,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="dropdown-column">
                 <h4>Placements</h4>
                 <ul>
-                  <li><a href="placement-overview.php">Placement Overview</a></li>
-                  <li><a href="corporate-partners.php">Corporate Partners</a></li>
-                  <li><a href="industrial-visit.php">Industrial Visit</a></li>
+                  <li><a href="placement-overview">Placement Overview</a></li>
+                  <li><a href="corporate-partners">Corporate Partners</a></li>
+                  <li><a href="industrial-visit">Industrial Visit</a></li>
                 </ul>
               </div>
               <div class="dropdown-image">
@@ -1235,8 +1235,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="dropdown-column">
                 <h4>Research Intensive College</h4>
                 <ul>
-                  <li><a href="research.php">Research Papers</a></li>
-                  <li><a href="research-committee.php">R & D Cell And Code of Ethics</a></li>
+                  <li><a href="research">Research Papers</a></li>
+                  <li><a href="research-committee">R & D Cell And Code of Ethics</a></li>
                 </ul>
               </div>
               <div class="dropdown-image">
@@ -1478,7 +1478,7 @@ document.addEventListener("DOMContentLoaded", function () {
   <!-- ================== MOBILE HEADER BAR ================== -->
   <div class="mobile-header-bar">
     <!-- Logo -->
-    <a class="mobile-logo" href="index.php">
+    <a class="mobile-logo" href="./">
       <img src="images/logo.webp" alt="Guru Nanak College logo" width="140">
     </a>
     <!-- Admission Helpline -->
@@ -1500,15 +1500,15 @@ document.addEventListener("DOMContentLoaded", function () {
       <li>
         <a href="#">About <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
         <ul class="mobile-dropdown">
-          <li><a href="about-us.php">The Guru Nanak College</a></li>
-          <li><a href="leadership.php">Leadership</a></li>
-          <li><a href="vision-mission.php">Vision & Mission</a></li>
-          <li><a href="iai.php">Industry-Academia Interface</a></li>
-          <li><a href="approvals-accreditation-memberships.php">Approvals & Memberships</a></li>
-          <li><a href="admissions.php">Admissions</a></li>
-          <li><a href="scholarships.php">Scholarships</a></li>
-          <li><a href="campus-life.php">Campus Life</a></li>
-          <li><a href="contact.php">How to Reach Us?</a></li>
+          <li><a href="about-us">The Guru Nanak College</a></li>
+          <li><a href="leadership">Leadership</a></li>
+          <li><a href="vision-mission">Vision & Mission</a></li>
+          <li><a href="iai">Industry-Academia Interface</a></li>
+          <li><a href="approvals-accreditation-memberships">Approvals & Memberships</a></li>
+          <li><a href="admissions">Admissions</a></li>
+          <li><a href="scholarships">Scholarships</a></li>
+          <li><a href="campus-life">Campus Life</a></li>
+          <li><a href="contact">How to Reach Us?</a></li>
         </ul>
       </li>
 
@@ -1517,92 +1517,92 @@ document.addEventListener("DOMContentLoaded", function () {
         <ul class="mobile-dropdown">
 
           <li>
-            <a href="Paramedical-College-in-Dehradun-Uttarakhand.php">Paramedical Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Paramedical-College-in-Dehradun-Uttarakhand">Paramedical Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun.php">B.Sc. Medical Radio Diagnosis & Imaging Technology</a></li>
-              <li><a href="Best-bmlt-college-in-dehradun.php">B.Sc. Medical Laboratory Technology</a></li>
-              <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand.php">Bachelor of Physiotherapy</a></li>
-              <li><a href="Best-bsc-optometry-College-in-dehradun.php">Bachelor of Optometry</a></li>
-              <li><a href="Best-operation-theatre-technology-colleges-in-dehradun.php">Bachelor of Operation Theatre Technology</a></li>
-              <li><a href="masters-in-lab-technician.php">M.Sc. Medical Laboratory Technology</a></li>
-              <li><a href="Best-MPT-Master-of-Physiotherapy-College.php">Master of Physiotherapy</a></li>
-              <!-- <li><a href="Best-Diploma-in-Dialysis-Technology.php">Diploma in Dialysis Technology</a></li> -->
+              <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">B.Sc. Medical Radio Diagnosis & Imaging Technology</a></li>
+              <li><a href="Best-bmlt-college-in-dehradun">B.Sc. Medical Laboratory Technology</a></li>
+              <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand">Bachelor of Physiotherapy</a></li>
+              <li><a href="Best-bsc-optometry-College-in-dehradun">Bachelor of Optometry</a></li>
+              <li><a href="Best-operation-theatre-technology-colleges-in-dehradun">Bachelor of Operation Theatre Technology</a></li>
+              <li><a href="masters-in-lab-technician">M.Sc. Medical Laboratory Technology</a></li>
+              <li><a href="Best-MPT-Master-of-Physiotherapy-College">Master of Physiotherapy</a></li>
+              <!-- <li><a href="Best-Diploma-in-Dialysis-Technology">Diploma in Dialysis Technology</a></li> -->
             </ul>
           </li>
 
           <li>
-            <a href="Pharmacy-College-in-Dehradun-Uttarakhand.php">Pharmacy Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Pharmacy-College-in-Dehradun-Uttarakhand">Pharmacy Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php">Bachelor of Pharmacy</a></li>
-              <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php">Lateral Entry in B. Pharma</a></li>
-              <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php">Diploma in Pharmacy</a></li>
+              <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">Bachelor of Pharmacy</a></li>
+              <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">Lateral Entry in B. Pharma</a></li>
+              <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand">Diploma in Pharmacy</a></li>
             </ul>
           </li>
 
           <li>
-            <a href="Top-Health-Science-College-in-Dehradun-Uttarakhand.php">Health Science <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Top-Health-Science-College-in-Dehradun-Uttarakhand">Health Science <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="master-of-public-health.php">Master of Public Health</a></li>
-              <li><a href="master-of-hospital-administration.php">Master of Hospital Administration</a></li>
+              <li><a href="master-of-public-health">Master of Public Health</a></li>
+              <li><a href="master-of-hospital-administration">Master of Hospital Administration</a></li>
             </ul>
           </li>
 
           <li>
-            <a href="Nursing-College-in-Dehradun-Uttarakhand.php">Nursing Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Nursing-College-in-Dehradun-Uttarakhand">Nursing Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun.php">B.Sc. Nursing</a></li>
-              <li><a href="best-gnm-college-in-dehradun.php">General Nursing & Midwifery</a></li>
-              <li><a href="post-basic-nursing.php">Post Basic B.Sc. Nursing</a></li>
+              <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun">B.Sc. Nursing</a></li>
+              <li><a href="best-gnm-college-in-dehradun">General Nursing & Midwifery</a></li>
+              <li><a href="post-basic-nursing">Post Basic B.Sc. Nursing</a></li>
             </ul>
           </li>
 
           <li>
-            <a href="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php">Life & Allied Science <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand">Life & Allied Science <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. Microbiology</a></li>
-              <li><a href="bsc-biotechnology.php">B.Sc. Biotechnology</a></li>
-              <li><a href="bsc-food-technology.php">B.Sc. Food Technology</a></li>
-              <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php">B.Sc. PCM</a></li>
-              <li><a href="bsc-cbz.php">B.Sc. CBZ</a></li>
-              <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand.php">B.Sc. Geology</a></li>
-              <li><a href="msc-microbiology-Colleges-in-Dehradun.php">M.Sc. Microbiology</a></li>
-              <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Food Technology</a></li>
-              <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Chemistry</a></li>
-              <li><a href="msc-physics-College-in-Dehradun-Uttarakhand.php">M.Sc. Physics</a></li>
-              <li><a href="msc-botany-Colleges-in-Uttarakhand.php">M.Sc. Botany</a></li>
-              <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand.php">M.Sc. Zoology</a></li>
+              <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand">B.Sc. Microbiology</a></li>
+              <li><a href="bsc-biotechnology">B.Sc. Biotechnology</a></li>
+              <li><a href="bsc-food-technology">B.Sc. Food Technology</a></li>
+              <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand">B.Sc. PCM</a></li>
+              <li><a href="bsc-cbz">B.Sc. CBZ</a></li>
+              <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand">B.Sc. Geology</a></li>
+              <li><a href="msc-microbiology-Colleges-in-Dehradun">M.Sc. Microbiology</a></li>
+              <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand">M.Sc. Food Technology</a></li>
+              <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand">M.Sc. Chemistry</a></li>
+              <li><a href="msc-physics-College-in-Dehradun-Uttarakhand">M.Sc. Physics</a></li>
+              <li><a href="msc-botany-Colleges-in-Uttarakhand">M.Sc. Botany</a></li>
+              <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand">M.Sc. Zoology</a></li>
             </ul>
           </li>
 
           <li>
-            <a href="Best-College-For-Computer-Science-in-Dehradun.php">Computer Sciences <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Best-College-For-Computer-Science-in-Dehradun">Computer Sciences <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand.php">B.Tech Computer Science</a></li>
-              <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand.php">Bachelor of Computer Applications</a></li>
+              <li><a href="Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand">B.Tech Computer Science</a></li>
+              <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand">Bachelor of Computer Applications</a></li>
             </ul>
           </li>
 
           <li>
-            <a href="Best-Management-College-in-Dehradun.php">Business School <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Best-Management-College-in-Dehradun">Business School <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="best-bba-college-in-dehradun.php">Bachelor of Business Administration</a></li>
+              <li><a href="best-bba-college-in-dehradun">Bachelor of Business Administration</a></li>
             </ul>
           </li>
 
           <li>
-            <a href="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php">Agriculture Science<i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">Agriculture Science<i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="agriculture-science.php">B.Sc. Agriculture</a></li>
-              <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun.php">B.Sc. Forestry</a></li>
-              <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun.php">M.Sc. Agronomy</a></li>
-              <li><a href="msc-horticulture.php">M.Sc. Horticulture</a></li>
+              <li><a href="agriculture-science">B.Sc. Agriculture</a></li>
+              <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun">B.Sc. Forestry</a></li>
+              <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun">M.Sc. Agronomy</a></li>
+              <li><a href="msc-horticulture">M.Sc. Horticulture</a></li>
             </ul>
           </li>
 
           <li>
-            <a href="Best-Hotel-Management-College-in-Dehradun.php">Hotel Management<i class="fa-solid fa-chevron-down arrow-icon"></i></a>
+            <a href="Best-Hotel-Management-College-in-Dehradun">Hotel Management<i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
-              <li><a href="Best-DHM-Colleges-in-Dehradun.php">Diploma in Hotel Management</a></li>
+              <li><a href="Best-DHM-Colleges-in-Dehradun">Diploma in Hotel Management</a></li>
             </ul>
           </li>
 
@@ -1612,22 +1612,22 @@ document.addEventListener("DOMContentLoaded", function () {
       <li>
         <a href="#">Academics <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
         <ul class="mobile-dropdown">
-          <li><a href="academic-overview.php">Academic Overview</a></li>
-          <li><a href="college-and-department.php">Colleges & Departments</a></li>
-          <li><a href="library.php">Libraries</a></li>
-          <li><a href="lab.php">Lab Infrastructure</a></li>
-          <li><a href="sport.php">Sports & Adventure</a></li>
-          <li><a href="calendar.php">Academic Calendar</a></li>
+          <li><a href="academic-overview">Academic Overview</a></li>
+          <li><a href="college-and-department">Colleges & Departments</a></li>
+          <li><a href="library">Libraries</a></li>
+          <li><a href="lab">Lab Infrastructure</a></li>
+          <li><a href="sport">Sports & Adventure</a></li>
+          <li><a href="calendar">Academic Calendar</a></li>
         </ul>
       </li>
 
       <li>
         <a href="#">Admissions <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
         <ul class="mobile-dropdown">
-          <li><a href="after-12.php">After 12th</a></li>
-          <li><a href="after-graduation.php">After Graduation</a></li>
-          <li><a href="admissions.php">Admission Overview</a></li>
-          <li><a href="scholarships.php">Scholarships</a></li>
+          <li><a href="after-12">After 12th</a></li>
+          <li><a href="after-graduation">After Graduation</a></li>
+          <li><a href="admissions">Admission Overview</a></li>
+          <li><a href="scholarships">Scholarships</a></li>
           <li><a href="https://application.gnc.edu.in/">How to Apply</a></li>
         </ul>
       </li>
@@ -1635,37 +1635,37 @@ document.addEventListener("DOMContentLoaded", function () {
       <li>
         <a href="#">Campus Life <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
         <ul class="mobile-dropdown">
-          <li><a href="campus-life.php">Campus Life Overview</a></li>
-          <li><a href="cultural.php">Cultural Activities</a></li>
-          <li><a href="nss.php">NSS</a></li>
-          <li><a href="events.php">Events</a></li>
+          <li><a href="campus-life">Campus Life Overview</a></li>
+          <li><a href="cultural">Cultural Activities</a></li>
+          <li><a href="nss">NSS</a></li>
+          <li><a href="events">Events</a></li>
         </ul>
       </li>
 
       <li>
         <a href="#">Placements <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
         <ul class="mobile-dropdown">
-          <li><a href="placement-overview.php">Placement Overview</a></li>
-          <li><a href="corporate-partners.php">Corporate Partners</a></li>
-          <li><a href="industrial-visit.php">Industrial Visit</a></li>
+          <li><a href="placement-overview">Placement Overview</a></li>
+          <li><a href="corporate-partners">Corporate Partners</a></li>
+          <li><a href="industrial-visit">Industrial Visit</a></li>
         </ul>
       </li>
 
       <li>
         <a href="#">Research & Innovations <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
         <ul class="mobile-dropdown">
-          <li><a href="research.php">Research Papers</a></li>
-          <li><a href="research-committee.php">R & D Cell & Code of Ethics</a></li>
+          <li><a href="research">Research Papers</a></li>
+          <li><a href="research-committee">R & D Cell & Code of Ethics</a></li>
         </ul>
       </li>
-<li><a href="global-learning.php">CBC-Global Pathways</a></li>
+<li><a href="global-learning">CBC-Global Pathways</a></li>
       <li><a href="https://student.gncdehradun.com/AccSoft_GNC/" target="_blank" rel="noopener noreferrer">Student ERP Login</a></li>
       <li><a href="https://staff.gncdehradun.com/AccSoft_GNC/Login.aspx" target="_blank" rel="noopener noreferrer">Staff ERP Login</a></li>
-      <li><a href="library.php">Library</a></li>
-      <li><a href="careers.php">Careers</a></li>
-      <li><a href="alumni.php">Alumni</a></li>
-      <li><a href="contact.php">Contact Us</a></li>
-      <li><a href="blog.php">Blog</a></li>
+      <li><a href="library">Library</a></li>
+      <li><a href="careers">Careers</a></li>
+      <li><a href="alumni">Alumni</a></li>
+      <li><a href="contact">Contact Us</a></li>
+      <li><a href="blog">Blog</a></li>
     </ul>
   </nav>
 </header>

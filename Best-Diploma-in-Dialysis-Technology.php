@@ -10,7 +10,7 @@
 
 <meta name="description" content="Looking for the best Diploma in Dialysis Technology college in Dehradun, Uttarakhand? Guru Nanak College offers a 2-year diploma program with clinical...">
 
-<link rel="canonical" href="https://www.gnc.edu.in/Best-Diploma-in-Dialysis-Technology.php">
+<link rel="canonical" href="https://gnc.edu.in/Best-Diploma-in-Dialysis-Technology">
 
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />

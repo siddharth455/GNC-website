@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best B.Sc CBZ College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"content="Guru Nanak College, Dehradun's top college for B.Sc. CBZ. With an engaging curriculum, exceptional faculty, and vibrant academic community, Guru Nanak College ignites passion for chemistry, botany, and zoology, preparing students to excel in the dynamic scientific arena.">
-    <link rel="canonical" href="https://www.gnc.edu.in/Bsc-cbz">
+    <link rel="canonical" href="https://gnc.edu.in/Bsc-cbz">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title"content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
@@ -1727,7 +1727,7 @@
             <div class="gnc-mb-journey-content">
                 <div class="gnc-mb-journey-title-box" data-aos="fade-right" data-aos-duration="500">
                     <h2 class="gnc-mb-title-h2 text-white">Inspiring Stories of Our B.Sc. CBZ Students’ Journeys</h2>
-                    <a href="https://gnc.edu.in/placement-overview.php"
+                    <a href="https://gnc.edu.in/placement-overview"
                         class="btn-gnc  bg-white border-0 mt-3">VIEW ALL Stories →</a>
                 </div>
 
@@ -1791,7 +1791,7 @@
                                     <li>Diverse Cultural Events</li>
                                     <li>Advanced Sports Facilities</li>
                                 </ul>
-                                <a href="https://gnc.edu.in/campus-life.php" class="gnc-mb-feature-btn">EXPLORE →</a>
+                                <a href="https://gnc.edu.in/campus-life" class="gnc-mb-feature-btn">EXPLORE →</a>
                             </div>
                             <div class="gnc-mb-feature-img">
                                 <img src="images/campus-life.webp" alt="Campus Life" width="auto" height="auto">
@@ -1805,7 +1805,7 @@
                                 <p class="gnc-mb-text-p">Empowering meritorious students with generous financial aid
                                     programs based on
                                     academic excellence.</p>
-                                <a href="https://gnc.edu.in/scholarships.php" class="gnc-mb-feature-btn">VIEW →</a>
+                                <a href="https://gnc.edu.in/scholarships" class="gnc-mb-feature-btn">VIEW →</a>
                             </div>
                             <div class="gnc-mb-feature-img">
                                 <img src="upload/infra/placement.webp" alt="Scholarships" width="auto" height="auto">
@@ -1821,7 +1821,7 @@
                                     <li>1788+ Placement Drives</li>
                                     <li>Highest Package 1.01 CR</li>
                                 </ul>
-                                <a href="https://gnc.edu.in/placement-overview.php" class="gnc-mb-feature-btn">EXPLORE
+                                <a href="https://gnc.edu.in/placement-overview" class="gnc-mb-feature-btn">EXPLORE
                                     →</a>
                             </div>
                             <div class="gnc-mb-feature-img">
@@ -1836,7 +1836,7 @@
                                 <p class="gnc-mb-text-p">Our curriculum is meticulously designed to foster analytical
                                     prowess and research
                                     acumen.</p>
-                                <a href="https://gnc.edu.in/academic-overview.php" class="gnc-mb-feature-btn">VIEW
+                                <a href="https://gnc.edu.in/academic-overview" class="gnc-mb-feature-btn">VIEW
                                     →</a>
                             </div>
                             <div class="gnc-mb-feature-img">

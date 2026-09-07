@@ -6,7 +6,7 @@
     <title>Best Pharmacy College in Dehradun | B.Pharm & D.Pharm</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College is a leading pharmacy college in Dehradun offering PCI-aligned B.Pharm, D.Pharm & B.Pharm Lateral Entry (UTU affiliated). Apply 2026." />
-    <link rel="canonical" href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
     <meta name="keywords" content="Best Pharmacy College in Dehradun, Pharmacy College in Uttarakhand" />
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
@@ -27,37 +27,93 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-    <script type="application/ld+json"> 
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-    { 
-      "@type": "Question", 
-      "name": "Is the Pharmacy program at GNC approved by PCI?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Yes. Guru Nanak College's B.Pharma and D.Pharma programs are approved by the  Pharmacy Council of India (PCI)." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "Does GNC offer lateral entry for B.Pharma?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Yes. Guru Nanak College offers lateral entry admission into B.Pharma for  D.Pharma diploma holders, allowing direct entry into the second year." 
-      } 
-    }, 
-    { 
-      "@type": "Question", 
-      "name": "What is the duration of B.Pharma at GNC?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "B.Pharma at Guru Nanak College is a 4-year full-time program. D.Pharma is a  2-year diploma program." 
-      } 
-    } 
-  ] 
-} 
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1. Which is the best pharmacy college in Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Guru Nanak College, Dehradun is widely recognised among the best pharmacy colleges in Dehradun for its UTU affiliation, modern laboratories, experienced faculty, and industry-focused B.Pharm and D.Pharm programs that prepare students for successful careers in pharmacy and healthcare."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2. Is Guru Nanak College among the best pharmacy colleges in Uttarakhand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Guru Nanak College is considered one of the best pharmacy colleges in Uttarakhand due to its strong academic framework, practical training approach, and consistent placement support for pharmacy students across the state."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3. What pharmacy courses are offered at Guru Nanak College, Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The School of Pharmacy at GNC offers: Bachelor of Pharmacy (B.Pharm) – 4 years B.Pharm Lateral Entry – 3 years (for D.Pharm holders) Diploma in Pharmacy (D.Pharm) – 2 years All programs are designed to combine theoretical knowledge with hands-on laboratory and industry exposure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "4. What is the eligibility for B.Pharm admission at GNC Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Biology/Mathematics with a minimum of 45% marks (as per norms). For lateral entry, a D.Pharm from a PCI-approved institute is required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "5. Is the School of Pharmacy at Guru Nanak College affiliated and recognised?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the School of Pharmacy is affiliated with Uttarakhand Technical University (UTU) and follows academic guidelines aligned with the Pharmacy Council of India (PCI), ensuring recognised and credible pharmacy education."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "6. Does Guru Nanak College provide practical training and internships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, students receive extensive practical training through modern laboratories, along with internships, hospital exposure, and industry visits in collaboration with pharmaceutical companies and healthcare institutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "7. What are the career opportunities after completing pharmacy from GNC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can build careers as: Pharmacists & Drug Analysts Quality Control & Regulatory Affairs Officers Research Associates & Clinical Trial Specialists Medical Representatives & Healthcare Managers Many students also pursue higher studies like M.Pharm, MBA, or research programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "8. How are placements for pharmacy students at Guru Nanak College?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Guru Nanak College offers 100% placement assistance. Students get opportunities in pharmaceutical manufacturing companies, hospitals, research labs, and healthcare organisations across India."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "9. How can I apply for pharmacy admission at Guru Nanak College, Dehradun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can apply online through application.gnc.edu.in by filling out the application form and uploading required documents. Shortlisted candidates are contacted for counselling and admission confirmation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "10. What makes GNC one of the best pharmacy colleges in Uttarakhand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GNC stands out for its UTU affiliation, PCI-aligned industry-oriented curriculum, state-of-the-art laboratories, experienced faculty mentors, and strong placement network across the healthcare sector."
+      }
+    }
+  ]
+}
 </script> 
     <script type="application/ld+json">
         {
@@ -1119,7 +1175,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Pharmacist, Drug Analyst, Research Associate, Quality Control Officer, Medical Representative, Regulatory Executive.
                                     </p>
-                                    <a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -1134,7 +1190,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Production Chemist, Clinical Research Associate, Regulatory Affairs Executive, Quality Assurance Officer.
                                     </p>
-                                    <a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -1149,7 +1205,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Hospital Pharmacist, Pharmaceutical Assistant, Medical Representative, Health Inspector.
                                     </p>
-                                    <a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 

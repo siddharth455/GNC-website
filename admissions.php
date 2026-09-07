@@ -6,7 +6,7 @@
     <title>Online Registration Open For Admission | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join Guru Nanak College, Dehradun, for a future in Pharma, Paramedical, Nursing, and more. Seamless admission process with global opportunities.">
-    <link rel="canonical" href="https://www.gnc.edu.in/admissions">
+    <link rel="canonical" href="https://gnc.edu.in/admissions">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Admissions 2026 Open — Guru Nanak College Dehradun"/>
@@ -77,7 +77,7 @@
 				
                     <h2 class="mb-2 text-white">Up to 60% merit scholarship by Level of Education</h2>
                     <p class="text-white">In Keeping with Uttaranchal University's acknowledged commitment to promoting academic excellence, and to correspondingly <br>attract the brightest amongst the student's seeking admission to undergraduate and postgraduate programs, <br> the Uinversity offers an array of merit scholarships and need-based financial support.</p>
-                <a href="../about/scholarships.php" class="btn btn-lg btn-info btn-shadow mb-2" style="background-color: #00a0e9;color:white">View Scholarships <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>               
+                <a href="scholarships" class="btn btn-lg btn-info btn-shadow mb-2" style="background-color: #00a0e9;color:white">View Scholarships <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>               
 			   </div>
                 <div class="admissionScholarship__slider mt-2">
                     <div class="as-nav">

@@ -139,7 +139,7 @@ session_start();
             display: none;
         }
     </style>
-  <link rel="canonical" href="https://www.gnc.edu.in/alumni_registration">
+  <link rel="canonical" href="https://gnc.edu.in/alumni_registration">
 </head>
 
 <body>

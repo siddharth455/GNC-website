@@ -6,7 +6,7 @@
     <title>Guru Nanak College Dehradun, Uttarakhand | Industrial Visit</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Industrial visits and practical exposure at Guru Nanak College Dehradun, Uttarakhand. Building industry-ready professionals through hands-on experience.">
-    <link rel="canonical" href="https://www.gnc.edu.in/placement-overview">
+    <link rel="canonical" href="https://gnc.edu.in/placement-overview">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Industrial Visit - Guru Nanak College Dehradun, Uttarakhand" />
@@ -100,7 +100,7 @@
                         <img src="${profileImage}" alt="${visit.title}  Profile Image" width="auto" height="auto">
                     </div>
                     <h3>${visit.title}</h3>
-                    <a href="details.php?id=${visit.id}" class="arrow">→</a>
+                    <a href="details?id=${visit.id}" class="arrow">→</a>
                 `;
                 
                 visitGrid.appendChild(visitCard);

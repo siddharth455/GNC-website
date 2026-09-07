@@ -6,7 +6,7 @@
     <title>Best Master of Hospital Administration College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best Master of Public Health (MPH) college in Dehradun, Uttarakhand at Guru Nanak College. Expert faculty, research exposure and 100% placement assistance.">
-    <link rel="canonical" href="https://www.gnc.edu.in/master-of-hospital-administration">
+    <link rel="canonical" href="https://gnc.edu.in/master-of-hospital-administration">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Master of Hospital Administration College in Dehradun | GNC" />
@@ -779,6 +779,47 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is admission open for MPH 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Master of Public Health (MPH) admission for the 2026 academic session is currently open. Candidates are encouraged to apply early to secure their preference in this specialized health leadership program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the eligibility for the MPH program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candidates should have a graduation degree in health science or any related field from a recognized university with at least 50% marks (45% for SC/ST candidates) to be eligible for the Master of Public Health program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are public health internships included in the MPH curriculum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, internships are a core part of our MPH program. Students gain hands-on experience in various health organizations, learning public health principles, epidemiology, and strategic administration first-hand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What career roles can I expect after MPH?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can pursue roles such as Public Health Officer, Epidemiologist, Health Policy Analyst, Community Health Manager, and Health Researcher in top-tier health organizations, consulting firms, and NGOs."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>

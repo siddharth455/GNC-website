@@ -9,7 +9,7 @@
   <meta name="description" content="Explore state-of-the-art laboratory facilities at Guru Nanak College Dehradun for Pharmacy, Nursing, Paramedical, Agriculture and Science programs.">
 
     <meta description="Guru Nanak College in Dehradun is equipped with state-of-the-art laboratory infrastructure designed to support hands-on learning and cutting-edge research. The college is committed to fostering a culture of innovation and excellence, empowering students and faculty to explore, discover, and drive scientific advancements.">
-  <link rel="canonical" href="https://www.gnc.edu.in/lab">
+  <link rel="canonical" href="https://gnc.edu.in/lab">
 </head>
 
 <body>

@@ -6,7 +6,7 @@
     <title>Get in Touch with Us | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="We at Guru Nanak College (GNC) in Dehradun, Uttarakhand, are always here to assist you with any queries or information you may need.">
-    <link rel="canonical" href="https://www.gnc.edu.in/contact">
+    <link rel="canonical" href="https://gnc.edu.in/contact">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />

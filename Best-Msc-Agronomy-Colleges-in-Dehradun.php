@@ -5,7 +5,7 @@
     <title>Guru Nanak College | Best M.Sc Agronomy College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best M.Sc Agronomy college in Dehradun, Uttarakhand at Guru Nanak College. Advanced research facilities, expert faculty and practical agricultural training.">
-    <link rel="canonical" href="https://www.gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Agronomy College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -337,6 +337,47 @@
 
 
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is M.Sc. Agronomy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "M.Sc. Agronomy is a postgraduate program focused on the science of soil management and crop production. It covers advanced topics in crop physiology, soil science, plant genetics, and sustainable agricultural practices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the career prospects after M.Sc. Agronomy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Graduates can pursue careers as agronomists, agricultural scientists, research associates, farm managers, agricultural consultants, or work in government agencies, NGOs, and academic institutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the eligibility criteria for M.Sc. Agronomy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically, a Bachelor's degree in Agriculture, Horticulture, Forestry, or a related field with a minimum aggregate score (usually 45-50%) from a recognized university is required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Guru Nanak College offer research opportunities in Agronomy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Guru Nanak College emphasizes research and provides students with opportunities to engage in cutting-edge projects, fieldwork, and collaborations with agricultural research institutions."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
 <?php require("common/header.php"); ?>

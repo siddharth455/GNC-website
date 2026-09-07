@@ -17,7 +17,7 @@ if (!$visit) {
   <meta name="description" content="View detailed information about programs and courses at Guru Nanak College Dehradun, Uttarakhand.">
 
     <link rel="stylesheet" href="styles.css">
-  <link rel="canonical" href="https://www.gnc.edu.in/details">
+  <link rel="canonical" href="https://gnc.edu.in/details">
 </head>
 
 <body>
@@ -72,7 +72,7 @@ if (!$visit) {
         <p><?php echo nl2br(htmlspecialchars($visit['description'])); ?></p>
     </div>
     
-    <a href="index.php" class="back-button">Back to Home</a>
+    <a href="./" class="back-button">Back to Home</a>
 </body>
 </html>
 
