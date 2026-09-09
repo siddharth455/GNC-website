@@ -209,9 +209,9 @@ fostering visionary guidance and academic excellence" />
                 <div class="row">
                     <div class="col-lg-5 order-md-2">
                         <div class="position-relative text-white mb-4">
-                            <img src="upload/infra/lalit.webp" alt="leader image" loading="lazy" class="w-100" width="auto" height="auto">
+                            <img src="upload/infra/lalit.jpg" alt="leader image" loading="lazy" class="w-100" width="auto" height="auto">
                             <div class="stu-info__name">
-                                <b>Dr. LALIT KUMAR</b>
+                                <b>Dr. Mohit Gupta</b>
                                 <small>REGISTRAR, Guru Nanak College</small>
                             </div>
                         </div>

@@ -883,6 +883,26 @@
       .cta-card-premium { padding: 40px 30px; }
     }
   </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "General Nursing and Midwifery (GNM)",
+  "description": "3-year diploma program in clinical nursing, patient care, community health, and midwifery approved by Indian Nursing Council (INC) at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P3Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 <body>
 <?php require "common/header.php"; ?>

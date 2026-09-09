@@ -75,7 +75,7 @@
                         <li><a href="anti-ragging-policy/anti-ragging-policy">Anti-Ragging</a></li>
                         <li><a href="anti-ragging-policy/national-ragging-prevention-programme">National Ragging Prevention Programme</a></li> -->
                         <li>
-                            <p class="mt-1">© All rights reserved 2025</p>
+                            <p class="mt-1">© All rights reserved 2026</p>
                         </li>
                     </ul>
                 </div>

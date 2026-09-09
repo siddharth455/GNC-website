@@ -382,7 +382,7 @@
       background-color: #fafbfc;
     }
   </style>
-  <link rel="canonical" href="https://gnc.edu.in/Best-Hotel-Management-Colleges-in-Dehradun-2026">
+  <link rel="canonical" href="https://gnc.edu.in/best-hotel-management-colleges-in-dehradun-2026">
 </head>
 
 <body>

@@ -13,7 +13,7 @@ content="Confused between BMLT and BMRIT? Compare duration, fees, career scope, 
 <meta name="keywords"
 content="BMLT vs BMRIT, best paramedical course Dehradun, BMLT Dehradun, BMRIT Dehradun, medical laboratory technology course, medical imaging technology course"/>
 
-<link rel="canonical" href="https://gnc.edu.in/bmlt-vs-bmrit-which-paramedical-course-is-better/" />
+<link rel="canonical" href="https://gnc.edu.in/bmlt-vs-bmrit-which-paramedical-course-is-better" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="BMLT vs BMRIT — Which Paramedical Course is Better in 2026?" />
@@ -21,7 +21,7 @@ content="BMLT vs BMRIT, best paramedical course Dehradun, BMLT Dehradun, BMRIT D
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/bmlt-vs-bmrit.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/bmlt-vs-bmrit-which-paramedical-course-is-better/" />
+<meta property="og:url" content="https://gnc.edu.in/bmlt-vs-bmrit-which-paramedical-course-is-better" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 

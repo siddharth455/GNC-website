@@ -3,15 +3,15 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Best Master of Hospital Administration College in | GNC</title>
+    <title>Best Master of Public Health College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best Master of Public Health (MPH) college in Dehradun, Uttarakhand at Guru Nanak College. Expert faculty, research exposure and 100% placement assistance.">
-    <link rel="canonical" href="https://gnc.edu.in/master-of-hospital-administration">
+    <link rel="canonical" href="https://gnc.edu.in/master-of-public-health">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Master of Hospital Administration College in Dehradun | GNC" />
+    <meta property="og:title" content="Best Master of Public Health College in Dehradun | GNC" />
     <meta property="og:description" content="Best Master of Public Health (MPH) college in Dehradun, Uttarakhand at Guru Nanak College. Expert faculty, research exposure and 100% placement assistance." />
-    <meta property="og:url" content="https://gnc.edu.in/master-of-hospital-administration" />
+    <meta property="og:url" content="https://gnc.edu.in/master-of-public-health" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -818,6 +818,26 @@
       }
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Master of Public Health (MPH)",
+  "description": "2-year postgraduate program focusing on epidemiology, public health management, biostatistics, health policy, and environmental health at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P2Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
 }
 </script>
 </head>

@@ -38,6 +38,13 @@
                 <td data-label="Account No.">695401701775</td>
                 <td data-label="IFSC">ICIC0006954</td>
               </tr>
+              <tr>
+                <td data-label="Programme">All Programmes</td>
+                <td data-label="Account Holder Name">Guru Nanak College Dehradun</td>
+                <td data-label="Bank Name">Punjab & Sindh Bank</td>
+                <td data-label="Account No.">00231000028158</td>
+                <td data-label="IFSC">PSIB0000023</td>
+              </tr>
               <!-- Add more rows here if needed -->
             </tbody>
           </table>
@@ -46,7 +53,7 @@
     </section>
 
     <p>
-      <a href="https://smartpay.easebuzz.in/124916/AdmissionFee" class="btn">Online Payment</a>
+      <a href="https://payformservices.nttdatapay.com/forms/guru-nanak-admission-fee" class="btn">Online Payment</a>
     </p>
   </div><!-- .container-payment -->
 

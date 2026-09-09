@@ -837,7 +837,7 @@
                 <?php
                 for ($i = 1; $i <= 72; $i++) {
                     echo '<div class="col-md-1 col-sm-2 col-3 mt-4"> ';
-                    echo '<img src="upload/cbc-logo/logo%20(' . $i . ').webp" alt="Cbc Recutring patnars" class="img-fluid" width="auto" height="auto">';
+                    echo '<img src="upload/cbc-logo/logo%20(' . $i . ').webp" alt="Corporate Recruiter Partner Logo" class="img-fluid" width="auto" height="auto">';
                     echo '</div>';
                 }
 

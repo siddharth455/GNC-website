@@ -6,7 +6,7 @@
     <title>Top BPT College in Dehradun | Physiotherapy Course at GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Enrol in a BPT program at one of Dehradun's top physiotherapy colleges and build expertise in rehabilitation, manual therapy, and clinical practice.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand">
     <meta name="keywords" content="BPT Course, Bachelor of Physiotherapy, best bpt colleges in dehradun, best physiotherapy colleges in dehradun, best physiotherapy colleges in dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />

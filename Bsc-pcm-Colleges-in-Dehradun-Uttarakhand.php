@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best B.Sc PCM College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best B.Sc PCM college in Dehradun, Uttarakhand at Guru Nanak College. Top faculty and modern labs in Physics, Chemistry, and Mathematics.">
-    <link rel="canonical" href="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/bsc-pcm-colleges-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best B.Sc PCM College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -1169,6 +1169,26 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Bachelor of Science in PCM (Physics, Chemistry, Mathematics)",
+  "description": "3-year undergraduate science degree covering classical physics, organic/inorganic chemistry, and advanced mathematics at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P3Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 
 <body>

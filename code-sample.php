@@ -1199,7 +1199,7 @@ h1,h2,h3,h4 { font-family: 'Playfair Display', serif; }
     <div class="container">
         <div class="stat-card reveal delay-1">
             <div class="stat-icon"><i class="fas fa-user-graduate"></i></div>
-            <span class="count" data-target="1200">0+</span>
+            <span class="count" data-target="1200">1200+</span>
             <p>Students Trained</p>
         </div>
         <div class="stat-card reveal delay-2">
@@ -1209,12 +1209,12 @@ h1,h2,h3,h4 { font-family: 'Playfair Display', serif; }
         </div>
         <div class="stat-card reveal delay-3">
             <div class="stat-icon"><i class="fas fa-award"></i></div>
-            <span class="count" data-target="50">0+</span>
+            <span class="count" data-target="50">50+</span>
             <p>Industry Partners</p>
         </div>
         <div class="stat-card reveal delay-4">
             <div class="stat-icon"><i class="fas fa-flask"></i></div>
-            <span class="count" data-target="20">0+</span>
+            <span class="count" data-target="20">20+</span>
             <p>Research Publications</p>
         </div>
     </div>

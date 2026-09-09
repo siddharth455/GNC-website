@@ -43,7 +43,36 @@
 
   <!-- FAQ SCHEMA -->
   <script type="application/ld+json">
-   
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is BCA good for software development?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, BCA is excellent for software development as it focuses heavily on programming languages and practical application development."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What salary can I expect after BCA?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Starting salaries typically range from 3-6 LPA, but can grow significantly with experience and specializations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is BCA tough?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BCA is considered moderate. It requires logical thinking and regular practice of coding, but is very rewarding for tech enthusiasts."
+        }
+      }
+    ]
+  }
   </script>
 
   <style>

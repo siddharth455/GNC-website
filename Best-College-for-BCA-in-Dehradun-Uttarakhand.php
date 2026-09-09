@@ -6,7 +6,7 @@
     <title>Best BCA College in Dehradun — Admission 2026</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Do BCA at Guru Nanak College Dehradun — industry-aligned curriculum, modern computer labs & strong placements. Admissions 2026 open. Apply online now.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords" content="bca college in dehradun 2026 · BCA Admission in Dehradun 2026 · BCA college Admission in Dehradun 2026 · top 5 bca colleges in dehradun" />
     <meta property="og:type" content="website"/>
@@ -139,6 +139,26 @@
 
   
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Bachelor of Computer Applications (BCA)",
+  "description": "3-year undergraduate degree program focusing on computer science, software development, cloud computing, and IT applications at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P3Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 
 <!-- Body Section: Main content of the page -->

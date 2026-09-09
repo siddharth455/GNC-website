@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best M.Sc Botany College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the top M.Sc. Botany institution in Dehradun, Uttarakhand. Renowned for its cuttingedge curriculum, distinguished faculty, and...">
-    <link rel="canonical" href="https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/msc-botany-colleges-in-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best M.Sc Botany College in Dehradun Uttarakhand" />
@@ -1169,6 +1169,26 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Master of Science in Botany (M.Sc Botany)",
+  "description": "2-year postgraduate degree program in plant biotechnology, ecology, medicinal botany, plant taxonomy, and physiology at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P2Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 
 <body>

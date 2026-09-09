@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study paramedical courses at Guru Nanak College Dehradun — BMLT, BMRIT, BPT, Optometry & OT Technology with modern labs & 100% placement. Apply 2026." />
     <meta name="keywords" content="Best Paramedical College in Dehradun, Paramedical College in Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/paramedical-college-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical College in Dehradun 2026 — GNC" />

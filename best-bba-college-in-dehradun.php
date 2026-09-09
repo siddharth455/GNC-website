@@ -9,7 +9,7 @@
     <meta property="og:locale" content="en_US"/>
     <meta name="keywords" content="BBA college in Dehradun, best BBA college in Dehradun, BBA admission Dehradun, BBA course Dehradun, BBA fees Dehradun"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Best BBA College in Dehradun 2025 | Guru Nanak College (GNC), Uttarakhand" />
+    <meta property="og:title" content="Best BBA College in Dehradun, Uttarakhand | GNC" />
     <meta property="og:description" content="Study BBA at Guru Nanak College Dehradun with an industry-focused curriculum, experienced faculty & placement support. Admissions 2026 open. Apply now." />
     <meta property="og:url" content="https://gnc.edu.in/best-bba-college-in-dehradun" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
@@ -374,6 +374,26 @@
             .researchLabs-item { width: 300px; height: 400px; }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Bachelor of Business Administration (BBA)",
+  "description": "3-year undergraduate management program covering marketing, finance, human resources, and business analytics at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P3Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 <body>
 <?php require("common/header.php"); ?>
@@ -1104,19 +1124,19 @@
             </div>
             <!-- <div class="topHighlights__numbers d-flex justify-content-between" id="counter-section1">
                 <div class="tpNumbersCard">
-                    <span class="count plusIcon" data-count="21000">0</span>
+                    <span class="count plusIcon" data-count="21000">21000</span>
                     <p>Publications in National &<br> International Journals</p>
                 </div>
                 <div class="tpNumbersCard">
-                    <span class="count plusIcon" data-count="5300">0</span>
+                    <span class="count plusIcon" data-count="5300">5300</span>
                     <p>Patents filed by Guru Nanak<br> College Successfully</p>
                 </div>
                 <div class="tpNumbersCard">
-                    <span class="count plusIcon" data-count="200">0</span>
+                    <span class="count plusIcon" data-count="200">200</span>
                     <p>Departmental Research<br> Groups</p>
                 </div>
                 <div class="tpNumbersCard">
-                    <span class="count plusIcon" data-count="15">0</span>
+                    <span class="count plusIcon" data-count="15">15</span>
                     <p>Industry-Collaborated<br> Centres of Excellence</p>
                 </div>
             </div>             -->

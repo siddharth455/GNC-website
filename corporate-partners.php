@@ -11,10 +11,10 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
     <meta property="og:description" content="Guru Nanak College in Dehradun has established strong partnerships with various corporate entities to enhance the educational and professional development of its students. These partnerships provide students with valuable opportunities for internships, placements, and industry exposure." />
-    <meta property="og:url" content="https://www.gnc.edu.in/corporate-partners" />
+    <meta property="og:url" content="https://gnc.edu.in/corporate-partners" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
-    <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
+    <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
@@ -60,7 +60,7 @@
                 <?php
                 for ($i = 1; $i <= 108; $i++) {
                     echo '<div class="col-md-1 col-sm-2 col-3 mt-4"> ';
-                    echo '<img src="upload/Corporate-Partners/cp%20(' . $i . ').webp" alt="Cbc Recutring patnars" class="img-fluid" width="auto" height="auto">';
+                    echo '<img src="upload/Corporate-Partners/cp%20(' . $i . ').webp" alt="Corporate Recruiter Partner Logo" class="img-fluid" width="auto" height="auto">';
                     echo '</div>';
                 }
 

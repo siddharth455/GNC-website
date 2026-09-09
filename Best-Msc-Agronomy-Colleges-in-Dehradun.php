@@ -5,7 +5,7 @@
     <title>Guru Nanak College | Best M.Sc Agronomy College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best M.Sc Agronomy college in Dehradun, Uttarakhand at Guru Nanak College. Advanced research facilities, expert faculty and practical agricultural training.">
-    <link rel="canonical" href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/best-msc-agronomy-colleges-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Agronomy College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -376,6 +376,26 @@
       }
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Master of Science in Agronomy (M.Sc Agronomy)",
+  "description": "2-year postgraduate program in crop production, weed management, soil fertility, seed technology, and sustainable farming systems at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P2Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
 }
 </script>
 </head>

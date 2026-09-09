@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Apply for B.Tech Computer Science Engineering Admission 2026 at Guru Nanak College Dehradun. AI, Data Science, placements and career support">
-    <link rel="canonical" href="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/best-college-for-btech-computer-science-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords"
         content="B.Tech CSE Admission 2026, B.Tech Computer Science Engineering Dehradun, Best BTech College in Dehradun, B.Tech CSE Guru Nanak College, engineering placements Dehradun" />
@@ -600,6 +600,26 @@
       }
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "B.Tech in Computer Science and Engineering",
+  "description": "4-year professional engineering degree program covering software engineering, artificial intelligence, machine learning, data structures, and computer networks at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P4Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
 }
 </script>
 </head>

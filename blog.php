@@ -7,7 +7,7 @@ $posts = [
   [
     'id' => 1,
     'title' => 'Top Paramedical Courses After 12th in India | GNC Dehradun',
-    'url' => 'Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-and-Scope-at-Guru-Nanak-College-Dehradun',
+    'url' => 'top-paramedical-courses-after-12th-in-india-career-opportunities-and-scope-at-guru-nanak-college-dehradun',
     'date' => '2025-08-20',
     'excerpt' => 'The healthcare industry in India is growing rapidly, and with it, the demand for skilled paramedical professionals is at an all-time high.',
     'author' => ['name' => 'GNC Dehradun'],
@@ -341,7 +341,7 @@ if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Blogs & Activities</title>
   <meta name="description" content="A static blog index built with HTML, CSS, PHP and vanilla JS.">
-  <link rel="canonical" href="https://gnc.edu.in">
+  <link rel="canonical" href="https://gnc.edu.in/blog">
   <link rel="icon" type="image/webp" href="images/logog.webp">
 </head>
 

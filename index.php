@@ -1351,31 +1351,31 @@ excellence in academics and holistic development." />
       </h2>
       <div class="my-stats-grid">
         <div class="my-stat-item left-slide">
-          <h3 class="my-stat-number" data-target="40">0</h3>
+          <h3 class="my-stat-number" data-target="40">40</h3>
           <h4 class="my-stat-label">PROGRAMS</h4>
           <span class="my-stat-line"></span>
           <p class="my-stat-desc">Industry-Oriented Academic Programs</p>
         </div>
         <div class="my-stat-item left-slide">
-          <h3 class="my-stat-number" data-target="100">0</h3>
+          <h3 class="my-stat-number" data-target="100">100</h3>
           <h4 class="my-stat-label">STALWARTS</h4>
           <span class="my-stat-line"></span>
           <p class="my-stat-desc">Industry Stalwarts for Top-Tier Mentorship</p>
         </div>
         <div class="my-stat-item top-slide">
-          <h3 class="my-stat-number" data-target="55">0</h3>
+          <h3 class="my-stat-number" data-target="55">55</h3>
           <h4 class="my-stat-label">FACULTY</h4>
           <span class="my-stat-line"></span>
           <p class="my-stat-desc">Doctoral Faculty</p>
         </div>
         <div class="my-stat-item right-slide">
-          <h3 class="my-stat-number" data-target="10">0</h3>
+          <h3 class="my-stat-number" data-target="10">10</h3>
           <h4 class="my-stat-label">FACULTY</h4>
           <span class="my-stat-line"></span>
           <p class="my-stat-desc">International Faculty</p>
         </div>
         <div class="my-stat-item right-slide">
-          <h3 class="my-stat-number" data-target="900">0</h3>
+          <h3 class="my-stat-number" data-target="900">900</h3>
           <h4 class="my-stat-label">ALUMNI</h4>
           <span class="my-stat-line"></span>
           <p class="my-stat-desc">Accomplished Alumni Across the Globe</p>
@@ -1975,15 +1975,57 @@ excellence in academics and holistic development." />
     <h3>Driving innovation through strategic industry collaboration and partnerships.</h3>
     <div class="topCompanies-block">
       <?php
+      $companyNames = [
+        1 => 'Apollo Hospitals',
+        2 => 'Fortis Healthcare',
+        3 => 'Max Healthcare',
+        4 => 'Medanta',
+        5 => 'Cipla',
+        6 => 'Sun Pharma',
+        7 => 'Ranbaxy',
+        8 => 'Mankind Pharma',
+        9 => 'Dr. Reddy\'s Laboratories',
+        10 => 'Lupin Pharmaceuticals',
+        11 => 'Cadila Healthcare',
+        12 => 'Torrent Pharmaceuticals',
+        13 => 'Glenmark Pharmaceuticals',
+        14 => 'Biocon',
+        15 => 'AstraZeneca',
+        16 => 'GlaxoSmithKline',
+        17 => 'Pfizer',
+        18 => 'Novartis',
+        19 => 'Tata Consultancy Services',
+        20 => 'Infosys',
+        21 => 'Wipro',
+        22 => 'HCL Technologies',
+        23 => 'Tech Mahindra',
+        24 => 'Accenture',
+        25 => 'Cognizant',
+        26 => 'Capgemini',
+        27 => 'IBM',
+        28 => 'Deloitte',
+        29 => 'KPMG',
+        30 => 'L&T Infotech',
+        31 => 'Taj Hotels',
+        32 => 'Oberoi Hotels & Resorts',
+        33 => 'JW Marriott',
+        34 => 'Radisson Blu',
+        35 => 'Hyatt Regency',
+        36 => 'ITC Hotels',
+        37 => 'The Leela Palaces',
+        38 => 'Patanjali',
+        39 => 'Nestle'
+      ];
       // Loop through 39 images
       for ($i = 1; $i <= 39; $i++) {
-        // Construct the image source dynamically
         $imageSrc = "./upload/company/c ($i).webp";
+        $companyName = isset($companyNames[$i]) ? $companyNames[$i] : 'Partner Recruiter';
+        $altText = $companyName . ' logo';
 
         // Echo the image HTML structure
         echo '<div class="topCompaniesLogo-slider">
                 <div class="logo-img-company" aria-hidden="true" tabindex="-1">
-                <img class="lazy-img" src="' . $imageSrc . '" alt="gnc top Recruiter patner" width="auto" height="auto">
+                <img class="lazy-img" src="' . $imageSrc . '" alt="' . htmlspecialchars($altText) . '" width="auto" height="auto">
                 </div>
                 </div>';
       }
@@ -2847,7 +2889,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="row">
               <div class="col-md-6 text-end">
                 <div class="facDp br-20 d-inline-block me-3">
-                  <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR" loading="lazy" decoding="async" width="auto" height="auto">
+                  <img src="upload/infra/lalit.jpg" alt="Dr. Mohit Gupta" loading="lazy" decoding="async" width="auto" height="auto">
                 </div>
               </div>
               <div class="col-md-6">
@@ -2855,7 +2897,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   <p class="mb-5"><b>“ Empowering students today shapes responsible leaders for tomorrow” </b>As the Registrar of Guru Nanak College, Dehradun, I extend a heartfelt welcome to all students, faculty, staff, and visitors. We at GNC are dedicated to fostering academic excellence through a diverse array of programs that prepare students for successful careers. Our esteemed faculty instills essential values such as discipline, responsibility, and time management, crucial for personal and professional growth. We celebrate diversity and inclusivity, creating a vibrant community where collaboration thrives. Beyond academics, we emphasize empathy and social responsibility through community outreach initiatives...</p>
                   <a href="leadership" class="btn btn-sm btn-primary btn-shadow">Read More <i class="fa fa-long-arrow-right ms-1" aria-hidden="true"></i></a>
                   <div class="facName">
-                    <h4>Dr. LALIT KUMAR</h4>
+                    <h4>Dr. Mohit Gupta</h4>
                     <small>REGISTRAR</small>
                   </div>
                 </div>
@@ -2881,7 +2923,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <img src="upload/infra/leaderships-5.webp" alt="MR. SAITHJEET SINGH ARORA" loading="lazy" decoding="async" width="auto" height="auto">
         </button>
         <button type="button" data-bs-target="#carouselExampleControls2" data-bs-slide-to="5" aria-label="Slide 6">
-          <img src="upload/infra/lalit.webp" alt="Dr. LALIT KUMAR" loading="lazy" decoding="async" width="auto" height="auto">
+          <img src="upload/infra/lalit.jpg" alt="Dr. LALIT KUMAR" loading="lazy" decoding="async" width="auto" height="auto">
         </button>
       </div>
     </div>

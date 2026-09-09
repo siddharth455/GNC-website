@@ -13,7 +13,7 @@ content="Discover why Dehradun is emerging as India's leading hub for nursing, p
 <meta name="keywords"
 content="healthcare education Dehradun, best healthcare colleges Uttarakhand, nursing college Dehradun, paramedical college Dehradun, pharmacy college Dehradun"/>
 
-<link rel="canonical" href="https://gnc.edu.in/why-dehradun-top-destination-healthcare-education/" />
+<link rel="canonical" href="https://gnc.edu.in/why-dehradun-top-destination-healthcare-education" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="Why Dehradun is Becoming India's Top Destination for Healthcare Education" />
@@ -21,7 +21,7 @@ content="healthcare education Dehradun, best healthcare colleges Uttarakhand, nu
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/dehradun-healthcare-education.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/why-dehradun-top-destination-healthcare-education/" />
+<meta property="og:url" content="https://gnc.edu.in/why-dehradun-top-destination-healthcare-education" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 

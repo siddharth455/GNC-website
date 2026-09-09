@@ -7,7 +7,7 @@
     <meta name="description" content="Guru Nanak College offers Diploma in Hotel Management in Dehradun with industry training, modern kitchens & placement support. Admissions 2026 open." />
     <meta name="keywords" content="Best Hotel Management College in Dehradun, DHM 
 College in Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/best-hotel-management-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Hotel Management College in Dehradun" />

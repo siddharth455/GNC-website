@@ -6,7 +6,7 @@
     <title>Best Computer Science College in Dehradun | B.Tech & BCA</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College offers B.Tech CSE & BCA in Dehradun with modern labs, coding-focused curriculum & placement support. Admissions 2026 now open. Apply." />
-    <link rel="canonical" href="https://gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/best-college-for-computer-science-in-dehradun">
     <meta name="keywords" content="Best Computer Science College in Dehradun, BCA College in Dehradun" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />

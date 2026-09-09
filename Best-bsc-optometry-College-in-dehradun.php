@@ -6,7 +6,7 @@
     <title>Top B.Sc Optometry College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Explore the premier Bachelor of Optometry program at Guru Nanak College in Dehradun, Uttarakhand Offering cutting-edge training, experienced faculty,...">
-    <link rel="canonical" href="https://gnc.edu.in/Best-bsc-optometry-College-in-dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/best-bsc-optometry-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top B.Sc Optometry College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -480,6 +480,26 @@
     
     
     
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Bachelor of Optometry (B.Optom)",
+  "description": "4-year professional degree program in vision care, ocular disease diagnosis, clinical optometry, and contact lens practice at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P4Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 
 <body>

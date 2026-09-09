@@ -6,7 +6,7 @@
     <title>Best M.Sc Food Technology College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best M.Sc Food Technology college in Dehradun, Uttarakhand. Groundbreaking curriculum, advanced labs and top placements at Guru Nanak College.">
-    <link rel="canonical" href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/msc-food-tech-colleges-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Food Technology College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -1169,6 +1169,26 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Master of Science in Food Technology (M.Sc Food Technology)",
+  "description": "2-year master program in advanced food engineering, food safety laws, functional foods, and industrial product development at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P2Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 
 <body>

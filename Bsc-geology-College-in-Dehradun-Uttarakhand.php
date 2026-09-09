@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best B.Sc Geology College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best B.Sc Geology college in Dehradun, Uttarakhand at Guru Nanak College. Dynamic curriculum, top faculty and hands-on fieldwork for aspiring geologists.">
-    <link rel="canonical" href="https://gnc.edu.in/Bsc-geology-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/bsc-geology-college-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
@@ -1170,6 +1170,26 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Bachelor of Science in Geology (B.Sc Geology)",
+  "description": "3-year undergraduate earth sciences program covering mineralogy, petrology, palaeontology, stratigraphy, and geological field mapping at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P3Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 
 <body>

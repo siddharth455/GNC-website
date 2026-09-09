@@ -5,7 +5,7 @@
     <title>Guru Nanak College | Best B.Sc Forestry College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the top college for B.Sc. Forestry in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and...">
-    <link rel="canonical" href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun">
+    <link rel="canonical" href="https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best B.Sc Forestry College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -384,6 +384,26 @@
       }
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Bachelor of Science in Forestry (B.Sc Forestry)",
+  "description": "4-year degree program in silviculture, forest management, wildlife conservation, ecology, and natural resource management at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P4Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
 }
 </script>
 </head>

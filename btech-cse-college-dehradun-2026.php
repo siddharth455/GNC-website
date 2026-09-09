@@ -13,7 +13,7 @@ content="Complete guide to B.Tech Computer Science in Dehradun 2026. Fees, eligi
 <meta name="keywords"
 content="B.Tech Computer Science college Dehradun, BTech CSE Dehradun 2026, best BTech college Dehradun, BTech CSE fees Uttarakhand, BTech CSE admission 2026, BTech CSE scope salary India"/>
 
-<link rel="canonical" href="https://gnc.edu.in/btech-cse-college-dehradun-2026/" />
+<link rel="canonical" href="https://gnc.edu.in/btech-cse-college-dehradun-2026" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="B.Tech Computer Science Dehradun 2026 — Fees, Salary & Career Scope" />
@@ -21,7 +21,7 @@ content="B.Tech Computer Science college Dehradun, BTech CSE Dehradun 2026, best
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/computer-lab.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/btech-cse-college-dehradun-2026/" />
+<meta property="og:url" content="https://gnc.edu.in/btech-cse-college-dehradun-2026" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 

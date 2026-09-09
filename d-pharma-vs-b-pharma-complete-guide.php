@@ -13,7 +13,7 @@ content="D.Pharma or B.Pharma — which pharmacy course should you choose? Compa
 <meta name="keywords"
 content="D.Pharma vs B.Pharma, pharmacy college Dehradun, D.Pharma Dehradun, B.Pharma Dehradun, diploma in pharmacy, bachelor of pharmacy"/>
 
-<link rel="canonical" href="https://gnc.edu.in/d-pharma-vs-b-pharma-complete-guide/" />
+<link rel="canonical" href="https://gnc.edu.in/d-pharma-vs-b-pharma-complete-guide" />
 
 <!-- Open Graph -->
 <meta property="og:title" content="D.Pharma vs B.Pharma — Complete Guide for 2026 Admissions" />
@@ -21,7 +21,7 @@ content="D.Pharma vs B.Pharma, pharmacy college Dehradun, D.Pharma Dehradun, B.P
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/d-pharma-vs-b-pharma.jpg" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/d-pharma-vs-b-pharma-complete-guide/" />
+<meta property="og:url" content="https://gnc.edu.in/d-pharma-vs-b-pharma-complete-guide" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 

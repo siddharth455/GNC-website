@@ -181,7 +181,7 @@
                         <div class="col-lg-3 col-md-6 col-12">
                             <div class="tj-usp-point">
                                 <div class="tj-usp-number">
-                                    <span class="tj-counter" data-target="30">0</span><span class="plus">+</span>
+                                    <span class="tj-counter" data-target="30">30</span><span class="plus">+</span>
                                 </div>
                                 <p class="tj-usp-title">Events</p>
 
@@ -190,7 +190,7 @@
                         <div class="col-lg-3 col-md-6 col-12">
                             <div class="tj-usp-point">
                                 <div class="tj-usp-number">
-                                    <span class="tj-counter" data-target="2500">0</span><span class="plus">+</span>
+                                    <span class="tj-counter" data-target="2500">2500</span><span class="plus">+</span>
                                 </div>
                                 <p class="tj-usp-title">Students</p>
 

@@ -6,7 +6,7 @@
     <title>Best Pharmacy College in Dehradun | B.Pharm & D.Pharm</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College is a leading pharmacy college in Dehradun offering PCI-aligned B.Pharm, D.Pharm & B.Pharm Lateral Entry (UTU affiliated). Apply 2026." />
-    <link rel="canonical" href="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand">
     <meta name="keywords" content="Best Pharmacy College in Dehradun, Pharmacy College in Uttarakhand" />
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
@@ -685,7 +685,7 @@
     <div class="panel-left" data-aos="fade-right" data-aos-duration="600">
         <div class="panel-content-top">
             <span class="category-label">Campus Placements</span>
-            <h1 class="heading-primary">PLACEMENT SUPPORT AT <br>GURU NANAK COLLEGE</h1>
+            <h2 class="heading-primary">PLACEMENT SUPPORT AT <br>GURU NANAK COLLEGE</h2>
             <p class="sub-description">
                 Our dedicated career advisory and placement team provides comprehensive career counselling to identify the unique and distinctive goals of our pharmacy graduates.
             </p>

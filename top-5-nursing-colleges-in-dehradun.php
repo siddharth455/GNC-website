@@ -228,7 +228,7 @@
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>
           </a>
-           <a class="suggest-card" href="Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun">
+           <a class="suggest-card" href="top-paramedical-courses-after-12th-in-india-career-opportunities-and-scope-at-guru-nanak-college-dehradun">
             <img class="sc-image" src="upload/blog/1.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top Paramedical Courses After 12th in India</div>
             <div class="sc-meta">GNC Dehradun• 2025-08-20</div>
@@ -238,7 +238,7 @@
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
-          <a class="suggest-card" href="Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun">
+          <a class="suggest-card" href="top-paramedical-courses-after-12th-in-india-career-opportunities-and-scope-at-guru-nanak-college-dehradun">
             <img class="sc-image" src="upload/blog/1.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top Paramedical Courses After 12th in India</div>
             <div class="sc-meta">GNC Dehradun• 2025-08-20</div>

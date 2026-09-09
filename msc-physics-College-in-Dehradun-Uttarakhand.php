@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best M.Sc Physics College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the pinnacle of M.Sc. Physics education in Dehradun, Uttarakhand. With an avantgarde curriculum, esteemed faculty, and...">
-    <link rel="canonical" href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/msc-physics-college-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Physics College in Dehradun, Uttarakhand - Guru Nanak College" />
@@ -1268,6 +1268,26 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Master of Science in Physics (M.Sc Physics)",
+  "description": "2-year postgraduate program covering quantum mechanics, solid state physics, condensed matter, and nuclear physics at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P2Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 
 <body>

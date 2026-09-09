@@ -6,7 +6,7 @@
     <title>Guru Nanak College | Best B.Sc CBZ College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"content="Guru Nanak College, Dehradun's top college for B.Sc. CBZ. With an engaging curriculum, exceptional faculty, and vibrant academic community, Guru Nanak College ignites passion for chemistry, botany, and zoology, preparing students to excel in the dynamic scientific arena.">
-    <link rel="canonical" href="https://gnc.edu.in/Bsc-cbz">
+    <link rel="canonical" href="https://gnc.edu.in/bsc-cbz">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title"content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
@@ -1171,6 +1171,26 @@
             }
         }
     </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Bachelor of Science in CBZ (Chemistry, Botany, Zoology)",
+  "description": "3-year undergraduate biological science program covering plant physiology, animal taxonomy, cell biology, and environmental chemistry at Guru Nanak College, Dehradun.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Guru Nanak College",
+    "url": "https://gnc.edu.in/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "duration": "P3Y",
+    "courseMode": "Full-time",
+    "location": "Dehradun, Uttarakhand"
+  }
+}
+</script>
 </head>
 
 <body>

@@ -23,7 +23,7 @@
       "image": "https://gnc.edu.in/upload/blog/1.webp",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://gnc.edu.in/top-paramedical-courses-after-12th-dehradun-2026.php"
+        "@id": "https://gnc.edu.in/top-paramedical-courses-after-12th-in-india-career-opportunities-and-scope-at-guru-nanak-college-dehradun"
       }
     }
   </script>
@@ -340,7 +340,7 @@
       }
     }
   </style>
-  <link rel="canonical" href="https://gnc.edu.in/Top-Paramedical-Courses-After-12th-in-India-Career-Opportunities-&-Scope-at-Guru-Nanak-College-Dehradun">
+  <link rel="canonical" href="https://gnc.edu.in/top-paramedical-courses-after-12th-in-india-career-opportunities-and-scope-at-guru-nanak-college-dehradun">
 </head>
 
 <body>

@@ -923,7 +923,7 @@ ul{list-style:none}
   <div class="g-wrap">
     <div class="stats-grid">
       <div class="stat-card" data-ani="up" data-delay="1">
-        <div class="stat-num" data-count="2000">0+</div>
+        <div class="stat-num" data-count="2000">2000+</div>
         <div class="stat-label">Alumni Worldwide</div>
         <div class="stat-sub">Placed across India &amp; abroad</div>
       </div>

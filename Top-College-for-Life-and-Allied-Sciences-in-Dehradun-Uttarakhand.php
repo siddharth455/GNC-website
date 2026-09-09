@@ -8,7 +8,7 @@
     <meta name="description" content="Best Life Sciences college in Dehradun, Uttarakhand. Guru Nanak College offers B.Sc & M.Sc in Microbiology, Biotech, Food Tech, Physics & Chemistry.">
     <meta name="keywords" content="Best Life Sciences College in Dehradun, 
 Microbiology College Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand">
+    <link rel="canonical" href="https://gnc.edu.in/top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best College for Life and Allied Sciences in Dehradun, Uttarakhand" />

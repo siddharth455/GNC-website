@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College is a top nursing college in Dehradun offering INC & USNC-approved B.Sc Nursing, GNM & Post Basic B.Sc Nursing. 100% placement. Apply 2026." />
     <meta name="keywords" content="Best Nursing College in Dehradun, Nursing College in Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
+    <link rel="canonical" href="https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand" />
 
     <!-- Open Graph (WhatsApp, Facebook, LinkedIn previews) -->
     <meta property="og:type" content="website" />
