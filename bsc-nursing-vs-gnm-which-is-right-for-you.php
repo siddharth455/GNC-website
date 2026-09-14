@@ -603,10 +603,10 @@ loading="lazy" width="auto" height="auto">
 
 <p>GNC's School of Nursing is INC-approved, offers hands-on clinical training through hospital tie-ups, and has a dedicated placement cell connecting students to top hospital recruiters.</p>
 
-<p>→ B.Sc. Nursing: <a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun">https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun</a></p>
+<p>→ B.Sc. Nursing: <a href="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun">https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun</a></p>
 <p>→ General Nursing and Midwifery: <a href="https://gnc.edu.in/best-gnm-college-in-dehradun">https://gnc.edu.in/best-gnm-college-in-dehradun</a></p>
 <p>→ Post Basic B.Sc. Nursing: <a href="https://gnc.edu.in/post-basic-nursing">https://gnc.edu.in/post-basic-nursing</a></p>
-<p>→ Nursing Programs: <a href="https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand">https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand</a></p>
+<p>→ Nursing Programs: <a href="https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand">https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand</a></p>
 
 
 <h2 id="faqs">Frequently Asked Questions</h2>

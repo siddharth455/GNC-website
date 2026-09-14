@@ -597,10 +597,10 @@ loading="lazy" width="auto" height="auto">
 
 <p>GNC's School of Pharmacy is PCI-approved with dedicated pharmaceutical chemistry, pharmacology, and pharmacognosy labs. The college offers D.Pharma, B.Pharma (including lateral entry), and strong placement support with leading pharma companies.</p>
 
-<p>→ Bachelor of Pharmacy: <a href="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand</a></p>
-<p>→ Diploma in Pharmacy: <a href="https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand">https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand</a></p>
-<p>→ Lateral Entry in B.Pharma: <a href="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand</a></p>
-<p>→ Pharmacy Programs: <a href="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand</a></p>
+<p>→ Bachelor of Pharmacy: <a href="https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand">https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand</a></p>
+<p>→ Diploma in Pharmacy: <a href="https://gnc.edu.in/best-college-for-d-pharm-in-dehradun-uttarakhand">https://gnc.edu.in/best-college-for-d-pharm-in-dehradun-uttarakhand</a></p>
+<p>→ Lateral Entry in B.Pharma: <a href="https://gnc.edu.in/b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand">https://gnc.edu.in/b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand</a></p>
+<p>→ Pharmacy Programs: <a href="https://gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand">https://gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand</a></p>
 
 
 <h2 id="faqs">Frequently Asked Questions</h2>

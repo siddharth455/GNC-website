@@ -13,7 +13,7 @@ Microbiology College Uttarakhand" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best College for Life and Allied Sciences in Dehradun, Uttarakhand" />
     <meta property="og:description" content="Best Life Sciences college in Dehradun, Uttarakhand. Guru Nanak College offers B.Sc & M.Sc in Microbiology, Biotech, Food Tech, Physics & Chemistry." />
-    <meta property="og:url" content="https://gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
@@ -71,14 +71,14 @@ Microbiology College Uttarakhand" />
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Life & Allied Sciences — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand.php",
+            "url": "https://www.gnc.edu.in/top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
                     "@type": "Course",
                     "name": "B.Sc. Microbiology",
-                    "url": "https://www.gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/bsc-microbiology-colleges-in-dehradun-uttarakhand",
                     "description": "B.Sc. Microbiology offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -171,7 +171,7 @@ Microbiology College Uttarakhand" />
                 "item": {
                     "@type": "Course",
                     "name": "B.Sc. PCM",
-                    "url": "https://www.gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/bsc-pcm-colleges-in-dehradun-uttarakhand",
                     "description": "B.Sc. PCM offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -233,7 +233,7 @@ Microbiology College Uttarakhand" />
                 "item": {
                     "@type": "Course",
                     "name": "B.Sc. Geology",
-                    "url": "https://www.gnc.edu.in/Bsc-geology-College-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/bsc-geology-college-in-dehradun-uttarakhand",
                     "description": "B.Sc. Geology offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -264,7 +264,7 @@ Microbiology College Uttarakhand" />
                 "item": {
                     "@type": "Course",
                     "name": "M.Sc. Microbiology",
-                    "url": "https://www.gnc.edu.in/msc-microbiology-Colleges-in-Dehradun.php",
+                    "url": "https://www.gnc.edu.in/msc-microbiology-colleges-in-dehradun",
                     "description": "M.Sc. Microbiology offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -295,7 +295,7 @@ Microbiology College Uttarakhand" />
                 "item": {
                     "@type": "Course",
                     "name": "M.Sc. Food Technology",
-                    "url": "https://www.gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/msc-food-tech-colleges-in-dehradun-uttarakhand",
                     "description": "M.Sc. Food Technology offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -326,7 +326,7 @@ Microbiology College Uttarakhand" />
                 "item": {
                     "@type": "Course",
                     "name": "M.Sc. Chemistry",
-                    "url": "https://www.gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/msc-chemistry-colleges-in-dehradun-uttarakhand",
                     "description": "M.Sc. Chemistry offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -357,7 +357,7 @@ Microbiology College Uttarakhand" />
                 "item": {
                     "@type": "Course",
                     "name": "M.Sc. Physics",
-                    "url": "https://www.gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/msc-physics-college-in-dehradun-uttarakhand",
                     "description": "M.Sc. Physics offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -388,7 +388,7 @@ Microbiology College Uttarakhand" />
                 "item": {
                     "@type": "Course",
                     "name": "M.Sc. Botany",
-                    "url": "https://www.gnc.edu.in/msc-botany-Colleges-in-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/msc-botany-colleges-in-uttarakhand",
                     "description": "M.Sc. Botany offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -419,7 +419,7 @@ Microbiology College Uttarakhand" />
                 "item": {
                     "@type": "Course",
                     "name": "M.Sc. Zoology",
-                    "url": "https://www.gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/msc-zoology-colleges-in-dehradun-uttarakhand",
                     "description": "M.Sc. Zoology offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -1069,7 +1069,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 in Science with Biology</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Microbiologist, Lab Technician, Research Analyst, Food Quality Officer</p>
-                                    <a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="bsc-microbiology-colleges-in-dehradun-uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1102,7 +1102,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCM</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Research Assistant, Data Analyst, Technical Consultant, Educator</p>
-                                    <a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="bsc-pcm-colleges-in-dehradun-uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1124,7 +1124,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with Science</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Geologist, Environmental Consultant, Mining Analyst</p>
-                                    <a href="Bsc-geology-College-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">Apply Now</a>
+                                    <a href="bsc-geology-college-in-dehradun-uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">Apply Now</a>
                                 </div>
                             </div>
                         </div>
@@ -1139,7 +1139,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Microbiology or related Life Science field</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Research Scientist, Clinical Microbiologist, QC Officer</p>
-                                    <a href="msc-microbiology-Colleges-in-Dehradun" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-microbiology-colleges-in-dehradun" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1150,7 +1150,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Food Technology or related field</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Specialize in fields like Food Technologist, QA Manager, Nutrition Specialist, R&D Officer</p>
-                                    <a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-food-tech-colleges-in-dehradun-uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1161,7 +1161,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Zoology or Life Sciences</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Specialize in fields like Wildlife Biologist, Zoologist, Environmental Consultant, Academic Researcher</p>
-                                    <a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-zoology-colleges-in-dehradun-uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1172,7 +1172,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Chemistry or related subject</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Specializes in organic, inorganic, and physical chemistry for careers in chemical industries and research.</p>
-                                    <a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-chemistry-colleges-in-dehradun-uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1183,7 +1183,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Physics or related subject</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Advanced studies in theoretical and applied physics with opportunities in research and technology sectors.</p>
-                                    <a href="msc-physics-College-in-Dehradun-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-physics-college-in-dehradun-uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -1195,7 +1195,7 @@ Microbiology College Uttarakhand" />
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc in Botany or Life Sciences</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Covers advanced plant science, physiology, genetics, and ecology to prepare students for careers in research and education.</p>
-                                    <a href="msc-botany-Colleges-in-Uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="msc-botany-colleges-in-uttarakhand" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                         </div>

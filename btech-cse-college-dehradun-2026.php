@@ -645,7 +645,7 @@ loading="lazy" width="auto" height="auto">
 
 <p>Bottom line: B.Tech CSE is the stronger degree for long-term career ceiling, government jobs, international MS and core engineering roles. BCA is faster, more affordable and leads to the same IT industry jobs if you are not targeting government or MS abroad.</p>
 
-<p>→ BCA at GNC Dehradun: <a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand">https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand</a></p>
+<p>→ BCA at GNC Dehradun: <a href="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand">https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand</a></p>
 
 
 <h2 id="eligibility">Eligibility for B.Tech CSE Admission 2026</h2>
@@ -887,7 +887,7 @@ loading="lazy" width="auto" height="auto">
 
 <p><strong>Location Advantage</strong><br>Dehradun is a tech-friendly city with a growing startup ecosystem, close proximity to Delhi NCR tech companies (4–5 hours) and affordable living. Several tech companies are establishing offices in Dehradun making local placement increasingly strong.</p>
 
-<p>→ B.Tech CSE at GNC Dehradun: <a href="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand">https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand</a></p>
+<p>→ B.Tech CSE at GNC Dehradun: <a href="https://gnc.edu.in/best-college-for-btech-computer-science-in-dehradun-uttarakhand">https://gnc.edu.in/best-college-for-btech-computer-science-in-dehradun-uttarakhand</a></p>
 
 
 <h2 id="admission-process">Admission Process at GNC Dehradun — Step by Step</h2>

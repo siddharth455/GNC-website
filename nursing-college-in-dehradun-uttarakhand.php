@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Nursing College in Dehradun | Guru Nanak College" />
     <meta property="og:description" content="Guru Nanak College is a top nursing college in Dehradun offering INC & USNC-approved B.Sc Nursing, GNM & Post Basic B.Sc Nursing. 100% placement. Apply 2026." />
-    <meta property="og:url" content="https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand" />
     <meta property="og:image" content="https://gnc.edu.in/upload/Bachelor-of-Science-in-Nursing.webp" />
     <meta property="og:site_name" content="Guru Nanak College, Dehradun" />
     <meta property="og:locale" content="en_IN" />
@@ -67,14 +67,14 @@
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Nursing Programs — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand.php",
+            "url": "https://www.gnc.edu.in/nursing-college-in-dehradun-uttarakhand",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
                     "@type": "Course",
                     "name": "B.Sc. Nursing",
-                    "url": "https://www.gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php",
+                    "url": "https://www.gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun",
                     "description": "B.Sc. Nursing offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -596,7 +596,7 @@
             "@context": "https://schema.org",
             "@type": "Service",
             "serviceType": "B.Sc Nursing Program",
-            "url": "https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand",
+            "url": "https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand",
             "provider": {
                 "@type": "CollegeOrUniversity",
                 "name": "Guru Nanak College, Dehradun",
@@ -869,7 +869,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Registered Nurse, Hospital Administrator, Clinical Instructor, Public Health Nurse, Military Nursing.
                                     </p>
-                                    <a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun" target="_blank" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun" target="_blank" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 

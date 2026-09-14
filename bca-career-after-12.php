@@ -611,7 +611,7 @@ loading="lazy" width="auto" height="auto">
             <div class="sc-title">BBA vs BCom: Which Course is Better After 12th?</div>
             <div class="sc-meta">GNC Dehradun • 2026-03-09</div>
           </a>
-          <a class="suggest-card" href="Best-Hotel-Management-Colleges-in-Dehradun-2026.php">
+          <a class="suggest-card" href="best-hotel-management-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/hm-banner.webp" alt="HM Colleges" width="auto" height="auto">
             <div class="sc-title">Best Hotel Management Colleges in Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026-02-16</div>

@@ -12,7 +12,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Computer Science College in Dehradun, Uttarakhand" />
     <meta property="og:description" content="Guru Nanak College offers B.Tech CSE & BCA in Dehradun with modern labs, coding-focused curriculum & placement support. Admissions 2026 now open. Apply." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun" />
+    <meta property="og:url" content="https://gnc.edu.in/best-college-for-computer-science-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -82,7 +82,7 @@
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Computer Sciences — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun.php",
+            "url": "https://www.gnc.edu.in/best-college-for-computer-science-in-dehradun",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
@@ -120,7 +120,7 @@
                 "item": {
                     "@type": "Course",
                     "name": "Bachelor of Computer Applications (BCA)",
-                    "url": "https://www.gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand",
                     "description": "Bachelor of Computer Applications (BCA) offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -1185,7 +1185,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Software Developer, Web/App Developer, Data Analyst, IT Consultant, System Administrator.
                                     </p>
-                                    <a href="Best-College-for-BCA-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-college-for-bca-in-dehradun-uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 

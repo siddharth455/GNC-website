@@ -587,10 +587,10 @@ loading="lazy" width="auto" height="auto">
 
 <p>Guru Nanak College, located in Jhajhra, Dehradun, offers comprehensive programs across Paramedical Sciences, Pharmacy, Nursing, and Health Science — with industry-aligned curriculum, modern labs, and a placement record that includes packages up to ₹54.75 LPA and 900+ placement offers from 100+ companies.</p>
 
-<p>→ Paramedical Programs: <a href="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand</a></p>
-<p>→ Pharmacy Programs: <a href="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand</a></p>
-<p>→ Nursing Programs: <a href="https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand">https://gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand</a></p>
-<p>→ Health Science Programs: <a href="https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand">https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand</a></p>
+<p>→ Paramedical Programs: <a href="https://gnc.edu.in/paramedical-college-in-dehradun-uttarakhand">https://gnc.edu.in/paramedical-college-in-dehradun-uttarakhand</a></p>
+<p>→ Pharmacy Programs: <a href="https://gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand">https://gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand</a></p>
+<p>→ Nursing Programs: <a href="https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand">https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand</a></p>
+<p>→ Health Science Programs: <a href="https://gnc.edu.in/top-health-science-college-in-dehradun-uttarakhand">https://gnc.edu.in/top-health-science-college-in-dehradun-uttarakhand</a></p>
 
 
 <h2 id="faqs">Frequently Asked Questions</h2>

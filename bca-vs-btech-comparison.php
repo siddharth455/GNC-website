@@ -76,7 +76,7 @@
   </script>
 
   <style>
-    /* ---------- Responsive Single Post Styles (copied from Best-Hotel-Management-Colleges-in-Dehradun-2026.php) ---------- */
+    /* ---------- Responsive Single Post Styles (copied from best-hotel-management-colleges-in-dehradun-2026) ---------- */
     :root {
       --primary: #0066cc;
       --muted: #6b6b80;
@@ -532,7 +532,7 @@
       <aside>
         <div class="suggested">
           <h3>You May Also Like</h3>
-          <a class="suggest-card" href="Best-Hotel-Management-Colleges-in-Dehradun-2026">
+          <a class="suggest-card" href="best-hotel-management-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/hm-banner.webp" alt="HM Colleges" width="auto" height="auto">
             <div class="sc-title">Best Hotel Management Colleges in Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026-02-16</div>

@@ -226,7 +226,7 @@
           <li>Affordable fee structure</li>
           <li>Modern infrastructure</li>
         </ul>
-        <p>Website: <a href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand</a></p>
+        <p>Website: <a href="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand</a></p>
 
         <h3 id="bfit">2. BFIT Group of Institutions, Dehradun</h3>
         <p>BFIT is a reputed name in higher education with a strong focus on health sciences. Its BPT program is designed to provide strong theoretical knowledge along with intensive clinical exposure.</p>
@@ -250,7 +250,7 @@
         <h2 id="admission-help">Need Admission Help?</h2>
         <p>Looking for personalized guidance to join the best BPT college in Dehradun? GNC College Dehradun is here to assist you with free counseling, course information, and admission support.</p>
         <p><strong>Call Now:</strong> +91-7300900900<br>
-           <strong>Visit:</strong> <a href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand</a></p>
+           <strong>Visit:</strong> <a href="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand</a></p>
 
         <h2 id="conclusion">Conclusion</h2>
         <p>Choosing the right college for your BPT degree is a crucial step towards a successful career in physiotherapy. Dehradun, with its serene environment and reputable institutions, provides an ideal setting for academic growth and professional development. The colleges mentioned above offer robust programs that blend theoretical knowledge with practical experience, ensuring you graduate as a competent and confident physiotherapist. With dedication and the right education, you can make a significant impact in the healthcare field, helping individuals lead healthier and more active lives.</p>

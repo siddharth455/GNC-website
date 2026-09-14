@@ -11,7 +11,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top B.Sc Optometry College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Explore the premier Bachelor of Optometry program at Guru Nanak College in Dehradun, Uttarakhand Offering cutting-edge training, experienced faculty, and state-of-the-art facilities, GNC prepares students for successful careers in optometry." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-bsc-optometry-College-in-dehradun" />
+    <meta property="og:url" content="https://gnc.edu.in/best-bsc-optometry-college-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

@@ -2056,13 +2056,13 @@ excellence in academics and holistic development." />
                 <div class="accordion-body" style="padding: 20px;">
                   <div class="menu-programs-list__graduates">
                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                      <li><a href="https://gnc.edu.in/Best-bmlt-college-in-dehradun" class="program-link">Bachelor of Medical Laboratory Technology</a></li>
-                      <li><a href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="program-link">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
-                      <li><a href="https://gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun" class="program-link">B.Sc. Operation theatre</a></li>
-                      <li><a href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Physiotherapy</a></li>
-                      <li><a href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun" class="program-link">B.Sc. Optometry</a></li>
+                      <li><a href="https://gnc.edu.in/best-bmlt-college-in-dehradun" class="program-link">Bachelor of Medical Laboratory Technology</a></li>
+                      <li><a href="https://gnc.edu.in/best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="program-link">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
+                      <li><a href="https://gnc.edu.in/best-operation-theatre-technology-colleges-in-dehradun" class="program-link">B.Sc. Operation theatre</a></li>
+                      <li><a href="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand" class="program-link">Bachelor of Physiotherapy</a></li>
+                      <li><a href="https://www.gnc.edu.in/best-bsc-optometry-college-in-dehradun" class="program-link">B.Sc. Optometry</a></li>
                       <li><a href="https://gnc.edu.in/masters-in-lab-technician" class="program-link">Master of Medical Laboratory Technology</a></li>
-                      <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College" class="program-link">Master of Physiotherapy</a></li>
+                      <li><a href="https://gnc.edu.in/best-mpt-master-of-physiotherapy-college" class="program-link">Master of Physiotherapy</a></li>
                     </ul>
                   </div>
                 </div>
@@ -2078,9 +2078,9 @@ excellence in academics and holistic development." />
                 <div class="accordion-body" style="padding: 20px;">
                   <div class="menu-programs-list__graduates">
                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                      <li class=""><a href="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Pharmacy</a></li>
-                      <li><a href="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand" class="program-link">Lateral Entry in B. Pharma</a></li>
-                      <li><a href="https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand" class="program-link">Diploma in Pharmacy</a></li>
+                      <li class=""><a href="https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand" class="program-link">Bachelor of Pharmacy</a></li>
+                      <li><a href="https://gnc.edu.in/b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand" class="program-link">Lateral Entry in B. Pharma</a></li>
+                      <li><a href="https://gnc.edu.in/best-college-for-d-pharm-in-dehradun-uttarakhand" class="program-link">Diploma in Pharmacy</a></li>
                     </ul>
                   </div>
                 </div>
@@ -2096,7 +2096,7 @@ excellence in academics and holistic development." />
                 <div class="accordion-body" style="padding: 20px;">
                   <div class="menu-programs-list__graduates">
                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                      <li><a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun" class="program-link">Bachelor of Science in Nursing</a></li>
+                      <li><a href="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun" class="program-link">Bachelor of Science in Nursing</a></li>
                       <li><a href="https://gnc.edu.in/best-gnm-college-in-dehradun" class="program-link">General Nursing and Midwifery (GNM)</a></li>
                       <li><a href="https://gnc.edu.in/post-basic-nursing" class="program-link">Post Basic B.Sc. Nursing</a></li>
                     </ul>
@@ -2131,17 +2131,17 @@ excellence in academics and holistic development." />
                 <div class="accordion-body" style="padding: 20px;">
                   <div class="menu-programs-list__graduates">
                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                      <li><a href="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Science in Microbiology</a></li>
+                      <li><a href="https://gnc.edu.in/bsc-microbiology-colleges-in-dehradun-uttarakhand" class="program-link">Bachelor of Science in Microbiology</a></li>
                       <li><a href="https://gnc.edu.in/bsc-biotechnology" class="program-link">Bachelor of Science in Biotechnology</a></li>
                       <li><a href="https://gnc.edu.in/bsc-food-technology" class="program-link">Bachelor of Science in Food Technology</a></li>
-                      <li><a href="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Science in PCM</a></li>
+                      <li><a href="https://gnc.edu.in/bsc-pcm-colleges-in-dehradun-uttarakhand" class="program-link">Bachelor of Science in PCM</a></li>
                       <li><a href="https://gnc.edu.in/bsc-cbz" class="program-link">Bachelor of Science in CBZ</a></li>
                       <li><a href="https://gnc.edu.in/bsc-geology" class="program-link">Bachelor of Science in Geology</a></li>
-                      <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun" class="program-link">Master of Science in Microbiology</a></li>
-                      <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Food Technology</a></li>
-                      <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Zoology</a></li>
-                      <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Chemistry</a></li>
-                      <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Physics</a></li>
+                      <li><a href="https://gnc.edu.in/msc-microbiology-colleges-in-dehradun" class="program-link">Master of Science in Microbiology</a></li>
+                      <li><a href="https://gnc.edu.in/msc-food-tech-colleges-in-dehradun-uttarakhand" class="program-link">Master of Science in Food Technology</a></li>
+                      <li><a href="https://gnc.edu.in/msc-zoology-colleges-in-dehradun-uttarakhand" class="program-link">Master of Science in Zoology</a></li>
+                      <li><a href="https://gnc.edu.in/msc-chemistry-colleges-in-dehradun-uttarakhand" class="program-link">Master of Science in Chemistry</a></li>
+                      <li><a href="https://gnc.edu.in/msc-physics-college-in-dehradun-uttarakhand" class="program-link">Master of Science in Physics</a></li>
                       <li><a href="https://gnc.edu.in/msc-botany" class="program-link">Master of Science in Botany</a></li>
                     </ul>
                   </div>
@@ -2159,8 +2159,8 @@ excellence in academics and holistic development." />
                   <div class="menu-programs-list__graduates">
                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
                       <li><a href="https://gnc.edu.in/agriculture-science" class="program-link">Bachelor of Science in Agriculture</a></li>
-                      <li><a href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun" class="program-link">Bachelor of Science in Forestry</a></li>
-                      <li><a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun" class="program-link">Master of Science in Agronomy</a></li>
+                      <li><a href="https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun" class="program-link">Bachelor of Science in Forestry</a></li>
+                      <li><a href="https://gnc.edu.in/best-msc-agronomy-colleges-in-dehradun" class="program-link">Master of Science in Agronomy</a></li>
                       <li><a href="https://gnc.edu.in/msc-horticulture" class="program-link">Master of Science in Horticulture</a></li>
                     </ul>
                   </div>
@@ -2177,8 +2177,8 @@ excellence in academics and holistic development." />
                 <div class="accordion-body" style="padding: 20px;">
                   <div class="menu-programs-list__graduates">
                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                      <li><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Computer Applications (BCA)</a></li>
-                      <li><a href="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand" class="program-link">B.Tech Computer Science</a></li>
+                      <li><a href="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand" class="program-link">Bachelor of Computer Applications (BCA)</a></li>
+                      <li><a href="https://gnc.edu.in/best-college-for-btech-computer-science-in-dehradun-uttarakhand" class="program-link">B.Tech Computer Science</a></li>
                     </ul>
                   </div>
                 </div>
@@ -2210,7 +2210,7 @@ excellence in academics and holistic development." />
                 <div class="accordion-body" style="padding: 20px;">
                   <div class="menu-programs-list__graduates">
                     <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                      <li><a href="https://www.gnc.edu.in/Best-DHM-Colleges-in-Dehradun" class="program-link">Diploma in Hotel Management (DHM)</a></li>
+                      <li><a href="https://www.gnc.edu.in/best-dhm-colleges-in-dehradun" class="program-link">Diploma in Hotel Management (DHM)</a></li>
                     </ul>
                   </div>
                 </div>
@@ -2302,13 +2302,13 @@ excellence in academics and holistic development." />
               <div class="accordion-body" style="padding: 20px;">
                 <div class="menu-programs-list__graduates">
                   <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                    <li><a href="https://gnc.edu.in/Best-bmlt-college-in-dehradun" class="program-link">Bachelor of Medical Laboratory Technology</a></li>
-                    <li><a href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="program-link">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
-                    <li><a href="https://gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun" class="program-link">B.Sc. Operation theatre</a></li>
-                    <li><a href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Physiotherapy</a></li>
-                    <li><a href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun" class="program-link">B.Sc. Optometry</a></li>
+                    <li><a href="https://gnc.edu.in/best-bmlt-college-in-dehradun" class="program-link">Bachelor of Medical Laboratory Technology</a></li>
+                    <li><a href="https://gnc.edu.in/best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="program-link">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
+                    <li><a href="https://gnc.edu.in/best-operation-theatre-technology-colleges-in-dehradun" class="program-link">B.Sc. Operation theatre</a></li>
+                    <li><a href="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand" class="program-link">Bachelor of Physiotherapy</a></li>
+                    <li><a href="https://www.gnc.edu.in/best-bsc-optometry-college-in-dehradun" class="program-link">B.Sc. Optometry</a></li>
                     <li><a href="https://gnc.edu.in/masters-in-lab-technician" class="program-link">Master of Medical Laboratory Technology</a></li>
-                    <li><a href="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College" class="program-link">Master of Physiotherapy</a></li>
+                    <li><a href="https://gnc.edu.in/best-mpt-master-of-physiotherapy-college" class="program-link">Master of Physiotherapy</a></li>
                   </ul>
                 </div>
               </div>
@@ -2317,9 +2317,9 @@ excellence in academics and holistic development." />
               <div class="accordion-body" style="padding: 20px;">
                 <div class="menu-programs-list__graduates">
                   <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                    <li class=""><a href="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Pharmacy</a></li>
-                    <li><a href="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand" class="program-link">Lateral Entry in B. Pharma</a></li>
-                    <li><a href="https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand" class="program-link">Diploma in Pharmacy</a></li>
+                    <li class=""><a href="https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand" class="program-link">Bachelor of Pharmacy</a></li>
+                    <li><a href="https://gnc.edu.in/b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand" class="program-link">Lateral Entry in B. Pharma</a></li>
+                    <li><a href="https://gnc.edu.in/best-college-for-d-pharm-in-dehradun-uttarakhand" class="program-link">Diploma in Pharmacy</a></li>
                   </ul>
                 </div>
               </div>
@@ -2328,7 +2328,7 @@ excellence in academics and holistic development." />
               <div class="accordion-body" style="padding: 20px;">
                 <div class="menu-programs-list__graduates">
                   <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                    <li><a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun" class="program-link">Bachelor of Science in Nursing</a></li>
+                    <li><a href="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun" class="program-link">Bachelor of Science in Nursing</a></li>
                     <li><a href="https://gnc.edu.in/best-gnm-college-in-dehradun" class="program-link">General Nursing and Midwifery (GNM)</a></li>
                     <li><a href="https://gnc.edu.in/post-basic-nursing" class="program-link">Post Basic Nursing</a></li>
                   </ul>
@@ -2349,17 +2349,17 @@ excellence in academics and holistic development." />
               <div class="accordion-body" style="padding: 20px;">
                 <div class="menu-programs-list__graduates">
                   <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                    <li><a href="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Science in Microbiology</a></li>
+                    <li><a href="https://gnc.edu.in/bsc-microbiology-colleges-in-dehradun-uttarakhand" class="program-link">Bachelor of Science in Microbiology</a></li>
                     <li><a href="https://gnc.edu.in/bsc-biotechnology" class="program-link">Bachelor of Science in Biotechnology</a></li>
                     <li><a href="https://gnc.edu.in/bsc-food-technology" class="program-link">Bachelor of Science in Food Technology</a></li>
-                    <li><a href="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Science in PCM</a></li>
+                    <li><a href="https://gnc.edu.in/bsc-pcm-colleges-in-dehradun-uttarakhand" class="program-link">Bachelor of Science in PCM</a></li>
                     <li><a href="https://gnc.edu.in/bsc-cbz" class="program-link">Bachelor of Science in CBZ</a></li>
                     <li><a href="https://gnc.edu.in/bsc-geology" class="program-link">Bachelor of Science in Geology</a></li>
-                    <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun" class="program-link">Master of Science in Microbiology</a></li>
-                    <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Food Technology</a></li>
-                    <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Zoology</a></li>
-                    <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Chemistry</a></li>
-                    <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand" class="program-link">Master of Science in Physics</a></li>
+                    <li><a href="https://gnc.edu.in/msc-microbiology-colleges-in-dehradun" class="program-link">Master of Science in Microbiology</a></li>
+                    <li><a href="https://gnc.edu.in/msc-food-tech-colleges-in-dehradun-uttarakhand" class="program-link">Master of Science in Food Technology</a></li>
+                    <li><a href="https://gnc.edu.in/msc-zoology-colleges-in-dehradun-uttarakhand" class="program-link">Master of Science in Zoology</a></li>
+                    <li><a href="https://gnc.edu.in/msc-chemistry-colleges-in-dehradun-uttarakhand" class="program-link">Master of Science in Chemistry</a></li>
+                    <li><a href="https://gnc.edu.in/msc-physics-college-in-dehradun-uttarakhand" class="program-link">Master of Science in Physics</a></li>
                     <li><a href="https://gnc.edu.in/msc-botany" class="program-link">Master of Science in Botany</a></li>
                   </ul>
                 </div>
@@ -2370,8 +2370,8 @@ excellence in academics and holistic development." />
                 <div class="menu-programs-list__graduates">
                   <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
                     <li><a href="https://gnc.edu.in/agriculture-science" class="program-link">Bachelor of Science in Agriculture</a></li>
-                    <li><a href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun" class="program-link">Bachelor of Science in Forestry</a></li>
-                    <li><a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun" class="program-link">Master of Science in Agronomy</a></li>
+                    <li><a href="https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun" class="program-link">Bachelor of Science in Forestry</a></li>
+                    <li><a href="https://gnc.edu.in/best-msc-agronomy-colleges-in-dehradun" class="program-link">Master of Science in Agronomy</a></li>
                     <li><a href="https://gnc.edu.in/msc-horticulture" class="program-link">Master of Science in Horticulture</a></li>
                   </ul>
                 </div>
@@ -2381,8 +2381,8 @@ excellence in academics and holistic development." />
               <div class="accordion-body" style="padding: 20px;">
                 <div class="menu-programs-list__graduates">
                   <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                    <li><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" class="program-link">Bachelor of Computer Applications (BCA)</a></li>
-                     <li><a href="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand" class="program-link">B.Tech Computer Science </a></li>
+                    <li><a href="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand" class="program-link">Bachelor of Computer Applications (BCA)</a></li>
+                     <li><a href="https://gnc.edu.in/best-college-for-btech-computer-science-in-dehradun-uttarakhand" class="program-link">B.Tech Computer Science </a></li>
                   </ul>
                 </div>
               </div>
@@ -2400,7 +2400,7 @@ excellence in academics and holistic development." />
               <div class="accordion-body" style="padding: 20px;">
                 <div class="menu-programs-list__graduates">
                   <ul class="p-0 list-unstyled list-icon-2" style="font-size: 16px;">
-                    <li><a href="https://www.gnc.edu.in/Best-DHM-Colleges-in-Dehradun" class="program-link">Diploma in Hotel Management (DHM)</a></li>
+                    <li><a href="https://www.gnc.edu.in/best-dhm-colleges-in-dehradun" class="program-link">Diploma in Hotel Management (DHM)</a></li>
                   </ul>
                 </div>
               </div>

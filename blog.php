@@ -176,7 +176,7 @@ programs for aspiring business leaders.',
   [
     'id' => 16,
     'title' => 'Best Hotel Management Colleges in Dehradun in 2026: Guru Nanak College',
-    'url' => 'Best-Hotel-Management-Colleges-in-Dehradun-2026',
+    'url' => 'best-hotel-management-colleges-in-dehradun-2026',
     'date' => '2026-02-16',
     'excerpt' => 'Dehradun has emerged as one of North India’s leading education hubs for hospitality and tourism studies',
     'author' => ['name' => 'GNC Dehradun'],

@@ -588,10 +588,10 @@ loading="lazy" width="auto" height="auto">
 <p>Guru Nanak College's School of Agriculture Science offers B.Sc Agriculture and B.Sc Forestry at the undergraduate level, with M.Sc Agronomy and M.Sc Horticulture for postgraduate specialization, supported by placement assistance across government and private sectors.</p>
 
 <p>→ B.Sc. Agriculture: <a href="https://gnc.edu.in/agriculture-science">https://gnc.edu.in/agriculture-science</a></p>
-<p>→ B.Sc. Forestry: <a href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun">https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun</a></p>
-<p>→ M.Sc. Agronomy: <a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun">https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun</a></p>
+<p>→ B.Sc. Forestry: <a href="https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun">https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun</a></p>
+<p>→ M.Sc. Agronomy: <a href="https://gnc.edu.in/best-msc-agronomy-colleges-in-dehradun">https://gnc.edu.in/best-msc-agronomy-colleges-in-dehradun</a></p>
 <p>→ M.Sc. Horticulture: <a href="https://gnc.edu.in/msc-horticulture">https://gnc.edu.in/msc-horticulture</a></p>
-<p>→ Agriculture Science Programs: <a href="https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand">https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand</a></p>
+<p>→ Agriculture Science Programs: <a href="https://gnc.edu.in/best-bsc-agriculture-college-in-dehradun-uttarakhand">https://gnc.edu.in/best-bsc-agriculture-college-in-dehradun-uttarakhand</a></p>
 
 
 <h2 id="faqs">Frequently Asked Questions</h2>

@@ -19,7 +19,7 @@
 
 <meta property="og:description" content="Guru Nanak College offers Diploma in Dialysis Technology in Dehradun with hands-on clinical training, hospital exposure and industry-ready curriculum." />
 
-<meta property="og:url" content="https://gnc.edu.in/Best-Diploma-in-Dialysis-Technology.php" />
+<meta property="og:url" content="https://gnc.edu.in/best-diploma-in-dialysis-technology" />
 
 <meta property="og:site_name" content="GNC Dehradun" />
 <meta property="article:publisher" content="https://www.facebook.com/gncmh" />

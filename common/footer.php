@@ -23,14 +23,14 @@
                 <div class="col-6 col-sm-4 col-lg-3">
                     <h5>Learn Here</h5>
                     <ul class="m-0 list-unstyled">
-                        <li><a href="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">Paramedical</a></li>
-                        <li><a href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">Pharmacy</a></li>
-                        <li><a href="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand">Nursing</a></li>
-                        <li><a href="https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand">Health Science</a></li>
+                        <li><a href="https://www.gnc.edu.in/paramedical-college-in-dehradun-uttarakhand">Paramedical</a></li>
+                        <li><a href="https://www.gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand">Pharmacy</a></li>
+                        <li><a href="https://www.gnc.edu.in/nursing-college-in-dehradun-uttarakhand">Nursing</a></li>
+                        <li><a href="https://gnc.edu.in/top-health-science-college-in-dehradun-uttarakhand">Health Science</a></li>
                         <li><a href="https://www.gnc.edu.in/approvals-accreditation-memberships">Approvals &amp; Accreditation</a></li>
                         <li><a href="https://www.gnc.edu.in/admissions">Admission Overview</a></li>
                         <li><a href="grievance">Grievance & Redressal Cell</a></li>
-                        <li><a href="AICTE-documents">AICTE Documents</a></li>
+                        <li><a href="aicte-documents">AICTE Documents</a></li>
                         <li><a href="https://www.aicte-india.org/feedback/index.php">AICTE Feedback</a></li>
 
                     </ul>

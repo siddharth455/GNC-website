@@ -920,7 +920,7 @@ loading="lazy" width="auto" height="auto">
 
 <h3>Nursing Programmes Offered at GNC Dehradun</h3>
 
-<p><strong>B.Sc Nursing — 4 Years</strong><br>INC approved. University affiliated. Full degree with clinical training at empanelled hospitals. Pathway to international nursing and M.Sc Nursing.<br>🔗 → <a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun">Full details and fees</a></p>
+<p><strong>B.Sc Nursing — 4 Years</strong><br>INC approved. University affiliated. Full degree with clinical training at empanelled hospitals. Pathway to international nursing and M.Sc Nursing.<br>🔗 → <a href="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun">Full details and fees</a></p>
 
 <p><strong>GNM — 3 Years + 6 Months Internship</strong><br>INC approved. Diploma programme. Ideal for students who want to enter nursing quickly and at lower cost.<br>🔗 → <a href="https://gnc.edu.in/best-gnm-college-in-dehradun">Full details and fees</a></p>
 
@@ -1040,7 +1040,7 @@ loading="lazy" width="auto" height="auto">
       <aside>
         <div class="suggested">
           <h3>You May Also Like</h3>
-          <a class="suggest-card" href="Best-B-Sc-Nursing-Colleges-in-dehradun">
+          <a class="suggest-card" href="best-b-sc-nursing-colleges-in-dehradun">
             <img class="sc-image" src="upload/blog/4.webp" alt="B.Sc Nursing College Dehradun" width="auto" height="auto">
             <div class="sc-title">Best B.Sc Nursing Colleges in Dehradun</div>
             <div class="sc-meta">GNC Dehradun • Nursing</div>

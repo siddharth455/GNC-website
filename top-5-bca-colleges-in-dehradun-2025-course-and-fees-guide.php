@@ -135,7 +135,7 @@
             <li>Recruiters: Startups, IT firms, edtech companies, software support teams</li>
           </ul>
           <p><strong>Why Choose:</strong> Guru Nanak College is gaining recognition as a leading BCA college in Dehradun. The program emphasizes hands-on learning, coding skills, and real-world projects. Its affordability, strong academic support, and central location make it a smart choice for aspiring IT professionals.</p>
-          <p><strong>Apply or Learn More:</strong> <a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php</a></p>
+          <p><strong>Apply or Learn More:</strong> <a href="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand</a></p>
 
           <h2>3. Graphic Era University</h2>
           <p><strong>Location:</strong> Clement Town, Dehradun</p>
@@ -236,7 +236,7 @@
           <h2>Conclusion</h2>
           <p>Dehradun continues to thrive as a tech-education destination with a variety of BCA colleges catering to diverse career aspirations. From affordable public universities to globally aligned private institutions, students can choose a program that aligns with their goals. Among the top 5, Guru Nanak College stands out for its practical learning model, affordable fees, and central location, making it ideal for students who want real-world skills and personalized support.</p>
 
-          <p><strong>To apply or learn more about Guru Nanak College’s BCA program, visit: </strong><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand.php</a></p>
+          <p><strong>To apply or learn more about Guru Nanak College’s BCA program, visit: </strong><a href="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand" target="_blank" rel="noopener">https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand</a></p>
 
         </article>
 

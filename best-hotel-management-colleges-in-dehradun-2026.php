@@ -501,13 +501,13 @@
             service, preparing them for real-world hospitality careers.</p>
 
           <p>👉 Explore course details:<br>
-            <a href="https://gnc.edu.in/Best-DHM-Colleges-in-Dehradun"
-              style="color: #0066cc;">https://gnc.edu.in/Best-DHM-Colleges-in-Dehradun.php</a>
+            <a href="https://gnc.edu.in/best-dhm-colleges-in-dehradun"
+              style="color: #0066cc;">https://gnc.edu.in/best-dhm-colleges-in-dehradun</a>
           </p>
 
           <p>👉 Learn why it is the top choice:<br>
-            <a href="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun"
-              style="color: #0066cc;">https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun.php</a>
+            <a href="https://gnc.edu.in/best-hotel-management-college-in-dehradun"
+              style="color: #0066cc;">https://gnc.edu.in/best-hotel-management-college-in-dehradun</a>
           </p>
 
           <hr>

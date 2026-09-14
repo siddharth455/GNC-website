@@ -11,7 +11,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best B.Pharm Lateral Entry College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Step into a world of pharmaceutical excellence at Guru Nanak College, the premier destination for B.Pharma (Lateral Entry) in Dehradun, Uttarakhand. With an innovative curriculum,renowned faculty, and state-of-the-art facilities, Guru Nanak College propels students into successful careers in pharmacy." />
-    <meta property="og:url" content="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

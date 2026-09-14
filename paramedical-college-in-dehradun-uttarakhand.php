@@ -12,7 +12,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Paramedical College in Dehradun 2026 — GNC" />
     <meta property="og:description" content="Study paramedical courses at Guru Nanak College Dehradun — BMLT, BMRIT, BPT, Optometry & OT Technology with modern labs & 100% placement. Apply 2026." />
-    <meta property="og:url" content="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/paramedical-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -82,7 +82,7 @@
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Paramedical Programs — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand.php",
+            "url": "https://www.gnc.edu.in/paramedical-college-in-dehradun-uttarakhand",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
@@ -120,7 +120,7 @@
                 "item": {
                     "@type": "Course",
                     "name": "Bachelor of Medical Laboratory Technology (BMLT)",
-                    "url": "https://www.gnc.edu.in/Best-bmlt-college-in-dehradun.php",
+                    "url": "https://www.gnc.edu.in/best-bmlt-college-in-dehradun",
                     "description": "Bachelor of Medical Laboratory Technology (BMLT) offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -151,7 +151,7 @@
                 "item": {
                     "@type": "Course",
                     "name": "Bachelor of Physiotherapy (BPT)",
-                    "url": "https://www.gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand",
                     "description": "Bachelor of Physiotherapy (BPT) offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -182,7 +182,7 @@
                 "item": {
                     "@type": "Course",
                     "name": "Bachelor of Optometry",
-                    "url": "https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun.php",
+                    "url": "https://www.gnc.edu.in/best-bsc-optometry-college-in-dehradun",
                     "description": "Bachelor of Optometry offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -275,7 +275,7 @@
                 "item": {
                     "@type": "Course",
                     "name": "Master of Physiotherapy (MPT)",
-                    "url": "https://www.gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php",
+                    "url": "https://www.gnc.edu.in/best-mpt-master-of-physiotherapy-college",
                     "description": "Master of Physiotherapy (MPT) offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -1181,7 +1181,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Medical Lab Technologist, Lab Supervisor, Pathology Lab Manager</p>
-                                    <a href="Best-bmlt-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-bmlt-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1192,7 +1192,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Radiology Technician, MRI/CT Scan Specialist</p>
-                                    <a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1203,7 +1203,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: OT Technician, Surgical Assistant</p>
-                                    <a href="Best-operation-theatre-technology-colleges-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-operation-theatre-technology-colleges-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1214,7 +1214,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 50%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Physiotherapist, Rehabilitation Specialist</p>
-                                    <a href="Best-BPT-college-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-bpt-college-in-dehradun-uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4">
@@ -1225,7 +1225,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with PCB (Minimum 45%)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Optometrist, Vision Consultant</p>
-                                    <a href="Best-bsc-optometry-College-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-bsc-optometry-college-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <!-- <div class="col-md-6 col-lg-4">
@@ -1262,7 +1262,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: BPT with internship completion</li>
                                     </ul>
                                     <p class="text-muted mb-5 leading-relaxed">Specialize in fields like Orthopedics, Neurology, or Sports to advance your clinical and research expertise.</p>
-                                    <a href="Best-MPT-Master-of-Physiotherapy-College" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-mpt-master-of-physiotherapy-college" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                         </div>

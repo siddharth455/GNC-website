@@ -11,7 +11,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best B.Sc PCM College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Best B.Sc PCM college in Dehradun, Uttarakhand at Guru Nanak College. Top faculty and modern labs in Physics, Chemistry, and Mathematics." />
-    <meta property="og:url" content="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand"/>
+    <meta property="og:url" content="https://gnc.edu.in/bsc-pcm-colleges-in-dehradun-uttarakhand"/>
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>

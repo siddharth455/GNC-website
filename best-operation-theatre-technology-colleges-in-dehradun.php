@@ -11,7 +11,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Operation Theatre Technology College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Enroll in the leading Bachelor of Operation Theatre Technology program at Guru Nanak College in Dehradun, Uttarakhand. With advanced training, expert faculty, and hands-on experience, GNC prepares students for rewarding careers in surgical and OT support." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun" />
+    <meta property="og:url" content="https://gnc.edu.in/best-operation-theatre-technology-colleges-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

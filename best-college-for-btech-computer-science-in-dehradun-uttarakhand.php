@@ -15,7 +15,7 @@
     <meta property="og:title" content="B.Tech CSE Admission 2026 in Dehradun | Guru Nanak College" />
     <meta property="og:description"
         content="Apply for B.Tech Computer Science Engineering Admission 2026 at Guru Nanak College Dehradun. AI, Data Science, placements and career support" />
-    <meta property="og:url"content="https://gnc.edu.in/Best-College-for-BTech-Computer-Science-in-Dehradun-Uttarakhand" />
+    <meta property="og:url"content="https://gnc.edu.in/best-college-for-btech-computer-science-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

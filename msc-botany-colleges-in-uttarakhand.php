@@ -11,7 +11,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best M.Sc Botany College in Dehradun Uttarakhand" />
     <meta property="og:description" content="Guru Nanak College, the top M.Sc. Botany institution in Dehradun, Uttarakhand. Renowned for its cuttingedge curriculum, distinguished faculty, and advanced research opportunities, Guru Nanak College cultivates future leaders in botanical sciences." />
-    <meta property="og:url" content="https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/msc-botany-colleges-in-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />

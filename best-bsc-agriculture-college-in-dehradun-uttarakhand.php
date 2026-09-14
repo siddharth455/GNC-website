@@ -12,7 +12,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Agriculture College in Dehradun, Uttarakhand" />
     <meta property="og:description" content="Study B.Sc Agriculture, Forestry, M.Sc Agronomy & Horticulture at Guru Nanak College Dehradun. Expert faculty, modern farms & placements. Admissions 2026." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/best-bsc-agriculture-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -79,7 +79,7 @@
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Agriculture Science — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand.php",
+            "url": "https://www.gnc.edu.in/best-bsc-agriculture-college-in-dehradun-uttarakhand",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
@@ -117,7 +117,7 @@
                 "item": {
                     "@type": "Course",
                     "name": "B.Sc. Forestry",
-                    "url": "https://www.gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun.php",
+                    "url": "https://www.gnc.edu.in/best-bsc-forestry-colleges-in-dehradun",
                     "description": "B.Sc. Forestry offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -148,7 +148,7 @@
                 "item": {
                     "@type": "Course",
                     "name": "M.Sc. Agronomy",
-                    "url": "https://www.gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun.php",
+                    "url": "https://www.gnc.edu.in/best-msc-agronomy-colleges-in-dehradun",
                     "description": "M.Sc. Agronomy offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -824,7 +824,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: 10+2 with Science (PCB/PCM)</li>
                                     </ul>
                                     <p class="small text-muted mt-3 mb-4">Career Scope: Forest Officer, Wildlife Conservationist, Environmental Consultant, Researcher</p>
-                                    <a href="Best-Bsc-Forestry-colleges-in-Dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-bsc-forestry-colleges-in-dehradun" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -843,7 +843,7 @@
                                         <li><i class="fas fa-check-circle text-info me-2"></i>Eligibility: B.Sc Agriculture or equivalent with minimum 45%.</li>
                                     </ul>
                                     <p class="text-muted mb-5 leading-relaxed">A 2-year postgraduate program specializing in crop production, soil management, irrigation techniques, and modern agronomic research methodologies.</p>
-                                    <a href="Best-Msc-Agronomy-Colleges-in-Dehradun" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-msc-agronomy-colleges-in-dehradun" class="btn btn-dark text-white w-100 py-3 fw-black uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
                             <div class="col-md-6">

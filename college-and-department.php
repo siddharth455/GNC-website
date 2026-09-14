@@ -61,7 +61,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://www.gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand" class="stretched-link text-link">Explore School of Paramedical</a>
+                                <a href="https://www.gnc.edu.in/paramedical-college-in-dehradun-uttarakhand" class="stretched-link text-link">Explore School of Paramedical</a>
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand" class="stretched-link text-link">Explore School of Pharmacy</a>
+                                <a href="https://www.gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand" class="stretched-link text-link">Explore School of Pharmacy</a>
                             </div>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://www.gnc.edu.in/Nursing-College-in-Dehradun-Uttarakhand" class="stretched-link text-link">Explore School of Nursing</a>
+                                <a href="https://www.gnc.edu.in/nursing-college-in-dehradun-uttarakhand" class="stretched-link text-link">Explore School of Nursing</a>
                             </div>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand" class="stretched-link text-link">Explore School of Health Science</a>
+                                <a href="https://gnc.edu.in/top-health-science-college-in-dehradun-uttarakhand" class="stretched-link text-link">Explore School of Health Science</a>
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://gnc.edu.in/Top-College-for-Life-and-Allied-Sciences-in-Dehradun-Uttarakhand" class="stretched-link text-link">Explore School of Life &amp; Allied Sciences</a>
+                                <a href="https://gnc.edu.in/top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand" class="stretched-link text-link">Explore School of Life &amp; Allied Sciences</a>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://gnc.edu.in/Best-Bsc-Agriculture-College-in-Dehradun-Uttarakhand" class="stretched-link text-link">Explore School of Agriculture Science</a>
+                                <a href="https://gnc.edu.in/best-bsc-agriculture-college-in-dehradun-uttarakhand" class="stretched-link text-link">Explore School of Agriculture Science</a>
                             </div>
                         </div>
                     </div>
@@ -158,7 +158,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://gnc.edu.in/Best-College-For-Computer-Science-in-Dehradun" class="stretched-link text-link">Explore School of Computer Science</a>
+                                <a href="https://gnc.edu.in/best-college-for-computer-science-in-dehradun" class="stretched-link text-link">Explore School of Computer Science</a>
                             </div>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://gnc.edu.in/Best-Management-College-in-Dehradun" class="stretched-link text-link">Explore School of Business</a>
+                                <a href="https://gnc.edu.in/best-management-college-in-dehradun" class="stretched-link text-link">Explore School of Business</a>
                             </div>
                         </div>
                     </div>
@@ -190,7 +190,7 @@
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-0 p-4">
-                                <a href="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun" class="stretched-link text-link">Explore School Hotel Management</a>
+                                <a href="https://gnc.edu.in/best-hotel-management-college-in-dehradun" class="stretched-link text-link">Explore School Hotel Management</a>
                             </div>
                         </div>
                     </div>

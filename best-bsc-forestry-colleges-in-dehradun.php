@@ -10,7 +10,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best B.Sc Forestry College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Guru Nanak College, the top college for B.Sc. Forestry in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and dedication to sustainable forestry practices, Guru Nanak College prepares students for leadership roles in environmental stewardship." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun"/>
+    <meta property="og:url" content="https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun"/>
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>

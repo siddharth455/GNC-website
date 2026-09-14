@@ -347,19 +347,19 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-laptop-code"></i> Computer Sciences</h4>
                         <ul>
-                            <li><a href="Best-College-for-BCA-in-Dehradun-Uttarakhand">Bachelor of Computer Applications</a></li>
+                            <li><a href="best-college-for-bca-in-dehradun-uttarakhand">Bachelor of Computer Applications</a></li>
                         </ul>
                     </div>
 
                     <div class="program-card">
                         <h4><i class="fa-solid fa-microscope"></i> Life & Allied Science</h4>
                         <ul>
-                            <li><a href="Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand">B.Sc. Microbiology</a></li>
+                            <li><a href="bsc-microbiology-colleges-in-dehradun-uttarakhand">B.Sc. Microbiology</a></li>
                             <li><a href="bsc-biotechnology">B.Sc. Biotechnology</a></li>
                             <li><a href="bsc-food-technology">B.Sc. Food Technology</a></li>
-                            <li><a href="Bsc-pcm-Colleges-in-Dehradun-Uttarakhand">B.Sc. PCM</a></li>
+                            <li><a href="bsc-pcm-colleges-in-dehradun-uttarakhand">B.Sc. PCM</a></li>
                             <li><a href="bsc-cbz">B.Sc. CBZ</a></li>
-                            <li><a href="Bsc-geology-College-in-Dehradun-Uttarakhand">B.Sc. Geology</a></li>
+                            <li><a href="bsc-geology-college-in-dehradun-uttarakhand">B.Sc. Geology</a></li>
                         </ul>
                     </div>
 
@@ -373,19 +373,19 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-kit-medical"></i> Paramedical Programs</h4>
                         <ul>
-                             <li><a href="Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
-                            <li><a href="Best-bmlt-college-in-dehradun">Bachelor of Medical Laboratory Technology</a></li>
-                            <li><a href="Best-BPT-college-in-Dehradun-Uttarakhand">Bachelor of Physiotherapy</a></li>
-                            <li><a href="Best-bsc-optometry-College-in-dehradun">Bachelor of Optometry</a></li>
-                             <li><a href="Best-operation-theatre-technology-colleges-in-dehradun">Bachelor of Operation Theatre Technology</a></li>
+                             <li><a href="best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
+                            <li><a href="best-bmlt-college-in-dehradun">Bachelor of Medical Laboratory Technology</a></li>
+                            <li><a href="best-bpt-college-in-dehradun-uttarakhand">Bachelor of Physiotherapy</a></li>
+                            <li><a href="best-bsc-optometry-college-in-dehradun">Bachelor of Optometry</a></li>
+                             <li><a href="best-operation-theatre-technology-colleges-in-dehradun">Bachelor of Operation Theatre Technology</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-pills"></i> Pharmacy Programs</h4>
                         <ul>
-                           <li><a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand">Bachelor of Pharmacy</a></li>
-                           <li><a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand">Lateral Entry in B. Pharma</a></li>
-                           <li><a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand">Diploma in Pharmacy</a></li>
+                           <li><a href="best-college-for-b-pharmacy-in-dehradun-uttarakhand">Bachelor of Pharmacy</a></li>
+                           <li><a href="b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand">Lateral Entry in B. Pharma</a></li>
+                           <li><a href="best-college-for-d-pharm-in-dehradun-uttarakhand">Diploma in Pharmacy</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
@@ -405,7 +405,7 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-user-nurse"></i> Nursing Program</h4>
                         <ul>
-                            <li><a href="Best-B-Sc-Nursing-Colleges-in-dehradun">B.Sc. Nursing</a></li>
+                            <li><a href="best-b-sc-nursing-colleges-in-dehradun">B.Sc. Nursing</a></li>
                             <li><a href="best-gnm-college-in-dehradun">General Nursing and Midwifery</a></li>
                             <li><a href="post-basic-nursing">Post Basic B.Sc. Nursing</a></li>
                         </ul>
@@ -428,13 +428,13 @@
                         <h4><i class="fa-solid fa-wheat-awn"></i> Agriculture Science</h4>
                         <ul>
                            <li><a href="agriculture-science">B.Sc. Agriculture</a></li>
-                           <li><a href="Best-Bsc-Forestry-colleges-in-Dehradun">B.Sc. Forestry</a></li>
+                           <li><a href="best-bsc-forestry-colleges-in-dehradun">B.Sc. Forestry</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
                         <h4><i class="fa-solid fa-hotel"></i> Hotel Management</h4>
                         <ul>
-                            <li><a href="Best-DHM-Colleges-in-Dehradun">Diploma in Hotel Management</a></li>
+                            <li><a href="best-dhm-colleges-in-dehradun">Diploma in Hotel Management</a></li>
                         </ul>
                     </div>
                 </div>

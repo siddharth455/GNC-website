@@ -232,7 +232,7 @@
         <h2 id="contact">📞 Contact Details</h2>
         <p>Gurunanak College of Nursing<br>
         Dehradun, Uttarakhand</p>
-        <p><strong>Website:</strong> <a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun" target="_blank" rel="noopener">https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun.php</a></p>
+        <p><strong>Website:</strong> <a href="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun" target="_blank" rel="noopener">https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun</a></p>
 
         <h2 id="conclusion">🎯 Conclusion</h2>
         <p>Nursing is not just a career—it’s a calling. At Gurunanak College, Dehradun, we provide more than just education. We shape compassionate healthcare professionals ready to lead with care, knowledge, and confidence. Enroll now for Nursing Admissions 2025 and take the first step towards a successful and meaningful future.</p>

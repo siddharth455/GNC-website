@@ -604,9 +604,9 @@ loading="lazy" width="auto" height="auto">
 
 <p>Guru Nanak College, Dehradun offers both programs with modern labs, hospital tie-ups for clinical training, and a dedicated placement cell. With 100+ companies visiting campus and an average placement package of ₹12 LPA, GNC is among the best paramedical colleges in Dehradun and Uttarakhand.</p>
 
-<p>→ Bachelor of Medical Laboratory Technology: <a href="https://gnc.edu.in/Best-bmlt-college-in-dehradun">https://gnc.edu.in/Best-bmlt-college-in-dehradun</a></p>
-<p>→ Bachelor of Medical Radio Diagnosis &amp; Imaging Technology: <a href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun</a></p>
-<p>→ All Paramedical Programs: <a href="https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand">https://gnc.edu.in/Paramedical-College-in-Dehradun-Uttarakhand</a></p>
+<p>→ Bachelor of Medical Laboratory Technology: <a href="https://gnc.edu.in/best-bmlt-college-in-dehradun">https://gnc.edu.in/best-bmlt-college-in-dehradun</a></p>
+<p>→ Bachelor of Medical Radio Diagnosis &amp; Imaging Technology: <a href="https://gnc.edu.in/best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">https://gnc.edu.in/best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun</a></p>
+<p>→ All Paramedical Programs: <a href="https://gnc.edu.in/paramedical-college-in-dehradun-uttarakhand">https://gnc.edu.in/paramedical-college-in-dehradun-uttarakhand</a></p>
 
 
 <h2 id="faqs">Frequently Asked Questions</h2>

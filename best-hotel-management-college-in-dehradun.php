@@ -12,7 +12,7 @@ College in Uttarakhand" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Hotel Management College in Dehradun" />
     <meta property="og:description" content="Guru Nanak College offers Diploma in Hotel Management in Dehradun with industry training, modern kitchens & placement support. Admissions 2026 open." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-Hotel-Management-College-in-Dehradun" />
+    <meta property="og:url" content="https://gnc.edu.in/best-hotel-management-college-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -79,14 +79,14 @@ College in Uttarakhand" />
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Hotel Management — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Best-Hotel-Management-College-in-Dehradun.php",
+            "url": "https://www.gnc.edu.in/best-hotel-management-college-in-dehradun",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
                     "@type": "Course",
                     "name": "Diploma in Hotel Management (DHM)",
-                    "url": "https://www.gnc.edu.in/Best-DHM-Colleges-in-Dehradun.php",
+                    "url": "https://www.gnc.edu.in/best-dhm-colleges-in-dehradun",
                     "description": "Diploma in Hotel Management (DHM) offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",

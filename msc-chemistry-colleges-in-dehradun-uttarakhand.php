@@ -11,7 +11,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best M.Sc Chemistry College in Dehradun Uttarakhand" />
     <meta property="og:description" content="Guru Nanak College, Dehradun’s best M.Sc. Chemistry college. With an innovative curriculum, expert faculty, and advanced research opportunities, the college shapes future leaders in chemistry." />
-    <meta property="og:url" content="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/msc-chemistry-colleges-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

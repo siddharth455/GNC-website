@@ -11,7 +11,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best B.Pharm College in Dehradun — Admission 2026"/>
     <meta property="og:description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty and top placements." />
-    <meta property="og:url" content="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

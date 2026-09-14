@@ -11,7 +11,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best MPT College in Dehradun, Uttarakhand, India – Guru Nanak College (GNC Dehradun)"/>
     <meta property="og:description" content="Looking for the best MPT college in Dehradun, Uttarakhand? Guru Nanak College offers expert faculty, clinical training, and a modern MPT curriculum to prepare you for a successful career in physiotherapy."/>
-    <meta property="og:url" content="https://gnc.edu.in/Best-MPT-Master-of-Physiotherapy-College.php " />
+    <meta property="og:url" content="https://gnc.edu.in/best-mpt-master-of-physiotherapy-college " />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

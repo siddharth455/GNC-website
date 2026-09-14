@@ -14,7 +14,7 @@
     <meta property="og:description" content="School of Health Sciences at Guru Nanak College, Dehradun a premier institution
           for advanced healthcare education. Explore our Master of Hospital Administration (MHA) and Master of
           Public Health (MPH) programs, designed to meet the challenges of the modern healthcare industry." />
-    <meta property="og:url" content="https://gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/top-health-science-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
@@ -79,7 +79,7 @@
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Health Science — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Top-Health-Science-College-in-Dehradun-Uttarakhand.php",
+            "url": "https://www.gnc.edu.in/top-health-science-college-in-dehradun-uttarakhand",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,

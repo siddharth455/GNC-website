@@ -322,40 +322,40 @@
         <div class="row" id="courseGrid">
             <?php
             $courses = [
-                ["name"=>"BMRIT – Medical Radio Diagnosis & Imaging Tech", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun"],
-                ["name"=>"BMLT – Medical Laboratory Technology", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-bmlt-college-in-dehradun"],
-                ["name"=>"BPT – Bachelor of Physiotherapy", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand"],
-                ["name"=>"Bachelor of Optometry", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-bsc-optometry-College-in-dehradun"],
-                ["name"=>"BOTT – Operation Theatre Technology", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun"],
-                ["name"=>"Bachelor of Pharmacy (B.Pharm)", "level"=>"UG", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand"],
-                ["name"=>"B.Pharm (Lateral Entry)", "level"=>"UG", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"BMRIT – Medical Radio Diagnosis & Imaging Tech", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun"],
+                ["name"=>"BMLT – Medical Laboratory Technology", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/best-bmlt-college-in-dehradun"],
+                ["name"=>"BPT – Bachelor of Physiotherapy", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand"],
+                ["name"=>"Bachelor of Optometry", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/best-bsc-optometry-college-in-dehradun"],
+                ["name"=>"BOTT – Operation Theatre Technology", "level"=>"UG", "stream"=>"Paramedical", "url"=>"https://gnc.edu.in/best-operation-theatre-technology-colleges-in-dehradun"],
+                ["name"=>"Bachelor of Pharmacy (B.Pharm)", "level"=>"UG", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand"],
+                ["name"=>"B.Pharm (Lateral Entry)", "level"=>"UG", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand"],
                 ["name"=>"BBA – Business Administration", "level"=>"UG", "stream"=>"Management", "url"=>"https://gnc.edu.in/best-bba-college-in-dehradun"],
-                ["name"=>"BCA – Computer Applications", "level"=>"UG", "stream"=>"Computer", "url"=>"https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand"],
-                ["name"=>"B.Sc Nursing", "level"=>"UG", "stream"=>"Nursing", "url"=>"https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun"],
-                ["name"=>"B.Sc Microbiology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"BCA – Computer Applications", "level"=>"UG", "stream"=>"Computer", "url"=>"https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand"],
+                ["name"=>"B.Sc Nursing", "level"=>"UG", "stream"=>"Nursing", "url"=>"https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun"],
+                ["name"=>"B.Sc Microbiology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/bsc-microbiology-colleges-in-dehradun-uttarakhand"],
                 ["name"=>"B.Sc Biotechnology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/bsc-biotechnology"],
                 ["name"=>"B.Sc Food Technology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-food-technology"],
-                ["name"=>"B.Sc PCM", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand"],
+                ["name"=>"B.Sc PCM", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/bsc-pcm-colleges-in-dehradun-uttarakhand"],
                 ["name"=>"B.Sc CBZ", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-cbz"],
-                ["name"=>"B.Sc Geology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Bsc-geology-College-in-Dehradun-Uttarakhand"],
+                ["name"=>"B.Sc Geology", "level"=>"UG", "stream"=>"Science", "url"=>"https://gnc.edu.in/bsc-geology-college-in-dehradun-uttarakhand"],
                 ["name"=>"B.Sc Agriculture", "level"=>"UG", "stream"=>"Agriculture", "url"=>"https://gnc.edu.in/agriculture-science"],
-                ["name"=>"B.Sc Forestry", "level"=>"UG", "stream"=>"Agriculture", "url"=>"https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun"],
+                ["name"=>"B.Sc Forestry", "level"=>"UG", "stream"=>"Agriculture", "url"=>"https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun"],
                 ["name"=>"MMLT – Medical Laboratory Technology", "level"=>"PG", "stream"=>"Paramedical", "url"=>"#"],
                 ["name"=>"MPT – Physiotherapy", "level"=>"PG", "stream"=>"Paramedical", "url"=>"#"],
                 ["name"=>"MPH – Public Health", "level"=>"PG", "stream"=>"Health Science", "url"=>"https://gnc.edu.in/master-of-public-health"],
                 ["name"=>"MHA – Hospital Administration", "level"=>"PG", "stream"=>"Health Science", "url"=>"https://gnc.edu.in/master-of-hospital-administration"],
-                ["name"=>"M.Sc Microbiology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun"],
-                ["name"=>"M.Sc Food Technology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand"],
-                ["name"=>"M.Sc Zoology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand"],
-                ["name"=>"M.Sc Chemistry", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand"],
-                ["name"=>"M.Sc Physics", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand"],
-                ["name"=>"M.Sc Botany", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand"],
-                ["name"=>"M.Sc Agronomy", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun"],
+                ["name"=>"M.Sc Microbiology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-microbiology-colleges-in-dehradun"],
+                ["name"=>"M.Sc Food Technology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-food-tech-colleges-in-dehradun-uttarakhand"],
+                ["name"=>"M.Sc Zoology", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-zoology-colleges-in-dehradun-uttarakhand"],
+                ["name"=>"M.Sc Chemistry", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-chemistry-colleges-in-dehradun-uttarakhand"],
+                ["name"=>"M.Sc Physics", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-physics-college-in-dehradun-uttarakhand"],
+                ["name"=>"M.Sc Botany", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-botany-colleges-in-uttarakhand"],
+                ["name"=>"M.Sc Agronomy", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/best-msc-agronomy-colleges-in-dehradun"],
                 ["name"=>"M.Sc Horticulture", "level"=>"PG", "stream"=>"Science", "url"=>"https://gnc.edu.in/msc-horticulture"],
-                ["name"=>"Diploma in Pharmacy (D.Pharm)", "level"=>"Diploma", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand"],
+                ["name"=>"Diploma in Pharmacy (D.Pharm)", "level"=>"Diploma", "stream"=>"Pharmacy", "url"=>"https://gnc.edu.in/best-college-for-d-pharm-in-dehradun-uttarakhand"],
                 ["name"=>"General Nursing & Midwifery (GNM)", "level"=>"Diploma", "stream"=>"Nursing", "url"=>"https://gnc.edu.in/best-gnm-college-in-dehradun"],
                 ["name"=>"Post Basic B.Sc Nursing", "level"=>"Diploma", "stream"=>"Nursing", "url"=>"#"],
-                ["name"=>"Diploma in Hotel Management", "level"=>"Diploma", "stream"=>"Hospitality", "url"=>"https://gnc.edu.in/Best-DHM-Colleges-in-Dehradun"],
+                ["name"=>"Diploma in Hotel Management", "level"=>"Diploma", "stream"=>"Hospitality", "url"=>"https://gnc.edu.in/best-dhm-colleges-in-dehradun"],
                 //  ["name"=>"Diploma in Dialysis Technology", "level"=>"Diploma", "stream"=>"Paramedical", "url"=>"#"],
                 //  ["name"=>"B.Tech (CS) – B.Tech Computer Science", "level"=>"UG", "stream"=>"Computer", "url"=>"#"],
             ];
@@ -432,27 +432,27 @@
                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li>
-                                        <a href="https://gnc.edu.in/Best-BMRIT-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="hover-effect">
+                                        <a href="https://gnc.edu.in/best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" class="hover-effect">
                                             Bachelor of Medical Radio Diagnosis And Imaging Technology - <br>3 Year's
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://gnc.edu.in/Best-bmlt-college-in-dehradun" class="hover-effect">
+                                        <a href="https://gnc.edu.in/best-bmlt-college-in-dehradun" class="hover-effect">
                                             Bachelor of Medical Laboratory Technology - 3 Year's
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" class="hover-effect">
+                                        <a href="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand" class="hover-effect">
                                             Bachelor of Physiotherapy - 4 Year's
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.gnc.edu.in/Best-bsc-optometry-College-in-dehradun" class="hover-effect">
+                                        <a href="https://www.gnc.edu.in/best-bsc-optometry-college-in-dehradun" class="hover-effect">
                                             Bachelor of Optometry - 3 Year's
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://gnc.edu.in/Best-operation-theatre-technology-colleges-in-dehradun" class="hover-effect">
+                                        <a href="https://gnc.edu.in/best-operation-theatre-technology-colleges-in-dehradun" class="hover-effect">
                                             Bachelor of Operation Theatre Technology (BOTT) - 3 Year's
                                         </a>
                                     </li>
@@ -478,12 +478,12 @@
                                 <h4>Pharmacy Programs</h4>
                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <li><a href="https://gnc.edu.in/best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand" class="hover-effect" tabindex="0">Bachelor of Pharmacy - 4 Year's</a></li>
-                                    <li><a href="https://gnc.edu.in/B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand" class="hover-effect" tabindex="0">Lateral Entry in B. Pharma - 3 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand" class="hover-effect" tabindex="0">Bachelor of Pharmacy - 4 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand" class="hover-effect" tabindex="0">Lateral Entry in B. Pharma - 3 Year's</a></li>
                                 </ul>
                                 <h6>Diploma Program</h6> -->
                                 <!-- <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <li><a href="https://gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand" class="hover-effect" tabindex="0">Diploma in Pharmacy - 2 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/best-college-for-d-pharm-in-dehradun-uttarakhand" class="hover-effect" tabindex="0">Diploma in Pharmacy - 2 Year's</a></li>
                                 </ul>
                             </div>
                         </div> -->
@@ -535,7 +535,7 @@
                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/bsc-it-cs" class="hover-effect">Bachelor of Science in IT/CS - 3 Year's</a></li>
-                                    <li><a href="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Computer Applications (BCA) – 3 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand" class="hover-effect">Bachelor of Computer Applications (BCA) – 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/bsc-ai" class="hover-effect">Bachelor of Science in Artificial Intelligence (AI) - 3 Year's</a></li> -->
                                     <!-- <li><a href="https://gnc.edu.in/bsc-dscs" class="hover-effect">B.Sc. Data Science &amp; Cyber Security - 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/b-tech" class="hover-effect">Bachelor of Technology (CSE) – 4 Year's</a></li>
@@ -554,7 +554,7 @@
                             <div class="card shadow programList-links p-4 br-20 mb-4">
                                 <h4>Nursing Program</h4>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <li><a href="https://gnc.edu.in/Best-B-Sc-Nursing-Colleges-in-dehradun" class="hover-effect" tabindex="0">Bachelor of Science Nursing - 4 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun" class="hover-effect" tabindex="0">Bachelor of Science Nursing - 4 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/best-gnm-college-in-dehradun" class="hover-effect" tabindex="0">General Nursing and Midwifery - 3 Year's </a></li>
                                     <li><a href="#" class="hover-effect" tabindex="0">Post Basic B.Sc. Nursing</a></li>
 
@@ -566,25 +566,25 @@
                                 <h4>Life &amp; Allied science</h4>
                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <li><a href="https://gnc.edu.in/Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Science in Microbiology - 3 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/bsc-microbiology-colleges-in-dehradun-uttarakhand" class="hover-effect">Bachelor of Science in Microbiology - 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/bsc-biotechnology" class="hover-effect">Bachelor of Science in Biotechnology - 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/Bsc-food-technology" class="hover-effect">Bachelor of Science in Food Technology - 3 Year's</a></li>
-                                    <li><a href="https://gnc.edu.in/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Science in PCM - 3 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/bsc-pcm-colleges-in-dehradun-uttarakhand" class="hover-effect">Bachelor of Science in PCM - 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/Bsc-cbz" class="hover-effect">Bachelor of Science in CBZ - 3 Year's</a></li>
-                                    <li><a href="https://gnc.edu.in/Bsc-geology-College-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Science in Geology - 3 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/bsc-geology-college-in-dehradun-uttarakhand" class="hover-effect">Bachelor of Science in Geology - 3 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/bsc-home-science-College-in-Dehradun-Uttarakhand" class="hover-effect">Bachelor of Science in Home Science - 3 Year's</a></li>
                                 </ul>
                                 <h6>Postgraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <li><a href="https://gnc.edu.in/msc-microbiology-Colleges-in-Dehradun" class="hover-effect">Master of Science in Microbiology - 2 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/msc-microbiology-colleges-in-dehradun" class="hover-effect">Master of Science in Microbiology - 2 Year's</a></li>
                                      <li><a href="https://gnc.edu.in/msc-biotechnologyColleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of in Science Biotechnology - 2 Year's</a></li>
-                                    <li><a href="https://gnc.edu.in/msc-food-tech-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Food Technology - 2 Year's</a></li>
-                                    <li><a href="https://gnc.edu.in/msc-zoology-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Zoology - 2 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/msc-food-tech-colleges-in-dehradun-uttarakhand" class="hover-effect">Master of Science in Food Technology - 2 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/msc-zoology-colleges-in-dehradun-uttarakhand" class="hover-effect">Master of Science in Zoology - 2 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/msc-biochemistry-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Biochemistry - 2 Year's</a></li> 
-                                    <li><a href="https://gnc.edu.in/msc-chemistry-Colleges-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Chemistry - 2 Year's</a></li>
-                                    <li><a href="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Physics - 2 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/msc-chemistry-colleges-in-dehradun-uttarakhand" class="hover-effect">Master of Science in Chemistry - 2 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/msc-physics-college-in-dehradun-uttarakhand" class="hover-effect">Master of Science in Physics - 2 Year's</a></li>
                                     <li><a href="https://gnc.edu.in/msc-geology" class="hover-effect">Master of Science in Geology - 2 Year's</a></li> 
-                                    <li><a href="https://gnc.edu.in/msc-botany-Colleges-in-Uttarakhand" class="hover-effect">Master of Science in Botany - 2 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/msc-botany-colleges-in-uttarakhand" class="hover-effect">Master of Science in Botany - 2 Year's</a></li>
                                 </ul>
                             </div>
                         </div> -->
@@ -594,11 +594,11 @@
                                 <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
                                     <li><a href="https://gnc.edu.in/agriculture-science" class="hover-effect">Bachelor of Science in Agriculture - 4 Year's</a></li>
-                                    <li><a href="https://gnc.edu.in/Best-Bsc-Forestry-colleges-in-Dehradun" class="hover-effect">Bachelor of Science in Forestry - 4 Year's</a></li>
+                                    <li><a href="https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun" class="hover-effect">Bachelor of Science in Forestry - 4 Year's</a></li>
                                 </ul>
                                 <h6>Postgraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <li><a href="https://gnc.edu.in/Best-Msc-Agronomy-Colleges-in-Dehradun" class="hover-effect">Master of Science in Agronomy - 2 Years</a></li>
+                                    <li><a href="https://gnc.edu.in/best-msc-agronomy-colleges-in-dehradun" class="hover-effect">Master of Science in Agronomy - 2 Years</a></li>
                                     <li><a href="https://gnc.edu.in/msc-seed-science-College-in-Dehradun-Uttarakhand" class="hover-effect">Master of Science in Seed Science - 2 Years</a></li> -->
                                     <!-- <li><a href="https://gnc.edu.in/msc-horticulture " class="hover-effect">Master of Science in Horticulture - 2 Years</a></li>
                                 </ul>
@@ -610,7 +610,7 @@
                                 <h4>Hotel Management</h4>
                                 <h6>Diploma Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">
-                                    <li><a href="https://gnc.edu.in/Best-DHM-Colleges-in-Dehradun" class="hover-effect">Diploma in Hotel Management - 1 Year</a></li>
+                                    <li><a href="https://gnc.edu.in/best-dhm-colleges-in-dehradun" class="hover-effect">Diploma in Hotel Management - 1 Year</a></li>
                                 </ul>
                                  <h6>Undergraduate Program</h6>
                                 <ul class="llistStyle-2 p-0 mt-4 text-start course-list ps-5">

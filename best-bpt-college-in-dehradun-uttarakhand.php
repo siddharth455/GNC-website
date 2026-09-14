@@ -12,7 +12,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="BPT Course, Details, Admission, Fees, Eligibility, Career|Guru Nanak College " />
     <meta property="og:description" content="Enrol in a BPT program at one of Dehradun's top physiotherapy colleges and build expertise in rehabilitation, manual therapy, and clinical practice." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-BPT-college-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>

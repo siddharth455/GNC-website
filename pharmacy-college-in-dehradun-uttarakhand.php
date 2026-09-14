@@ -12,7 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Best Pharmacy College in Dehradun, Uttarakhand | Guru Nanak College">
     <meta property="og:description" content="Guru Nanak College is a leading pharmacy college in Dehradun offering PCI-aligned B.Pharm, D.Pharm & B.Pharm Lateral Entry (UTU affiliated). Apply 2026.">
-    <meta property="og:url" content="https://gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand">
+    <meta property="og:url" content="https://gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand">
     <meta property="og:site_name" content="GNC Dehradun">
     <meta property="og:image" content="https://gnc.edu.in/assets/images/pharmacy-campus.jpg">
     <meta property="og:image:type" content="image/webp">
@@ -120,7 +120,7 @@
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Pharmacy Programs — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand.php",
+            "url": "https://www.gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
@@ -189,7 +189,7 @@
                 "item": {
                     "@type": "Course",
                     "name": "Diploma in Pharmacy (D.Pharma)",
-                    "url": "https://www.gnc.edu.in/Best-College-for-D-Pharm-in-Dehradun-Uttarakhand.php",
+                    "url": "https://www.gnc.edu.in/best-college-for-d-pharm-in-dehradun-uttarakhand",
                     "description": "Diploma in Pharmacy (D.Pharma) offered by Guru Nanak College, Dehradun, Uttarakhand — affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) / Uttarakhand Technical University (UTU).",
                     "provider": {
                         "@type": "CollegeOrUniversity",
@@ -1175,7 +1175,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Pharmacist, Drug Analyst, Research Associate, Quality Control Officer, Medical Representative, Regulatory Executive.
                                     </p>
-                                    <a href="best-College-for-B-Pharmacy-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-college-for-b-pharmacy-in-dehradun-uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -1190,7 +1190,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Production Chemist, Clinical Research Associate, Regulatory Affairs Executive, Quality Assurance Officer.
                                     </p>
-                                    <a href="B-Pharm-Lateral-Entry-Colleges-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="b-pharm-lateral-entry-colleges-in-dehradun-uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 
@@ -1205,7 +1205,7 @@
                                     <p class="small text-muted mt-3 mb-4">
                                         <strong>Career Scope:</strong> Hospital Pharmacist, Pharmaceutical Assistant, Medical Representative, Health Inspector.
                                     </p>
-                                    <a href="Best-College-for-D-Pharm-in-Dehradun-Uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
+                                    <a href="best-college-for-d-pharm-in-dehradun-uttarakhand" class="btn btn-outline-dark w-100 py-2 fw-black small uppercase mt-auto text-decoration-none text-center">View Details</a>
                                 </div>
                             </div>
 

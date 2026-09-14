@@ -157,7 +157,7 @@
           <p><strong>📞 For admissions and more information:</strong><br>
             <strong>Call:</strong> <a href="tel:7300900900">7300900900</a></p>
 
-          <p><strong>🌐 Check our website:</strong> <a href="https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand" target="_blank" rel="noopener">https://www.gnc.edu.in/Pharmacy-College-in-Dehradun-Uttarakhand</a></p>
+          <p><strong>🌐 Check our website:</strong> <a href="https://www.gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand" target="_blank" rel="noopener">https://www.gnc.edu.in/pharmacy-college-in-dehradun-uttarakhand</a></p>
         </article>
 
         <div class="post-nav" aria-label="Post navigation">

@@ -11,7 +11,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best M.Sc Physics College in Dehradun, Uttarakhand - Guru Nanak College" />
     <meta property="og:description" content="Guru Nanak College, the pinnacle of M.Sc. Physics education in Dehradun, Uttarakhand. With an avantgarde curriculum, esteemed faculty, and state-of-theart facilities, Guru Nanak College propels students into the frontier of physical sciences, shaping the innovators of tomorrow." />
-    <meta property="og:url" content="https://gnc.edu.in/msc-physics-College-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/msc-physics-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">

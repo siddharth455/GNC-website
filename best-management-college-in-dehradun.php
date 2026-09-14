@@ -12,7 +12,7 @@ Uttarakhand" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Guru Nanak College | Best Management College in Dehradun" />
     <meta property="og:description" content="Best BBA college in Dehradun, Uttarakhand at Guru Nanak College. UTU affiliated BBA program with 100% placement support and top industry exposure." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-Management-College-in-Dehradun" />
+    <meta property="og:url" content="https://gnc.edu.in/best-management-college-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -78,7 +78,7 @@ Uttarakhand" />
             "@context": "https://schema.org",
             "@type": "ItemList",
             "name": "Business School — Guru Nanak College, Dehradun",
-            "url": "https://www.gnc.edu.in/Best-Management-College-in-Dehradun.php",
+            "url": "https://www.gnc.edu.in/best-management-college-in-dehradun",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,

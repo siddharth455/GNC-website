@@ -12,7 +12,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Top BCA college in Dehradun – BCA Admission 2026 | Guru Nanak ." />
     <meta property="og:description" content="Do BCA at Guru Nanak College Dehradun — industry-aligned curriculum, modern computer labs & strong placements. Admissions 2026 open. Apply online now." />
-    <meta property="og:url" content="https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand" />
+    <meta property="og:url" content="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -72,7 +72,7 @@
         "@type": "ListItem",
         "position": 3,
         "name": "BCA",
-        "item": "https://gnc.edu.in/Best-College-for-BCA-in-Dehradun-Uttarakhand"
+        "item": "https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand"
       }]
     }
     </script>

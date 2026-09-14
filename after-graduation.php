@@ -204,12 +204,12 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-microscope"></i> Life & Allied Science</h4>
                         <ul>
-                            <li><a href="msc-microbiology-Colleges-in-Dehradun">M.Sc. Microbiology</a></li>
-                            <li><a href="msc-food-tech-Colleges-in-Dehradun-Uttarakhand">M.Sc. Food Technology</a></li>
-                            <li><a href="msc-chemistry-Colleges-in-Dehradun-Uttarakhand">M.Sc. Chemistry</a></li>
-                            <li><a href="msc-physics-College-in-Dehradun-Uttarakhand">M.Sc. Physics</a></li>
-                            <li><a href="msc-botany-Colleges-in-Uttarakhand">M.Sc. Botany</a></li>
-                            <li><a href="msc-zoology-Colleges-in-Dehradun-Uttarakhand">M.Sc. Zoology</a></li>
+                            <li><a href="msc-microbiology-colleges-in-dehradun">M.Sc. Microbiology</a></li>
+                            <li><a href="msc-food-tech-colleges-in-dehradun-uttarakhand">M.Sc. Food Technology</a></li>
+                            <li><a href="msc-chemistry-colleges-in-dehradun-uttarakhand">M.Sc. Chemistry</a></li>
+                            <li><a href="msc-physics-college-in-dehradun-uttarakhand">M.Sc. Physics</a></li>
+                            <li><a href="msc-botany-colleges-in-uttarakhand">M.Sc. Botany</a></li>
+                            <li><a href="msc-zoology-colleges-in-dehradun-uttarakhand">M.Sc. Zoology</a></li>
                         </ul>
                     </div>
                     <div class="research-promo-card">
@@ -223,7 +223,7 @@
                         <h4><i class="fa-solid fa-kit-medical"></i> Paramedical Programs</h4>
                         <ul>
                             <li><a href="masters-in-lab-technician">M.Sc. Medical Laboratory Technology</a></li>
-                            <li><a href="Best-MPT-Master-of-Physiotherapy-College">Master of Physiotherapy</a></li>
+                            <li><a href="best-mpt-master-of-physiotherapy-college">Master of Physiotherapy</a></li>
                         </ul>
                     </div>
                     <div class="program-card">
@@ -243,7 +243,7 @@
                     <div class="program-card">
                         <h4><i class="fa-solid fa-wheat-awn"></i> Agriculture Science</h4>
                         <ul>
-                             <li><a href="Best-Msc-Agronomy-Colleges-in-Dehradun">M.Sc. Agronomy</a></li>
+                             <li><a href="best-msc-agronomy-colleges-in-dehradun">M.Sc. Agronomy</a></li>
                              <li><a href="msc-horticulture">M.Sc. Horticulture</a></li>
                         </ul>
                     </div>
