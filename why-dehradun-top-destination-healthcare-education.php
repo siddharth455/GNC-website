@@ -13,21 +13,19 @@ content="Discover why Dehradun is emerging as India's leading hub for nursing, p
 <meta name="keywords"
 content="healthcare education Dehradun, best healthcare colleges Uttarakhand, nursing college Dehradun, paramedical college Dehradun, pharmacy college Dehradun"/>
 
-<link rel="canonical" href="https://gnc.edu.in/why-dehradun-top-destination-healthcare-education" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="Why Dehradun is Becoming India's Top Destination for Healthcare Education" />
+<meta property="og:title" content="Why Dehradun is Becoming India&#039;s Top Destination for Healthcare Education | GNC's Top Destination for Healthcare Education" />
 <meta property="og:description" content="Discover why Dehradun is emerging as India's leading hub for nursing, paramedical, and pharmacy education, and how Guru Nanak College leads the way." />
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/dehradun-healthcare-education.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/why-dehradun-top-destination-healthcare-education" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Why Dehradun is Becoming India's Top Destination for Healthcare Education" />
+<meta name="twitter:title" content="Why Dehradun is Becoming India&#039;s Top Destination for Healthcare Education | GNC's Top Destination for Healthcare Education" />
 <meta name="twitter:description" content="Discover why Dehradun is emerging as India's leading hub for nursing, paramedical, and pharmacy education, and how Guru Nanak College leads the way." />
 <meta name="twitter:image" content="https://gnc.edu.in/upload/blog/dehradun-healthcare-education.webp" />
 
@@ -91,38 +89,6 @@ content="healthcare education Dehradun, best healthcare colleges Uttarakhand, nu
 </script>
 
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is Dehradun good for healthcare education?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dehradun offers proximity to reputed hospitals, affordable education costs, a pleasant climate, and growing student infrastructure — making it an increasingly popular destination for nursing, paramedical, and pharmacy education."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What healthcare programs does Guru Nanak College offer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College offers programs in Paramedical Sciences (BMLT, BMRIT, BPT, Optometry, OTT), Pharmacy (D.Pharma, B.Pharma), Nursing (B.Sc Nursing, GNM), and Health Science (MPH, MHA)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the placement record of Guru Nanak College in healthcare programs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College has recorded a highest package of ₹54.75 LPA and an average placement package of ₹12 LPA, with over 900 placement offers from 100+ companies visiting campus."
-      }
-    }
-  ]
-}
-</script>
 
 <style>
    :root {
@@ -504,6 +470,7 @@ content="healthcare education Dehradun, best healthcare colleges Uttarakhand, nu
   }
   </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

@@ -6,13 +6,11 @@
     <title>Best Computer Science College in Dehradun | B.Tech & BCA</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College offers B.Tech CSE & BCA in Dehradun with modern labs, coding-focused curriculum & placement support. Admissions 2026 now open. Apply." />
-    <link rel="canonical" href="https://gnc.edu.in/best-college-for-computer-science-in-dehradun">
     <meta name="keywords" content="Best Computer Science College in Dehradun, BCA College in Dehradun" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Guru Nanak College | Best Computer Science College in Dehradun, Uttarakhand" />
+    <meta property="og:title" content="Best Computer Science College in Dehradun | B.Tech &amp; BCA" />
     <meta property="og:description" content="Guru Nanak College offers B.Tech CSE & BCA in Dehradun with modern labs, coding-focused curriculum & placement support. Admissions 2026 now open. Apply." />
-    <meta property="og:url" content="https://gnc.edu.in/best-college-for-computer-science-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -28,54 +26,6 @@
 
     <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
     
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "1. Why choose Guru Nanak College for the BCA program?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The BCA program at GNC offers a perfect blend of computer science theory and hands-on training, preparing students for careers in software development and IT management."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2. Is the BCA program affiliated and recognized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the BCA program is affiliated with HNBGU and recognized by the Government of Uttarakhand."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3. What are the eligibility criteria for admission?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students who have completed 10+2 (any stream) with at least 45% marks are eligible to apply for BCA."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4. What programming languages are taught in BCA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students learn C, C++, Java, Python, SQL, HTML, CSS, JavaScript, and frameworks like React and Node.js."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "5. What are the career options after BCA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates can work as software developers, system analysts, network administrators, or pursue MCA and other advanced IT degrees."
-      }
-    }
-  ]
-}
-</script> 
 
     <script type="application/ld+json">
         {
@@ -877,6 +827,7 @@
         }
     </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -1529,10 +1480,10 @@
                                 <span><i class="fas fa-calendar-alt"></i> 2025-07-21</span>
                                 <span><i class="fas fa-user"></i> GNC Dehradun</span>
                             </div>
-                            <h3 class="blog-title"><a href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</a></h3>
+                            <h3 class="blog-title"><a href="best-college-for-bca-in-dehradun-uttarakhand">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</a></h3>
                             <p class="blog-excerpt">Dehradun, a renowned academic destination in North India, is home to several reputed institutions offering quality computer application education.</p>
                             <div class="blog-footer">
-                                <a href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
+                                <a href="best-college-for-bca-in-dehradun-uttarakhand" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </article>
@@ -1549,10 +1500,10 @@
                                 <span><i class="fas fa-calendar-alt"></i> 2025-04-25</span>
                                 <span><i class="fas fa-user"></i> GNC Dehradun</span>
                             </div>
-                            <h3 class="blog-title"><a href="bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software">BCA Admissions 2025 Open at Guru Nanak College, Dehradun</a></h3>
+                            <h3 class="blog-title"><a href="best-college-for-bca-in-dehradun-uttarakhand">BCA Admissions 2025 Open at Guru Nanak College, Dehradun</a></h3>
                             <p class="blog-excerpt">Guru Nanak College has established itself as a premier institution in Uttarakhand, known for its commitment to quality education and industry-aligned programs.</p>
                             <div class="blog-footer">
-                                <a href="bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
+                                <a href="best-college-for-bca-in-dehradun-uttarakhand" class="btn-read">Read More <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </article>

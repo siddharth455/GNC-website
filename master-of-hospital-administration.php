@@ -6,12 +6,10 @@
     <title>Best MHA College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Master of Hospital Administration (MHA) at Guru Nanak College, Dehradun. Top MHA college in Uttarakhand offering expert faculty and hands-on clinical training.">
-    <link rel="canonical" href="https://gnc.edu.in/master-of-hospital-administration">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Master of Hospital Administration College in Dehradun | GNC" />
+    <meta property="og:title" content="Best MHA College in Dehradun, Uttarakhand | GNC" />
     <meta property="og:description" content="Master of Hospital Administration (MHA) at Guru Nanak College, Dehradun. Top MHA college in Uttarakhand offering expert faculty and hands-on clinical training." />
-    <meta property="og:url" content="https://gnc.edu.in/master-of-hospital-administration" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -779,46 +777,6 @@
             }
         }
     </style>
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is admission open for MHA 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Master of Hospital Administration (MHA) admission for the 2026 academic session is currently open. Candidates are encouraged to apply early to secure their preference in this specialized healthcare leadership program."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the eligibility for the MHA program?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates should have a graduation degree in any stream from a recognized university with at least 45% marks (40% for SC/ST candidates) to be eligible for the Master of Hospital Administration program."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are hospital internships included in the MHA curriculum?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, internships are a core part of our MHA program. Students gain hands-on experience in various hospital departments, learning clinical operations, quality management, and strategic administration first-hand."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What career roles can I expect after MHA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates can pursue roles such as Hospital Administrator, Healthcare Consultant, Operations Manager, Quality Manager, and Healthcare Policy Analyst in top-tier hospitals, consulting firms, and healthcare NGOs."
-      }
-    }
-  ]
-}
-</script>
 
 <script type="application/ld+json">
 {
@@ -839,6 +797,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

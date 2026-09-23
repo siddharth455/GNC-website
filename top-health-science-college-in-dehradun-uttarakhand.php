@@ -7,14 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="School of Health Sciences at Guru Nanak College, Dehradun a premier institution
       for advanced healthcare education. Explore our Master of Hospital...">
-    <link rel="canonical" href="https://gnc.edu.in/top-health-science-college-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Health Science College in Dehradun, Uttarakhand | Guru Nanak College" />
+    <meta property="og:title" content="Best Health Science College in Dehradun, Uttarakhand | GNC" />
     <meta property="og:description" content="School of Health Sciences at Guru Nanak College, Dehradun a premier institution
           for advanced healthcare education. Explore our Master of Hospital Administration (MHA) and Master of
           Public Health (MPH) programs, designed to meet the challenges of the modern healthcare industry." />
-    <meta property="og:url" content="https://gnc.edu.in/top-health-science-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
@@ -25,54 +23,6 @@
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "1. Why choose Guru Nanak College for Health Science programs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College (GNC) offers specialized postgraduate programs (MHA & MPH) that focus on healthcare leadership, data-driven research, and policy development. Our curriculum is supported by highly experienced faculty, intensive hospital tie-ups, and a research-oriented environment tailored for future healthcare administrators and specialists."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2. What are the eligibility criteria for MPH and MHA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For both Master of Public Health (MPH) and Master of Hospital Administration (MHA), applicants must hold a Bachelor’s degree in Health Sciences, Life Sciences, Management, or a related discipline from a recognized university with a minimum aggregate of 45% marks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3. What is the career scope after completing MPH or MHA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates are prepared for leadership roles in diverse sectors. MHA graduates typically work as Hospital Administrators, Operations Managers, or Healthcare Consultants in corporate hospital chains. MPH graduates secure roles as Epidemiologists, Public Health Consultants, or Policy Analysts in government health departments and international NGOs like the WHO and UNICEF."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4. Does the college provide internships or practical training?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, practical exposure is a core component of our programs. Students undergo mandatory internships and field training in reputed multi-specialty hospitals, government health agencies, and research institutions to gain hands-on administrative and clinical management experience."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "5. How can I apply for admission to the 2026 Batch?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can apply directly through our official admission portal at application.gnc.edu.in . The process involves filling out the online application, uploading your academic marksheets and ID proof, followed by a counseling session and document verification."
-      }
-    }
-  ]
-}
-</script> 
 
     <script type="application/ld+json">
         {
@@ -463,6 +413,7 @@
         }
     </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

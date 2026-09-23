@@ -13,21 +13,19 @@ content="B.Sc Nursing vs GNM — complete 2026 comparison of fees, duration, sal
 <meta name="keywords"
 content="bsc nursing vs gnm, gnm vs bsc nursing salary, bsc nursing fees dehradun, gnm nursing college dehradun, nursing courses after 12th 2026, inc approved nursing college dehradun"/>
 
-<link rel="canonical" href="https://gnc.edu.in/bsc-nursing-vs-gnm-2026" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="B.Sc Nursing vs GNM 2026 — Fees, Salary & Which is Better for Your Career?" />
+<meta property="og:title" content="B.Sc Nursing vs GNM 2026 — Fees, Salary, Scope &amp; | GNC" />
 <meta property="og:description" content="B.Sc Nursing vs GNM — complete 2026 comparison of fees, duration, salary, government jobs, international scope and career growth. INC approved nursing at GNC Dehradun. Admissions open." />
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/bscnursing-vs-gnm.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/bsc-nursing-vs-gnm-2026" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="B.Sc Nursing vs GNM 2026 — Fees, Salary & Which is Better for Your Career?" />
+<meta name="twitter:title" content="B.Sc Nursing vs GNM 2026 — Fees, Salary, Scope &amp; | GNC" />
 <meta name="twitter:description" content="B.Sc Nursing vs GNM — complete 2026 comparison of fees, duration, salary, government jobs, international scope and career growth. INC approved nursing at GNC Dehradun. Admissions open." />
 <meta name="twitter:image" content="https://gnc.edu.in/upload/blog/bsc-nursing-vs-gnm-2026.png" />
 
@@ -472,76 +470,7 @@ content="bsc nursing vs gnm, gnm vs bsc nursing salary, bsc nursing fees dehradu
   </style>
 
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "Is B.Sc Nursing better than GNM in 2026?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "B.Sc Nursing is better for long-term career growth, higher salary, international nursing jobs and management roles. GNM is a strong choice if you want a shorter programme, lower total cost and to start your nursing career sooner. If budget is not a constraint, B.Sc Nursing is the recommended choice for 2026 given the expanding international nursing market."
- }
- },
- {
- "@type": "Question",
- "name": "What is the difference in salary between B.Sc Nursing and GNM?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "At entry level, B.Sc Nursing graduates earn ₹3–5 LPA while GNM nurses earn ₹2.5–4 LPA in India. The difference widens significantly at mid-career and for international positions. UK NHS nurses (B.Sc Nursing route) earn the equivalent of ₹30–50 LPA while GNM nurses are not directly eligible for UK registration."
- }
- },
- {
- "@type": "Question",
- "name": "Can a GNM nurse become a B.Sc Nursing graduate later?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Yes. GNM nurses with at least 1 year of clinical experience can enroll in a 2-year Post Basic B.Sc Nursing programme. After completing this bridge course, they hold a full B.Sc Nursing degree and become eligible for all opportunities available to direct B.Sc Nursing graduates."
- }
- },
- {
- "@type": "Question",
- "name": "Is NEET required for B.Sc Nursing admission?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "No. NEET is not required for B.Sc Nursing or GNM admission in Uttarakhand. Admission at Guru Nanak College Dehradun is directly merit-based on Class 12 PCB marks. No entrance exam required."
- }
- },
- {
- "@type": "Question",
- "name": "What is the scope of nursing in India in 2026?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "India currently has a shortage of over 2.4 million nurses according to the World Health Organisation. With government schemes like Ayushman Bharat expanding healthcare access and AIIMS being built in every state, the demand for trained nurses is at an all-time high. Nursing is one of the most employment-secure careers available after Class 12 in India today."
- }
- },
- {
- "@type": "Question",
- "name": "Can male students apply for B.Sc Nursing or GNM?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Yes. Both B.Sc Nursing and GNM are open to male students. Male nurses are in increasing demand in ICU, emergency, psychiatry and military nursing departments. All nursing programmes at GNC Dehradun accept male applicants."
- }
- },
- {
- "@type": "Question",
- "name": "What hostel facilities are available for nursing students at GNC Dehradun?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "GNC Dehradun provides separate hostel accommodation for female nursing students with 24-hour warden presence, CCTV surveillance, secure entry system, hygienic mess with homestyle meals, laundry facility and an on-campus medical room. Male outstation students are assisted with finding nearby PG accommodation."
- }
- },
- {
- "@type": "Question",
- "name": "How do I verify that a nursing college is INC approved?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Visit the official Indian Nursing Council website at indiannursingcouncil.org. Go to the Approved Institutions section and search by state (Uttarakhand). Confirm that the college and specific nursing programme (B.Sc Nursing or GNM) is listed as approved for the current academic year."
- }
- }]
-}
-</script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

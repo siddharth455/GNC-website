@@ -5,12 +5,10 @@
     <title>Best BMLT College in Dehradun | Lab Technology at GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Enroll in the leading Bachelor of Medical Laboratory Technology (BMLT) program at Guru Nanak College in Dehradun, Uttarakhand. Offering comprehensive...">
-    <link rel="canonical" href="https://gnc.edu.in/best-bmlt-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Best BMLT College in Dehradun, Uttarakhand - Guru Nanak College"/>
+    <meta property="og:title" content="Best BMLT College in Dehradun | Lab Technology at GNC"/>
     <meta property="og:description" content="Enroll in the leading Bachelor of Medical Laboratory Technology (BMLT) program at Guru Nanak College in Dehradun, Uttarakhand. Offering comprehensive training, state-of-the-art labs, and experienced faculty, GNC prepares students for rewarding careers in medical laboratory technology." />
-    <meta property="og:url" content="https://gnc.edu.in/best-bmlt-college-in-dehradun"/>
     <meta property="og:site_name" content="GNC Dehradun"/>
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
@@ -529,6 +527,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

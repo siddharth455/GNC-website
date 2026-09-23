@@ -5,6 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Top Paramedical Courses After 12th in India – Career | GNC</title>
+    <meta property="og:title" content="Top Paramedical Courses After 12th in India – Career | GNC" />
   <meta name="description" content="Explore top paramedical courses after 12th at Guru Nanak College Dehradun — eligibility, career opportunities, course duration and scope. BMLT, BMRIT,..." />
   <link rel="icon" type="image/webp" href="images/logog.webp">
 
@@ -340,7 +341,7 @@
       }
     }
   </style>
-  <link rel="canonical" href="https://gnc.edu.in/top-paramedical-courses-after-12th-in-india-career-opportunities-and-scope-at-guru-nanak-college-dehradun">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -541,7 +542,7 @@
           <h3 id="you-may-like">You May Also Like</h3>
 
           <!-- Each suggested post is an individual card: image first, then title, then author/date -->
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
+          <a class="suggest-card" href="best-college-for-bca-in-dehradun-uttarakhand">
             <img class="sc-image" src="upload/blog/2.webp" alt="Designing Modern Static Blog Pages" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
@@ -556,7 +557,7 @@
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
           </a>  
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>

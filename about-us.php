@@ -7,12 +7,10 @@
     <title>About US | GNC - Leading Institute in Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="GNC, the leading institute in Dehradun, established in 2009, offers a range of educational programs designed to empower students.">
-    <link rel="canonical" href="https://gnc.edu.in/about-us">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="GNC - Leading Institute in Dehradun"/>
+    <meta property="og:title" content="About US | GNC - Leading Institute in Dehradun"/>
     <meta property="og:description" content="GNC offers educational programs designed to empower students since 2009."/>
-    <meta property="og:url" content="https://gnc.edu.in/about-us"/>
     <meta property="og:site_name" content="GNC Dehradun"/>
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
     <meta property="og:image:width" content="1200"/>
@@ -343,6 +341,7 @@
     </style>
 
     <?php require "common/header.php"; ?>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

@@ -1,9 +1,31 @@
+# Custom error document
+ErrorDocument 404 /404.php
+
 <IfModule mod_headers.c>
     Header always set X-Content-Type-Options "nosniff"
     Header always set X-Frame-Options "SAMEORIGIN"
     Header always set Referrer-Policy "strict-origin-when-cross-origin"
     Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
 </IfModule>
+
+
+<IfModule mod_headers.c>
+    # Include-only fragments and utility pages: reachable, but never indexable.
+    <FilesMatch "^(default|details|facilities|placement|why\-choose|sample|unmatched|vertical|map|rankingbanner|company\-logo|companylogo1|research\-sample|testimoni|testimoni\-2|code|code\-sample|admission\-process|application\-process|thank\-you|404)\.php$">
+        Header always set X-Robots-Tag "noindex, follow"
+    </FilesMatch>
+</IfModule>
+
+# Never expose the PHP configuration or the local log/visit files.
+<FilesMatch "^(phpinfo\.php|logs\.txt|visits\.json)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
@@ -12,9 +34,19 @@ RewriteEngine On
 RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
 RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
 
-RewriteCond %{HTTPS} off
+# %{HTTPS} is "off" behind a TLS-terminating proxy (Cloudflare, a load
+# balancer), so the forwarded-protocol headers are checked too - without them
+# this rule loops forever on such a setup.
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+RewriteCond %{HTTP:X-Forwarded-SSL} !=on
 RewriteCond %{HTTP_HOST} ^gnc\.edu\.in$ [NC]
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# ── Trailing slash: /page/ -> /page (301, one hop) ────────────
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/$
+RewriteRule ^(.+?)/+$ /$1 [R=301,L]
 
 # ── 301 Redirects: Case Conversion (Case-Sensitive on THE_REQUEST to avoid loops) ──
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/AICTE-documents(\.php)?[?\s]
@@ -66,7 +98,7 @@ RewriteRule ^Bsc-microbiology-Colleges-in-Dehradun-Uttarakhand(\.php)?$ %1/bsc-m
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/Bsc-pcm-Colleges-in-Dehradun-Uttarakhand(\.php)?[?\s]
 RewriteRule ^Bsc-pcm-Colleges-in-Dehradun-Uttarakhand(\.php)?$ %1/bsc-pcm-colleges-in-dehradun-uttarakhand [R=301,L]
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/ManagementStudies(\.php)?[?\s]
-RewriteRule ^ManagementStudies(\.php)?$ %1/managementstudies [R=301,L]
+RewriteRule ^ManagementStudies(\.php)?$ %1/best-management-college-in-dehradun [R=301,L]
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/Nursing-College-in-Dehradun-Uttarakhand(\.php)?[?\s]
 RewriteRule ^Nursing-College-in-Dehradun-Uttarakhand(\.php)?$ %1/nursing-college-in-dehradun-uttarakhand [R=301,L]
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/Paramedical-College-in-Dehradun-Uttarakhand(\.php)?[?\s]
@@ -125,6 +157,29 @@ RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/life\&alliedscience(\.php)?[?\s] [N
 RewriteRule ^life\&alliedscience(\.php)?$ %1/top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand [R=301,L]
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/life%26alliedscience(\.php)?[?\s] [NC]
 RewriteRule ^life%26alliedscience(\.php)?$ %1/top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand [R=301,L]
+
+
+# ── Legacy department pages -> current department pages (301) ─
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/business(\.php)?[?\s] [NC]
+RewriteRule ^business(\.php)?$ %1/best-management-college-in-dehradun [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/managementstudies(\.php)?[?\s] [NC]
+RewriteRule ^managementstudies(\.php)?$ %1/best-management-college-in-dehradun [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/computerscience(\.php)?[?\s] [NC]
+RewriteRule ^computerscience(\.php)?$ %1/best-college-for-computer-science-in-dehradun [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/healthscience(\.php)?[?\s] [NC]
+RewriteRule ^healthscience(\.php)?$ %1/top-health-science-college-in-dehradun-uttarakhand [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/nursing-college(\.php)?[?\s] [NC]
+RewriteRule ^nursing-college(\.php)?$ %1/nursing-college-in-dehradun-uttarakhand [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/paramedical-college(\.php)?[?\s] [NC]
+RewriteRule ^paramedical-college(\.php)?$ %1/paramedical-college-in-dehradun-uttarakhand [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/pharmacy-college(\.php)?[?\s] [NC]
+RewriteRule ^pharmacy-college(\.php)?$ %1/pharmacy-college-in-dehradun-uttarakhand [R=301,L]
+
+# ── Placeholder pages that should never be a landing page (301) ──
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/default(\.php)?[?\s] [NC]
+RewriteRule ^default(\.php)?$ %1/ [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/details(\.php)?[?\s] [NC]
+RewriteRule ^details(\.php)?$ %1/ [R=301,L]
 
 # ── Remove .php extension & index.php (Task 4) ────────────────
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*?)/index\.php[?\s] [NC]

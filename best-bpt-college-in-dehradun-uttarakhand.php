@@ -6,13 +6,11 @@
     <title>Top BPT College in Dehradun | Physiotherapy Course at GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Enrol in a BPT program at one of Dehradun's top physiotherapy colleges and build expertise in rehabilitation, manual therapy, and clinical practice.">
-    <link rel="canonical" href="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand">
     <meta name="keywords" content="BPT Course, Bachelor of Physiotherapy, best bpt colleges in dehradun, best physiotherapy colleges in dehradun, best physiotherapy colleges in dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="BPT Course, Details, Admission, Fees, Eligibility, Career|Guru Nanak College " />
+    <meta property="og:title" content="Top BPT College in Dehradun | Physiotherapy Course at GNC" />
     <meta property="og:description" content="Enrol in a BPT program at one of Dehradun's top physiotherapy colleges and build expertise in rehabilitation, manual therapy, and clinical practice." />
-    <meta property="og:url" content="https://gnc.edu.in/best-bpt-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
@@ -496,54 +494,7 @@
 
     
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Q1. What is the duration of the BPT course at Guru Nanak College?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Bachelor of Physiotherapy (BPT) at Guru Nanak College, Dehradun, is a 4-year undergraduate program followed by a 6-month compulsory internship."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Q2. What are the eligibility criteria for BPT in Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Applicants must have passed 10+2 with Biology, Agriculture, or Mathematics from a recognized board. A minimum of 45% is required for General/OBC and 40% for SC/ST candidates."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Q3. Is Guru Nanak College approved for BPT?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Guru Nanak College is affiliated and approved by relevant health and education bodies, offering a recognized BPT degree in Uttarakhand."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Q4. What are the career options after completing BPT from GNC Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates can work in hospitals, rehabilitation centers, sports injury clinics, or start their own physiotherapy practice. They are also eligible for master's degrees (MPT) or international licensing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Q5. Does GNC Dehradun offer placement support for BPT students?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the college offers full placement training, hospital tie-ups, and internship opportunities for BPT students."
-      }
-    }
-  ]
-}
-</script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

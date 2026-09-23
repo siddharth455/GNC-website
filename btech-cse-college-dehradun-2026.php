@@ -13,21 +13,19 @@ content="Complete guide to B.Tech Computer Science in Dehradun 2026. Fees, eligi
 <meta name="keywords"
 content="B.Tech Computer Science college Dehradun, BTech CSE Dehradun 2026, best BTech college Dehradun, BTech CSE fees Uttarakhand, BTech CSE admission 2026, BTech CSE scope salary India"/>
 
-<link rel="canonical" href="https://gnc.edu.in/btech-cse-college-dehradun-2026" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="B.Tech Computer Science Dehradun 2026 — Fees, Salary & Career Scope" />
+<meta property="og:title" content="B.Tech Computer Science in Dehradun 2026 — Fees, | GNC" />
 <meta property="og:description" content="Complete guide to B.Tech Computer Science in Dehradun 2026. Fees, eligibility, syllabus, career scope, salary and why GNC Dehradun is the best BTech CSE college in Uttarakhand." />
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/computer-lab.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/btech-cse-college-dehradun-2026" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="B.Tech Computer Science Dehradun 2026 — Fees, Salary & Career Scope" />
+<meta name="twitter:title" content="B.Tech Computer Science in Dehradun 2026 — Fees, | GNC" />
 <meta name="twitter:description" content="Complete guide to B.Tech Computer Science in Dehradun 2026. Fees, eligibility, syllabus, career scope, salary and why GNC Dehradun is the best BTech CSE college in Uttarakhand." />
 <meta name="twitter:image" content="https://gnc.edu.in/upload/blog/computer-lab.webp" />
 
@@ -91,78 +89,6 @@ content="B.Tech Computer Science college Dehradun, BTech CSE Dehradun 2026, best
 </script>
 
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the scope of B.Tech CSE in 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "B.Tech CSE has one of the strongest career scopes of any undergraduate degree in India. The IT sector employs 5+ million professionals and is growing at 11% annually. Specialisations in AI, cybersecurity and cloud computing are creating new high-paying job categories every year. B.Tech CSE graduates are hired across every industry — not just IT companies."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is JEE compulsory for B.Tech CSE admission in Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. JEE Main score is accepted but not mandatory for B.Tech CSE admission at private colleges like GNC Dehradun. Admission is directly merit-based on Class 12 PCM marks. Students who have not appeared for JEE can still apply and secure admission based on their Class 12 percentage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between B.Tech CSE and B.Tech IT?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "B.Tech CSE is broader — covering hardware, software, networks, algorithms and computing theory. B.Tech IT focuses more on application software and business information systems. CSE has slightly better placement outcomes and is preferred for core engineering roles and government jobs. Both lead to similar industry careers in software development."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can a B.Tech CSE student get a government job?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. B.Tech CSE graduates are eligible for some of the most prestigious government engineering jobs in India — ISRO, DRDO, BEL, NTPC, NIC, Indian Railways (RRB JE) and SSC JE. GATE score is required for PSU jobs and M.Tech admissions. Starting salaries in government engineering roles are ₹40,000–56,100 per month plus allowances."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What salary can I expect after B.Tech CSE from GNC Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "B.Tech CSE freshers from GNC Dehradun are placed at ₹4–8 LPA depending on the company and specialisation. The average campus placement package is ₹12 LPA. With specialisation in AI/ML or Cybersecurity and 2–3 years of experience, salaries typically reach ₹10–20 LPA."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is hostel available for B.Tech students at GNC Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. GNC Dehradun has separate hostel facilities for male and female students with 24-hour security, high-speed WiFi, hygienic mess with home-style food, sports facilities and on-campus medical support. Hostel is highly recommended for outstation students."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I pursue MS abroad after B.Tech CSE from GNC Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. B.Tech CSE from any AICTE-approved and UTU-affiliated college is accepted by universities in the USA, UK, Canada, Germany and Australia for MS admissions. You will need GRE score and IELTS/TOEFL for most programmes. Several GNC graduates have successfully pursued higher education internationally."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the fee for B.Tech CSE at GNC Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "B.Tech CSE fees at GNC Dehradun are approximately ₹80,000–1,20,000 per year for tuition. Merit scholarships of up to 60% are available based on Class 12 marks. For the exact current fee structure, contact the admissions office at +91-7300900900 or visit gnc.edu.in/admissions."
-      }
-    }
-  ]
-}
-</script>
 
 <style>
    :root {
@@ -544,6 +470,7 @@ content="B.Tech Computer Science college Dehradun, BTech CSE Dehradun 2026, best
   }
   </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

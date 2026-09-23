@@ -6,12 +6,10 @@
     <title>Best Diploma in Hotel Management College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best Diploma in Hotel Management (DHM) college in Dehradun, Uttarakhand. Hands-on hospitality training, expert faculty and 100% placement support at GNC.">
-    <link rel="canonical" href="https://gnc.edu.in/best-dhm-colleges-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Diploma in Hotel Management College in Dehradun, Uttarakhand - Guru Nanak College" />
+    <meta property="og:title" content="Best Diploma in Hotel Management College in Dehradun | GNC" />
     <meta property="og:description" content="Best Diploma in Hotel Management (DHM) college in Dehradun, Uttarakhand. Hands-on hospitality training, expert faculty and 100% placement support at GNC." />
-    <meta property="og:url" content="https://gnc.edu.in/best-dhm-colleges-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -25,78 +23,6 @@
     
 
     
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "1. Why is Guru Nanak College recognized among the best DHM colleges in Dehradun and Uttarakhand?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College (GNC) in Dehradun offer industry-oriented Diploma in Hotel Management (DHM) with state-of-the-art practical labs, experienced hospitality faculty, 100% placement support, and strong industry tie-ups with leading 5-star hotel chains in Uttarakhand and across India."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2. What is the eligibility criteria for Diploma in Hotel Management (DHM) admission?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates seeking admission to the DHM course at Guru Nanak College must have completed 10+2 (or equivalent) in any stream from a recognized educational board with minimum qualifying marks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3. What is the duration of the DHM program at GNC Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Diploma in Hotel Management (DHM) is a comprehensive 1-year diploma program that includes rigorous classroom teaching, practical lab sessions, and industrial training in front office, housekeeping, culinary arts, and food & beverage service."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4. What career options are available after completing DHM in Uttarakhand?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DHM graduates can work as Front Office Executives, Housekeeping Supervisors, Food & Beverage Trainees, Commis Chefs, Hospitality Managers, and Customer Service Officers in luxury hotels, resorts, cruise lines, airlines, and event management firms."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "5. Does Guru Nanak College provide practical training and internships for DHM students?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, GNC provides mandatory hands-on industrial training and internships at top-rated hotels and hospitality establishments in Dehradun, Mussoorie, and major metros across India."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "6. What placement assistance is provided to DHM students at GNC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College has an active placement cell that conducts campus recruitment drives, soft skills workshops, and interview preparation to ensure 100% placement assistance for eligible DHM students."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "7. Are scholarships available for DHM students at Guru Nanak College Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Guru Nanak College offers merit-based scholarships, domicile scholarships for Uttarakhand residents, and special financial assistance for deserving candidates."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "8. How can I apply for DHM admission at Guru Nanak College Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Interested candidates can apply online through the official GNC portal (application.gnc.edu.in) or visit the campus admissions cell in Dehradun for personal counseling and direct registration."
-      }
-    }
-  ]
-}
-</script>
 
 <script type="application/ld+json">
 {
@@ -117,6 +43,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

@@ -7,12 +7,10 @@
     <meta name="description" content="Best BBA college in Dehradun, Uttarakhand at Guru Nanak College. UTU affiliated BBA program with 100% placement support and top industry exposure.">
     <meta name="keywords" content="Best BBA College in Dehradun, BBA College in 
 Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/best-management-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Guru Nanak College | Best Management College in Dehradun" />
+    <meta property="og:title" content="Guru Nanak College - Best BBA College in Dehradun, Uttarakhand" />
     <meta property="og:description" content="Best BBA college in Dehradun, Uttarakhand at Guru Nanak College. UTU affiliated BBA program with 100% placement support and top industry exposure." />
-    <meta property="og:url" content="https://gnc.edu.in/best-management-college-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -24,54 +22,6 @@ Uttarakhand" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "1. Why choose Guru Nanak College for BBA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The BBA program at GNC blends academic knowledge with practical business exposure, preparing students for leadership and entrepreneurial roles."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2. What is the duration and eligibility for BBA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The BBA program is 3 years long and open to students who have passed 10+2 in any stream with at least 45% marks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3. What kind of placements are offered after BBA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students can work in marketing, finance, HR, or management roles in leading organizations, or pursue MBA and other higher studies."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4. Does the college provide internship opportunities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, GNC offers internships, industry visits, and live projects to help students gain real-world business experience."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "5. How can I apply for the BBA program?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can apply online through www.gnc.edu.in and complete the admission process as per college guidelines"
-      }
-    }
-  ]
-}
-</script> 
 
     <script type="application/ld+json">
         {
@@ -113,7 +63,7 @@ Uttarakhand" />
             }]
         }
     </script>
-</head>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 <style>
     :root {
         --gnc-blue: #00b7ff;

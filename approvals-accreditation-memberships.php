@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College Dehradun | Affiliations & Approvals</title>
+    <meta property="og:title" content="Guru Nanak College Dehradun | Affiliations &amp; Approvals" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College Dehradun, Recognized by UGC & Approved by AICTE, affiliated to HNBGU UTU">
     
@@ -176,7 +177,7 @@
             }
         }
     </style>
-  <link rel="canonical" href="https://gnc.edu.in/approvals-accreditation-memberships">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

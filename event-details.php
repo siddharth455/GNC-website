@@ -23,35 +23,44 @@ if (!$current_event || strpos($current_event['image'], 'upload/gnc-events/') !==
     exit();
 }
 
-// 3. CAPTURE AND FIX HEADER
-ob_start();
-require "common/header.php";
-$header_html = ob_get_clean();
+// 3. DOCUMENT HEAD AND SITE HEADER
+// This page is served from /event/<slug>, one directory below the site root, so
+// the relative asset paths inside the shared includes have to be made absolute
+// before they are printed.
+define('GNC_FAQ_DISABLE', true);
 
-// Inject dynamic title
+function gnc_event_absolute_paths(string $html, string $base_url): string
+{
+    $html = str_replace(
+        [
+            'href="./css/', 'href="css/',
+            'src="./js/',   'src="js/',
+            'src="./images/', 'src="images/', 'href="images/',
+            'href="./assets/', 'href="assets/',
+            'src="./assets/',  'src="assets/',
+            'href="upload/', 'src="upload/',
+        ],
+        [
+            'href="' . $base_url . 'css/', 'href="' . $base_url . 'css/',
+            'src="' . $base_url . 'js/',   'src="' . $base_url . 'js/',
+            'src="' . $base_url . 'images/', 'src="' . $base_url . 'images/', 'href="' . $base_url . 'images/',
+            'href="' . $base_url . 'assets/', 'href="' . $base_url . 'assets/',
+            'src="' . $base_url . 'assets/',  'src="' . $base_url . 'assets/',
+            'href="' . $base_url . 'upload/', 'src="' . $base_url . 'upload/',
+        ],
+        $html
+    );
+
+    // Internal links written without a leading slash (clean URLs and .php alike).
+    $html = preg_replace('/href="(?!(?:https?:|mailto:|tel:|#|\/|' . preg_quote($base_url, '/') . '))([^"]+)"/i',
+        'href="' . $base_url . '$1"', $html);
+
+    return $html;
+}
+
 $page_title = $current_event['title'] . " - Guru Nanak College Dehradun";
-$header_html = preg_replace('/<title>.*?<\/title>/i', "<title>$page_title</title>\n  <meta name=\"description\" content=\"View details of upcoming and past campus events at Guru Nanak College Dehradun. Stay updated with cultural, academic and sports activities.\">\n", $header_html);
+$page_desc  = "View details of upcoming and past campus events at Guru Nanak College Dehradun. Stay updated with cultural, academic and sports activities.";
 
-// Resolve asset paths (handles css/, js/, images/, assets/)
-$header_html = str_replace(
-['href="./css/', 'href="css/', 'src="js/', 'src="images/', 'href="assets/', 'href="./assets/', 'src="assets/', 'src="./assets/'],
-[
-    'href="' . $base_url . 'css/',
-    'href="' . $base_url . 'css/',
-    'src="' . $base_url . 'js/',
-    'src="' . $base_url . 'images/',
-    'href="' . $base_url . 'assets/',
-    'href="' . $base_url . 'assets/',
-    'src="' . $base_url . 'assets/',
-    'src="' . $base_url . 'assets/'
-],
-    $header_html
-);
-
-
-$header_html = preg_replace('/href="(?!(http|https|#|\/))([^"]+\.php)"/i', 'href="' . $base_url . '$2"', $header_html);
-
-// Inject Extra CSS
 $extra_styles = '
 <style>
     @import url(\'https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap\');
@@ -281,10 +290,32 @@ $extra_styles = '
     }
 </style>
 ';
-$header_html = str_replace('  <link rel="canonical" href="https://gnc.edu.in/event-details">
-</head>', $extra_styles . '</head>', $header_html);
 
-echo $header_html;
+ob_start();
+require_once __DIR__ . '/common/head.php';
+$head_html = gnc_event_absolute_paths(ob_get_clean(), $base_url);
+
+ob_start();
+require "common/header.php";
+$header_html = gnc_event_absolute_paths(ob_get_clean(), $base_url);
+?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><?= htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8') ?></title>
+  <meta name="description" content="<?= htmlspecialchars($page_desc, ENT_QUOTES, 'UTF-8') ?>">
+  <link rel="icon" type="image/webp" href="<?= $base_url ?>images/logog.webp">
+<?= $head_html ?>
+<?= $extra_styles ?>
+</head>
+
+<body>
+<?= $header_html ?>
+<?php
+
 
 // 4. BANNER BOX
 $banner_img = $current_event['image'];

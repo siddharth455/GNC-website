@@ -5,6 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>BCA vs BTech: Which is Better After 12th? | GNC</title>
+    <meta property="og:title" content="BCA vs BTech: Which is Better After 12th? | GNC" />
   <meta name="description"
     content="Complete comparison between BCA and BTech covering eligibility, fees, duration, and career scope for students planning IT careers." />
   <meta name="keywords"
@@ -42,38 +43,6 @@
   </script>
 
   <!-- FAQ SCHEMA -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is BCA good for software development?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, BCA is excellent for software development as it focuses heavily on programming languages and practical application development."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What salary can I expect after BCA?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Starting salaries typically range from 3-6 LPA, but can grow significantly with experience and specializations."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is BCA tough?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "BCA is considered moderate. It requires logical thinking and regular practice of coding, but is very rewarding for tech enthusiasts."
-        }
-      }
-    ]
-  }
-  </script>
 
   <style>
     /* ---------- Responsive Single Post Styles (copied from best-hotel-management-colleges-in-dehradun-2026) ---------- */
@@ -388,7 +357,7 @@
       padding-top: 20px;
     }
   </style>
-  <link rel="canonical" href="https://gnc.edu.in/bca-vs-btech-comparison">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -537,12 +506,12 @@
             <div class="sc-title">Best Hotel Management Colleges in Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026-02-16</div>
           </a>
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
+          <a class="suggest-card" href="best-college-for-bca-in-dehradun-uttarakhand">
             <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-21</div>
@@ -562,7 +531,18 @@
     </div>
   </div>
 
+  <section class="gnc-faq-section">
+  <h2 id="faqs">Frequently Asked Questions</h2>
+  <h3>Is BCA good for software development?</h3>
+  <p>Yes, BCA is excellent for software development as it focuses heavily on programming languages and practical application development.</p>
+  <h3>What salary can I expect after BCA?</h3>
+  <p>Starting salaries typically range from 3-6 LPA, but can grow significantly with experience and specializations.</p>
+  <h3>Is BCA tough?</h3>
+  <p>BCA is considered moderate. It requires logical thinking and regular practice of coding, but is very rewarding for tech enthusiasts.</p>
+</section>
+
   <?php
+
   require "common/footer.php";
   ?>
 </body>

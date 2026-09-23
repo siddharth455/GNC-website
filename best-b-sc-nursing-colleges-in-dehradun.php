@@ -5,12 +5,10 @@
     <title>Best B.Sc Nursing College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the top B.Sc Nursing college in Dehradun, Uttarakhand. Known for its comprehensive curriculum, expert faculty, and state-of-the-art...">
-    <link rel="canonical" href="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Best B.Sc Nursing College in Dehradun 2026"/>
+    <meta property="og:title" content="Best B.Sc Nursing College in Dehradun, Uttarakhand | GNC"/>
     <meta property="og:description" content="Guru Nanak College, the top B.Sc Nursing college in Dehradun, Uttarakhand. Known for its comprehensive curriculum, expert faculty, and state-of-the-art clinical training, Guru Nanak College prepares future nursing professionals to excel in the healthcare industry with compassion and excellence." />
-    <meta property="og:url" content="https://gnc.edu.in/best-b-sc-nursing-colleges-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -801,62 +799,7 @@ ul{list-style:none}
 .curr-gallery-item:hover .curr-gallery-cap{opacity:1;transform:translateY(0)}
 </style>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the eligibility for BSc Nursing at GNC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students must have completed 10+2 with Physics, Chemistry, and Biology as core subjects. A minimum of 50% aggregate marks is required for General category and 45% for SC/ST candidates."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is BSc Nursing at GNC approved by INC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the BSc Nursing program at Guru Nanak College is fully approved by the Indian Nursing Council (INC) and is affiliated with Hemvati Nandan Bahuguna Garhwal University (HNBGU)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the total fee for 4 years?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The all-inclusive course fee is ₹2,00,000 per year. Over 4 years, the total course fee is ₹8,00,000. This includes registration, lab, library, transport, uniforms, events, and more. Hostel fees are additional."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are scholarships available for BSc Nursing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes! Merit scholarships range from 10% to Tuition Fee Waiver (TFW) for Uttarakhand domicile students. Extra 10% is available for girl candidates, orphan students, and GNC siblings. Scholarships can be combined."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the career options after BSc Nursing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates can pursue careers as Registered Nurses, ICU/ER specialists, nursing managers, community health workers, or international nursing roles in GCC, UK, USA, Canada, and Australia."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is hostel facility available at GNC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, GNC has separate fully-equipped hostels for boys and girls. Room options include single, double, triple, and four-sharing with and without meal packages. One-time enrollment fee is ₹5,000."
-      }
-    }
-  ]
-}
-</script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 

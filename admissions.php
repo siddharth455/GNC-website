@@ -6,18 +6,17 @@
     <title>Online Registration Open For Admission | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join Guru Nanak College, Dehradun, for a future in Pharma, Paramedical, Nursing, and more. Seamless admission process with global opportunities.">
-    <link rel="canonical" href="https://gnc.edu.in/admissions">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Admissions 2026 Open — Guru Nanak College Dehradun"/>
+    <meta property="og:title" content="Online Registration Open For Admission | GNC"/>
     <meta property="og:description" content="Join Guru Nanak College, Dehradun, for a future in Pharma, Paramedical, Nursing, and more. Seamless admission process with global opportunities." />
-    <meta property="og:url" content="https://gnc.edu.in/admissions"/>
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp"/>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

@@ -6,12 +6,10 @@
     <title>Guru Nanak College | Best B.Sc CBZ College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"content="Guru Nanak College, Dehradun's top college for B.Sc. CBZ. With an engaging curriculum, exceptional faculty, and vibrant academic community, Guru Nanak College ignites passion for chemistry, botany, and zoology, preparing students to excel in the dynamic scientific arena.">
-    <link rel="canonical" href="https://gnc.edu.in/bsc-cbz">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title"content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title"content="Guru Nanak College | Best B.Sc CBZ College in | GNC" />
     <meta property="og:description" content="Guru Nanak College, Dehradun's best college for B.Sc. CBZ. With a stimulating curriculum, top-tier faculty, and a vibrant academic community, Guru Nanak College sparks a passion for Chemistry, Botany, and Zoology, shaping future innovators and scientists."/>
-    <meta property="og:url" content="https://gnc.edu.in/Bsc-cbz"/>
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
@@ -1191,6 +1189,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -1875,9 +1874,6 @@
 
 
 
-   <script src="new-assets/js/jquery-3.7.1.min.js"></script>
-    <script src="latest-assets/js/bootstrap.bundle.min.js" defer></script>
-    <script src="latest-assets/js/plugins.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
     <script>

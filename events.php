@@ -12,6 +12,7 @@ $base_url = rtrim($protocol . "://" . $host . $script_path, '/') . '/';
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Campus Events & Activities - Guru Nanak College Dehradun</title>
+    <meta property="og:title" content="Campus Events &amp; Activities - Guru Nanak College Dehradun" />
   <meta name="description" content="Explore campus events and activities at Guru Nanak College Dehradun. From cultural fests to academic seminars, stay updated with all GNC events.">
 
 
@@ -204,7 +205,7 @@ $base_url = rtrim($protocol . "://" . $host . $script_path, '/') . '/';
             
         }
     </style>
-  <link rel="canonical" href="https://gnc.edu.in/events">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

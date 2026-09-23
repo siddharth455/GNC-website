@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admissions | GNC Dehradun</title>
+    <meta property="og:title" content="Admissions | GNC Dehradun" />
   <meta name="description" content="Explore placement opportunities at Guru Nanak College Dehradun. Our students are placed in top companies with excellent salary packages.">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -383,7 +384,7 @@
 }
 
     </style>
-  <link rel="canonical" href="https://gnc.edu.in/placement-overview">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
     

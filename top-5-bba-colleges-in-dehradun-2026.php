@@ -11,20 +11,18 @@
     content="Explore the top 5 BBA colleges in Dehradun in 2026. Compare fees, placements, eligibility, admission process, specializations, and career opportunities..." />
   <meta name="keywords"
     content="top 5 BBA Colleges in Dehradun 2026, Best BBA College in Dehradun, BBA Admission 2026, BBA Colleges in Dehradun, BBA Fees in Dehradun, BBA Placement in Dehradun, BBA Colleges in Uttarakhand, Best BBA College in Uttarakhand, BBA Course in Dehradun, BBA Colleges After 12th, Top Management Colleges in Dehradun, Business Administration Course, Career After BBA, Undergraduate Management Program" />
-  <link rel="canonical" href="https://gnc.edu.in/top-5-bba-colleges-in-dehradun-2026" />
   <meta name="robots" content="index, follow" />
   <link rel="icon" type="image/webp" href="images/logog.webp">
 
   <!-- ===== OPEN GRAPH ===== -->
-  <meta property="og:title" content="top 5 BBA Colleges in Dehradun in 2026">
+  <meta property="og:title" content="top 5 BBA Colleges in Dehradun 2026 | Fees, | GNC">
   <meta property="og:description" content="Compare fees, placements, eligibility, admission process, and career opportunities at the best BBA colleges in Dehradun for 2026 admissions.">
   <meta property="og:type" content="article">
-  <meta property="og:url" content="https://gnc.edu.in/top-5-bba-colleges-in-dehradun-2026">
   <meta property="og:image" content="https://gnc.edu.in/wp-content/uploads/2026/06/top-5-bba-colleges-dehradun-2026.jpg">
 
   <!-- ===== TWITTER CARD ===== -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="top 5 BBA Colleges in Dehradun 2026">
+  <meta name="twitter:title" content="top 5 BBA Colleges in Dehradun 2026 | Fees, | GNC">
   <meta name="twitter:description" content="Find the best BBA colleges in Dehradun with updated fees, placements, eligibility, admission process, and career opportunities.">
   <meta name="twitter:image" content="https://gnc.edu.in/wp-content/uploads/2026/06/top-5-bba-colleges-dehradun-2026.jpg">
 
@@ -51,54 +49,6 @@
 </script>
 
   <!-- ===== FAQ SCHEMA ===== -->
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Which is the best BBA college in Dehradun in 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College, UPES, Graphic Era University, DIT University and Doon University are among the leading BBA colleges in Dehradun."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the eligibility for BBA admission in Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most colleges require students to have completed Class 12 with 45% to 50% marks from a recognized board."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the average BBA fees in Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Annual BBA fees generally range between ₹32,000 and ₹2.52 lakh depending on the institution."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is BBA a good career option after Class 12?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. BBA provides a strong foundation in management, business operations, marketing, finance, and entrepreneurship."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I pursue MBA after BBA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. BBA is one of the most preferred undergraduate degrees for MBA aspirants."
-      }
-    }
-  ]
-}
-</script>
 
   <style>
     :root {
@@ -378,6 +328,7 @@
       background-color: #fafbfc;
     }
   </style>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -924,7 +875,7 @@
         <div class="suggested" aria-labelledby="you-may-like">
           <h3 id="you-may-like">You May Also Like</h3>
 
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
+          <a class="suggest-card" href="best-college-for-bca-in-dehradun-uttarakhand">
             <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>

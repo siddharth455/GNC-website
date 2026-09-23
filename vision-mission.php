@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Vision, Mission & Core Values | Guru Nanak College Dehradun</title>
+    <meta property="og:title" content="Vision, Mission &amp; Core Values | Guru Nanak College Dehradun" />
   <meta name="description" content="Explore the vision, mission and core values of Guru Nanak College Dehradun. We are committed to excellence in education and holistic development.">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -176,7 +177,7 @@
             .margin: 0 !important;
             }
     </style>
-  <link rel="canonical" href="https://gnc.edu.in/vision-mission">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Vision, Mission & Core Values</h1>

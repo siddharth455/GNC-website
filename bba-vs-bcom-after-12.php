@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 
 <title>BBA vs BCom: Which Course is Better After 12th? | GNC</title>
+    <meta property="og:title" content="BBA vs BCom: Which Course is Better After 12th? | GNC" />
 
 <meta name="description"
 content="Complete comparison between BBA and BCom covering eligibility, subjects, career opportunities, and which course is better after 12th for business careers." />
@@ -380,46 +381,8 @@ content="BBA vs BCom, BBA course after 12th, BCom course details, BBA vs BCom co
   }
   </style>
 
-  <link rel="canonical" href="https://gnc.edu.in/bba-vs-bcom-after-12">
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "Which course is better after 12th BBA or BCom?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "BBA is better for students interested in management, leadership, and corporate careers, while BCom is more suitable for those interested in accounting, finance, and professional courses like CA."
- }
- },
- {
- "@type": "Question",
- "name": "Is BBA better than BCom for MBA?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "BBA provides early exposure to management concepts, which can be helpful for students planning to pursue MBA after graduation."
- }
- },
- {
- "@type": "Question",
- "name": "What are the career options after BBA?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "After BBA students can work as marketing executives, management trainees, HR executives, business development executives, or pursue MBA for higher career growth."
- }
- },
- {
- "@type": "Question",
- "name": "Can commerce students pursue BBA?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Yes, students from commerce, science, or humanities streams can pursue BBA after completing 10+2 from a recognized board."
- }
- }]
-}
-</script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -725,7 +688,7 @@ loading="lazy" width="auto" height="auto">
 </div>
 
 <div style="text-align:center;margin-top:18px">
-<a href="blog.php" class="btn-ghost">← Back to All Posts</a>
+<a href="blog" class="btn-ghost">← Back to All Posts</a>
 </div>
 
 </main>
@@ -739,22 +702,22 @@ loading="lazy" width="auto" height="auto">
             <div class="sc-title">Best Hotel Management Colleges in Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026-02-16</div>
           </a>
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
+          <a class="suggest-card" href="best-college-for-bca-in-dehradun-uttarakhand">
             <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-21</div>
           </a>
-          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun.php">
+          <a class="suggest-card" href="top-5-nursing-colleges-in-dehradun">
             <img class="sc-image" src="upload/blog/4.webp" alt="Top 5 Nursing Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-27</div>
           </a>
-          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide.php">
+          <a class="suggest-card" href="top-5-bpt-colleges-in-dehradun-gnc-ultimate-guide">
             <img class="sc-image" src="upload/blog/3.webp" alt="Top 5 BPT Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BPT Colleges in Dehradun Ultimate Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-30</div>
@@ -765,6 +728,18 @@ loading="lazy" width="auto" height="auto">
 </div>
 
 
+
+<section class="gnc-faq-section">
+  <h2 id="faqs">Frequently Asked Questions</h2>
+  <h3>Which course is better after 12th BBA or BCom?</h3>
+  <p>BBA is better for students interested in management, leadership, and corporate careers, while BCom is more suitable for those interested in accounting, finance, and professional courses like CA.</p>
+  <h3>Is BBA better than BCom for MBA?</h3>
+  <p>BBA provides early exposure to management concepts, which can be helpful for students planning to pursue MBA after graduation.</p>
+  <h3>What are the career options after BBA?</h3>
+  <p>After BBA students can work as marketing executives, management trainees, HR executives, business development executives, or pursue MBA for higher career growth.</p>
+  <h3>Can commerce students pursue BBA?</h3>
+  <p>Yes, students from commerce, science, or humanities streams can pursue BBA after completing 10+2 from a recognized board.</p>
+</section>
 <?php require "common/footer.php"; ?>
 
 </body>

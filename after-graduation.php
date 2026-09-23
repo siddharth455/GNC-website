@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Master Program After Graduation | GNC</title>
+    <meta property="og:title" content="Master Program After Graduation | GNC" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Elevate your career with Job Oriented Master Programs at GNC Dehradun. Specialized postgraduate courses in Paramedical, Life Sciences, and Agriculture.">
     
@@ -171,7 +172,7 @@
             .standout-title { font-size: 28px; }
         }
     </style>
-  <link rel="canonical" href="https://gnc.edu.in/after-graduation">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

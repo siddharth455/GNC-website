@@ -6,18 +6,17 @@
     <title>Guru Nanak College | Best Diploma in Fashion | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College in Dehradun offers a Diploma in Fashion Designing program. This vibrant and comprehensive two-year program is tailored for...">
-    <link rel="canonical" href="https://gnc.edu.in/d-fashion-designing">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Diploma in Fashion Designing College in Dehradun, Uttarakhand - Guru Nanak College" />
+    <meta property="og:title" content="Guru Nanak College | Best Diploma in Fashion | GNC" />
     <meta property="og:description" content="Guru Nanak College in Dehradun offers a Diploma in Fashion Designing program. This vibrant and comprehensive two-year program is tailored for individuals passionate about the fashion industry." />
-    <meta property="og:url" content="https://gnc.edu.in/d-fashion-designing" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

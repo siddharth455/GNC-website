@@ -4,12 +4,13 @@
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Unfold Your Buddy With Career Buddy Club </title>
+    <meta property="og:title" content="Unfold Your Buddy With Career Buddy Club" />
   <meta name="description" content="Unfold your potential with the Career Buddy Club at Guru Nanak College Dehradun. Get career guidance, mentorship and placement support.">
 
     <link rel="stylesheet" type="text/css" href="css/csss.css/about.css">
     <link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.2/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.3/components/blogs/blog-3/assets/css/blog-3.css">
-  <link rel="canonical" href="https://gnc.edu.in/unfold-cbc">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

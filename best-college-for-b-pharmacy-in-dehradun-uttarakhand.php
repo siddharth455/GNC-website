@@ -6,12 +6,10 @@
     <title>Best B Pharma College in Dehradun | B.Pharm | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty and top placements.">
-    <link rel="canonical" href="https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Best B.Pharm College in Dehradun — Admission 2026"/>
+    <meta property="og:title" content="Best B Pharma College in Dehradun | B.Pharm | GNC"/>
     <meta property="og:description" content="Join Guru Nanak College, one of the best B Pharma colleges in Dehradun. PCI-approved B.Pharm program with modern labs, expert faculty and top placements." />
-    <meta property="og:url" content="https://gnc.edu.in/best-college-for-b-pharmacy-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -1182,46 +1180,7 @@
             }
         }
     </style>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is admission open for B.Pharm 2026?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, Bachelor of Pharmacy (B.Pharm) admission for the 2026 academic session is currently open. Candidates are encouraged to apply early to secure their preference in this specialized pharmaceutical program."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the eligibility for the B.Pharm program?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Candidates should have completed 10+2 with Physics and Chemistry as compulsory subjects along with Mathematics or Biology, with at least 45% marks (40% for SC/ST candidates) from a recognized board."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are laboratory practicals and internships included in the B.Pharm curriculum?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, practical training in our state-of-the-art labs and industrial internships are core parts of our B.Pharm program. Students gain hands-on experience in drug formulation, analysis, and clinical research."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What career roles can I expect after B.Pharm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Graduates can pursue roles such as Registered Pharmacist, Drug Inspector, Quality Control Associate, Clinical Research Coordinator, Production Manager in pharmaceutical industries, and Healthcare Consultant."
-          }
-        }
-      ]
-    }
-    </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
     <?php require("common/header.php"); ?>

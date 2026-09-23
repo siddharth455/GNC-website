@@ -5,12 +5,10 @@
     <title>Guru Nanak College | Best M.Sc Horticulture College | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best M.Sc Horticulture college in Dehradun, Uttarakhand at Guru Nanak College. State-of-the-art labs, expert faculty and innovative research.">
-    <link rel="canonical" href="https://gnc.edu.in/msc-horticulture">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best M.Sc Horticulture College in Dehradun, Uttarakhand - Guru Nanak College" />
+    <meta property="og:title" content="Guru Nanak College | Best M.Sc Horticulture College | GNC" />
     <meta property="og:description" content="Best M.Sc Horticulture college in Dehradun, Uttarakhand at Guru Nanak College. State-of-the-art labs, expert faculty and innovative research." />
-    <meta property="og:url" content="https://gnc.edu.in/msc-horticulture" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
@@ -276,46 +274,6 @@
 
     </style>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is M.Sc. Horticulture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "M.Sc. Horticulture is a postgraduate program focused on the science of plant cultivation, including fruits, vegetables, flowers, and ornamental plants. It covers topics like plant breeding, soil management, and landscape design."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is eligible for this course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates with a Bachelor's degree in Agriculture, Horticulture, Forestry, or a related field from a recognized university are eligible to apply."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the career prospects after M.Sc. Horticulture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates can work as horticulturists, landscape designers, agricultural consultants, research scientists, or in government departments, nurseries, and food processing industries."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does Guru Nanak College offer practical training in Horticulture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the college provides extensive practical training through modern greenhouses, botanical gardens, and well-equipped laboratories, ensuring hands-on experience for students."
-      }
-    }
-  ]
-}
-</script>
 
 <script type="application/ld+json">
 {
@@ -336,6 +294,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 <?php require("common/header.php"); ?>

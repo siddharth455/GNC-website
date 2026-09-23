@@ -5,12 +5,10 @@
     <title>Guru Nanak College | Best B.Sc Forestry College in | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College, the top college for B.Sc. Forestry in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and...">
-    <link rel="canonical" href="https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best B.Sc Forestry College in Dehradun, Uttarakhand - Guru Nanak College" />
+    <meta property="og:title" content="Guru Nanak College | Best B.Sc Forestry College in | GNC" />
     <meta property="og:description" content="Guru Nanak College, the top college for B.Sc. Forestry in Dehradun, Uttarakhand. Renowned for its comprehensive curriculum, expert faculty, and dedication to sustainable forestry practices, Guru Nanak College prepares students for leadership roles in environmental stewardship." />
-    <meta property="og:url" content="https://gnc.edu.in/best-bsc-forestry-colleges-in-dehradun"/>
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh"/>
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp"/>
@@ -338,54 +336,6 @@
 
     </style>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a Forestry course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is a program that teaches silviculture, forest management, wildlife conservation, and sustainable resource management."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is eligible for this course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students who have completed 10+2 with Physics, Chemistry, and Biology/Maths/Agriculture from a recognized board can apply."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What career options are available after completion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates can work in the Indian Forest Service (IFS), state forest departments, wildlife organizations, NGOs, and the timber industry."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is forestry a good career option?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with increasing focus on climate change and conservation, there is a high demand for forestry professionals globally."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the average salary after this course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Entry-level salaries start around ₹3–6 LPA and increase with experience and specialization in government or private sectors."
-      }
-    }
-  ]
-}
-</script>
 
 <script type="application/ld+json">
 {
@@ -406,6 +356,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 <?php require("common/header.php"); ?>
@@ -421,7 +372,7 @@
                 <h1>Bachelor of <br>Science in Forestry<br> at Guru Nanak College</h1>
                 <div class="mt-4 d-flex gap-2">
                    <a href="https://application.gnc.edu.in/" target="_blank"> <button class="btn px-4 py-2 fw-bold text-white" style="background: var(--gnc-orange);">APPLY NOW</button></a>
-                    <a href="#" target="_blank" id="printButton1" target="_blank">
+                    <a href="upload/gnc-brochure.pdf" target="_blank" id="printButton1">
                         <button class="btn px-4 py-2 fw-bold text-white" style="background: var(--gnc-blue);">Download Brochure</button>
                     </a>
                 </div>

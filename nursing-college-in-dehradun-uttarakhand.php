@@ -7,20 +7,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College is a top nursing college in Dehradun offering INC & USNC-approved B.Sc Nursing, GNM & Post Basic B.Sc Nursing. 100% placement. Apply 2026." />
     <meta name="keywords" content="Best Nursing College in Dehradun, Nursing College in Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand" />
 
     <!-- Open Graph (WhatsApp, Facebook, LinkedIn previews) -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Nursing College in Dehradun | Guru Nanak College" />
+    <meta property="og:title" content="Best Nursing College in Dehradun, Uttarakhand | GNC" />
     <meta property="og:description" content="Guru Nanak College is a top nursing college in Dehradun offering INC & USNC-approved B.Sc Nursing, GNM & Post Basic B.Sc Nursing. 100% placement. Apply 2026." />
-    <meta property="og:url" content="https://gnc.edu.in/nursing-college-in-dehradun-uttarakhand" />
     <meta property="og:image" content="https://gnc.edu.in/upload/Bachelor-of-Science-in-Nursing.webp" />
     <meta property="og:site_name" content="Guru Nanak College, Dehradun" />
     <meta property="og:locale" content="en_IN" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Best Nursing College in Dehradun | Guru Nanak College" />
+    <meta name="twitter:title" content="Best Nursing College in Dehradun, Uttarakhand | GNC" />
     <meta name="twitter:description" content="INC approved B.Sc Nursing, GNM & Post Basic Nursing in Dehradun. NAAC accredited. 100% placement. Apply now for 2026." />
     <meta name="twitter:image" content="https://gnc.edu.in/upload/Bachelor-of-Science-in-Nursing.webp" />
     <link rel="stylesheet" href="css/programs.css" />
@@ -29,38 +27,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the fee for B.Sc Nursing at GNC Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Annual tuition for B.Sc Nursing at Guru Nanak College is ₹ 2,00,000 for the 2026–27 session. The 4-year total cost including hostel is approximately ₹ 65,000. Contact 7300900900 for the full fee breakdown."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is GNC Dehradun nursing approved by INC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. B.Sc Nursing, GNM, and Post Basic Nursing at GNC are approved by the Indian Nursing Council (INC) and Uttarakhand State Nursing Council (USNC), and affiliated with HNBGU."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the eligibility for B.Sc Nursing admission 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates need 10+2 with PCB and English, minimum 45% marks, and must be at least 17 years old as per INC norms."
-      }
-    }
-  ]
-}
-</script> 
 
     <script type="application/ld+json">
         {
@@ -613,6 +579,7 @@
         }
     </script>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

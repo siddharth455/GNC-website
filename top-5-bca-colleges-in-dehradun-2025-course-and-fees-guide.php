@@ -4,6 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Top 5 BCA Colleges in Dehradun in 2025 – Courses, | GNC</title>
+    <meta property="og:title" content="Top 5 BCA Colleges in Dehradun in 2025 – Courses, | GNC" />
   <meta name="description" content="Top 5 BCA Colleges in Dehradun in 2025: Doon University, Guru Nanak College, Graphic Era University, DIT University, UPES — courses, fees, eligibility,..." />
   <link rel="icon" type="image/webp" href="images/logog.webp">
 
@@ -57,7 +58,7 @@
   @media (max-width:800px){ .post-grid{grid-template-columns:1fr} .banner{height:180px} .post-card{padding:18px} }
   @media (max-width:480px){ .site-wrap{padding:12px} .banner{height:140px} .post-card{padding:14px} .suggested img{width:72px;height:52px} .post-body{font-size:1rem} }
   </style>
-  <link rel="canonical" href="https://gnc.edu.in/top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 <?php
@@ -254,7 +255,7 @@
       <aside>
         <div class="suggested" aria-labelledby="you-may-like">
           <h3 id="you-may-like">You May Also Like</h3>
-           <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
+           <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>

@@ -6,18 +6,17 @@
     <title>Guru Nanak College Dehradun, Uttarakhand | Corporate | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College in Dehradun has established strong partnerships with various corporate entities to enhance the educational and professional...">
-    <link rel="canonical" href="https://gnc.edu.in/corporate-partners">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Guru Nanak College Dehradun, Uttarakhand | Corporate | GNC" />
     <meta property="og:description" content="Guru Nanak College in Dehradun has established strong partnerships with various corporate entities to enhance the educational and professional development of its students. These partnerships provide students with valuable opportunities for internships, placements, and industry exposure." />
-    <meta property="og:url" content="https://gnc.edu.in/corporate-partners" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="383" />
     <meta property="og:image:height" content="256" />
     <meta property="og:image:type" content="image/webp" />
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

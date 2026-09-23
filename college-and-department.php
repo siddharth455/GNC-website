@@ -6,18 +6,17 @@
     <title>Guru Nanak College Dehradun, Uttarakhand | College | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Guru Nanak College in Dehradun, Uttarakhand, is a premier institution offering a diverse range of programs aimed at equipping students with practical...">
-    <link rel="canonical" href="https://gnc.edu.in/college-and-department">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="College and Departments - Guru Nanak College Dehradun, Uttarakhand" />
+    <meta property="og:title" content="Guru Nanak College Dehradun, Uttarakhand | College | GNC" />
     <meta property="og:description" content="Guru Nanak College in Dehradun, Uttarakhand, is a premier institution offering a diverse range of programs aimed at equipping students with practical skills and theoretical knowledge to excel in their chosen fields. The college is dedicated to providing an environment that fosters learning, innovation, and personal development." />
-    <meta property="og:url" content="https://gnc.edu.in/college-and-department" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

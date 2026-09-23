@@ -8,12 +8,10 @@
     <meta name="description" content="Best Life Sciences college in Dehradun, Uttarakhand. Guru Nanak College offers B.Sc & M.Sc in Microbiology, Biotech, Food Tech, Physics & Chemistry.">
     <meta name="keywords" content="Best Life Sciences College in Dehradun, 
 Microbiology College Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best College for Life and Allied Sciences in Dehradun, Uttarakhand" />
+    <meta property="og:title" content="Guru Nanak College - Best Life Sciences College in Dehradun, Uttarakhand" />
     <meta property="og:description" content="Best Life Sciences college in Dehradun, Uttarakhand. Guru Nanak College offers B.Sc & M.Sc in Microbiology, Biotech, Food Tech, Physics & Chemistry." />
-    <meta property="og:url" content="https://gnc.edu.in/top-college-for-life-and-allied-sciences-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
@@ -25,46 +23,6 @@ Microbiology College Uttarakhand" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "1. What makes the School of Life & Allied Sciences unique?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The School of Life & Allied Sciences at Guru Nanak College integrates life sciences, cutting-edge technology, and research-driven learning. Students benefit from modern laboratory facilities, an expert faculty body, and a curriculum designed to bridge the gap between academia and industrial application."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2. Are the programs affiliated and recognized?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, all undergraduate and postgraduate programs offered under the School of Life & Allied Sciences are officially affiliated with Hemwati Nandan Bahuguna Garhwal University (HNBGU) and approved by the relevant regulatory and scientific authorities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3. What are the research opportunities available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Research is a cornerstone of our school. Students have opportunities to engage in practical research projects, industrial internships, and collaborative scientific ventures within our modern laboratories and in partnership with external biotech and pharmaceutical industries."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4. Does the college offer placement assistance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. GNC provides dedicated placement assistance to all its graduates. Our students secure rewarding roles in clinical laboratories, research and development (R&D) sectors, pharmaceutical giants, and prestigious academic institutions."
-      }
-    }
-  ]
-}
-</script> 
 
     <script type="application/ld+json">
         {
@@ -763,6 +721,7 @@ Microbiology College Uttarakhand" />
         }
     </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

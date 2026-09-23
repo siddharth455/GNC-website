@@ -4,6 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>BCA Admissions 2025 Open at Guru Nanak College, | GNC</title>
+    <meta property="og:title" content="BCA Admissions 2025 Open at Guru Nanak College, | GNC" />
   <meta name="description" content="BCA Admissions 2025 open at Guru Nanak College Dehradun — program details, why choose BCA, benefits and admission process." />
   <link rel="icon" href="images/logog.webp">
 
@@ -65,7 +66,7 @@
   .suggest-card .sc-meta { color:var(--muted); font-size:0.88rem; }
   @media (min-width:992px){ aside .suggested { position:sticky; top:110px; } }
   </style>
-  <link rel="canonical" href="https://gnc.edu.in/bca-admissions-2025-open-at-guru-nanak-college-dehradun-build-your-future-in-it-and-software">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 <?php require "common/header.php"; ?>
@@ -186,7 +187,7 @@
     <aside>
       <div class="suggested" aria-labelledby="you-may-like">
         <h3 id="you-may-like">You May Also Like</h3>
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
+          <a class="suggest-card" href="best-college-for-bca-in-dehradun-uttarakhand">
             <img class="sc-image" src="upload/blog/2.webp" alt="Designing Modern Static Blog Pages" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
@@ -201,7 +202,7 @@
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
           </a>
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/5.webp" alt="BMLT at GNC" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>

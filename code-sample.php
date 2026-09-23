@@ -5,12 +5,10 @@
     <title>Top Master of Public Health College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Master of Public Health (MPH) at Guru Nanak College, Dehradun. Comprehensive curriculum, expert faculty & cutting-edge research opportunities.">
-    <link rel="canonical" href="https://gnc.edu.in/master-of-public-health">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical, Nursing, Pharmacy, Vocational, Health Science, Life & Allied Sciences, Agriculture Science, Management & Technology College in Dehradun, Uttarakhand, India - GNC Dehradun" />
+    <meta property="og:title" content="Top Master of Public Health College in Dehradun | GNC" />
     <meta property="og:description" content="Master of Public Health (MPH) at Guru Nanak College, Dehradun. Comprehensive curriculum, expert faculty & cutting-edge research opportunities." />
-    <meta property="og:url" content="https://gnc.edu.in/master-of-public-health" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
@@ -1122,6 +1120,7 @@ h1,h2,h3,h4 { font-family: 'Playfair Display', serif; }
 }
 }
 </style>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

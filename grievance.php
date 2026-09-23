@@ -1,15 +1,17 @@
-<?php require "common/header.php" ?>
-<?php require "common/header.php" ?>
  <!DOCTYPE html>
  <html lang="en">
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grievance || Guru Nanak College Dehradun</title>
+    <meta property="og:title" content="Grievance || Guru Nanak College Dehradun" />
   <meta name="description" content="Submit and track grievances at Guru Nanak College Dehradun. We are committed to addressing student, staff and stakeholder concerns promptly.">
 
-    <link rel="canonical" href="https://gnc.edu.in/grievance">
- </head>
+     <?php require_once __DIR__ . '/common/head.php'; ?>
+</head>
+
+<body>
+<?php require "common/header.php"; ?>
 <style>
     .nav-pills {
         background-color: #cfd3d9;
@@ -122,4 +124,6 @@
     </div>
 </div>
     <?php require "common/footer.php" ?>
- </html>
+</body>
+
+</html>

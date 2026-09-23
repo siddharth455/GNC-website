@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Job Oriented Professional Programs After 12th | GNC Dehradun</title>
+    <meta property="og:title" content="Job Oriented Professional Programs After 12th | GNC Dehradun" />
   <meta name="description" content="Explore job-oriented professional programs after 12th at Guru Nanak College Dehradun. Choose from Nursing, Pharmacy, BCA, BBA, Agriculture and more.">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -307,7 +308,7 @@
             .standout-title { font-size: 28px; }
         }
     </style>
-  <link rel="canonical" href="https://gnc.edu.in/after-12">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

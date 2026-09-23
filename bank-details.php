@@ -1,13 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bank Details | Guru Nanak College - Connecting Past and Present Achievements</title>
-    <link rel="canonical" href="https://gnc.edu.in/bank-details">
+    <meta property="og:title" content="Bank Details | Guru Nanak College - Connecting Past and Present Achievements" />
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
-<?php
-    require "common/header.php";
-?>
+
+<body>
+<?php require "common/header.php"; ?>
 
   <div class="container-payment mb-3 ">
     <h1>Bank Account Details</h1>
@@ -144,3 +148,8 @@ thead {
   }
 }
 </style>
+
+<?php require "common/footer.php"; ?>
+</body>
+
+</html>

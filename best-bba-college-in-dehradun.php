@@ -5,13 +5,11 @@
     <title>Best BBA College in Dehradun, Uttarakhand | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study BBA at Guru Nanak College Dehradun with an industry-focused curriculum, experienced faculty & placement support. Admissions 2026 open. Apply now.">
-    <link rel="canonical" href="https://gnc.edu.in/best-bba-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta name="keywords" content="BBA college in Dehradun, best BBA college in Dehradun, BBA admission Dehradun, BBA course Dehradun, BBA fees Dehradun"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Best BBA College in Dehradun, Uttarakhand | GNC" />
     <meta property="og:description" content="Study BBA at Guru Nanak College Dehradun with an industry-focused curriculum, experienced faculty & placement support. Admissions 2026 open. Apply now." />
-    <meta property="og:url" content="https://gnc.edu.in/best-bba-college-in-dehradun" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -25,54 +23,6 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="new-assets/css/all-styles.css">
-     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the duration of the BBA course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The BBA program is a 3-year undergraduate course divided into six semesters, designed to provide a strong foundation in business management."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the eligibility for BBA admission?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students must have completed 10+2 from any recognized board (CBSE, ICSE, or State Board) with the minimum required marks as per university norms."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the college provide placement support?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Guru Nanak College provides dedicated placement training, including soft skills development, mock interviews, and direct connections with top industrial recruiters."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are internships included in the BBA program?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Internships are a core part of the curriculum, ensuring students gain real-world business experience and industry exposure before graduating."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What career options are available after BBA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates can explore diverse roles in Marketing, HR, Finance, and Operations, or choose to pursue higher studies like an MBA or PGDM."
-      }
-    }
-  ]
-}
-</script>
 
     <script type="application/ld+json">
     {
@@ -394,6 +344,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 <?php require("common/header.php"); ?>

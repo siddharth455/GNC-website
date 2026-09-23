@@ -5,43 +5,12 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Best Hotel Management Colleges in Dehradun 2026 | | GNC</title>
+    <meta property="og:title" content="Best Hotel Management Colleges in Dehradun 2026 | | GNC" />
   <meta name="description"
     content="Discover the best hotel management colleges in Dehradun in 2026. Compare fees, eligibility, placements, and courses at top HM colleges including Guru..." />
   <meta name="keywords" content="best hm colleges in dehradun, top hotel management colleges in dehradun, hotel management course in dehradun, diploma in hotel management dehradun" />
   <link rel="icon" type="image/webp" href="images/logog.webp">
  
-  <script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "Which is the best hotel management college in Dehradun?",
-   "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "Guru Nanak College is considered one of the best hotel management colleges in Dehradun due to its affordable fees, practical training, and strong placement support."
-   }
-  },
-  {
-   "@type": "Question",
-   "name": "What is the eligibility for hotel management courses in Dehradun?",
-   "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "Students must pass 10+2. Some institutes like IHM Dehradun require clearing the NCHM JEE entrance exam."
-   }
-  },
-  {
-   "@type": "Question",
-   "name": "What is the average fee for HM colleges in Dehradun?",
-   "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "The average fee ranges between ₹60,000 and ₹1.5 lakhs per year."
-   }
-  }
- ]
-}
-</script>
 
   
 
@@ -382,7 +351,7 @@
       background-color: #fafbfc;
     }
   </style>
-  <link rel="canonical" href="https://gnc.edu.in/best-hotel-management-colleges-in-dehradun-2026">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -759,7 +728,7 @@
         <div class="suggested" aria-labelledby="you-may-like">
           <h3 id="you-may-like">You May Also Like</h3>
 
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide">
+          <a class="suggest-card" href="best-college-for-bca-in-dehradun-uttarakhand">
             <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
@@ -774,7 +743,7 @@
             <div class="sc-title">Top 5 Nursing Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-27</div>
           </a>
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025 | Course and Fees Guide</div>
             <div class="sc-meta">GNC Dehradun• 2025-06-21</div>

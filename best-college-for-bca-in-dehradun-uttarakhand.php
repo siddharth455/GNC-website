@@ -6,13 +6,11 @@
     <title>Best BCA College in Dehradun — Admission 2026</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Do BCA at Guru Nanak College Dehradun — industry-aligned curriculum, modern computer labs & strong placements. Admissions 2026 open. Apply online now.">
-    <link rel="canonical" href="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords" content="bca college in dehradun 2026 · BCA Admission in Dehradun 2026 · BCA college Admission in Dehradun 2026 · top 5 bca colleges in dehradun" />
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Top BCA college in Dehradun – BCA Admission 2026 | Guru Nanak ." />
+    <meta property="og:title" content="Best BCA College in Dehradun — Admission 2026" />
     <meta property="og:description" content="Do BCA at Guru Nanak College Dehradun — industry-aligned curriculum, modern computer labs & strong placements. Admissions 2026 open. Apply online now." />
-    <meta property="og:url" content="https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -22,38 +20,6 @@
     <link href="new-assets/css/all-styles.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     <meta name="theme-color" content="#ffffff">
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Which is the best BCA college in Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College is one of the top BCA colleges in Dehradun offering industry-focused IT education and placement support."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is eligibility for BCA admission?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students must have passed 10+2 from a recognized board with minimum required marks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the duration of BCA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The BCA program duration is three years."
-      }
-    }
-  ]
-}
-</script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -74,66 +40,6 @@
         "name": "BCA",
         "item": "https://gnc.edu.in/best-college-for-bca-in-dehradun-uttarakhand"
       }]
-    }
-    </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "CollegeOrUniversity",
-      "name": "Guru Nanak College",
-      "url": "https://gnc.edu.in",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Dehradun",
-        "addressRegion": "Uttarakhand",
-        "addressCountry": "IN"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.7",
-        "reviewCount": "120"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Soni Rautan"
-          },
-          "reviewBody": "The college focuses on overall development including confidence, skills, and character building.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Rishikesh Kumar"
-          },
-          "reviewBody": "The supportive environment and approachable teachers make learning enjoyable and stress-free.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Shamsad Aalam"
-          },
-          "reviewBody": "Life at GNC is transformative from academics to personal growth.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5"
-          }
-        }
-      ]
     }
     </script>
 
@@ -159,6 +65,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <!-- Body Section: Main content of the page -->
@@ -438,7 +345,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4">
                     <div class="course-logo text-end" data-aos="fade-left" data-aos-duration="500">
-                        <img src="assets/imgs-new/gnc-logo.png" alt="Guru Nanak College" width="232" height="auto">
+                        <img src="images/logo.webp" alt="Guru Nanak College" width="232" height="auto">
                     </div>
                 </div>
             </div>

@@ -7,12 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study B.Sc Agriculture, Forestry, M.Sc Agronomy & Horticulture at Guru Nanak College Dehradun. Expert faculty, modern farms & placements. Admissions 2026." />
     <meta name="keywords" content="Best Agriculture College in Dehradun, Agriculture College in Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/best-bsc-agriculture-college-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Guru Nanak College | Best Agriculture College in Dehradun, Uttarakhand" />
+    <meta property="og:title" content="Best B.Sc Agriculture College in Dehradun | GNC" />
     <meta property="og:description" content="Study B.Sc Agriculture, Forestry, M.Sc Agronomy & Horticulture at Guru Nanak College Dehradun. Expert faculty, modern farms & placements. Admissions 2026." />
-    <meta property="og:url" content="https://gnc.edu.in/best-bsc-agriculture-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -25,54 +23,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "1. Why choose Guru Nanak College for Agriculture studies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "GNC provides quality agricultural education with modern labs, research farms, and expert faculty focused on practical and sustainable learning."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2. What are the eligibility criteria for B.Sc Agriculture and Forestry?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates must have passed 10+2 with PCB/PCM or Agriculture subjects and scored at least 45% marks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3. What are the career opportunities after M.Sc Agronomy or M.Sc Horticulture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Postgraduates can work as Agronomists, Researchers, Agricultural Consultants, or pursue Ph.D. programs and government roles in agriculture departments."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4. Does the college provide field and research exposure?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, students participate in field visits, live projects, and farm-based practical training to gain real-world agricultural experience."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "5. How can I apply for admission?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students can apply online through www.gnc.edu.in and upload all necessary academic documents for admission consideration."
-      }
-    }
-  ]
-}
-</script>
 
     <script type="application/ld+json">
         {
@@ -503,6 +453,7 @@
         }
     </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

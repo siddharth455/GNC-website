@@ -6,18 +6,17 @@
     <title>Guru Nanak College Dehradun, Uttarakhand | Industrial Visit</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Industrial visits and practical exposure at Guru Nanak College Dehradun, Uttarakhand. Building industry-ready professionals through hands-on experience.">
-    <link rel="canonical" href="https://gnc.edu.in/industrial-visit">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Industrial Visit - Guru Nanak College Dehradun, Uttarakhand" />
+    <meta property="og:title" content="Guru Nanak College Dehradun, Uttarakhand | Industrial Visit" />
     <meta property="og:description" content="Industrial visits and practical exposure at Guru Nanak College Dehradun, Uttarakhand. Building industry-ready professionals through hands-on experience." />
-    <meta property="og:url" content="https://gnc.edu.in/industrial-visit" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/upload/about-us-head.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/webp" />
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Guru Nanak College Dehradun, Uttarakhand | Industrial Visit</h1>

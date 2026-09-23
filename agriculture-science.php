@@ -5,12 +5,10 @@
     <title>B.Sc. Agriculture at Guru Nanak College Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Cultivate a deep understanding of agriculture with the B.Sc. Agriculture program at Guru Nanak College, Dehradun, for a thriving career in agronomy.">
-    <link rel="canonical" href="https://gnc.edu.in/agriculture-science">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="B.Sc. Agriculture at Guru Nanak College Dehradun - Best Agriculture College in Uttarakhand"/>
+    <meta property="og:title" content="B.Sc. Agriculture at Guru Nanak College Dehradun | GNC"/>
     <meta property="og:description" content="Cultivate a deep understanding of agriculture with the B.Sc. Agriculture program at Guru Nanak College, Dehradun, for a thriving career in agronomy." />
-    <meta property="og:url" content="https://gnc.edu.in/agriculture-science" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -337,54 +335,6 @@
 
     </style>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an Agriculture course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is a program that teaches farming techniques, crop production, soil management, and modern agricultural practices."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is eligible for this course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students who have completed 10th or 12th, preferably with a science background, can apply depending on the course level."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What career options are available after completion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Graduates can work in government jobs, agribusiness, research, farm management, or start their own ventures."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is agriculture a good career option?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, it offers growing opportunities in sustainable farming, agri-tech, and business sectors."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the average salary after this course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Entry-level salaries start around ₹2–5 LPA and increase with experience and specialization."
-      }
-    }
-  ]
-}
-</script>
 
 <script type="application/ld+json">
 {
@@ -405,6 +355,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 <body>
 <?php require("common/header.php"); ?>

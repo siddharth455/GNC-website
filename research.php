@@ -1,14 +1,17 @@
- <?php require "common/header.php" ?>
  <!DOCTYPE html>
  <html lang="en">
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Paper || Guru Nanak College Dehradun</title>
+    <meta property="og:title" content="Research Paper || Guru Nanak College Dehradun" />
   <meta name="description" content="Explore research publications and projects at Guru Nanak College Dehradun. Over 100 research papers published by our faculty and students.">
 
-   <link rel="canonical" href="https://gnc.edu.in/research">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
+
+<body>
+<?php require "common/header.php"; ?>
  
 <section class="pageBanner-inner">
         <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Research Publications - Guru Nanak College Dehradun</h1>
@@ -602,4 +605,6 @@
 </section>
 
 <?php require "common/footer.php" ?>
+</body>
+
 </html>

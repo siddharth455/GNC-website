@@ -4,10 +4,10 @@
   </div>
 
   <div class="stats-row">
-    <div class="stat" data-val="100"><span>0+</span><p>Research Publications</p></div>
-    <div class="stat" data-val="250"><span>0+</span><p>Book Chapters</p></div>
-    <div class="stat" data-val="15"><span>0+</span><p>Research Projects</p></div>
-    <div class="stat" data-val="600000"><span>0+</span><p>Industry Funded</p></div>
+    <div class="stat" data-val="100"><span>100+</span><p>Research Publications</p></div>
+    <div class="stat" data-val="250"><span>250+</span><p>Book Chapters</p></div>
+    <div class="stat" data-val="15"><span>15+</span><p>Research Projects</p></div>
+    <div class="stat" data-val="600000"><span>6,00,000+</span><p>Industry Funded</p></div>
   </div>
 
   <div class="labs-slider">
@@ -280,7 +280,7 @@ let observer = new IntersectionObserver((entries) => {
             clearInterval(run);
             start = end;
           }
-          span.innerHTML = Math.floor(start) + '+';
+          span.innerHTML = Math.floor(start).toLocaleString('en-IN') + '+';
         }, 16);
       });
     }
@@ -294,7 +294,10 @@ let observer = new IntersectionObserver((entries) => {
       hasAnimated = false;
 
       stats.forEach(s => {
-        s.querySelector('span').innerHTML = '0+';
+        // Restore the real figure rather than "0+", so the number printed in
+        // the HTML is what stays on screen (and what crawlers read).
+        const end = +s.dataset.val;
+        s.querySelector('span').innerHTML = end.toLocaleString('en-IN') + '+';
       });
     }
 

@@ -6,12 +6,10 @@
     <title>Guru Nanak College | Best Master of Physiotherapy | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Looking for the best MPT college in Dehradun, Uttarakhand? Guru Nanak College offers top-ranked Master of Physiotherapy programs with expert faculty,...">
-    <link rel="canonical" href="https://gnc.edu.in/best-mpt-master-of-physiotherapy-college">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best MPT College in Dehradun, Uttarakhand, India – Guru Nanak College (GNC Dehradun)"/>
+    <meta property="og:title" content="Guru Nanak College | Best Master of Physiotherapy | GNC"/>
     <meta property="og:description" content="Looking for the best MPT college in Dehradun, Uttarakhand? Guru Nanak College offers expert faculty, clinical training, and a modern MPT curriculum to prepare you for a successful career in physiotherapy."/>
-    <meta property="og:url" content="https://gnc.edu.in/best-mpt-master-of-physiotherapy-college " />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -496,6 +494,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

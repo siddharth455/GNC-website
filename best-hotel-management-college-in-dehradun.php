@@ -7,12 +7,10 @@
     <meta name="description" content="Guru Nanak College offers Diploma in Hotel Management in Dehradun with industry training, modern kitchens & placement support. Admissions 2026 open." />
     <meta name="keywords" content="Best Hotel Management College in Dehradun, DHM 
 College in Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/best-hotel-management-college-in-dehradun">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Guru Nanak College | Best Hotel Management College in Dehradun" />
+    <meta property="og:title" content="Best Hotel Management College in Dehradun | GNC" />
     <meta property="og:description" content="Guru Nanak College offers Diploma in Hotel Management in Dehradun with industry training, modern kitchens & placement support. Admissions 2026 open." />
-    <meta property="og:url" content="https://gnc.edu.in/best-hotel-management-college-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -25,54 +23,6 @@ College in Uttarakhand" />
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
     
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "1. Why choose Guru Nanak College for Hotel Management?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College offers practical-based learning, expert faculty, and exposure to top hospitality brands, ensuring career-ready graduates."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2. What is the eligibility for the Diploma in Hotel Management?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates must have completed 10+2 in any stream with at least 45% marks from a recognized board."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3. Does the college provide internship opportunities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, students undergo internships in reputed hotels and hospitality establishments as part of their course curriculum."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4. Are placement services available after completing the diploma?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the college offers dedicated placement assistance with leading hospitality groups across India and abroad."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "5. What facilities are available for Hotel Management students?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Facilities include training kitchens, bakery, restaurant setup, front office labs, and housekeeping mock rooms for hands-on learning."
-      }
-    }
-  ]
-}
-</script> 
 
     <script type="application/ld+json">
         {
@@ -415,6 +365,7 @@ College in Uttarakhand" />
         }
     </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

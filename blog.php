@@ -340,9 +340,10 @@ if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Blogs & Activities</title>
+    <meta property="og:title" content="Blogs &amp; Activities" />
   <meta name="description" content="A static blog index built with HTML, CSS, PHP and vanilla JS.">
-  <link rel="canonical" href="https://gnc.edu.in/blog">
   <link rel="icon" type="image/webp" href="images/logog.webp">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -381,7 +382,7 @@ if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
       ?>
       <article class="hero-card" aria-labelledby="hero-title">
         <?php if (!empty($featured['image'])): ?>
-          <img src="<?= htmlspecialchars($featured['image']) ?>" alt="" class="hero-image" />
+          <img src="<?= htmlspecialchars($featured['image']) ?>" alt="<?= htmlspecialchars($featured['title']) ?>" class="hero-image" />
         <?php endif; ?>
         <div class="hero-body">
           <p class="kicker">Featured</p>
@@ -428,7 +429,7 @@ if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
             data-tags="<?= htmlspecialchars(implode(',', $post['tags'])) ?>">
             <?php if (!empty($post['image'])): ?>
               <a class="thumb" href="<?= urlencode($post['url']) ?>.php">
-                <img src="<?= htmlspecialchars($post['image']) ?>" alt="" />
+                <img src="<?= htmlspecialchars($post['image']) ?>" alt="<?= htmlspecialchars($post['title']) ?>" />
               </a>
             <?php endif; ?>
             <div class="post-body">
@@ -464,7 +465,6 @@ if (basename(__FILE__) === basename($_SERVER['SCRIPT_FILENAME'])): ?>
   require "common/footer.php";
   ?>
 
-  <script src="scripts.js" defer></script>
 </body>
 
 </html>

@@ -7,12 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Study paramedical courses at Guru Nanak College Dehradun — BMLT, BMRIT, BPT, Optometry & OT Technology with modern labs & 100% placement. Apply 2026." />
     <meta name="keywords" content="Best Paramedical College in Dehradun, Paramedical College in Uttarakhand" />
-    <link rel="canonical" href="https://gnc.edu.in/paramedical-college-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Paramedical College in Dehradun 2026 — GNC" />
+    <meta property="og:title" content="Best Paramedical College in Dehradun, Uttarakhand | GNC" />
     <meta property="og:description" content="Study paramedical courses at Guru Nanak College Dehradun — BMLT, BMRIT, BPT, Optometry & OT Technology with modern labs & 100% placement. Apply 2026." />
-    <meta property="og:url" content="https://gnc.edu.in/paramedical-college-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -28,54 +26,6 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "1. Which is the best paramedical college in Dehradun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guru Nanak College is one of the best paramedical colleges in Dehradun offering practical training, modern labs, and placement support."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2. What are paramedical courses after 12th?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students can pursue BMLT, BPT, Radiology, OTT, and Optometry after completing 12th with PCB."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3. What is the duration of paramedical courses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most paramedical programs are 3 to 4 years long, including internships."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4. Does Guru Nanak College provide clinical training?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the college provides hands-on clinical training through hospital internships and laboratory sessions."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "5. What are career options after paramedical courses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Students can work in hospitals, diagnostic labs, clinics, and healthcare organizations."
-      }
-    }
-  ]
-}
-</script> 
 
     <script type="application/ld+json">
         {
@@ -908,6 +858,7 @@
         }
     </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

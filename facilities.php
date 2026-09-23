@@ -38,7 +38,7 @@
 </style>
 
 <section class="infraSection-slider position-relative">
-    <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">World-Class Facilities at Guru Nanak College Dehradun</h1>
+    <h2 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">World-Class Facilities at Guru Nanak College Dehradun</h2>
 <div class="infraSection-slider__heading">
         <div class="container">
             <div class="infraSection-slider__heading--content main-heading">

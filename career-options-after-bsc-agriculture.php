@@ -13,21 +13,19 @@ content="What can you do after B.Sc Agriculture? Explore career options, salary 
 <meta name="keywords"
 content="career after B.Sc Agriculture, agriculture college Dehradun, B.Sc Agriculture Dehradun, M.Sc Agronomy, M.Sc Horticulture, B.Sc Forestry"/>
 
-<link rel="canonical" href="https://gnc.edu.in/career-options-after-bsc-agriculture" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="Top Career Options After B.Sc Agriculture — Salary, Scope & Opportunities 2026" />
+<meta property="og:title" content="Top Career Options After B.Sc Agriculture — Salary, Scope &amp; Opportunities 2026 | GNC" />
 <meta property="og:description" content="What can you do after B.Sc Agriculture? Explore career options, salary scope, and higher study paths for agriculture graduates from Guru Nanak College." />
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/career-after-bsc-agriculture.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/career-options-after-bsc-agriculture" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Top Career Options After B.Sc Agriculture — Salary, Scope & Opportunities 2026" />
+<meta name="twitter:title" content="Top Career Options After B.Sc Agriculture — Salary, Scope &amp; Opportunities 2026 | GNC" />
 <meta name="twitter:description" content="What can you do after B.Sc Agriculture? Explore career options, salary scope, and higher study paths for agriculture graduates from Guru Nanak College." />
 <meta name="twitter:image" content="https://gnc.edu.in/upload/blog/career-after-bsc-agriculture.webp" />
 
@@ -91,38 +89,6 @@ content="career after B.Sc Agriculture, agriculture college Dehradun, B.Sc Agric
 </script>
 
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What jobs can I get after B.Sc Agriculture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "B.Sc Agriculture graduates can work in government agriculture departments, ICAR research institutes, agribusiness companies, banks (as agriculture officers), and can also pursue higher studies or entrepreneurship in agri-tech."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is M.Sc Agriculture available at Guru Nanak College?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Guru Nanak College offers M.Sc Agronomy and M.Sc Horticulture as postgraduate specializations for B.Sc Agriculture graduates."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the scope of B.Sc Forestry at Guru Nanak College?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "B.Sc Forestry graduates from Guru Nanak College can work in forest departments, environmental conservation organizations, and wildlife management roles."
-      }
-    }
-  ]
-}
-</script>
 
 <style>
    :root {
@@ -504,6 +470,7 @@ content="career after B.Sc Agriculture, agriculture college Dehradun, B.Sc Agric
   }
   </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

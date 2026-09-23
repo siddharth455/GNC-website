@@ -6,12 +6,10 @@
     <title>Best M.Sc Food Technology College in Dehradun | GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best M.Sc Food Technology college in Dehradun, Uttarakhand. Groundbreaking curriculum, advanced labs and top placements at Guru Nanak College.">
-    <link rel="canonical" href="https://gnc.edu.in/msc-food-tech-colleges-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best M.Sc Food Technology College in Dehradun, Uttarakhand - Guru Nanak College" />
+    <meta property="og:title" content="Best M.Sc Food Technology College in Dehradun | GNC" />
     <meta property="og:description" content="Best M.Sc Food Technology college in Dehradun, Uttarakhand. Groundbreaking curriculum, advanced labs and top placements at Guru Nanak College." />
-    <meta property="og:url" content="https://gnc.edu.in/msc-food-tech-colleges-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -1189,6 +1187,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -1802,9 +1801,6 @@
     <!-- </main> -->
 
 
-   <script src="new-assets/js/jquery-3.7.1.min.js"></script>
-    <script src="latest-assets/js/bootstrap.bundle.min.js" defer></script>
-    <script src="latest-assets/js/plugins.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
     <script>

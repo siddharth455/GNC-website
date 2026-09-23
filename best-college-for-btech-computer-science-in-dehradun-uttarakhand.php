@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Apply for B.Tech Computer Science Engineering Admission 2026 at Guru Nanak College Dehradun. AI, Data Science, placements and career support">
-    <link rel="canonical" href="https://gnc.edu.in/best-college-for-btech-computer-science-in-dehradun-uttarakhand">
     <meta property="og:locale" content="en_US" />
     <meta name="keywords"
         content="B.Tech CSE Admission 2026, B.Tech Computer Science Engineering Dehradun, Best BTech College in Dehradun, B.Tech CSE Guru Nanak College, engineering placements Dehradun" />
@@ -15,7 +14,6 @@
     <meta property="og:title" content="B.Tech CSE Admission 2026 in Dehradun | Guru Nanak College" />
     <meta property="og:description"
         content="Apply for B.Tech Computer Science Engineering Admission 2026 at Guru Nanak College Dehradun. AI, Data Science, placements and career support" />
-    <meta property="og:url"content="https://gnc.edu.in/best-college-for-btech-computer-science-in-dehradun-uttarakhand" />
     <meta property="og:site_name" content="Guru Nanak College,Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -562,46 +560,6 @@
         }
     </style>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is admission open for 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, B.Tech CSE admission for the 2026 academic session is currently open. Candidates are encouraged to apply early to secure their preference."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the program approved?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the program strictly follows AICTE norms and university guidelines, ensuring a high standard of technical education."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are internships included in the program?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, students receive multiple internship and live project opportunities to gain hands-on experience before graduation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the placement opportunities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our students receive full placement support, including specialized training in aptitude, coding skills, and direct industry exposure through recruitment drives."
-      }
-    }
-  ]
-}
-</script>
 
 <script type="application/ld+json">
 {
@@ -622,6 +580,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

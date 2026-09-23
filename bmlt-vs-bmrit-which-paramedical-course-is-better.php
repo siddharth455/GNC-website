@@ -13,21 +13,19 @@ content="Confused between BMLT and BMRIT? Compare duration, fees, career scope, 
 <meta name="keywords"
 content="BMLT vs BMRIT, best paramedical course Dehradun, BMLT Dehradun, BMRIT Dehradun, medical laboratory technology course, medical imaging technology course"/>
 
-<link rel="canonical" href="https://gnc.edu.in/bmlt-vs-bmrit-which-paramedical-course-is-better" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="BMLT vs BMRIT — Which Paramedical Course is Better in 2026?" />
+<meta property="og:title" content="BMLT vs BMRIT — Which Paramedical Course is Better in 2026? | GNC" />
 <meta property="og:description" content="Confused between BMLT and BMRIT? Compare duration, fees, career scope, and salary to choose the right paramedical course at Guru Nanak College, Dehradun." />
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/bmlt-vs-bmrit.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/bmlt-vs-bmrit-which-paramedical-course-is-better" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="BMLT vs BMRIT — Which Paramedical Course is Better in 2026?" />
+<meta name="twitter:title" content="BMLT vs BMRIT — Which Paramedical Course is Better in 2026? | GNC" />
 <meta name="twitter:description" content="Confused between BMLT and BMRIT? Compare duration, fees, career scope, and salary to choose the right paramedical course at Guru Nanak College, Dehradun." />
 <meta name="twitter:image" content="https://gnc.edu.in/upload/blog/bmlt-vs-bmrit.webp" />
 
@@ -91,38 +89,6 @@ content="BMLT vs BMRIT, best paramedical course Dehradun, BMLT Dehradun, BMRIT D
 </script>
 
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Which is better, BMLT or BMRIT?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both are excellent paramedical careers. BMLT suits students who enjoy lab-based diagnostic work, while BMRIT suits those interested in medical imaging technology and patient interaction. The 'better' choice depends on personal interest."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the duration of BMLT and BMRIT?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both BMLT and BMRIT are 4-year undergraduate programs at Guru Nanak College, Dehradun."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the eligibility for BMLT and BMRIT?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Biology (PCB) with minimum 45% marks."
-      }
-    }
-  ]
-}
-</script>
 
 <style>
    :root {
@@ -504,6 +470,7 @@ content="BMLT vs BMRIT, best paramedical course Dehradun, BMLT Dehradun, BMRIT D
   }
   </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

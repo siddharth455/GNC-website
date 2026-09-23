@@ -6,10 +6,11 @@
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guru Nanak College Dehradun, Uttarakhand | Lab | GNC</title>
+    <meta property="og:title" content="Guru Nanak College Dehradun, Uttarakhand | Lab | GNC" />
   <meta name="description" content="Explore state-of-the-art laboratory facilities at Guru Nanak College Dehradun for Pharmacy, Nursing, Paramedical, Agriculture and Science programs.">
 
     <meta description="Guru Nanak College in Dehradun is equipped with state-of-the-art laboratory infrastructure designed to support hands-on learning and cutting-edge research. The college is committed to fostering a culture of innovation and excellence, empowering students and faculty to explore, discover, and drive scientific advancements.">
-  <link rel="canonical" href="https://gnc.edu.in/lab">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

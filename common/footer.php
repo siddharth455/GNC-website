@@ -616,3 +616,10 @@ document.getElementById('gnc-chat-btn').addEventListener('click', function () {
         }, 5000);
     });
 </script>
+<?php
+// Release the buffered page and print the FAQPage JSON-LD built from the FAQ
+// accordion above, so the schema always matches the visible questions.
+if (function_exists('gnc_faq_buffer_end')) {
+    gnc_faq_buffer_end();
+}
+?>

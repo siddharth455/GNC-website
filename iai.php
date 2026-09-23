@@ -4,8 +4,9 @@
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
     <title>Guru Nanak College | Industrial - Academic Collaboration</title>
+    <meta property="og:title" content="Guru Nanak College | Industrial - Academic Collaboration" />
     <meta name="description" content="Guru Nanak College's commitment to bridging academia and industry through innovative collaborations that enhance learning and career opportunities.">
-  <link rel="canonical" href="https://gnc.edu.in/iai">
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

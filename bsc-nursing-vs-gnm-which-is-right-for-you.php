@@ -13,21 +13,19 @@ content="B.Sc Nursing or GNM — compare duration, fees, salary, and career grow
 <meta name="keywords"
 content="B.Sc Nursing vs GNM Dehradun, nursing college Uttarakhand, B.Sc Nursing Dehradun, GNM Dehradun, Post Basic B.Sc Nursing"/>
 
-<link rel="canonical" href="https://gnc.edu.in/bsc-nursing-vs-gnm-which-is-right-for-you" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="B.Sc Nursing vs GNM — Which Nursing Course is Right for You?" />
+<meta property="og:title" content="B.Sc Nursing vs GNM — Which Nursing Course is Right for You? | GNC" />
 <meta property="og:description" content="B.Sc Nursing or GNM — compare duration, fees, salary, and career growth to choose the right nursing course at Guru Nanak College, Dehradun." />
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/gnm-vs-nursing.webp" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/bsc-nursing-vs-gnm-which-is-right-for-you" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="B.Sc Nursing vs GNM — Which Nursing Course is Right for You?" />
+<meta name="twitter:title" content="B.Sc Nursing vs GNM — Which Nursing Course is Right for You? | GNC" />
 <meta name="twitter:description" content="B.Sc Nursing or GNM — compare duration, fees, salary, and career growth to choose the right nursing course at Guru Nanak College, Dehradun." />
 <meta name="twitter:image" content="https://gnc.edu.in/upload/blog/gnm-vs-nursing.webp" />
 
@@ -91,38 +89,6 @@ content="B.Sc Nursing vs GNM Dehradun, nursing college Uttarakhand, B.Sc Nursing
 </script>
 
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is B.Sc Nursing better than GNM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "B.Sc Nursing offers a degree with broader long-term career growth and eligibility for postgraduate study, while GNM is shorter and gets you into the workforce faster. The right choice depends on your career timeline and goals."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I do Post Basic B.Sc Nursing after GNM at Guru Nanak College?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Guru Nanak College offers Post Basic B.Sc. Nursing, a bridge program for GNM diploma holders to upgrade to a bachelor's degree in nursing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the eligibility for B.Sc Nursing at Guru Nanak College?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates must have passed 10+2 with Physics, Chemistry, and Biology (PCB) with minimum 45% marks for B.Sc Nursing admission at Guru Nanak College."
-      }
-    }
-  ]
-}
-</script>
 
 <style>
    :root {
@@ -504,6 +470,7 @@ content="B.Sc Nursing vs GNM Dehradun, nursing college Uttarakhand, B.Sc Nursing
   }
   </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

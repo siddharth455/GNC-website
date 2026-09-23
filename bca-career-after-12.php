@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 
 <title>Why BCA is One of the Best Career Options After 12th | GNC</title>
+    <meta property="og:title" content="Why BCA is One of the Best Career Options After 12th | GNC" />
 
 <meta name="description"
 content="Discover why Bachelor of Computer Applications (BCA) is a top career choice after 12th, including eligibility, skills, job roles, and future..." />
@@ -380,38 +381,8 @@ content="BCA career options after 12th, why choose BCA, BCA job roles, BCA salar
   }
   </style>
 
-  <link rel="canonical" href="https://gnc.edu.in/bca-career-after-12">
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [{ 
-    "@type": "Question", 
-    "name": "Is BCA a good career option after 12th?", 
-    "acceptedAnswer": { 
-      "@type": "Answer", 
-      "text": "Yes, BCA is one of the best career options after 12th for students interested in computer programming, software development, and IT careers." 
-    } 
-  }, 
-  { 
-    "@type": "Question", 
-    "name": "What jobs can I get after BCA?", 
-    "acceptedAnswer": { 
-      "@type": "Answer", 
-      "text": "After BCA, students can work as software developers, web developers, system analysts, database administrators, and IT support professionals." 
-    } 
-  }, 
-  { 
-    "@type": "Question", 
-    "name": "What is the average salary after BCA?", 
-    "acceptedAnswer": { 
-      "@type": "Answer", 
-      "text": "The average starting salary after BCA ranges between ₹3 LPA to ₹6 LPA depending on skills, certifications, and company requirements." 
-    } 
-  }] 
- } 
-</script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -592,12 +563,12 @@ loading="lazy" width="auto" height="auto">
 
 
 <div class="post-nav">
-<a href="bba-vs-bcom-after-12.php" class="btn-ghost">← Previous</a>
+<a href="bba-vs-bcom-after-12" class="btn-ghost">← Previous</a>
 <a href="#" class="btn-ghost">Next →</a>
 </div>
 
 <div style="text-align:center;margin-top:18px">
-<a href="blog.php" class="btn-ghost">← Back to All Posts</a>
+<a href="blog" class="btn-ghost">← Back to All Posts</a>
 </div>
 
 </main>
@@ -606,7 +577,7 @@ loading="lazy" width="auto" height="auto">
       <aside>
         <div class="suggested">
           <h3>You May Also Like</h3>
-          <a class="suggest-card" href="bba-vs-bcom-after-12.php">
+          <a class="suggest-card" href="bba-vs-bcom-after-12">
             <img class="sc-image" src="upload/blog/bba-vs-bcom.webp" alt="BBA vs BCom" width="auto" height="auto">
             <div class="sc-title">BBA vs BCom: Which Course is Better After 12th?</div>
             <div class="sc-meta">GNC Dehradun • 2026-03-09</div>
@@ -616,12 +587,12 @@ loading="lazy" width="auto" height="auto">
             <div class="sc-title">Best Hotel Management Colleges in Dehradun 2026</div>
             <div class="sc-meta">GNC Dehradun • 2026-02-16</div>
           </a>
-          <a class="suggest-card" href="top-5-bca-colleges-in-dehradun-2025-course-and-fees-guide.php">
+          <a class="suggest-card" href="best-college-for-bca-in-dehradun-uttarakhand">
             <img class="sc-image" src="upload/blog/2.webp" alt="Top 5 BCA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BCA Colleges in Dehradun 2025 Guide</div>
             <div class="sc-meta">GNC Dehradun • 2025-07-21</div>
           </a>
-          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2025-gnc-guide.php">
+          <a class="suggest-card" href="top-5-bba-colleges-in-dehradun-2026">
             <img class="sc-image" src="upload/blog/5.webp" alt="Top 5 BBA Colleges" width="auto" height="auto">
             <div class="sc-title">Top 5 BBA Colleges in Dehradun 2025</div>
             <div class="sc-meta">GNC Dehradun • 2025-06-21</div>
@@ -632,6 +603,16 @@ loading="lazy" width="auto" height="auto">
 </div>
 
 
+
+<section class="gnc-faq-section">
+  <h2 id="faqs">Frequently Asked Questions</h2>
+  <h3>Is BCA a good career option after 12th?</h3>
+  <p>Yes, BCA is one of the best career options after 12th for students interested in computer programming, software development, and IT careers.</p>
+  <h3>What jobs can I get after BCA?</h3>
+  <p>After BCA, students can work as software developers, web developers, system analysts, database administrators, and IT support professionals.</p>
+  <h3>What is the average salary after BCA?</h3>
+  <p>The average starting salary after BCA ranges between ₹3 LPA to ₹6 LPA depending on skills, certifications, and company requirements.</p>
+</section>
 <?php require "common/footer.php"; ?>
 
 </body>

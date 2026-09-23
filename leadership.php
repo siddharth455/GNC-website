@@ -6,14 +6,11 @@
     <title>GNC – Leadership | Best Mentors – Shaping Future</title>
     <meta name="description" content="GNC Leadership offers unparalleled mentorship to shape the leaders of tomorrow.
 fostering visionary guidance and academic excellence">
-    <link rel="canonical" href="https://gnc.edu.in/leadership">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="GNC Leadership offers unparalleled mentorship to shape the leaders of tomorrow.
-fostering visionary guidance and academic excellence" />
+    <meta property="og:title" content="GNC – Leadership | Best Mentors – Shaping Future" />
     <meta property="og:description" content="GNC Leadership offers unparalleled mentorship to shape the leaders of tomorrow.
 fostering visionary guidance and academic excellence" />
-    <meta property="og:url" content="https://www.gnc.edu.in/leadership" />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://www.gnc.edu.in/upload/about-us-head.webp" />
@@ -58,6 +55,7 @@ fostering visionary guidance and academic excellence" />
     <?php
     require "common/header.php";
     ?>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

@@ -13,21 +13,19 @@ content="D.Pharma or B.Pharma — which pharmacy course should you choose? Compa
 <meta name="keywords"
 content="D.Pharma vs B.Pharma, pharmacy college Dehradun, D.Pharma Dehradun, B.Pharma Dehradun, diploma in pharmacy, bachelor of pharmacy"/>
 
-<link rel="canonical" href="https://gnc.edu.in/d-pharma-vs-b-pharma-complete-guide" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="D.Pharma vs B.Pharma — Complete Guide for 2026 Admissions" />
+<meta property="og:title" content="D.Pharma vs B.Pharma — Complete Guide for 2026 Admissions | GNC" />
 <meta property="og:description" content="D.Pharma or B.Pharma — which pharmacy course should you choose? Compare duration, career scope, and salary potential at Guru Nanak College, Dehradun." />
 <meta property="og:image" content="https://gnc.edu.in/upload/blog/d-pharma-vs-b-pharma.jpg" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://gnc.edu.in/d-pharma-vs-b-pharma-complete-guide" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Guru Nanak College Dehradun" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="D.Pharma vs B.Pharma — Complete Guide for 2026 Admissions" />
+<meta name="twitter:title" content="D.Pharma vs B.Pharma — Complete Guide for 2026 Admissions | GNC" />
 <meta name="twitter:description" content="D.Pharma or B.Pharma — which pharmacy course should you choose? Compare duration, career scope, and salary potential at Guru Nanak College, Dehradun." />
 <meta name="twitter:image" content="https://gnc.edu.in/upload/blog/d-pharma-vs-b-pharma.jpg" />
 
@@ -91,38 +89,6 @@ content="D.Pharma vs B.Pharma, pharmacy college Dehradun, D.Pharma Dehradun, B.P
 </script>
 
 <!-- FAQ SCHEMA -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I do D.Pharma or B.Pharma first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you want to start working quickly, D.Pharma (2 years) is faster. If you want broader career options and higher growth potential, B.Pharma (4 years) is the better long-term choice."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can D.Pharma students upgrade to B.Pharma later?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Guru Nanak College offers Lateral Entry in B.Pharma for D.Pharma holders, allowing direct admission to the second year of the B.Pharma program."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is D.Pharma or B.Pharma approved by PCI at Guru Nanak College?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both D.Pharma and B.Pharma programs at Guru Nanak College are approved by the Pharmacy Council of India (PCI)."
-      }
-    }
-  ]
-}
-</script>
 
 <style>
    :root {
@@ -504,6 +470,7 @@ content="D.Pharma vs B.Pharma, pharmacy college Dehradun, D.Pharma Dehradun, B.P
   }
   </style>
 
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>

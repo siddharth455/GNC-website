@@ -6,12 +6,10 @@
     <title>Best BMRIT College in Dehradun | Medical Radiology at GNC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced...">
-    <link rel="canonical" href="https://gnc.edu.in/best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Best BMRIT College in Dehradun, Uttarakhand - Guru Nanak College" />
+    <meta property="og:title" content="Best BMRIT College in Dehradun | Medical Radiology at GNC" />
     <meta property="og:description" content="Discover the top Bachelor of Medical Radiology & Imaging Technology (BMRIT) program at GNC College in Dehradun, Uttarakhand. Offering advanced curriculum, hands-on training, and expert faculty, GNC prepares students for successful careers in radiology and medical imaging."/>
-    <meta property="og:url" content="https://gnc.edu.in/best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun" />
     <meta property="og:site_name" content="GNC Dehradun"/>
     <meta property="article:publisher" content="https://www.facebook.com/gncmh" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
@@ -81,6 +79,7 @@
   }
 }
 </script>
+    <?php require_once __DIR__ . '/common/head.php'; ?>
 </head>
 
 <body>
@@ -119,14 +118,6 @@
             </div>
         </div>
     </section>
-    <!DOCTYPE html>
-    <html lang="en">
-
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Physiotherapy Excellence | CU</title>
-
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -364,9 +355,6 @@
     }
 }
         </style>
-    </head>
-
-    <body>
 
         <section class="hero-section">
             <div class="container">
@@ -1029,9 +1017,6 @@
             revealOnScroll(); // Run once on load
         </script>
 
-    </body>
-
-    </html>
     <?php require "common/footer.php"; ?>
     <style>
        /* Color Palette: Blue: #0f9af1 | Orange: #fb7b1c */
@@ -1246,3 +1231,6 @@
             color: #fb7b1c !important;
         }
     </style>
+</body>
+
+</html>

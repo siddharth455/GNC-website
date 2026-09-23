@@ -1,4 +1,3 @@
-    <body>
 
         <div class="container testimonial-section">
             <h2 class="section-title">Our Students Speak</h2>
