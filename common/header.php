@@ -146,6 +146,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <li><a href="best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">Bachelor of Medical Radio Diagnosis And Imaging Technology</a></li>
                   <li><a href="best-bmlt-college-in-dehradun">Bachelor of Medical Laboratory Technology</a></li>
                   <li><a href="best-bpt-college-in-dehradun-uttarakhand">Bachelor of Physiotherapy</a></li>
+                  <li><a href="bpt-global">BPT (Global Track)</a></li>
                   <li><a href="best-bsc-optometry-college-in-dehradun">Bachelor of Optometry</a></li>
                   <li><a href="best-operation-theatre-technology-colleges-in-dehradun">Bachelor of Operation Theatre Technology</a></li>
                   <li><a href="masters-in-lab-technician">Master of Medical Laboratory Technology</a></li>
@@ -168,9 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
                 <h4><a href="nursing-college-in-dehradun-uttarakhand" style="color: #0f9af1 !important;">Nursing Program</a></h4>
                 <ul>
-                  <li><a href="best-b-sc-nursing-colleges-in-dehradun">B.Sc. Nursing</a></li>
-                  <li><a href="best-gnm-college-in-dehradun">General Nursing and Midwifery</a></li>
-                  <li><a href="post-basic-nursing">Post Basic B.Sc. Nursing</a></li>
+                  <li><a href="best-dhm-colleges-in-dehradun">Diploma in Hotel Management</a></li>
                 </ul>
               </div>
               <!-- Column 3 -->
@@ -214,7 +213,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="dropdown-column">
                 <h4><a href="best-hotel-management-college-in-dehradun" style="color: #0f9af1 !important;">Hotel Management</a></h4>
                 <ul>
-                  <li><a href="best-dhm-colleges-in-dehradun">Diploma in Hotel Management</a></li>
+                  <li><a href="best-b-sc-nursing-colleges-in-dehradun">B.Sc. Nursing</a></li>
+                  <li><a href="nursing-global">B.Sc. Nursing (Global Track)</a></li>
+                  <li><a href="best-gnm-college-in-dehradun">GNM</a></li>
+                  <li><a href="gnm-global">GNM (Global Track)</a></li>
+                  <li><a href="post-basic-nursing">Post Basic B.Sc. Nursing</a></li>
                 </ul>
                
                 <!-- Right Section -->
@@ -688,6 +691,7 @@ document.addEventListener("DOMContentLoaded", function () {
               <li><a href="best-bmrit-bachelor-in-medical-radio-imagingtechnology-college-in-dehradun">B.Sc. Medical Radio Diagnosis & Imaging Technology</a></li>
               <li><a href="best-bmlt-college-in-dehradun">B.Sc. Medical Laboratory Technology</a></li>
               <li><a href="best-bpt-college-in-dehradun-uttarakhand">Bachelor of Physiotherapy</a></li>
+              <li><a href="bpt-global">BPT (Global Track)</a></li>
               <li><a href="best-bsc-optometry-college-in-dehradun">Bachelor of Optometry</a></li>
               <li><a href="best-operation-theatre-technology-colleges-in-dehradun">Bachelor of Operation Theatre Technology</a></li>
               <li><a href="masters-in-lab-technician">M.Sc. Medical Laboratory Technology</a></li>
@@ -717,7 +721,9 @@ document.addEventListener("DOMContentLoaded", function () {
             <a href="nursing-college-in-dehradun-uttarakhand">Nursing Programs <i class="fa-solid fa-chevron-down arrow-icon"></i></a>
             <ul class="mobile-sub-dropdown">
               <li><a href="best-b-sc-nursing-colleges-in-dehradun">B.Sc. Nursing</a></li>
+              <li><a href="nursing-global">B.Sc. Nursing (Global Track)</a></li>
               <li><a href="best-gnm-college-in-dehradun">General Nursing & Midwifery</a></li>
+              <li><a href="gnm-global">GNM (Global Track)</a></li>
               <li><a href="post-basic-nursing">Post Basic B.Sc. Nursing</a></li>
             </ul>
           </li>

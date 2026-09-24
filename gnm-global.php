@@ -3,14 +3,14 @@
 
 <head>
     <link rel="icon" type="image/webp" href="images/logog.webp">
-    <title>Global Learning Track | International Healthcare Exposure | Guru Nanak College Dehradun</title>
+    <title>GNM Global Track | General Nursing & Midwifery Global | Guru Nanak College Dehradun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Global Learning Track at Guru Nanak College Dehradun with Career Buddy College. International hospital exposure in Dubai, China, Singapore, Japan & Germany.">
+    <meta name="description" content="GNM Global Track at Guru Nanak College Dehradun, in partnership with Career Buddy College. Same recognized GNM diploma, plus international hospital exposure in Dubai, China, Singapore, Japan & Germany.">
     <!-- Open Graph Tags -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Global Learning Track | International Healthcare Exposure | Guru Nanak College Dehradun" />
-    <meta property="og:description" content="Global Learning Track at Guru Nanak College Dehradun with Career Buddy College. International hospital exposure in Dubai, China, Singapore, Japan & Germany." />
+    <meta property="og:title" content="GNM Global Track | General Nursing & Midwifery Global | Guru Nanak College Dehradun" />
+    <meta property="og:description" content="GNM Global Track at Guru Nanak College Dehradun, in partnership with Career Buddy College. Same recognized GNM diploma, plus international hospital exposure in Dubai, China, Singapore, Japan & Germany." />
     <meta property="og:site_name" content="GNC Dehradun" />
     <meta property="og:image" content="https://gnc.edu.in/images/gnc-og-banner.jpg">
 
@@ -1050,8 +1050,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <span class="gl-badge"><i class="fa-solid fa-earth-asia"></i> Admissions Open — 2026 Batch</span>
-                    <h1>Go Global With Your <span>Healthcare Career</span></h1>
-                    <p class="lead">Since 2009, Guru Nanak College has been building INC-recognized nurses, GNM practitioners and physiotherapists in Dehradun. The Global Learning Track — delivered with our industry partner Career Buddy College — adds structured international hospital exposure across Dubai, China and Singapore, plus a dedicated Japan/Germany career pathway, on top of your regular GNC degree.</p>
+                    <h1>Go Global With Your <span>GNM Career</span></h1>
+                    <p class="lead">Since 2009, Guru Nanak College has been building INC-recognized GNM practitioners in Dehradun. The GNM Global Track — delivered with our industry partner Career Buddy College — adds structured international hospital exposure across Dubai, China and Singapore, plus a dedicated Japan/Germany career pathway, on top of your regular GNC GNM diploma.</p>
                     <div class="gl-hero-ctas">
                         <a href="#gl-apply-form" class="gl-btn-gold">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
                         <a href="#gl-journey" class="gl-btn-outline">Explore the Journey</a>
@@ -1117,7 +1117,7 @@
                 <span class="gl-kicker">A Powerful Collaboration</span>
                 <h2 class="gl-heading">Bringing Together Two Trusted Names</h2>
                 <img src="upload/cbc-gnc-partnership.webp" alt="Career Buddy College x Guru Nanak College Dehradun partnership" loading="lazy" width="1098" height="551">
-                <p>Guru Nanak College, Jhajhra, Chakrata Road, Dehradun, has been shaping nursing, paramedical and healthcare professionals since 2009, with programs recognized by the Indian Nursing Council (INC), the Indian Association of Physiotherapists (IAP) and other regulatory bodies. Career Buddy College is our industry-facing partner for this track — bringing international hospital exposure, language training and global placement support. Together, they power the Global Learning Track for our Nursing, GNM and Physiotherapy students, without changing who awards your degree or runs your core curriculum.</p>
+                <p>Guru Nanak College, Jhajhra, Chakrata Road, Dehradun, has been shaping GNM and healthcare professionals since 2009, with programs recognized by the Indian Nursing Council (INC). Career Buddy College is our industry-facing partner for this track — bringing international hospital exposure, language training and global placement support. Together, they power the Global Learning Track for our GNM students, without changing who awards your diploma or runs your core curriculum. GNC's Global Learning Track also covers <a href="nursing-global">B.Sc Nursing</a> and <a href="bpt-global">Physiotherapy</a> — see the <a href="global-learning">full Global Learning overview</a>.</p>
                 <div class="gl-values-strip">
                     <span class="gl-value-chip">Human Dignity</span>
                     <span class="gl-value-chip">Empathy</span>
@@ -1132,16 +1132,16 @@
     <section class="gl-section-padding">
         <div class="container">
             <div class="text-center mx-auto mb-5 gl-reveal" style="max-width:700px;">
-                <span class="gl-kicker">Same GNC Degree, More Behind It</span>
+                <span class="gl-kicker">Same GNC GNM Diploma, More Behind It</span>
                 <h2 class="gl-heading">What The Global Track Actually Adds</h2>
-                <p class="gl-sub mx-auto">Every GNC nursing, GNM and physiotherapy student already gets INC-recognized training and access to our Career Development Cell, which brings 100+ recruiting companies to campus each year. The Global Learning Track sits on top of that — it doesn't replace your regular programme, it adds four years of structured international exposure to it. Here's the side-by-side.</p>
+                <p class="gl-sub mx-auto">Every GNC GNM student already gets INC-recognized training and access to our Career Development Cell, which brings 100+ recruiting companies to campus each year. The GNM Global Track sits on top of that — it doesn't replace your regular programme, it adds three years of structured international exposure to it. Here's the side-by-side.</p>
             </div>
             <div class="row g-4">
                 <div class="col-md-6">
                     <div class="gl-compare-card gl-pro gl-reveal-left">
-                        <h4><i class="fa-solid fa-globe me-2"></i>GNC Global Learning Track</h4>
+                        <h4><i class="fa-solid fa-globe me-2"></i>GNC GNM Global Track</h4>
                         <ul>
-                            <li><i class="fa-solid fa-circle-check"></i> The same INC-recognized GNC degree, with a guided international layer added on</li>
+                            <li><i class="fa-solid fa-circle-check"></i> The same INC-recognized GNC GNM diploma, with a guided international layer added on</li>
                             <li><i class="fa-solid fa-circle-check"></i> Faculty-accompanied hospital exposure in Dubai, China and Singapore, one country per year</li>
                             <li><i class="fa-solid fa-circle-check"></i> German and Japanese language classes built into your final-year timetable</li>
                             <li><i class="fa-solid fa-circle-check"></i> AR/VR clinical simulation modules added alongside your regular labs</li>
@@ -1151,7 +1151,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="gl-compare-card gl-con gl-reveal-right">
-                        <h4><i class="fa-solid fa-circle-minus me-2"></i>The Regular GNC Programme</h4>
+                        <h4><i class="fa-solid fa-circle-minus me-2"></i>The Regular GNC GNM Programme</h4>
                         <ul>
                             <li><i class="fa-solid fa-triangle-exclamation"></i> Same strong INC-recognized curriculum, no built-in foreign hospital exposure</li>
                             <li><i class="fa-solid fa-triangle-exclamation"></i> Clinical training stays within GNC's Dehradun-affiliated hospitals</li>
@@ -1170,8 +1170,8 @@
         <div class="container">
             <div class="text-center mx-auto mb-5 gl-reveal" style="max-width:700px;">
                 <span class="gl-kicker">Year-Wise Roadmap</span>
-                <h2 class="gl-heading">Your Global Learning Journey at GNC</h2>
-                <p class="gl-sub mx-auto">You remain a GNC student throughout — attending classes, clinicals and exams on our Dehradun campus every semester. What changes is that each year of your degree, we add a short, faculty-accompanied international exposure module, planned jointly by GNC's academic team and Career Buddy College. Here's how the four years actually break down.</p>
+                <h2 class="gl-heading">Your GNM Global Learning Journey at GNC</h2>
+                <p class="gl-sub mx-auto">You remain a GNC GNM student throughout — attending classes, clinicals and exams on our Dehradun campus every semester. What changes is that each year of your course, we add a short, faculty-accompanied international exposure module, planned jointly by GNC's academic team and Career Buddy College. Here's how it breaks down.</p>
             </div>
 
             <div class="row">
@@ -1300,38 +1300,13 @@ Unlike a study tour, this is long-term career development pathway that prepares 
     <section class="gl-section-padding">
         <div class="container">
             <div class="text-center mx-auto mb-5 gl-reveal" style="max-width:700px;">
-                <span class="gl-kicker">Featured Programs</span>
-                <h2 class="gl-heading">Choose Your Global Track</h2>
-                <p class="gl-sub mx-auto">INC-recognized, globally aligned undergraduate programs at GNC Dehradun, built to make you internationally job-ready from day one.</p>
+                <span class="gl-kicker">Featured Program</span>
+                <h2 class="gl-heading">Your GNM Global Track</h2>
+                <p class="gl-sub mx-auto">An INC-recognized, globally aligned GNM program at GNC Dehradun, built to make you internationally job-ready from day one.</p>
             </div>
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6">
+            <div class="row g-4 justify-content-center">
+                <div class="col-lg-5 col-md-8">
                     <div class="gl-prog-card gl-reveal-scale">
-                        <div class="gl-prog-top" style="background:var(--gl-grad-purple);">
-                            <span class="gl-prog-tag">4 Years · Full Time</span>
-                            <h5>B.Sc Nursing (Global Track)</h5>
-                        </div>
-                        <div class="gl-prog-body">
-                            <div class="gl-prog-fee">
-                                <span class="gl-fee-label">Indicative Fee</span>
-                                <span class="gl-fee-amount">₹ 18.50 Lakhs</span>
-                            </div>
-                             <div class="gl-prog-fee">
-                                <span class="gl-fee-label">Avg. Salary Package</span>
-                                <span class="gl-fee-amount">₹18 - 35 LPA</span>
-                            </div>
-                            <ul>
-                                <li><i class="fa-solid fa-check"></i> AI in healthcare practice exposure — China</li>
-                                <li><i class="fa-solid fa-check"></i> German language classes</li>
-                                <li><i class="fa-solid fa-check"></i> International clinical practice — Dubai & Singapore</li>
-                                <li><i class="fa-solid fa-check"></i> IELTS preparation classes</li>
-                            </ul>
-                            <a href="#gl-apply-form" class="gl-prog-btn">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="gl-prog-card gl-reveal-scale" style="transition-delay:.1s;">
                         <div class="gl-prog-top" style="background:var(--gl-grad-coral);">
                             <span class="gl-prog-tag">3 Years · Full Time</span>
                             <h5>GNM (Global Track)</h5>
@@ -1355,32 +1330,8 @@ Unlike a study tour, this is long-term career development pathway that prepares 
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="gl-prog-card gl-reveal-scale" style="transition-delay:.2s;">
-                        <div class="gl-prog-top" style="background:var(--gl-grad-green);">
-                            <span class="gl-prog-tag">4 Years · Full Time</span>
-                            <h5>Bachelor of Physiotherapy (Global Track)</h5>
-                        </div>
-                        <div class="gl-prog-body">
-                            <div class="gl-prog-fee">
-                                <span class="gl-fee-label">Indicative Fee</span>
-                                <span class="gl-fee-amount">₹ 12.50 Lakhs</span>
-                            </div>
-                            <div class="gl-prog-fee">
-                                <span class="gl-fee-label">Avg. Salary Package</span>
-                                <span class="gl-fee-amount">₹20 - 40 LPA</span>
-                            </div>
-                            <ul>
-                                <li><i class="fa-solid fa-check"></i> Dubai clinical exposure pathway</li>
-                                <li><i class="fa-solid fa-check"></i> China AI & smart rehabilitation exposure</li>
-                                <li><i class="fa-solid fa-check"></i> Japan / Germany career-track preparation</li>
-                                <li><i class="fa-solid fa-check"></i> German language training (A1–B2)</li>
-                            </ul>
-                            <a href="#gl-apply-form" class="gl-prog-btn">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
             </div>
+            <p class="text-center gl-sub mx-auto mt-4" style="max-width:640px;">Looking for a different program? Explore the <a href="nursing-global">B.Sc Nursing Global Track</a>, the <a href="bpt-global">Physiotherapy Global Track</a>, or the <a href="global-learning">full Global Learning overview</a>.</p>
         </div>
     </section>
 
@@ -1790,21 +1741,21 @@ Unlike a study tour, this is long-term career development pathway that prepares 
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#glFaq1">
-                                    What does the Global Learning Track actually include?
+                                    What does the GNM Global Track actually include?
                                 </button>
                             </h2>
                             <div id="glFaq1" class="accordion-collapse collapse show" data-bs-parent="#glFaqAccordion">
-                                <div class="accordion-body">It is a structured, year-wise international exposure pathway built into your regular GNC degree — covering hospital visits and clinical exposure in Dubai, China and Singapore, plus a dedicated language and placement-focused career track for Japan/Germany in the final year.</div>
+                                <div class="accordion-body">It is a structured, year-wise international exposure pathway built into your regular GNC GNM diploma — covering hospital visits and clinical exposure in Dubai, China and Singapore, plus a dedicated language and placement-focused career track for Japan/Germany in the final year.</div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#glFaq2">
-                                    Which programs offer the Global Track?
+                                    Is this the only program that offers the Global Track?
                                 </button>
                             </h2>
                             <div id="glFaq2" class="accordion-collapse collapse" data-bs-parent="#glFaqAccordion">
-                                <div class="accordion-body">B.Sc Nursing, GNM (General Nursing & Midwifery) and Bachelor of Physiotherapy at GNC currently offer the Global Learning Track as an add-on to the regular curriculum.</div>
+                                <div class="accordion-body">No. GNM (General Nursing & Midwifery), <a href="nursing-global">B.Sc Nursing</a> and <a href="bpt-global">Bachelor of Physiotherapy</a> at GNC all offer the Global Learning Track as an add-on to their regular curriculum. This page focuses on the GNM track.</div>
                             </div>
                         </div>
                         <div class="accordion-item">
@@ -1850,8 +1801,8 @@ Unlike a study tour, this is long-term career development pathway that prepares 
                 <div class="gl-cta-partner">
                     <img src="upload/cbc-gnc-partnership.webp" alt="Career Buddy College x Guru Nanak College Dehradun" loading="lazy" width="200" height="40">
                 </div>
-                <h3>Ready to Build a Global Healthcare Career?</h3>
-                <p>Limited seats available for the 2026 batch under the Global Learning Track, in partnership with Career Buddy College. Call our Admission Helpline at 7300900900 or apply online.</p>
+                <h3>Ready to Build a Global GNM Career?</h3>
+                <p>Limited seats available for the 2026 batch under the GNM Global Track, in partnership with Career Buddy College. Call our Admission Helpline at 7300900900 or apply online.</p>
                 <a href="#gl-apply-form" class="gl-btn-gold">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
             </div>
         </div>
